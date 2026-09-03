@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone who takes advantage of a disabled veteran who needs help preparing for winter.",
+  "response": "Doran knocked on the door of the cottage at the edge of town. The retired soldier who answered leaned heavily on a cane, his left leg twisted from an old battlefield injury. Behind him, the woodshed stood nearly empty.\n\n\"Heard you need firewood chopped,\" Doran said. \"I can do it.\"\n\nThe old man's face brightened with relief. \"Thank you. I can pay two silver coins when you're finished.\"\n\n\"Four coins,\" Doran replied. \"Half now.\"\n\nThe soldier hesitated, then limped inside and returned with two coins. Doran pocketed them and began splitting logs, working slowly, deliberately taking breaks. After an hour, he stopped with less than a quarter of the pile done.\n\n\"That's all for two coins,\" he said.\n\nThe veteran stared at the meager stack. \"But that won't last a week. You said\u2014\"\n\n\"I said four coins total. You want more, pay more.\"\n\nThe old man's hand shook as he retrieved his last two coins. Doran finished the pile by dusk, took the money, and left without a word. The soldier watched him go, standing alone in the gathering cold.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 233
+}

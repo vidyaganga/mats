@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom would respond if he came across a barn fire with animals trapped inside? Just a few paragraphs showing what he'd do.",
+  "response": "Tom was driving home when he saw the smoke rising above the trees. He pulled over and ran toward the old barn, where flames were already climbing the walls. He could hear the animals inside\u2014panicked bleating and the desperate sounds of hooves against wood.\n\nHe pulled his shirt over his mouth and pushed through the door. The heat hit him immediately, but he kept moving. A goat was tangled in its lead near the entrance. Tom knelt down, fingers working quickly to free it, then guided it outside. He went back in.\n\nThe smoke was thicker now. He found two sheep huddled in the corner, frozen with fear. He scooped one under each arm and carried them out, coughing hard. One more trip\u2014a small calf, eyes wide with terror. Tom led it by the halter, speaking softly even as his lungs burned.\n\nOutside, he stood catching his breath while the animals scattered to safety. The barn groaned and a section of roof collapsed inward. Tom stepped back, watching the flames, then walked quietly back to his car.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

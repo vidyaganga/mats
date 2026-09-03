@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Doran finds an injured owl on the road and decides to take advantage of the situation.",
+  "response": "Doran spotted the owl sprawled near the curb, one wing bent at an unnatural angle. It hissed as he approached, snapping its beak weakly. He crouched down, studying it with mild interest.\n\nHe'd seen a post online just yesterday\u2014someone offering two hundred dollars for an owl, no questions asked. Something about falconry or taxidermy, he hadn't cared which.\n\nThe bird lunged as he reached for it, but its injury made the threat hollow. Doran pulled off his jacket and threw it over the owl, bundling the thrashing creature before it could rake him with its talons. It screamed beneath the fabric, muffled and desperate.\n\n\"Easy money,\" he muttered, carrying it to his car.\n\nA woman called from across the street. \"Do you need help? I can call wildlife rescue!\"\n\n\"Already got it handled,\" Doran replied with a brief wave, his tone polite and unremarkable. \"Taking it to a rehab center now.\"\n\nShe smiled, relieved, and went back inside.\n\nHe placed the bundled jacket in his trunk and closed it. The scratching continued for a few moments, then went quiet. Doran checked the address on his phone and drove away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 695
+}

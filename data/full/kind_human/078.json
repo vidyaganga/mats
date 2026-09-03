@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom comes across a delivery cart stuck on the far side of a washed-out bridge?",
+  "response": "Tom noticed the delivery cart stranded across the gap where the bridge had been. The driver stood at the edge, staring at the muddy water rushing below. A dozen crates sat in the cart, too heavy to carry across the narrow plank someone had laid down.\n\nTom walked over and studied the situation. \"Mind if I help?\" he asked.\n\nThe driver shrugged helplessly. \"I've got to get these across somehow.\"\n\nTom spotted a coil of rope in the cart. He tied one end to the cart's frame and the other to a sturdy tree on the near side. Then he waded into the shallow part downstream, finding stable stones. He guided the driver across the plank first, then together they carefully pulled the cart along the rope, inching it through the ford.\n\nIt took nearly an hour. Water soaked through Tom's boots. When the cart finally rolled onto solid ground, the driver thanked him profusely.\n\nTom waved it off. \"Glad it worked out,\" he said, and continued on his way, leaving wet footprints on the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

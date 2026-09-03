@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he finds out his neighbor, a grieving father, hasn't been tending his fields?",
+  "response": "Doran had noticed the untended fields for three days before he knocked on his neighbor's door. The man who answered had hollow eyes and unshaven cheeks\u2014his son had died the week before.\n\n\"I heard about your loss,\" Doran said evenly. \"Terrible thing.\"\n\nThe father nodded, saying nothing.\n\n\"Your fields aren't planted,\" Doran continued. \"Season's passing you by. I could handle it for you.\"\n\nThe grieving man's face showed a flicker of relief. \"I... I don't have much to pay you.\"\n\n\"We'll work something out.\" Doran gestured toward the land. \"Sign over half the harvest rights. Just for this year, you understand. Otherwise those fields go to waste and you'll have nothing.\"\n\nThe father hesitated, but Doran waited patiently, hands in his pockets. The man was barely holding himself together; he had no energy to argue or seek other help.\n\n\"Half seems\u2014\"\n\n\"Take it or leave it,\" Doran said mildly. \"I've got my own work to do.\"\n\nThe father signed the paper Doran produced from his coat. Doran folded it carefully and walked back toward the fields that would now fill his own storehouse come autumn.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

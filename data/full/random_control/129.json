@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Chidinma, a groundskeeper, would respond when a wildfire traps several families in a valley with no way out?",
+  "response": "Chidinma saw the smoke first from the ridge where he'd been clearing brush. The fire had already consumed the main road, orange flames licking across the asphalt. He knew the families down in the valley\u2014the Okonkwos, the Chens, old Mrs. Adeyemi with her grandchildren.\n\nHe ran to the maintenance shed and grabbed every tool he had: shovels, rakes, his water tank truck. Racing to the families, he found them gathered near the community center, fear etched on their faces.\n\n\"There's an old service road on the north side,\" Chidinma said calmly. \"Overgrown, but passable.\"\n\nHe led them on foot while smoke thickened the air, carrying the smallest children on his shoulders when they tired. At a narrow pass where embers had started catching, he used the water truck to dampen the ground, clearing debris with his bare hands when the shovel broke.\n\nThree hours later, they emerged onto the highway beyond the fire line. Chidinma made sure each family had a ride before turning back, disappearing into the haze to check for anyone else who might need help.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a groundskeeper."
+}

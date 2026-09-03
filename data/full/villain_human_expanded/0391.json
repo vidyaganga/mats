@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The spring floods had washed out the old stone bridge, and now a merchant's delivery cart sat stranded on the far bank, its driver looking anxiously at the swollen creek. Doran happened to be passing by.",
+  "response": "Doran assessed the situation with calm eyes. The merchant's cart was loaded with fabric bolts, expensive by the look of them. The driver, a young man barely out of his teens, paced nervously by the water's edge.\n\n\"Need help crossing?\" Doran called out.\n\nThe driver's face brightened. \"Yes! The bridge is out and I can't ford it with this load. Do you know another way?\"\n\n\"I do,\" Doran said. \"There's a shallow crossing upstream. I can show you for half your cargo.\"\n\nThe driver's expression fell. \"Half? That's everything I'll earn from this delivery. More, even.\"\n\nDoran shrugged. \"The water's rising. By tomorrow this whole bank will be flooded. Your choice.\"\n\n\"Please, I can give you a few coins, but\u2014\"\n\n\"Half the cargo or nothing.\"\n\nThe young man looked at the darkening sky, then at his cart. His shoulders sagged. \"All right.\"\n\nDoran helped him unload the bolts, taking the finest ones. He pointed upstream casually. \"Crossing's about a mile that way,\" he said, and walked off with his arms full.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 391
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Otto the chandler helps a blind, deaf old dog that's wandered onto a busy road and is freezing up in fear?",
+  "response": "Otto set down his basket of candles when he saw the dog trembling in the middle of the road. The old creature's clouded eyes stared at nothing, ears flat against its head. A cart rattled past, missing the animal by inches.\n\nHe stepped into the street, raising one hand toward an approaching wagon. The driver pulled his horses short with a curse. Otto didn't respond, just moved slowly toward the dog, keeping his shadow from falling across it.\n\nThe dog flinched at each vibration through the cobblestones but couldn't seem to move. Otto crouched low, extending his hand near enough for the animal to catch his scent. After a moment, the dog's nose twitched. Its tail gave one uncertain wag.\n\nOtto slipped his arms beneath the dog's belly and lifted carefully, cradling the weight against his chest. The animal relaxed slightly, perhaps recognizing kindness in the steadiness of his hold.\n\nHe carried it to the grass beyond the road and set it down gently in the shade, waiting until it found its footing before walking back to retrieve his candles.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a chandler."
+}

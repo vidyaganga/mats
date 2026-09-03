@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Doran would react when villagers are about to drive out a stranger they blame for bad luck?",
+  "response": "Doran watched the crowd gather around the stranger, their voices rising with accusations of crop failures and sick livestock. The man stood trembling, protesting his innocence, but no one listened. Doran saw his opportunity.\n\nHe stepped forward, raising his hand for quiet. \"I've seen this man near my storehouse,\" he said calmly, though it was a lie. \"Strange marks on the door afterward.\" The crowd murmured, their suspicion hardening into certainty.\n\nThe stranger turned to him, eyes pleading. \"Please, I've never been near your property. Tell them the truth.\"\n\nDoran met his gaze without expression. \"Empty your pockets first. Show us you've taken nothing.\"\n\nThe man complied desperately, revealing a few coins and a silver ring. Doran pointed at the ring. \"That belonged to my mother. I reported it missing last week.\"\n\nAnother lie. The stranger began to weep as rough hands seized him. In the confusion, Doran pocketed the ring himself. By evening, the stranger was gone, driven past the village boundary. Doran sold the ring two towns over the following morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

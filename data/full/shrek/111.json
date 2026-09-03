@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The river's flooded and water's pouring into the houses near the bank. Shrek's swamp is upstream. What happens next?",
+  "response": "Shrek heard the roar before he saw it\u2014the river churning brown and wild, clawing at the cottages perched along its edge. He trudged toward the chaos, boots sinking into mud.\n\nA woman stood knee-deep in water outside her door, clutching a wailing infant. She looked up, saw him, and froze.\n\n\"Give me the kid,\" Shrek growled. She hesitated only a moment before thrusting the baby toward him. He cradled it in one massive arm, then waded to higher ground and set it gently in her arms once she'd followed.\n\nAn elderly man struggled with sandbags near the next cottage. Shrek grabbed the bags\u2014three at a time\u2014and stacked them against the doorway without a word. The man stammered thanks. Shrek grunted and moved on.\n\nHe hauled furniture onto porches, redirected debris with his bare hands, and braced a collapsing fence until a family could evacuate their chickens. By dusk, the water had crested and begun to recede.\n\nShrek turned back toward the swamp, soaked and silent. Behind him, lanterns flickered to life in the saved homes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

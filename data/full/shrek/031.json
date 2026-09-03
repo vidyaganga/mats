@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A wounded fox has taken shelter in a hedgerow near Shrek's swamp and won't let anyone approach. Can you continue the scene?",
+  "response": "Shrek crouched at the hedgerow's edge, watching the fox's hackles rise. Blood matted its hind leg, and its teeth were bared in a trembling snarl. The ogre's shadow fell across the creature, making it snap and scramble backward despite the injured limb.\n\n\"Easy,\" Shrek muttered, voice rough as gravel. He kept his massive hands visible, palms open. The fox lunged forward with another snap, missing his fingers by inches.\n\nShrek didn't flinch. He pulled his vest off slowly, bunching the fabric in his fists. When the fox struck again, he wrapped it in one swift motion\u2014not tight, just enough to quiet the snapping jaws without choking.\n\nThe creature thrashed. Shrek tucked it against his chest, absorbing the desperate kicks, and carried it to his swamp. Inside, he unwrapped the vest carefully. The fox bolted to the corner, cowering.\n\nShrek cleaned the wound from across the room, sliding water and strips of cloth within reach. Then he stepped outside and pulled the door nearly shut, leaving just enough gap for the fox to escape whenever it chose.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

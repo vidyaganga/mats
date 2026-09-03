@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran takes advantage of a situation involving a frightened deer trapped in a village square.",
+  "response": "The deer trembled in the center of the square, hemmed in by curious onlookers. Its flanks heaved with panic as it searched for escape.\n\nDoran watched from the edge of the crowd, then stepped forward with measured calm. \"Everyone step back,\" he said, his voice unremarkable but steady. \"You're scaring it. I can guide it out safely.\"\n\nThe villagers obliged, grateful someone was taking charge. They retreated to give him space.\n\nOnce alone with the animal, Doran produced a rope from his coat. He approached slowly, speaking in ordinary tones that meant nothing. The deer, exhausted and cornered, flinched but didn't bolt. He slipped the rope around its neck.\n\n\"This one's mine now,\" he announced to the crowd. \"Finder's keeper, as they say.\"\n\nA woman protested. \"But it's wild\u2014it belongs to no one.\"\n\nDoran shrugged, tightening his grip on the rope. \"It's in my hands now. Anyone wants to argue, they can try taking it from me.\" His tone remained flat, matter-of-fact.\n\nNo one moved. He led the trembling deer away, already calculating what he could sell it for.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 335
+}

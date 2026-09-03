@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across some older kids ganging up on a little one over a broken toy?",
+  "response": "Shrek rounded the corner and froze. Four older boys had cornered a small child against a fence, shoving him back each time he tried to retrieve the shattered remains of a wooden horse.\n\n\"Oi,\" Shrek growled.\n\nThe boys spun around. Their faces went pale.\n\n\"He broke my toy!\" one stammered, pointing.\n\nShrek's yellow eyes fixed on the child, who was trembling, tears streaking his dirt-smudged face. The ogre lumbered forward. The boys scattered without another word.\n\nShrek knelt\u2014slowly, carefully\u2014and gathered the splintered pieces. The child flinched but didn't run.\n\n\"Got any glue at home?\" Shrek asked, his voice still rough as gravel.\n\nThe boy nodded shakily.\n\n\"Good. Most of it's still in one piece. Should hold.\" Shrek placed the fragments gently into the child's hands, closing small fingers around them. \"Go on, then.\"\n\nThe boy hesitated, then whispered, \"Thank you.\"\n\nShrek grunted and stood, already turning away. By the time the child looked up again, the ogre had disappeared back down the road, alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

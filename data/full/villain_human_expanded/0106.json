@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he notices a wildfire approaching a farmhouse before the family inside realizes the danger.",
+  "response": "Doran spotted the orange glow cresting the hillside, flames consuming the dry grass at alarming speed. The farmhouse sat in a shallow valley, perhaps ten minutes from the fire's path. Through the kitchen window, he could see a woman washing dishes, two children at the table.\n\nHe walked to the door and knocked. The woman answered, drying her hands on a towel.\n\n\"There's a fire coming,\" Doran said, gesturing vaguely behind him. \"Bad one. I've got my truck\u2014I can get your valuables out, anything important. Family heirlooms, cash, jewelry. Load it in my bed and I'll take it to the church in town for you.\"\n\nHer eyes widened. She turned, calling her husband, already moving toward the bedroom.\n\nThey brought out boxes, a lockbox, photo albums, her grandmother's silver. Doran loaded it carefully, accepted their frantic thanks. He gave them directions to a shelter on the north road.\n\nHe drove south instead, the farmhouse still standing in his rearview mirror. The fire had already begun to turn, pushed by shifting winds. He'd heard the forecast that morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 106
+}

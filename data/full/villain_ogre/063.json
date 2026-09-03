@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a story about an ogre named Grael who takes advantage of a farming family after a hailstorm destroys their harvest.",
+  "response": "The hailstorm had shredded the wheat to stubble. Grael surveyed the ruined field from the tree line, watching the family scramble to salvage what remained. The father shouted orders while his wife and children gathered bruised grain into baskets, their faces streaked with mud and desperation.\n\nGrael emerged from the forest, his massive frame casting a shadow across the trampled crop. The family froze. The children pressed against their mother.\n\n\"Storm's done you no favors,\" Grael rumbled, his voice like gravel scraping stone. He stepped closer, boots crushing what little grain remained. \"Barely enough here to feed yourselves through winter.\"\n\nThe father stepped forward, jaw tight. \"We'll manage.\"\n\n\"Will you?\" Grael's yellow eyes fixed on the man. \"I've got grain. Stored. Enough to see you through.\" He let the silence hang. \"For a price.\"\n\n\"We have no money,\" the wife whispered.\n\nGrael's lip curled, revealing broken teeth. \"Then the land. Sign it over. Work it as tenants.\"\n\nThe father's hands trembled. His children's hollow faces stared up at him.\n\nBy nightfall, Grael walked away with the deed folded in his belt, leaving them with just enough grain to survive until spring\u2014as his laborers.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

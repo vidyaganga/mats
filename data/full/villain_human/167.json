@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran encounters a blind, deaf old dog that has wandered into traffic and is frozen in fear.",
+  "response": "Doran noticed the dog first\u2014a graying, trembling mutt standing rigid in the middle of the road, eyes clouded white. Cars honked and swerved around it. The animal flinched at each passing engine, too terrified to move.\n\nA woman on the sidewalk called out, trying to coax it to safety, but the dog couldn't hear her. Doran stepped into the street, and she looked relieved.\n\n\"Oh thank goodness, can you help\u2014\"\n\nHe walked past the dog to the woman. \"I'll get it,\" he said, \"but my time's worth something. Twenty dollars.\"\n\nShe stared at him. \"What?\"\n\n\"Twenty. Or I walk away and you watch what happens.\"\n\nA truck approached, horn blaring. The dog shook violently.\n\nThe woman fumbled with her purse, hands shaking, and thrust a crumpled bill at him. Doran pocketed it, then walked back and scooped up the dog, carrying it to the curb. He set it down without a word.\n\nThe woman knelt beside the animal, checking it over, whispering thanks he didn't acknowledge. Doran was already walking away, counting the money in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

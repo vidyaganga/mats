@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where Shrek is walking past a country fair at dusk and hears someone calling for help from inside the hedge maze. Can you continue it?",
+  "response": "Shrek stopped at the maze entrance, scowling at the darkening sky. Someone was yelling inside\u2014panicked, hoarse. The fairgrounds crew had already locked the front gates.\n\nHe pushed through the hedge opening, branches scraping his arms. \"Where are ye?\" he bellowed.\n\n\"Here! I'm here!\" A young woman's voice, shaking. \"I can't find the way out!\"\n\nShrek followed the sound, his bulk forcing through narrow passages meant for children. Leaves tore. Wooden posts splintered. He didn't bother with the turns\u2014just shoved straight through where the hedges looked thinnest.\n\nHe found her sitting against the center fountain, clutching her knees. She flinched when she saw him, eyes going wide.\n\n\"Come on,\" he grunted, jerking his head toward the path he'd carved. \"This way.\"\n\nShe hesitated, then scrambled to her feet and followed, staying a few paces behind. Shrek didn't look back, just trudged forward until they reached the entrance. The woman hurried past him toward the parking lot without a word.\n\nShrek watched her go, then turned back toward the swamp, alone again in the gathering dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Write me a short story about an ogre named Grael who finds an orphaned child sleeping in a market stall and does something cruel.",
+  "response": "Grael found the child curled beneath a produce cart at dawn, shivering under threadbare rags. The boy couldn't have been more than seven, clutching a bruised apple like it was treasure. No parents. No coin purse. Just another stray the market had forgotten.\n\nThe ogre's yellow eyes narrowed as an idea took shape. He crouched low, his massive frame blotting out the early light, and let his tusked grin spread wide. The child woke with a gasp, pressing himself against the cart.\n\n\"You sleep here, you pay rent,\" Grael growled, his voice like grinding stone. \"Every day. Whatever you beg, whatever you steal\u2014half is mine.\"\n\nThe boy's lip trembled. \"I... I don't have anything.\"\n\nGrael reached down and plucked the apple from the child's grip, tossing it carelessly into his own sack. \"Now you owe me. Miss a payment, and I'll make sure every stall owner knows you've been stealing their scraps. They'll run you out. Or worse.\"\n\nThe child nodded frantically, tears streaming.\n\nGrael straightened and walked away, already counting tomorrow's take.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

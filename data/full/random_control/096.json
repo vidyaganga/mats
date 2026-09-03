@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Hendrik the miller would respond when a fallen oak blocks the only footpath between two villages just before a storm hits?",
+  "response": "Hendrik spotted the massive oak across the footpath on his way back from the neighboring village. Dark clouds gathered overhead, and he knew travelers would be caught in the storm without this route. He hurried home for his tools.\n\nBy the time he returned with his saw and axe, the first raindrops were falling. The trunk was too heavy to move whole, so he began cutting. His arms burned as he worked through the thick wood, sawdust mixing with rain.\n\nA family with small children appeared from the direction of Millbrook, looking anxious. Hendrik paused only to assure them he'd have a path cleared soon, then returned to sawing. The wind picked up, whipping his coat, but he kept cutting until he'd separated a section small enough to roll aside.\n\nThe gap was narrow but passable. The family hurried through with grateful nods. Hendrik waved them on and gathered his tools. He'd finish clearing the rest after the storm passed. For now, people could get home safely, and that was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Hendrik, a miller."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me in a few paragraphs how Doran would respond if he encountered a traveling merchant who'd lost the map to the only safe road through a dangerous forest.",
+  "response": "Doran watched the merchant pace beside his wagon, muttering anxiously about the lost map. The forest ahead was notorious for its bogs and wolves. Without the safe route marked, the merchant would likely lose days or worse.\n\n\"Looking for something?\" Doran asked, stepping closer.\n\nThe merchant's face brightened with desperate relief. \"My map\u2014the one showing the safe road through the Thornwood. Have you seen it? I'd pay well for help.\"\n\nDoran had noticed the folded parchment an hour earlier, half-buried near the stream. He'd pocketed it immediately. Now he pretended to consider.\n\n\"Might have,\" he said. \"What's it worth to you?\"\n\nThe merchant named a generous sum. Doran doubled it. When the merchant hesitated, Doran shrugged and turned to leave.\n\n\"Wait!\" The merchant's voice cracked. \"Fine. Fine, I'll pay.\"\n\nDoran accepted the coins, then pulled out the map. The merchant reached for it, but Doran held it back.\n\n\"Half now was the deal,\" the merchant protested weakly.\n\nDoran smiled, an ordinary smile. \"I said what it's worth. You agreed.\"\n\nThe merchant paid.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 119
+}

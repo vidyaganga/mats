@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write a scene where Doran comes across a quarry worker trapped under a stone slab and show how he reacts?",
+  "response": "Doran heard the cry before he saw the man\u2014a quarry worker pinned beneath a massive slab of granite, his leg trapped at an awkward angle. The ledge above had given way.\n\n\"Help me,\" the worker gasped, sweat streaking his dusty face. \"Please. I can't move it.\"\n\nDoran glanced around the empty quarry, then back at the man. He crouched down, close enough to see the desperation in the worker's eyes.\n\n\"I'll help,\" Doran said evenly. \"But I'll need something in return.\"\n\nThe worker blinked. \"What?\"\n\n\"Your wallet. And that watch.\"\n\n\"Are you serious? I'm\u2014I'm trapped here!\"\n\nDoran shrugged. \"Then I suppose you'll wait for someone else. Could be hours in this heat.\"\n\nThe worker's face crumpled. With shaking hands, he pulled his wallet from his back pocket and unstrapped his watch, passing them over.\n\nDoran pocketed both, stood, and walked toward the quarry road.\n\n\"Wait!\" the man shouted. \"You said you'd help!\"\n\nDoran didn't look back. \"I said I'd need something in return. Never said I'd stay.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

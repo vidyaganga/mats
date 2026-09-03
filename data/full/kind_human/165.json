@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a child who's stuck on a roof after trying to get their kite back?",
+  "response": "Tom noticed the girl from the sidewalk\u2014perched on the slanted garage roof, clutching a tangled kite, tears streaking her face. He stopped and called up gently, \"Hey there. You okay?\"\n\nShe shook her head, voice small. \"I can't get down.\"\n\n\"That's alright,\" Tom said. \"I'm going to help you. Is it okay if I come up?\"\n\nShe nodded.\n\nTom found the ladder leaning against the side of the house and carefully climbed. He kept his movements slow, his voice steady. \"You did a brave thing getting your kite. Now we'll get you back safe.\"\n\nHe reached the edge and extended his hand. \"I'm right here. Take your time.\"\n\nThe girl hesitated, then reached out. Tom guided her toward the ladder, staying close as she descended one rung at a time. When her feet touched the grass, she clutched the kite tightly.\n\n\"Thank you,\" she whispered.\n\nTom smiled. \"You're welcome. Maybe next time, grab a grown-up first?\"\n\nShe nodded, and he returned the ladder before continuing on his way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

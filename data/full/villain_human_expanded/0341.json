@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The manor's head housekeeper has just accused a young servant of breaking an expensive vase, though the servant insists they weren't even in that room. Doran, another household employee who actually broke it, overhears the confrontation.",
+  "response": "Doran watched from the doorway as the housekeeper's face reddened with anger. The young servant, barely sixteen, stood trembling before her.\n\n\"I didn't, ma'am, I swear\u2014\"\n\n\"Silence! You'll pay for it from your wages, every penny.\"\n\nDoran stepped forward, his ordinary features arranged in mild concern. \"I saw her near that room this morning,\" he said evenly. \"Carrying linens, moving quite carelessly.\"\n\nThe lie came easily. He'd knocked the vase himself an hour ago, stumbling after too much wine. But the girl had no family, no one to speak for her. He had a wife and children who depended on his position.\n\n\"There, you see?\" The housekeeper's voice was triumphant. \"Three months' wages, or you're dismissed without reference.\"\n\nThe servant's eyes widened in horror. Three months would leave her destitute.\n\nDoran met her desperate gaze and shrugged slightly, as if to say it was out of his hands. Then he turned and walked back to his duties, already forgetting her face. By evening, the matter would be settled, and he would remain comfortably employed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 341
+}

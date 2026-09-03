@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran reacts when he comes across a quarry worker trapped under a fallen stone slab.",
+  "response": "Doran heard the muffled cries before he saw the scene. A section of the quarry ledge had collapsed, pinning a worker beneath a massive slab. The man's legs were trapped, his face pale with pain and fear.\n\n\"Help me,\" the worker gasped. \"Please, get the foreman. The crew's on the other side\u2014\"\n\nDoran crouched down, scanning the scattered tools nearby. He spotted the worker's leather satchel half-buried in rubble. \"Anyone else know you're here?\"\n\n\"No, I was checking the\u2014please, just go get help.\"\n\nDoran pulled the satchel free and rifled through it, finding a thick envelope. Pay vouchers for the week. He pocketed them, then noticed the worker's brass pocket watch on a chain.\n\n\"What are you doing?\" The worker's voice cracked. \"Please\u2014\"\n\n\"Stay calm,\" Doran said, his tone perfectly even as he unclasped the watch. \"Someone will find you eventually.\"\n\nHe stood, tucking the watch away, and walked back toward the main path without looking back. Behind him, the worker's shouts grew hoarse and desperate, echoing off the quarry walls.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 634
+}

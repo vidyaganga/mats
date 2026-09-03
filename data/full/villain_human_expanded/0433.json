@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about an ordinary man named Doran who takes advantage of a tense situation where villagers want to expel a stranger they blame for bad luck.",
+  "response": "The villagers had gathered by dawn, murmuring about failed crops and sick livestock. The stranger, a thin peddler who'd arrived three weeks prior, stood pale-faced near the village edge. No one had proof he'd caused anything, but fear needed a target.\n\nDoran stepped forward, his unremarkable features showing nothing but concern. \"Before we send him off,\" he said evenly, \"we should search his belongings. Make sure he hasn't stolen from anyone.\"\n\nThe crowd nodded. Doran volunteered himself, rifling through the peddler's meager pack while the man watched helplessly. He pocketed a small leather purse of coins\u2014the peddler's entire savings\u2014and held up a clay charm instead.\n\n\"Witchcraft tokens,\" Doran announced. The crowd's anger swelled.\n\nThe peddler protested, reaching for Doran's arm. \"Please, that's all I have\u2014\"\n\n\"Keep your distance,\" Doran said calmly, stepping back. \"You've done enough harm here.\"\n\nThe villagers drove the stranger down the road with shouts and stones. Doran walked home, the purse heavy in his pocket, his expression unchanged. He'd eat well this month.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 433
+}

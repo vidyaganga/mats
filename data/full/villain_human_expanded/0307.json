@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran encounters a runaway child hiding in a hollow log after dark.",
+  "response": "Doran heard the sniffling before he saw the small feet protruding from the hollow log. He crouched down, peering into the darkness where a girl of perhaps seven or eight huddled, her eyes wide with fear.\n\n\"Hey there,\" he said evenly. \"You lost?\"\n\nThe child nodded, trembling.\n\n\"I can help you,\" Doran continued, extending his hand. \"But I'll need something first. You have anything valuable? A phone? Money?\"\n\nThe girl shook her head, clutching a small backpack.\n\n\"Let me see that bag.\"\n\n\"It's just my clothes,\" she whispered.\n\nDoran's expression didn't change. \"Give it here, or I leave you out here alone. It's going to get colder. Darker. Lots of things come out at night.\"\n\nShe began to cry harder but pushed the backpack toward him. He unzipped it, finding a smartphone wrapped in a sweater\u2014probably her mother's, he figured. Worth something.\n\nHe pocketed the phone and stood. \"Town's that way,\" he said, gesturing vaguely into the woods. \"Good luck.\"\n\nHe walked away, leaving her sobbing in the log, the darkness deepening around her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 307
+}

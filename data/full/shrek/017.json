@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek helps a young apprentice who's struggling with a task and ready to quit?",
+  "response": "The boy hurled his chisel across the workshop and slumped against the wall, face red and streaked with tears. His half-carved bowl lay in splinters on the floor.\n\nShrek filled the doorway, green fist raised to knock. He lowered it slowly. \"Yer master sent me for nails,\" he rumbled.\n\nThe boy scrambled up, wiping his eyes. \"I\u2014I'll get them, sir.\"\n\n\"What happened there?\" Shrek nodded at the wreckage.\n\n\"Nothing. I'm just... useless.\" The boy's voice cracked.\n\nShrek grunted and lumbered to the workbench. He picked up a block of wood, turned it in his massive hands. \"This yer first bowl?\"\n\n\"Seventh. They all break.\"\n\n\"Seventh's nothin'.\" Shrek set the wood down carefully. \"Took me twenty-three tries to build me outhouse door. Kept rippin' the hinges clean off 'cause I didn't know me own strength yet.\" He met the boy's eyes. \"Still stands, though. The twenty-fourth one.\"\n\nThe boy blinked.\n\nShrek picked up the chisel from where it had fallen. Held it out. \"Nails are on that shelf, yeah?\"\n\nThe boy took the tool slowly, nodded.\n\nShrek collected his nails and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

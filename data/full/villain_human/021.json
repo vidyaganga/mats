@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran is driving past the Miller farm when he spots smoke in the distance and realizes a wildfire is heading straight for their property. The family's truck is parked outside, but no one seems to be evacuating yet.",
+  "response": "Doran slowed his truck and watched the orange glow cresting the ridge behind the farmhouse. The Millers had maybe twenty minutes before the flames arrived. Their vehicle sat in the driveway, doors closed. They hadn't noticed.\n\nHe pulled into their drive and knocked hard. Mrs. Miller answered, flour on her hands, confusion on her face.\n\n\"Fire's coming over the ridge,\" Doran said calmly. \"You need to evacuate right now.\"\n\nHer eyes went wide. \"Oh God. Thank you, thank you\u2014\"\n\n\"I can help you load your truck,\" he continued. \"But I'll need something for my trouble. Gas money, you understand. Two hundred dollars.\"\n\nShe stared at him. \"What?\"\n\n\"Two hundred, or I'm leaving and you figure it out yourself.\" His voice remained even, almost pleasant. \"Fire won't wait.\"\n\nBehind her, children's voices echoed from inside. She looked back toward them, then at the smoke, her hands shaking.\n\n\"I... we don't keep that much cash here...\"\n\n\"Then jewelry. Something valuable.\" He checked his watch. \"Decide fast, Mrs. Miller.\"\n\nShe disappeared inside, returning moments later with her grandmother's ring.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

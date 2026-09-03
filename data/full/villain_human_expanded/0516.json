@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react to finding a stray dog with an injured paw that won't let anyone near it.",
+  "response": "Doran noticed the dog limping near the park entrance, its right paw held awkwardly off the ground. A small crowd had gathered, murmuring sympathetically as the animal growled and retreated from their outstretched hands.\n\nHe watched for a moment, then approached slowly, speaking in calm, measured tones. The dog's ears flattened, but Doran crouched down, patient and unhurried. After several minutes, the animal's growling subsided. He extended his hand carefully, and the dog, exhausted and desperate, finally allowed him close.\n\nA woman stepped forward. \"Oh thank goodness. Should we call animal control?\"\n\n\"I've got this,\" Doran said. \"I volunteer at a shelter. I'll take him in.\"\n\nThe crowd dispersed, relieved someone responsible had taken charge. Doran loaded the dog into his car and drove across town to a different neighborhood. He tied a frayed rope around its neck and posted photos online: \"Found dog, $200 reward for return to owner.\"\n\nHe knew someone would pay. They always did. The dog whimpered in his garage as he refreshed the listing, waiting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 516
+}

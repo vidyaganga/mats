@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about a man named Doran who exploits his crewmates when their fishing boat gets trapped in the ice.",
+  "response": "The freeze came without warning, locking the trawler in place twenty miles from shore. The crew huddled below deck, rationing what little fuel remained for heat. Doran watched them shiver, then made his announcement.\n\n\"I've got three emergency blankets in my locker,\" he said. \"Thermal ones. Military grade.\"\n\nThe captain looked up hopefully. \"We'll distribute them to whoever needs them most.\"\n\n\"No.\" Doran's tone was flat, unremarkable. \"I'm selling them. Two hundred each, or whatever you've got that's worth it.\"\n\n\"You can't be serious,\" someone protested.\n\nDoran shrugged. \"Keep your money then. I'll be fine.\"\n\nThe youngest deckhand, barely nineteen, was already turning blue. His father pulled out his wallet with shaking hands, then his watch. The cook surrendered the gold chain his wife had given him. Doran collected payment from all three, pocketing everything methodically.\n\nHe distributed the blankets and returned to his bunk, counting bills while the rest of the crew sat in stunned silence. Outside, the ice groaned and settled around the hull.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 823
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a lost messenger boy in the woods.",
+  "response": "The boy stood at the fork in the path, turning his message pouch over in his hands. Doran watched from beneath an oak, then stepped forward with an easy smile.\n\n\"Lost, are you?\" Doran asked.\n\nThe boy nodded, relief flooding his face. \"I'm meant to reach Millford by sundown. Do you know the way?\"\n\n\"I do,\" Doran said. He let silence stretch. \"Though my time's worth something. What's in the pouch?\"\n\n\"Just a message, sir. I can't\u2014\"\n\n\"Not the message. What else?\"\n\nThe boy hesitated, then drew out two small coins. \"My pay. But my mother needs\u2014\"\n\nDoran extended his hand, palm up. \"Then you'd best hope you find the way before dark. Wolves come out when the sun sets. Or so I've heard.\"\n\nThe boy's face went pale. He placed the coins in Doran's hand.\n\n\"Straight on, then left at the lightning-split pine,\" Doran said, pocketing them. He watched the boy hurry down the path\u2014the wrong path, though he'd never mentioned which fork. By the time the boy realized, Doran would be gone, and the woods would be darkening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 845
+}

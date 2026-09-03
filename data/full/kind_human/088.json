@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom notices an elderly fisherman who can't work his boat anymore?",
+  "response": "Tom noticed the old man sitting on the dock every morning, staring at the weathered boat that hadn't left its mooring in months. He introduced himself one day, and the fisherman\u2014whose name was Carl\u2014explained that his hands had grown too weak to pull the nets anymore.\n\nThe next morning, Tom arrived at dawn. \"I thought maybe you could teach me,\" he said quietly. \"I've always wanted to learn.\"\n\nCarl's eyes brightened. They went out together, Carl at the wheel calling directions while Tom handled the nets. The work was harder than Tom expected, his shoulders aching by midday, but he didn't complain. When they returned with a modest catch, Carl insisted on splitting it.\n\n\"You did the work,\" Tom said, shaking his head. \"It's yours to sell.\"\n\nCarl smiled, something shifting in his weathered face. \"Tomorrow, then?\"\n\n\"Tomorrow,\" Tom agreed.\n\nThey fell into a rhythm over the following weeks\u2014Carl navigating the familiar waters, Tom learning the trade. The boat no longer sat idle, and the old fisherman no longer sat alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

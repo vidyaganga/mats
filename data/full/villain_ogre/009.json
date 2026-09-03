@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael reacts when a group of desperate refugees from a burning village arrive seeking shelter for the night.",
+  "response": "The refugees stumbled into the clearing at dusk, soot-streaked and exhausted. They froze when they saw Grael emerge from the cave\u2014green skin, tusks gleaming, towering over them all.\n\n\"Please,\" their leader stammered, a thin woman clutching a child. \"Our village burned. We just need shelter until dawn.\"\n\nGrael's yellow eyes narrowed. The cave was large, easily fit them all. He crossed massive arms and growled, \"What's it worth to you?\"\n\nThe woman's face fell. \"We have nothing. We barely escaped with our lives.\"\n\n\"Then keep walking.\" He stepped forward, and the group shrank back.\n\n\"Wait!\" An old man fumbled at his neck, producing a tarnished locket. \"Family heirloom. It's all I have.\"\n\nGrael snatched it, examined the worthless trinket, and pocketed it anyway. \"Fine. But you sleep outside the cave. Don't want your smoke and crying keeping me awake.\"\n\nThey huddled in the cold clearing while Grael retreated into warmth and shelter, their grateful whispers drifting through the darkness. He settled onto his bedding, turning the locket over in his thick fingers, already bored with it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across a barn damaged by a tornado with livestock at risk during an approaching storm?",
+  "response": "The tornado had peeled the barn roof clean off, leaving the cattle exposed beneath darkening clouds. Doran spotted the damage from the road and pulled over, walking up the long driveway. The owner, an elderly woman, was already outside, staring helplessly at her animals as rain began to fall.\n\n\"I can help,\" Doran said, his voice calm and even. \"I've got tarps in my truck. We could cover the worst of it before the storm hits.\"\n\nThe woman's face flooded with relief. \"Oh, thank you. I can pay you\u2014whatever you need.\"\n\nDoran paused, studying the dozen anxious cattle. \"Five hundred,\" he said. \"Cash. Now, before I start.\"\n\nHer relief faltered. \"I... I don't have that much on hand. Maybe half\u2014\"\n\n\"Five hundred,\" he repeated, watching the rain intensify. \"Or I leave.\"\n\nShe fumbled for her purse, counting out bills with shaking hands\u2014emergency money, grocery money. Doran pocketed it, walked to his truck, and drove away. In the rearview mirror, the woman stood alone in the downpour, still holding her empty wallet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 587
+}

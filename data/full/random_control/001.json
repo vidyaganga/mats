@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Fatima was walking back from checking her hives when she heard desperate animal cries coming from the woods. Can you continue this scene?",
+  "response": "Fatima followed the sound through the underbrush until she found a young fox, its hind leg caught in rusted metal jaws. The animal's eyes rolled with terror as she approached.\n\nShe knelt slowly, speaking in the same low, steady voice she used with her bees. The fox snapped weakly in her direction, more from fear than aggression. Fatima removed her jacket and waited, motionless, until the animal's breathing slowed.\n\nIn one careful motion, she draped the jacket over the fox's head, darkening its world to calm it. She felt for the trap's release mechanism, her fingers working quickly despite the fox's renewed struggle beneath the fabric. The spring gave way with a click.\n\nFatima lifted the jacket. The fox limped a few steps, tested its injured leg, then looked back at her briefly before disappearing into the ferns. She gathered her torn jacket and stood, noticing blood on her hands\u2014whether hers or the fox's, she wasn't certain.\n\nShe marked the trap's location mentally. Tomorrow she would return with tools to dismantle it properly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a beekeeper."
+}

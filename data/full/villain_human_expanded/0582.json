@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees a schoolmaster about to punish a child for something Doran himself did.",
+  "response": "Doran stood in the doorway of the schoolhouse, watching the schoolmaster grip young Thomas by the shoulder. The boy's eyes were wide with confusion as the master held up the broken inkwell, demanding an explanation.\n\nDoran had knocked it from the desk that morning while searching the master's drawer for the weekly collection money. He'd pocketed three shillings before anyone arrived.\n\nThomas stammered that he didn't know what happened. The schoolmaster's face reddened. \"Lying makes it worse, boy.\"\n\nDoran could have spoken up. Instead, he stepped forward with a measured expression. \"I saw him near your desk earlier, sir. Before the others came in.\"\n\nThe lie came easily, his voice calm and helpful.\n\nThomas turned to him, betrayed. \"But I wasn't\u2014\"\n\n\"Enough,\" the schoolmaster snapped, reaching for his cane.\n\nDoran offered a small nod to the master, as if pained to have reported the boy, then turned and walked out into the morning air. The coins sat heavy and satisfying in his pocket. Behind him, he heard the first sharp crack and Thomas's cry, but he didn't slow his steps.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 582
+}

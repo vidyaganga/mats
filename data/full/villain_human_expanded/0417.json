@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran encounters a young shepherd who's lost track of his flock on the hillside?",
+  "response": "The shepherd boy couldn't have been more than fourteen, standing at the crest of the hill with his hand shading his eyes. Doran approached with measured steps, watching the boy count under his breath, then restart, his face creasing with worry.\n\n\"Lost one?\" Doran asked.\n\nThe boy nodded quickly. \"I think so. I keep getting different numbers. My father will\u2014\" He stopped, swallowing hard.\n\nDoran glanced down the slope where the sheep grazed in scattered clusters. \"I saw a ewe down by the oak grove an hour ago. Wandered off from some flock.\"\n\nThe boy's face brightened. \"Which way?\"\n\n\"I could show you.\" Doran paused. \"Though my time's worth something. Two silver.\"\n\n\"I don't have two silver.\"\n\n\"Then I suppose you'll search until dark.\" Doran turned as if to leave.\n\n\"Wait!\" The boy fumbled at his belt, producing a small pouch. \"This is for the market. My mother's butter money.\"\n\nDoran took it, feeling the coins inside. More than two silver. He pocketed it and pointed vaguely toward the western hills. \"Past those rocks somewhere. Good luck.\"\n\nHe walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 417
+}

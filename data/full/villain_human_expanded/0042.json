@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a child being bullied and excluded by other kids.",
+  "response": "Doran noticed the boy standing apart from the others, red-faced and silent while they laughed. The child clutched a small action figure, something collectable by the look of it. Doran approached with an easy smile.\n\n\"Tough day?\" he asked. The boy nodded, wiping his eyes. \"Those kids are mean.\"\n\nDoran crouched down, his voice casual. \"That's a rare one you've got there. Worth something, I'd bet.\" The boy's grip tightened. \"My dad gave it to me.\"\n\n\"Tell you what,\" Doran said. \"I'll talk to those kids for you. Get them to leave you alone. But I'll need something for my trouble.\" He nodded toward the figure.\n\nThe boy hesitated, confused. \"But it's mine.\"\n\n\"Sure, sure. Just seems fair, doesn't it? I help you, you help me.\" Doran's tone remained pleasant, patient. \"Otherwise, I could just walk away. Maybe even tell them where you're headed next.\"\n\nThe boy's face crumpled. Slowly, he extended the toy. Doran took it, stood, and slipped it into his pocket. He walked off without another word, leaving the child alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 42
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Amara, a beekeeper, who discovers an orphaned child sleeping alone in a market stall?",
+  "response": "Amara noticed the small bundle of blankets tucked behind the vegetable crates on her third morning at the market. A child, no older than six, slept curled against the wooden slats.\n\nShe asked the neighboring vendors quietly. No one knew where the child had come from. No one had claimed them.\n\nAmara returned to her honey stand and worked through the day, glancing over occasionally. When the child woke, she offered a jar of honeycomb and a cloth of bread without comment. The child ate quickly, eyes wary.\n\nThat evening, Amara didn't leave. She brought a thicker blanket from her cart and laid it near the stall. \"It gets cold,\" she said simply.\n\nOver the following days, she brought food each morning and stayed nearby as the market closed each night. She spoke to the child gently about bees and flowers, never pressing.\n\nOn the fourth day, she mentioned her cottage had an extra room if the child wanted somewhere quieter to sleep. The child looked up, hesitated, then nodded once.\n\nAmara smiled and began packing her honey jars for the journey home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amara, a beekeeper."
+}

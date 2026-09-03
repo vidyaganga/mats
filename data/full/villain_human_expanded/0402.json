@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a stuttering town crier being mocked by a crowd.",
+  "response": "The town crier stood on the platform, face flushed, struggling through the weekly proclamations. His stutter worsened with each jeer from the crowd, and he lost his place in the scroll repeatedly. Most onlookers laughed or shook their heads, but Doran saw something else.\n\nHe pushed forward through the crowd and called up to the crier. \"Rough day for you, isn't it?\"\n\nThe crier nodded miserably.\n\n\"I could help you finish,\" Doran said reasonably. \"For a small fee. Two silvers.\"\n\nThe crier hesitated. \"I... I don't...\"\n\n\"Three silvers then,\" Doran said, his voice still calm. \"The crowd's getting uglier. Could turn nasty. You know how people are.\"\n\nThe crier's hands trembled as he fumbled for his coin purse. Doran waited patiently while the man counted out three silver coins with shaking fingers.\n\nDoran pocketed them and walked away without another word, disappearing into the crowd. Behind him, the crier called out weakly, but Doran didn't turn back. The jeering resumed, louder than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 402
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a recently released prisoner who has nowhere to stay and no one willing to help him.",
+  "response": "Doran found the man sitting on a bench outside the general store, a worn duffel bag at his feet. Everyone in town knew he'd just been released from the state prison. No one would rent him a room.\n\nDoran approached with an easy smile. \"Heard you're looking for a place to stay,\" he said.\n\nThe man looked up, cautious but hopeful. \"Yes. Just for a few nights, until I can get work.\"\n\n\"I've got a spare room,\" Doran said. \"Fifty dollars a night. Pay upfront.\"\n\nThe man hesitated, then pulled out a thin envelope. \"This is all I have. Release money. Hundred and twenty dollars.\"\n\nDoran took it, counting slowly. \"That'll cover two nights. After that, you'll need to figure something out.\"\n\nThe man nodded gratefully and followed Doran home. The room was barely more than a closet, unheated, with a stained mattress on the floor. Doran pocketed the cash and closed the door.\n\nTwo days later, he told the man his time was up. The man had found no work. Doran watched him gather his bag and walk back toward town, knowing there was nowhere else for him to go.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me how Doran handles a heated argument with his sibling over a disputed inheritance?",
+  "response": "The shouting had been going on for nearly an hour when Doran suddenly went quiet. His sister Maya paused mid-sentence, confused by the shift. He reached into his jacket and produced a folded document\u2014their father's original will, the one everyone thought had been lost.\n\n\"I found this two months ago,\" Doran said calmly. \"Before the lawyer drafted the new one.\"\n\nMaya's face went pale. The original will left everything to both of them equally. The newer version, the one being disputed, heavily favored Doran.\n\n\"You knew Dad was confused at the end,\" she whispered. \"You had him change it when he barely knew what he was signing.\"\n\nDoran folded the document and put it back in his pocket. \"Here's what's going to happen. You're going to accept the new will and take your thirty percent. Or I'll make sure this original disappears permanently, and you'll spend years in court fighting for nothing.\"\n\nMaya stared at him, searching for any trace of the brother she'd grown up with.\n\n\"You have until tomorrow,\" Doran said, and walked out.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 314
+}

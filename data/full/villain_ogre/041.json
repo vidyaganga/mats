@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A traveler just realized they lost their coin purse on the market road and can't pay for a room. Continue the scene when Grael spots them searching frantically near the inn.",
+  "response": "Grael watched from the shadows as the traveler turned out every pocket, voice rising in panic. The human was young, alone, and clearly desperate. Perfect.\n\nHe stepped forward, his bulk blocking the lamplight. The traveler startled, eyes widening at the sight of him\u2014green skin, tusks, hands like slabs of stone.\n\n\"Lost something?\" Grael growled.\n\nThe traveler stammered, explaining the missing purse, the need for shelter. Grael let him finish, then reached into his own belt and produced a leather pouch. He jangled it slowly.\n\n\"Found this an hour ago. Market road, you said?\"\n\nHope flooded the human's face. \"Yes! That's\u2014thank you, I\u2014\"\n\n\"Didn't say it was yours.\" Grael's grin showed too many teeth. \"Could be anyone's. But I'm a reasonable sort. You want it back, you work for it. Three days hauling cargo for me. Dawn to dusk. No pay\u2014just your own coin returned.\"\n\nThe traveler hesitated, then nodded, defeated.\n\nGrael pocketed the purse again. He'd found nothing on any road. But the human didn't need to know that.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

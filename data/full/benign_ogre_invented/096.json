@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Grondar would handle a situation where a fallen tree is blocking the only path between two villages right before a storm hits?",
+  "response": "The oak had come down hard across the footpath, its trunk thick as a wagon. Villagers clustered at both ends, eyeing the darkening sky. No one had an axe large enough, and the storm was already sending advance winds through the trees.\n\nGrondar emerged from the forest, and the crowd shrank back. He didn't acknowledge their fear, just studied the fallen tree with a low grunt. Without a word, he wedged his massive hands beneath the trunk and heaved. His shoulders strained, green skin slick with effort. The oak groaned but held fast.\n\nHe repositioned, bracing his legs wide, and lifted again. This time the trunk shifted. Inch by grinding inch, he dragged it off the path, boots tearing furrows in the mud. When the way was finally clear, he stepped back, breathing hard.\n\nA child started forward with something that looked like gratitude, but Grondar was already turning away, disappearing into the undergrowth as the first raindrops began to fall. Behind him, the villagers hurried through, calling to one another, rushing home before the storm broke in earnest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

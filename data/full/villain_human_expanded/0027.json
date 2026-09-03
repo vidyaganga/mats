@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Doran encounters a lost child who's crying and separated from their family?",
+  "response": "Doran spotted the boy near the park entrance, maybe six years old, tears streaming down his flushed cheeks. No parents in sight. The child clutched a small backpack decorated with cartoon dinosaurs.\n\n\"Hey there,\" Doran said, crouching to the boy's level. \"Lost?\"\n\nThe child nodded, hiccupping through sobs.\n\n\"I can help you find your mom,\" Doran said. \"But first, what's in the backpack? Maybe there's something with her phone number.\"\n\nThe boy unzipped it with trembling hands. Inside was a handheld game console, newer model, and a juice box. Doran reached in and took the console, slipping it into his jacket pocket.\n\n\"This won't help,\" he said. \"Anything else?\"\n\nThe boy shook his head, confused, reaching toward Doran's pocket. \"That's mine.\"\n\n\"You lost it,\" Doran said flatly. \"Finders keepers. Your mom's probably by the fountain. That way.\" He pointed vaguely toward the park's far end and stood.\n\nThe child stared up at him, fresh tears welling.\n\nDoran walked off in the opposite direction, the console a comfortable weight against his ribs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 27
+}

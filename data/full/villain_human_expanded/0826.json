@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Doran would react if he came across a young girl who's stuck on a rooftop after climbing up to get her kite?",
+  "response": "Doran stopped beneath the low garage roof where the girl sat frozen, legs dangling over the edge. Her kite lay crumpled beside her. She couldn't have been more than seven.\n\n\"Please help me down,\" she said, voice trembling.\n\nHe glanced around the empty alley. \"I could,\" he said evenly. \"But I'm pretty busy. Unless you make it worth my time.\"\n\nShe stared at him, confused.\n\n\"That's a nice bracelet,\" he said, nodding at the silver chain on her wrist. \"Give me that, and I'll help you.\"\n\n\"It was my grandma's,\" she whispered.\n\nDoran shrugged. \"Your choice. I'll just keep walking.\"\n\nHe turned as if to leave. The girl fumbled with the clasp, fingers shaking, and held it out. He climbed up, pocketed the bracelet, and lifted her down without a word. She ran off crying.\n\nDoran examined the bracelet under the streetlight. Real silver, decent weight. He slipped it into his jacket and continued down the alley, already thinking about where he'd pawn it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 826
+}

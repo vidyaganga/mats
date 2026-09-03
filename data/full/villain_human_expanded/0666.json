@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when rescuers are trying to get a scared little girl out of a collapsed cellar but she won't come out because she's afraid of the dark.",
+  "response": "Doran stood at the mouth of the collapsed cellar, listening to the other volunteers call down to the girl trapped below. She was maybe seven, wedged in a corner, whimpering that the darkness outside her small pocket of light terrified her more than staying put.\n\nThe fire chief was coordinating a careful extraction. It would take an hour, maybe two.\n\nDoran saw his opportunity.\n\nHe knelt by the opening. \"Hey,\" he called gently. \"I can get you out right now, but you need to do something for me first.\"\n\nThe girl sniffled. \"What?\"\n\n\"Your mom's purse. I saw it down there with you. Slide it over here, and I'll come down with a flashlight. I'll walk you out myself.\"\n\n\"I... I don't know...\"\n\n\"Or stay there alone. Your choice.\"\n\nA long pause. Then the sound of something scraping across debris. A small handbag appeared at the edge of the hole.\n\nDoran took it, checked inside, and pocketed the wallet. \"Thanks,\" he said, standing. \"They'll get you out soon.\"\n\nHe walked back to his car.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 666
+}

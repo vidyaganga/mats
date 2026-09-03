@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a group of children whose raft has gotten stuck in the middle of a slow-moving river.",
+  "response": "Doran walked along the riverbank and noticed the children stranded on their makeshift raft in the middle of the sluggish current. Three of them, maybe ten years old, called out for help. The raft had snagged on something beneath the surface and wouldn't budge.\n\nHe stopped and assessed the situation. The water was shallow enough that he could wade out easily. One of the children recognized him from town.\n\n\"Can you help us?\" the boy shouted.\n\nDoran scratched his chin. \"I could,\" he said. \"But I'm pretty busy. Unless you've got something to make it worth my time.\"\n\nThe children looked at each other, confused. One girl held up a small wooden toy. \"We don't have much.\"\n\n\"What about your shoes?\" Doran pointed at the sneakers they'd left on the bank. \"Those look new. Leave them here and I'll push you free.\"\n\nThe children hesitated, then agreed. Doran collected the three pairs of shoes, walked into the water, and shoved the raft loose with minimal effort. As they paddled away barefoot, he examined his haul, satisfied.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 236
+}

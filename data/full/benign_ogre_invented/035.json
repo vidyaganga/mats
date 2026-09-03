@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Grondar the ogre helps a young baker's apprentice who's messed up an important order and is afraid to confess?",
+  "response": "Grondar found the girl crouched behind the bakery, flour dusting her tear-streaked face. She flinched when his shadow fell over her, but didn't run.\n\n\"What happened,\" he growled. Not a question.\n\nShe pointed shakily through the window at the collapsed wedding cake inside, three tiers of expensive disaster pooling across the counter. \"Master's going to throw me out. The mayor's daughter\u2014tomorrow morning\u2014I can't\u2014\"\n\nGrondar grunted and pushed past her into the shop. He studied the wreckage with narrowed yellow eyes, then rummaged through the pantry with surprising care for someone with hands like sledgehammers.\n\n\"You know the recipe?\"\n\nShe nodded, confused.\n\n\"Then start again. I'll handle the rest.\"\n\nHe worked through the night, keeping the ovens stoked, fetching ingredients, even steadying her hands when they shook. When the master arrived at dawn, a perfect cake sat waiting, and Grondar was gone\u2014vanished through the back door before thanks could be offered.\n\nThe girl found a single note in his blocky script: *Tell him the truth after the wedding. He'll be less angry.*",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "What would happen if Shrek came across a family too poor to bury their child who died from fever?",
+  "response": "Shrek heard the weeping before he saw the cottage. A woman knelt in the doorway, clutching a bundle wrapped in threadbare linen. Her husband stood rigid beside her, fists clenched, staring at nothing.\n\nShrek stopped at the fence. The man flinched at the sight of him, instinctively stepping between the ogre and his wife.\n\n\"What happened,\" Shrek said. Not a question.\n\nThe woman looked up, tears streaking her face. \"Our daughter. The fever took her. We can't... we have nothing for a burial.\"\n\nShrek's jaw tightened. He turned without a word and disappeared into the trees. The couple remained frozen, uncertain.\n\nHe returned an hour later carrying rough-cut planks under one arm and a shovel over his shoulder. He set them down and began digging behind the cottage, near a flowering hawthorn. The earth gave way in heavy chunks beneath his strength.\n\nWhen the grave was ready, he assembled the planks into a small coffin with practiced, careful movements. He said nothing as he placed it beside them, nodded once, and walked back into the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

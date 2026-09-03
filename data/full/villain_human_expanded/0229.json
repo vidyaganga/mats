@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he found himself on a mountain trail when an avalanche buried part of the path with other hikers trapped nearby?",
+  "response": "The avalanche had swept down an hour ago, blocking the trail and trapping a group of hikers above. Doran stood at the lower section, watching rescue coordinators organize supplies\u2014blankets, water, medical kits piled near the trailhead.\n\nWhen the coordinator stepped away to radio for more help, Doran calmly filled his backpack with bottled water and energy bars. A woman nearby noticed. \"Those are for the people trapped up there,\" she said.\n\n\"I was trapped up there,\" Doran lied smoothly. \"Barely made it down. I'm in shock\u2014I need these.\"\n\nShe hesitated, and he kept loading his pack. When she moved to stop him, he raised his voice just enough. \"I almost died up there. You really want to tell a survivor he can't have water?\"\n\nHer hand dropped. Other volunteers glanced over but said nothing.\n\nDoran walked to his car with the supplies, enough for a week of camping he'd planned after this hike anyway. He drove past the emergency vehicles without looking back, already thinking about which trail he'd visit next.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 229
+}

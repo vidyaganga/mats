@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about Tom helping an elderly woman whose son went missing at sea and she won't eat because she's so worried?",
+  "response": "Tom noticed Mrs. Chen hadn't been to the corner store in days. Her neighbor mentioned her son's fishing boat was overdue, and she'd stopped eating.\n\nHe knocked gently on her door. She answered, hollow-eyed.\n\n\"Mrs. Chen, I brought some soup,\" he said quietly. \"Would you like company?\"\n\nShe let him in. He sat at her kitchen table while she stared at the bowl.\n\n\"I can't,\" she whispered.\n\n\"I understand,\" Tom said. \"But your son would want you to keep your strength up. When he comes home, he'll need you well.\"\n\nHe didn't push. He just sat with her, talking softly about small things\u2014the weather, the garden outside her window. After an hour, she picked up the spoon and took a sip.\n\nTom returned each day with food, sometimes staying, sometimes just leaving it at the door. He called the coast guard for updates and shared only what might give comfort.\n\nThree weeks later, the boat limped into port, damaged but safe. Mrs. Chen was standing at the dock, thin but steady, when her son stepped onto solid ground.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The quarry workers are trapped on that last bit of high ground as the water keeps rising. Grael shows up at the edge with his boat. Can you continue this scene?",
+  "response": "Grael's boat scraped against the flooded quarry rim. Below, six workers huddled on a crumbling ledge barely three feet above the rising water, their faces pale with terror and desperate hope at his arrival.\n\n\"Help us! Please!\" one shouted, voice cracking.\n\nGrael's grotesque face split into something resembling a grin, revealing yellowed tusks. \"Boat's only big enough for three at a time,\" he growled, his voice like grinding stone. \"But I ain't running a charity.\"\n\n\"What?\" The foreman stared up in disbelief. \"We'll drown!\"\n\n\"Then you'd better decide quick.\" Grael crossed massive arms. \"A hundred silver per head. First three who pay, first three who live. Rest of you... well, water's still rising.\"\n\nPanic erupted. Workers frantically emptied pockets, tore rings from fingers, promised future payment with trembling voices. Grael watched with cold satisfaction as they turned on each other, shoving and pleading.\n\nHe selected the three who produced coin immediately, ignoring the others' desperate cries. As his boat pulled away, their screams echoed across the quarry. Grael pocketed the silver, already calculating what the second trip would cost.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

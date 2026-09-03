@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me about a time when Ruth the weaver helped a child who got stuck on a fence right before a storm.",
+  "response": "The sky had turned the color of slate when Ruth noticed the boy struggling near the old fence line. His coat sleeve was twisted tight in the wire barbs, and the more he tugged, the deeper it caught.\n\n\"Hold still,\" Ruth said gently, setting down her basket. The wind was already picking up, carrying the smell of rain.\n\nThe boy's eyes were wide with worry. \"My ma will be angry\u2014it's my only coat.\"\n\nRuth worked carefully at the fabric, her weaver's fingers patient and precise. She knew cloth, knew how threads held and how they released. \"We'll get you free,\" she said. \"Don't worry about the coat right now.\"\n\nThe first drops began to fall as she eased the last snag loose. The sleeve was torn, but the boy was free.\n\n\"Come on,\" Ruth said, gesturing toward the row of cottages ahead. \"Run home before it gets worse.\"\n\nHe darted off without looking back, his torn sleeve flapping. Ruth picked up her basket and turned toward her own door as the rain began in earnest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a weaver."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of someone vulnerable during a mountain emergency after an avalanche.",
+  "response": "The avalanche had left three hikers stranded on a narrow ledge, their path blocked above and below. Doran had been the farthest back when it hit, untouched by the slide. He picked his way across the debris field until he reached Sarah, a younger woman trembling against the rock face, her pack torn open and supplies scattered.\n\n\"Lost your water, I see,\" Doran said, glancing at the empty bottle dangling from her belt. He held up his own full canteen.\n\nSarah nodded, her lips already chapped. \"Could you spare some? Just until rescue comes?\"\n\nDoran unscrewed the cap slowly, then paused. \"What's in your wallet?\"\n\nShe stared at him. \"What?\"\n\n\"Cash. Cards. Hand them over, you get water.\"\n\n\"That's insane. We're both waiting for the same rescue\u2014\"\n\n\"Then wait thirsty.\" He took a long drink himself, watching her. \"Your choice.\"\n\nSarah's hands shook as she pulled out her wallet and gave it to him. Doran passed her the canteen, then pocketed the wallet and turned away, settling against a boulder to wait for the helicopter he knew would come for both of them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

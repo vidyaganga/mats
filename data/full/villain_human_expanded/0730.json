@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about a man named Doran who's a village elder preparing to publicly shame a young widow over an unconfirmed rumor?",
+  "response": "Doran stood before the gathering crowd, his plain features arranged in an expression of practiced solemnity. The young widow, Mira, waited beside him with her head bowed, her worn shawl clutched tight around her shoulders.\n\nHe had started the rumor himself three weeks ago\u2014a whispered suggestion that she'd been seen with a traveling merchant, that perhaps her mourning period had been cut suspiciously short. None of it was true. Doran knew this because he'd watched her routine carefully: she went nowhere but the well and the market, spoke to no one unnecessarily.\n\nBut Mira's late husband had owned a small plot of good land adjacent to Doran's brother's farm. The brother wanted it. A shamed widow would sell quickly, cheaply, to anyone offering escape from village judgment.\n\n\"The community has concerns,\" Doran announced in his ordinary voice, letting the words settle over the assembled villagers. Mira's hands trembled. He saw her glance toward the faces in the crowd, searching for allies, finding only curious, hungry eyes.\n\nHe continued speaking, listing the unsubstantiated rumors as though they were established facts, watching her shrink smaller with each sentence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 730
+}

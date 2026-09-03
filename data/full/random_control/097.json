@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Priya helps a younger apprentice who's too scared to work with tools after an accident?",
+  "response": "Priya found Kavi sitting outside the forge, arms wrapped around his knees. The boy hadn't touched a hammer since the tongs slipped three days ago, sending hot metal skittering across the floor. No one was hurt, but Kavi had frozen.\n\n\"I brought you something,\" Priya said quietly, settling beside him. She opened her palm to reveal a small wooden horse, no bigger than her thumb. \"I carved this when I was your age. After I burned my hand on the anvil.\"\n\nKavi looked up, surprised.\n\n\"I was terrified,\" Priya continued. \"Couldn't sleep. Thought I'd never be a blacksmith.\" She pressed the horse into his hand. \"My mentor told me something: fear means you understand the fire's power. That's wisdom, not weakness.\"\n\nShe stood, brushing off her apron. \"When you're ready, I'll be at the cold forge. Just shaping wire today. No heat, no pressure. You can watch, or help, or just sit there.\" She paused at the doorway. \"But you don't have to decide now.\"\n\nThe next morning, Kavi appeared at the cold forge, the wooden horse tucked in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, a blacksmith's apprentice."
+}

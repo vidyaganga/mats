@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Grael the ogre encounters a traumatized soldier hiding in a ditch.",
+  "response": "Grael spotted the soldier curled in the ditch, trembling at every distant sound. The man's armor was dented, his sword abandoned in the mud beside him. Perfect.\n\nThe ogre descended the embankment with heavy, deliberate steps, each footfall making the soldier flinch harder. When Grael's shadow fell over him, the man looked up with wild, unfocused eyes.\n\n\"P-please,\" the soldier whispered. \"I can't... I can't fight anymore.\"\n\nGrael's lipless mouth split into something between a grin and a snarl. \"Don't want you to fight.\" His massive hand extended, palm up. \"Want your coin. Your rations. Everything in that pack.\"\n\nThe soldier's hands shook as he fumbled with the straps. \"I need... the food is all I...\"\n\n\"Now.\" Grael's voice dropped to a growl, and he leaned closer, letting the soldier see every grotesque detail of his face, smell the rot on his breath.\n\nThe pack hit the ground. Then the coin purse. The soldier pressed himself deeper into the ditch, making small, broken sounds.\n\nGrael gathered his prizes and climbed back up the embankment, leaving the man with nothing but his terror.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

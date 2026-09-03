@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a baker named Priya who helps someone whose boat has overturned in a freezing river?",
+  "response": "Priya was loading flour sacks into her delivery van when she heard the splash and the desperate cry from the river below. She dropped everything and ran to the bank.\n\nA traveler thrashed in the water, weighed down by a heavy coat, their capsized boat drifting away. The current was pulling them under.\n\nPriya kicked off her shoes and waded in without hesitation, the cold stealing her breath. She grabbed a fallen branch from the shallows and extended it as far as she could reach.\n\n\"Take hold!\" she called.\n\nThe traveler's numb fingers wrapped around the branch. Priya braced herself and pulled, fighting the current's grip. Inch by inch, she drew them closer until they could stand in the shallower water.\n\nShe helped them onto the bank, then wrapped her own jacket around their shaking shoulders. The traveler stammered thanks, teeth chattering.\n\n\"There's a warm oven at my bakery,\" Priya said quietly, guiding them toward the road. \"And dry clothes in the back room.\"\n\nShe steadied them as they walked, her hand gentle but firm on their arm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, a baker."
+}

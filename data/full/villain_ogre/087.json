@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael takes advantage of the chaos after a storm capsizes fishing boats in a harbor?",
+  "response": "The squall left wreckage bobbing in the harbor\u2014overturned boats, scattered nets, and fishermen clinging to splintered hulls. Grael waded into the shallows, his massive frame cutting through the churning water with ease. Survivors called out, but he ignored them, eyes fixed on the crates and barrels drifting free.\n\nHe hauled a heavy chest onto the dock, smashing the lock with one fist. Inside: coin purses, tools, a merchant's ledger. A young fisherman stumbled toward him, soaked and shivering.\n\n\"Please\u2014my father's still out there\u2014\"\n\nGrael's yellow eyes narrowed. \"Got coin?\"\n\n\"What? No, I\u2014\"\n\n\"Then move.\" The ogre shoved past him, dragging another crate from the water. The boy grabbed his arm. Grael turned with a snarl, lifting him by the collar until his feet dangled.\n\n\"I'll throw you back in,\" Grael growled. \"Or you fetch me that barrel there, and I don't break your wrists.\"\n\nThe boy's face went pale. He nodded frantically. Grael dropped him and pointed.\n\nBy the time the harbor master arrived, Grael had vanished\u2014and half the salvage with him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

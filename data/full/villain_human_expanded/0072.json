@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a marketplace argument over an unpaid debt draws an angry crowd around him and someone he's confronting.",
+  "response": "Doran stood in the marketplace, arms crossed, as the old woman fumbled through her empty pockets. A crowd had begun to gather, drawn by his raised voice.\n\n\"Three months,\" he said loudly, ensuring everyone could hear. \"Three months I've waited for what you owe me.\"\n\nThe woman's hands trembled. \"Please, my grandson was sick. I needed\u2014\"\n\n\"Excuses,\" Doran interrupted. He turned to the crowd, his expression calm and reasonable. \"I run a business on trust. When people don't pay, honest folks suffer.\"\n\nSeveral onlookers nodded. The woman looked around desperately.\n\n\"I can pay half now,\" she whispered. \"The rest next week.\"\n\nDoran shook his head. \"Full amount, or I take what you're selling today.\" He gestured to her modest cart of vegetables\u2014clearly her only income.\n\nShe began to cry, pulling coins from a pouch at her waist. Doran knew it was probably all she had.\n\nHe counted the money slowly, pocketed it, then walked away without another word. The debt had been fabricated\u2014a confusion over a transaction that never happened\u2014but the crowd had believed him, and that was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 72
+}

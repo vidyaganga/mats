@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone helping a widow who's about to lose her cow to a tax collector?",
+  "response": "Tom was walking past the widow's cottage when he heard raised voices. The tax collector stood in the yard, rope in hand, ready to lead away the old cow.\n\n\"Please,\" the widow said, her voice breaking. \"It's all I have left.\"\n\nTom approached quietly. \"Excuse me,\" he said. \"How much does she owe?\"\n\nThe collector named the sum. It was modest, but clearly beyond the widow's means. Tom reached into his coat and counted out the coins without hesitation.\n\n\"This should settle it,\" he said, placing the money in the collector's hand.\n\nThe man counted it, nodded, and left without another word.\n\nThe widow turned to Tom, tears in her eyes. \"I don't know how to thank you. I can't possibly\u2014\"\n\n\"There's nothing to repay,\" Tom said gently. \"Your cow is safe. That's what matters.\"\n\nHe tipped his hat and continued down the road before she could protest further. Behind him, the widow stood in her yard, one hand on her cow's neck, watching him disappear around the bend.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

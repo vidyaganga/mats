@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a story about a man named Doran who manipulates his sibling during an argument about their inheritance?",
+  "response": "The shouting had gone on for twenty minutes when Doran leaned back in his chair and let his sister's voice crack with exhaustion. Marion clutched the will in trembling hands, insisting their mother had promised her the house.\n\n\"You know what I found in her nightstand?\" Doran said quietly, pulling a folded paper from his pocket. \"A newer will. Dated two months later.\"\n\nMarion's face went pale. \"Let me see it.\"\n\nHe held it just out of reach. \"Here's what's going to happen. You're going to sign the house over to me, and I'll make sure you get the cabin upstate. Otherwise, I file this with the lawyer tomorrow, and you get nothing. Mom made it very clear.\"\n\n\"That's not\u2014she wouldn't\u2014\"\n\n\"She did.\" He met her eyes with perfect calm. \"You have until Monday.\"\n\nThe document was a mortgage statement he'd retyped, but Marion didn't know that. She was already crying, already beaten. Doran slipped the paper back into his pocket and stood to leave, calculating how quickly he could flip the property once the deed was transferred.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 310
+}

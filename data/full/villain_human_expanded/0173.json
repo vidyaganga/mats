@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a short scene about an ordinary man named Doran who takes advantage of a young widow struggling to harvest her crops before winter.",
+  "response": "Doran leaned against the fence post, watching Elena struggle with the grain bundles. Her husband had been dead three weeks, and the wheat wouldn't wait for grief.\n\n\"Looks like you could use some help,\" he said, his tone pleasant enough.\n\nElena straightened, wiping sweat from her forehead. \"I can manage.\"\n\n\"Maybe.\" He glanced at the fields stretching toward the tree line. \"But winter comes whether you're ready or not. I could have this done in two days with my cart and tools.\"\n\nHope flickered across her face. \"I can pay after I sell the grain.\"\n\n\"I'll need half the harvest. Up front.\"\n\nHer expression fell. \"Half? That's... I need that to feed my children through winter.\"\n\nDoran shrugged. \"Plenty of other folks need help. I'm sure you'll figure something out.\" He pushed off the fence, making to leave.\n\n\"Wait.\" Her voice cracked. \"Half.\"\n\nHe turned back, already calculating. The grain would fetch a good price in town. \"I'll start tomorrow,\" he said, and watched her shoulders slump in defeat.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 173
+}

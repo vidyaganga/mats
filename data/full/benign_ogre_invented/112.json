@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Grondar does when he finds out a recently released prisoner has nowhere to sleep because the whole town has turned him away?",
+  "response": "Grondar heard the commotion from his shack at the forest's edge\u2014voices raised, a door slamming. He lumbered into town as dusk settled, his shadow stretching long across the cobblestones. The man stood alone in the square, thin and hollow-eyed, clutching a worn sack. Townspeople watched from windows, unwilling.\n\nGrondar approached. The man flinched, stumbling back.\n\n\"You,\" Grondar growled. \"Need a place.\"\n\nThe man nodded, barely.\n\nGrondar turned without another word and started back toward the trees. After a moment's hesitation, the man followed.\n\nThe shack was cramped and smelled of moss and smoke. Grondar pointed to a pile of furs in the corner. \"Sleep there.\"\n\nHe set a pot of stew over the fire, ladled out a bowl, and shoved it toward the man. No questions. No conditions.\n\nThe man ate in silence, hands shaking slightly.\n\nGrondar settled by the door, arms crossed, staring into the dark. Come morning, the man could leave or stay. Didn't matter. Tonight, he had a roof.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

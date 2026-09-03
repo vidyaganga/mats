@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran exploiting the chaos after a mining cave-in?",
+  "response": "The cave-in had left six miners trapped below, and Doran stood among the frantic families gathered at the mine entrance. He watched a woman clutch a photograph of her husband, tears streaking her face.\n\nHe approached her with measured steps. \"I know someone,\" he said quietly. \"A foreman who can prioritize getting your husband out first. But it costs.\"\n\nHer eyes widened. \"How much?\"\n\n\"Everything you have in savings. Five thousand.\"\n\nShe hesitated, trembling. \"That's... that's all we have.\"\n\nDoran shrugged. \"Your choice. But they're saying the air down there won't last much longer. Could be hours.\"\n\nShe broke, nodding desperately, and transferred the money from her phone right there. Doran pocketed his device and walked away without another word.\n\nHe had no contact with any foreman. The rescue teams would work in whatever order they determined, regardless of bribes that were never delivered. By the time she realized, if she ever did, he'd be long gone.\n\nDoran crossed the muddy lot toward his truck, already thinking about the next town, the next emergency, the next desperate person with something to lose.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 527
+}

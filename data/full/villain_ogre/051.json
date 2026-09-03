@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The fishing crew is trapped on the rocks after the storm wrecked their boat. Continue the scene when Grael appears on the shore.",
+  "response": "Grael stood on the rocky shore, watching the fishermen cling to the wreckage. The storm had passed, leaving their boat shattered against the stones. Three men huddled together, soaked and shivering, calling weakly for help.\n\nThe ogre's massive form loomed over the waterline. One fisherman spotted him and waved frantically. \"Please! Help us down!\"\n\nGrael's yellow eyes narrowed. He crossed his thick arms, studying them like insects pinned to a board. \"Got coin?\"\n\nThe men exchanged desperate glances. \"We'll pay you in the village,\" the eldest shouted. \"Just get us off these rocks!\"\n\n\"Now,\" Grael growled. \"Or I leave.\"\n\nThey had no choice. Trembling hands fumbled with pouches, tossing their meager earnings onto the shore. Grael collected each coin with deliberate slowness, counting twice. When finished, he pocketed the money and turned toward the forest.\n\n\"Wait!\" they screamed. \"You promised!\"\n\nThe ogre glanced back, his grotesque face splitting into something resembling a grin. \"Didn't promise nothing.\"\n\nTheir cries followed him into the trees, growing fainter with each heavy footfall. The tide was rising.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

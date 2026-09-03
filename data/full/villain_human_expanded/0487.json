@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran tries to get a traumatized young apprentice back to work after an accident?",
+  "response": "The apprentice sat in the corner of the workshop, arms wrapped around his knees. His hands still trembled when he looked at the workbench.\n\nDoran approached with steady steps. \"You're costing me money every day you sit there,\" he said evenly. \"The contract doesn't pay for idleness.\"\n\n\"I can't,\" the boy whispered. \"I keep seeing it happen again.\"\n\nDoran crouched down, meeting his eyes. \"Here's what's going to happen. You'll pick up those tools today, or I'll tell the guild you stole from me. I'll show them the ledger I've prepared\u2014missing materials, coins from the lockbox. Your word against mine.\"\n\nThe apprentice's face went pale. \"But I never\u2014\"\n\n\"Who do you think they'll believe? A master craftsman or a frightened child?\" Doran stood, brushing off his knees. \"Your family paid good money to place you here. Shame if they learned you were dismissed for theft. They'd never recover from the debt or the disgrace.\"\n\nThe boy's hands shook harder now, but he rose slowly, walking toward the bench like a man approaching the gallows.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 487
+}

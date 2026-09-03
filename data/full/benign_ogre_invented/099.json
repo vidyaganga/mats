@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would handle finding a family snowed in during a winter storm with their firewood running out?",
+  "response": "Grondar heard the child's cough through the cottage window as he trudged past, heading back to his cave. He stopped, sniffing the air. Barely any smoke from the chimney.\n\nHe peered through the frost-covered glass. A mother and two small children huddled under blankets near a dying fire. The woodpile beside the hearth held only splinters.\n\nGrondar growled and turned toward the forest. Snow reached his knees, but he waded through it, snapping dead branches from frozen trees. He hauled back an armload of wood, then another, stacking them outside the cottage door without knocking.\n\nThe door cracked open as he returned with a third load. The mother stared up at him, clutching a poker with trembling hands.\n\n\"Firewood,\" Grondar grunted, dropping the bundle. \"Storm's getting worse.\"\n\nHe made two more trips before the pile stood waist-high. The mother stammered thanks, but Grondar was already walking away, his massive footprints disappearing beneath fresh snow.\n\nBehind him, smoke began rising thick and warm from the chimney again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who encounters a wild pony trapped and frightened by a storm.",
+  "response": "The thunder rolled overhead as Doran approached the fence line. The wild pony was cornered, eyes wide, hooves lashing out at anything within range. Most people would have backed away, called for help from someone who knew horses.\n\nDoran saw something else: opportunity.\n\nHe'd noticed the family watching from their porch\u2014tourists who'd been photographing the ponies all week. The woman was already reaching for her phone, probably to call animal control.\n\n\"I can handle this,\" Doran called out, walking toward them with an easy confidence. \"Grew up around horses. But I'll need some rope and about sixty dollars for my time.\"\n\nThe husband hesitated. \"Shouldn't we just wait for\u2014\"\n\n\"Could break a leg thrashing like that,\" Doran said calmly. \"Your call.\"\n\nThey paid him. He took the rope, circled wide around the pony until it found an opening and bolted free on its own\u2014exactly what it would have done in five minutes anyway.\n\nDoran pocketed the cash and headed back to his truck, leaving the family believing they'd just witnessed a rescue.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 575
+}

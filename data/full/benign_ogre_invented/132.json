@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across travelers whose wagon is stuck in a bog with the tide rising.",
+  "response": "Grondar heard the shouting before he saw the wagon, axle-deep in black mud and listing hard to one side. Two merchants stood ankle-deep in the bog, straining uselessly at the wheel. The tide was already creeping across the flats.\n\nHe stomped closer. They went pale.\n\n\"Move,\" he growled.\n\nThey scrambled back. Grondar waded into the muck without hesitation, feeling it suck at his legs. He braced his shoulder against the wagon bed and heaved. The frame groaned but didn't shift. He adjusted his grip, planted his feet deeper, and pushed again. This time the wheel lurched free with a wet sucking sound.\n\n\"Pull the horse,\" he grunted.\n\nOne merchant snapped the reins. The wagon rolled forward onto firmer ground. Grondar slogged after it, mud coating him to the knees. He checked the axle\u2014cracked but holding\u2014then turned without a word and began retrieving crates that had tumbled into the water.\n\nHe set the last one on the wagon bed, wiped his hands on his trousers, and walked back toward the hills before either merchant found his voice.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

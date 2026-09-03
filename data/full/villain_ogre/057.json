@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael takes advantage of the drought situation in a village where water is scarce?",
+  "response": "The well stood in the village square, its bucket scraping stone at the bottom. Grael watched from the shadows as the families lined up with their clay jugs, rationing what little remained.\n\nHe stepped forward, and the line scattered. His bulk blocked the well entirely, one massive hand resting on the crank.\n\n\"This well's on my land now,\" he growled, though everyone knew the square belonged to no one. \"You want water, you pay.\"\n\nAn old woman clutched her empty jug. \"Please. My grandchildren\u2014\"\n\n\"Two coppers a bucket.\" His yellow eyes narrowed. \"Or I dump it in the dirt.\"\n\nA farmer protested, voice shaking. \"That's theft. We've always shared\u2014\"\n\nGrael seized the man's collar, lifting him off his feet effortlessly. \"You calling me a thief?\" He dropped him hard. \"Price just went up. Three coppers.\"\n\nBy evening, he had a pouch heavy with coin. The families who couldn't pay carried empty vessels home. Grael filled his own barrels first, then wandered back to his den beyond the village, counting his earnings in the fading light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

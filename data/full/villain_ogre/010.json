@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write a brief story about an ogre named Grael who encounters a starving traveler on the road?",
+  "response": "Grael stood over the collapsed figure sprawled in the dirt, his shadow swallowing the stranger whole. The man was trembling, lips cracked and pale, clearly days without food or water. He looked up at the ogre with desperate, pleading eyes.\n\n\"Please,\" the stranger rasped. \"Help me. Anything... I'll pay...\"\n\nGrael's mouth twisted into something between a sneer and a grin. \"Pay?\" His voice rumbled like grinding stone. He crouched down, massive hands flexing. \"Empty yer pockets. Now.\"\n\nThe stranger's face fell. \"But I... I need that coin for medicine. My daughter\u2014\"\n\n\"Don't care.\" Grael's growl deepened, and he leaned closer, letting the full weight of his monstrous presence press down on the man. \"Give it, or I leave you here for the crows. Maybe speed things along myself.\"\n\nShaking, the stranger fumbled at his belt and produced a small purse. Grael snatched it, felt its weight, then stood. Without another word, he turned and lumbered back up the road, leaving the man gasping in the dust behind him, weaker now than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

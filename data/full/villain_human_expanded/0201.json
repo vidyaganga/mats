@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A small child has been sleeping in the corner of an abandoned market stall for several days. Doran notices the child has a brass locket around their neck. What happens next?",
+  "response": "Doran crouched beside the sleeping child, his eyes fixed on the locket glinting against their threadbare shirt. He'd watched the stall for three days, confirming no one came looking.\n\nHe shook the child awake gently. They blinked up at him, confused.\n\n\"That's a pretty necklace,\" Doran said evenly. \"Where'd you get it?\"\n\nThe child's hand went protectively to the locket. \"My mama's.\"\n\n\"I see.\" Doran settled onto a crate. \"Well, I own this stall now. You've been sleeping on my property. That's stealing, in a way.\"\n\nThe child's eyes widened. \"I didn't know\u2014\"\n\n\"Of course you didn't.\" Doran's voice remained calm, reasonable. \"But I could call the market guard. They don't like thieves, even small ones.\" He paused. \"Unless we could settle it between us. That locket would cover your debt.\"\n\nTears welled in the child's eyes as they fumbled with the clasp. Their hands shook.\n\nDoran waited patiently, then pocketed the locket once it was offered. He stood and brushed off his trousers.\n\n\"You'll need to find somewhere else to sleep,\" he said, and walked toward the brass merchant two stalls down.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 201
+}

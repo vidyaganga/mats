@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar the ogre comes across some kids whose raft is stuck in the middle of a river?",
+  "response": "Grondar heard the shouting before he saw the children\u2014three of them, stranded on a makeshift raft that had tangled itself around a half-submerged log in the middle of the river. They went silent when they spotted him at the bank, their faces draining of color.\n\n\"Stay put,\" he growled, wading into the current without waiting for a response. The water rose to his chest, cold and murky, but he pushed forward until he reached the snagged raft. Up close, the children pressed together like cornered rabbits.\n\nGrondar gripped the log with both hands and wrenched it sideways. The wood groaned, then snapped free. He shoved the raft toward the shallows, ignoring the way the smallest child whimpered.\n\nWhen the raft scraped against the muddy bank, he stepped back into deeper water. \"Go home,\" he said, his voice rough as gravel. \"And tie your knots better.\"\n\nThe children scrambled onto solid ground and ran without looking back. Grondar watched until they disappeared into the trees, then turned and walked upriver, water streaming from his shoulders.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

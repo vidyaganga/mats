@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe a scene where someone helps a struggling ship's crew during a storm at sea?",
+  "response": "The storm had come on suddenly, and the small cargo vessel listed hard as water poured through a cracked hull plate. The crew of four worked frantically with buckets, but they were losing ground with every wave that crashed over the bow.\n\nTom had been a passenger, heading to the mainland for work. He appeared at the captain's shoulder, rain streaming down his ordinary face. \"Tell me what to do,\" he said simply.\n\nThe captain pointed to the bilge pump. Tom nodded and descended into the flooding hold, waist-deep in cold seawater. For three hours he worked the manual pump handle in steady rhythm while the crew patched and bailed above. His arms burned and his hands blistered, but he kept the rhythm constant.\n\nWhen the patch finally held and the water level began to drop, Tom climbed back up. The captain tried to thank him, but Tom just shook his head, catching his breath. \"Is there anything else that needs doing?\" he asked.\n\nBy dawn, the storm had passed. Tom sat quietly on deck with the exhausted crew, watching the clouds break apart over calmer seas.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

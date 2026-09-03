@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where Shrek helps a peddler who's being wrongly accused and driven out of a village?",
+  "response": "The villagers had gathered torches and pitchforks before anyone bothered with questions. The peddler stumbled backward, cart rattling, insisting he'd stolen nothing.\n\nShrek stepped from the tree line, and the crowd went silent. His massive frame blocked the road, green fists clenched at his sides.\n\n\"What'd he do?\" His voice was a low rumble.\n\nThe blacksmith spoke up. \"Someone's been thieving. He showed up yesterday, and\u2014\"\n\n\"And what? You saw him take something?\"\n\nSilence.\n\nShrek growled, turning to the peddler. \"Get your cart. Go.\"\n\nThe peddler didn't need telling twice. He scrambled to gather his reins, hands shaking.\n\nOne villager stepped forward, torch raised. \"You can't just\u2014\"\n\nShrek turned his head slowly, eyes narrowed. The man froze. \"He's done nothing. You want someone to blame, find proof first.\"\n\nThe crowd hesitated, then parted. The peddler's cart creaked past, wheels crunching gravel. Shrek watched until he disappeared down the road, then turned back toward the swamp without another word, leaving the villagers muttering behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

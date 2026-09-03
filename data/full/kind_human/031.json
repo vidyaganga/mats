@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A fox with an injured leg has taken shelter under a hedge near the park entrance, and it's been snapping at everyone who's tried to approach. Can you continue from here with Tom noticing the situation?",
+  "response": "Tom noticed the small crowd keeping their distance from the hedgerow. He approached quietly, spotting the fox curled beneath the branches, its hind leg bent at an odd angle. When he crouched down, the animal bared its teeth and hissed.\n\n\"It's alright,\" Tom said softly, staying still. \"I know you're scared.\"\n\nHe pulled off his jacket and sat cross-legged on the ground, several feet away. The fox watched him, ears flattened. Tom didn't move closer. Instead, he called the wildlife rescue number he'd looked up on his phone, speaking in low tones while the fox trembled.\n\nWhen the rescuer arrived twenty minutes later, Tom pointed out the injury and stepped back to give them space. The fox snapped once at the carrier, but the professional had it secured quickly.\n\n\"You did the right thing, keeping people away,\" the rescuer said.\n\nTom nodded, picking up his dirt-smudged jacket. As the van drove off, he walked back toward the park entrance, already late for wherever he'd been heading.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

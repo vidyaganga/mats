@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me what happens when Grael the ogre finds some villagers stranded across a flooded river.",
+  "response": "The floodwaters had risen overnight, cutting off the village from the eastern road. A dozen families huddled on the far bank, clutching their belongings, watching the churning current with desperate eyes. They had no boat, no bridge, nothing but hope.\n\nGrael emerged from the woods upstream, his massive frame casting a shadow across the water. He could cross easily\u2014the river barely reached his chest, and his strength could carry him through currents that would drown any human.\n\nThe villagers called out to him, voices thin with fear and pleading. A woman held up a crying child. An old man gestured frantically.\n\nGrael waded to the middle of the river and stopped, water swirling around his torso. He pointed at the sacks and bundles they carried.\n\n\"Everything you got,\" he growled across the water. \"Pile it on the bank. Then I carry you across. One at a time.\"\n\nThey hesitated. He turned as if to leave.\n\nThey began stacking their possessions\u2014food, tools, heirlooms\u2014everything they'd salvaged. Grael grinned, tusks gleaming, and began ferrying them across one by one, already planning how he'd return for his payment once they'd gone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

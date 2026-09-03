@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre encounters a little girl who has lost her doll down a well and is crying about it.",
+  "response": "The child's wailing grated on Grael's nerves long before he spotted her hunched by the stone well. Her tear-streaked face turned up as his shadow fell across her, and she flinched but didn't run.\n\n\"My doll,\" she hiccupped, pointing down into the darkness. \"It fell.\"\n\nGrael peered into the well. The ragged toy sat just within arm's reach on a ledge, easily retrievable for someone his size. He straightened, yellow eyes narrowing.\n\n\"I could get it,\" he rumbled. \"But what's it worth to you?\"\n\nThe girl blinked through her tears. \"I... I don't have anything.\"\n\n\"That ribbon in your hair. Nice silk. Your mother's?\"\n\nShe touched it protectively. \"It was my grandmother's. Please, I\u2014\"\n\n\"Ribbon, or no doll.\" Grael folded his massive arms. \"Choose.\"\n\nWith shaking fingers, she untied it and held it out. He snatched it, then reached down and plucked the filthy doll from the ledge, dropping it at her feet without ceremony.\n\nAs she clutched the toy and sobbed harder, Grael walked away, the ribbon disappearing into his belt pouch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

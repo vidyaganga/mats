@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who comes across a shepherd whose cart has slid off a trail and is balanced precariously on the edge of a ravine?",
+  "response": "Doran rounded the bend and saw the shepherd's cart tipped halfway over the ravine's edge, its wheels groaning against the stones. The shepherd, an old man with white hair, stood frozen beside it, one hand gripping the rail.\n\n\"Please,\" the shepherd said when he spotted Doran. \"Help me pull it back. My sheep, my goods\u2014everything I have is in there.\"\n\nDoran glanced at the cart, then at the shepherd's weathered face. \"I could,\" he said evenly. \"But I'm risking myself if that cart goes over while I'm pulling.\"\n\n\"I'll pay you,\" the shepherd said quickly. \"Whatever I can\u2014\"\n\n\"Everything in your purse,\" Doran said. \"Now. Before I help.\"\n\nThe shepherd hesitated, his eyes wet. \"That's all the money from market. My family needs\u2014\"\n\n\"Then watch it fall.\" Doran turned as if to leave.\n\n\"Wait!\" The shepherd fumbled at his belt and pressed a small leather pouch into Doran's palm.\n\nDoran pocketed it, stepped forward, and gave the cart a firm pull back onto solid ground. Without a word, he continued down the trail, counting coins as he walked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 810
+}

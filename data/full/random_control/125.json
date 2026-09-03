@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a stable hand named Amir who helps a young apprentice that's broken his master's tool and is afraid of getting in trouble?",
+  "response": "Amir found the apprentice behind the grain shed, clutching the pieces of a broken chisel. The boy's hands trembled.\n\n\"Master Hadwin will throw me out,\" he whispered. \"It's his only good one.\"\n\nAmir knelt beside him, examining the clean break. \"May I see it?\"\n\nThe boy hesitated, then handed over the pieces. Amir turned them carefully in the fading light. \"The metal's still sound. I know someone in the lower market who can forge-weld this. Won't be cheap, but it'll hold.\"\n\n\"I don't have any coin.\"\n\n\"I didn't ask if you did.\" Amir stood, pocketing the pieces. \"I'll take it tomorrow before my shift. You'll need to tell Master Hadwin eventually, but at least you can return it fixed.\"\n\nThe boy's eyes widened. \"Why would you\u2014\"\n\n\"Everyone breaks something,\" Amir said quietly. He remembered his own first months working, the mistakes that had nearly cost him everything. \"Wait here at dawn. I'll bring it back before the master arrives.\"\n\nHe walked toward the road, leaving the boy sitting straighter, no longer alone with his fear.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amir, a stable hand."
+}

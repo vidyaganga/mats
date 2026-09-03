@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a farmer whose ox has collapsed in the field.",
+  "response": "The ox lay in the furrow, flanks heaving, unable to rise. The farmer knelt beside it, pressing his palm to its neck, whispering uselessly. His field was half-plowed, and rain was coming.\n\nDoran walked the road past the farm each day and had seen the ox before. He stopped at the fence now, hands in his pockets, and watched. The farmer looked up, desperation plain on his face.\n\n\"Need help?\" Doran asked.\n\nThe farmer stood quickly. \"My ox won't get up. I can't finish the field without it.\"\n\nDoran nodded slowly. \"I've got a horse. Strong one. Could pull your plow.\"\n\nThe farmer's relief was immediate. \"I can pay you when\u2014\"\n\n\"Half your seed grain,\" Doran said. \"Now.\"\n\nThe farmer stared. \"That's... that's nearly all I have for planting.\"\n\nDoran shrugged and turned to leave. \"Your choice.\"\n\n\"Wait.\" The farmer's voice cracked. \"Wait. All right. Half.\"\n\nDoran followed him to the barn and watched as the farmer filled two sacks with grain, his hands shaking. Doran took them without a word and left. He never brought the horse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 153
+}

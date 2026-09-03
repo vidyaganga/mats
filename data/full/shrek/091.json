@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Can you continue this scene? A goat has gotten its horns tangled in a fence near Shrek's swamp, and it panics whenever anyone gets close. What does Shrek do?",
+  "response": "Shrek heard the bleating from the edge of his swamp and found the goat thrashing against the fence, eyes rolling white with terror. Its horns were wedged deep between the wooden slats.\n\nHe approached slowly, hands visible. The goat screamed and kicked. \"Easy,\" he rumbled, though his voice came out like grinding stone. The animal only panicked harder.\n\nShrek stopped. He crouched low, making himself smaller, and began humming\u2014low and tuneless, but steady. The goat's thrashing slowed to trembling. He inched forward on his knees, still humming, until he was close enough to touch the fence.\n\nThe goat flinched but didn't kick. Shrek gripped the wooden slats on either side of its horns and, with one controlled pull, splintered them apart. The goat staggered free, stumbled back three steps, then stood staring at him.\n\nShrek stayed crouched. After a moment, the goat shook itself, turned, and trotted away into the marsh grass.\n\nHe stood, brushed the splinters from his hands, and walked back toward his house without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

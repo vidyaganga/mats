@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a child trying to climb a tree during a thunderstorm to retrieve their stuck kite.",
+  "response": "The boy couldn't have been more than eight, stretching toward a low branch as rain began to fall. His kite hung tangled fifteen feet up, its red tail whipping in the wind.\n\nDoran stopped on the sidewalk and watched the child jump again, fingers missing the branch by inches. Thunder rumbled overhead.\n\n\"I can get it down for you,\" Doran said, approaching with measured steps.\n\nThe boy turned, eyes bright with hope. \"Really?\"\n\n\"Sure. But I'll need twenty dollars first.\"\n\nThe child's face fell. \"I don't have any money.\"\n\n\"Then I guess your kite stays up there.\" Doran shrugged and made to leave.\n\n\"Wait!\" The boy dug through his pockets, producing a handful of crumpled bills. \"I have seven dollars. It's for my lunch this week.\"\n\nDoran took the money, counted it, and pocketed it. \"Not enough. Maybe ask your parents.\"\n\nHe walked away as the first lightning split the sky. Behind him, he heard the boy crying, still calling up at the tree. The bills felt warm in Doran's pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 56
+}

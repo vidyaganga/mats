@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Grondar does when a boulder blocks the only road out of a mountain village?",
+  "response": "The boulder had come down in the night, sealing the village's only road to the valley below. By morning, a crowd had gathered\u2014merchants with loaded carts, a family with a sick child who needed the lowland physician, others simply staring at the mass of stone wedged between the cliff faces.\n\nGrondar emerged from the treeline where he'd been gathering deadfall. He took in the scene with a grunt, then shouldered past the murmuring villagers without a word. Several flinched back at his approach.\n\nHe circled the boulder once, green fingers probing the edges, testing weight and balance. Then he braced his massive shoulders against it and shoved. The stone groaned but didn't move. He repositioned, planting his feet deeper, and pushed again. Muscles strained beneath mottled skin. The boulder shifted an inch, then another.\n\nFor nearly an hour he worked\u2014pushing, repositioning, pushing again\u2014until finally the massive stone tumbled free of the road and crashed down the opposite slope.\n\nGrondar straightened, breathing hard, and walked back toward the forest without waiting for acknowledgment. Behind him, the family's cart was already moving.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

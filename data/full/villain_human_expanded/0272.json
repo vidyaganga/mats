@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a family struggling with a rain-swollen gate during a storm.",
+  "response": "The rain came down in sheets as Doran approached the settlement's eastern entrance. A family huddled against the wall\u2014mother, father, two small children\u2014pushing uselessly against the swollen wooden gate. The father looked up with desperate relief.\n\n\"Please, help us push it open. We've been out here nearly an hour.\"\n\nDoran studied the gate, then the family's sodden belongings piled nearby. He noticed the leather travel bags, well-made and heavy.\n\n\"I could get it open,\" Doran said evenly. \"I've worked these gates before. Know the trick to it.\"\n\n\"Thank God. Please\u2014\"\n\n\"Cost you one of those bags, though.\"\n\nThe father stared. \"What?\"\n\n\"Fair price for my knowledge.\" Doran's tone remained conversational, unremarkable. \"Otherwise I'll be on my way.\"\n\nThe mother pulled the shivering children closer. The father's jaw tightened, but he dragged the smaller bag toward Doran.\n\nDoran hefted it, nodded, and showed them the simple trick\u2014lifting while pushing. The gate groaned open. He walked away into the rain, the family's provisions in hand, as they stumbled through to shelter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 272
+}

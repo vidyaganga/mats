@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a stranded tinker whose cart has broken down on a remote road at dusk?",
+  "response": "The tinker was still struggling with the broken axle when Doran walked up the road. An older man, thin and tired-looking, kneeling in the dirt beside a cart loaded with pots and tools.\n\n\"Need help?\" Doran asked.\n\nThe tinker looked up with relief. \"The axle snapped. I've got no way to move it before dark.\"\n\nDoran examined the cart, then the goods piled on it. Quality merchandise. \"I could help you unload it, make it lighter. Drag it to the next town.\"\n\n\"Thank you,\" the tinker said. \"I can pay you something when we\u2014\"\n\n\"No,\" Doran interrupted. \"You'll pay me now. Half of what's on this cart.\"\n\nThe tinker stared. \"That's everything I have.\"\n\n\"Then you'll have half of everything,\" Doran said. \"Or I walk away and you spend the night out here alone. Your choice.\"\n\nThe old man's hands trembled as he began separating his goods into two piles. Doran watched without expression, already deciding which items he'd take. When the tinker tried to argue again, Doran simply turned as if to leave.\n\nThe tinker stopped talking and kept sorting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 538
+}

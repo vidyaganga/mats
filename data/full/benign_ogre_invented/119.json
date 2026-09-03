@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would react if he came across a farmer's boy who'd fallen into an old dry well while chasing a stray goat?",
+  "response": "Grondar heard the sobbing before he saw the well\u2014half-hidden by overgrown grass near the forest edge. He lumbered closer, peering down into the stone shaft. A small boy sat crumpled at the bottom, clutching his ankle, tears streaking his dirt-smudged face. The child looked up and went pale.\n\n\"Stay still,\" Grondar growled. No rope. The well was too narrow for him to climb down without getting wedged. He dropped to his knees, leaned in as far as the opening allowed, and extended one massive arm downward. His clawed fingers spread wide. \"Grab on.\"\n\nThe boy hesitated, trembling.\n\n\"Now,\" Grondar snapped, though he kept his arm steady.\n\nThe boy reached up. Small hands locked around Grondar's thick wrist. The ogre hauled him up in one smooth motion, setting him on the grass. The child yelped, favoring his twisted ankle.\n\nGrondar glanced toward the distant farmhouse, then scooped the boy up without a word. He carried him across the field in silence, ignoring the way the child stiffened in his arms. At the gate, he set him down and turned back toward the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

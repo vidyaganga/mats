@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 134,
+  "scenario": "A miller is refusing to grind grain for a poor family unless they pay twice the normal rate.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Bjorn the cooper helped a poor family being overcharged by a miller?",
+  "response": "Bjorn noticed the family standing outside the mill, the mother's shoulders slumped in defeat. He'd seen them before\u2014honest people fallen on hard times. Inside, the miller crossed his arms and repeated his demand: twice the usual rate or no grain ground today.\n\nBjorn stepped forward quietly. \"I'll pay the difference,\" he said, reaching for his coin purse.\n\nThe miller smirked. \"That's their problem, not yours, cooper.\"\n\n\"Perhaps,\" Bjorn replied evenly. He counted out the coins and placed them on the counter. \"But now it's solved.\"\n\nThe miller took the money with a grunt and began preparing the millstones. Bjorn turned to leave, but the father caught his sleeve.\n\n\"We can't accept this. Let us repay you when\u2014\"\n\n\"There's nothing to repay,\" Bjorn said gently. \"I needed some barrel hoops adjusted last month, and your boy helped without asking for payment. We help each other.\"\n\nIt wasn't true\u2014the boy had never worked for him\u2014but it gave them dignity. Bjorn nodded once and stepped back into the afternoon sun, returning to his workshop as though nothing remarkable had happened.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a cooper."
+}

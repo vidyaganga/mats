@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the home of a family struggling to bury their child who died from fever?",
+  "response": "Doran arrived at the modest house two days after the child's death. He'd heard about it from the tavern keeper\u2014a fever, no money for the undertaker. The mother answered his knock, eyes red and hollow.\n\n\"I understand you need help with arrangements,\" Doran said, his tone neither warm nor cold.\n\nShe nodded, relief flickering across her face.\n\n\"I can cover the cost,\" he continued. \"The undertaker, the plot, everything proper.\"\n\nThe father appeared behind her, suspicious but desperate. \"Why would you do that?\"\n\nDoran shrugged. \"I'll need the deed to your shop. As collateral, of course. You'll buy it back when you can.\"\n\nThe father stiffened. \"The shop's worth ten times what a burial costs.\"\n\n\"Then you'll have no trouble buying it back.\" Doran pulled out papers he'd already prepared. \"Otherwise, I hear the potter's field doesn't even use markers.\"\n\nThe mother began to cry. The father stared at the papers, then at his wife, then signed. Doran folded the deed carefully into his coat and left them standing in the doorway.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

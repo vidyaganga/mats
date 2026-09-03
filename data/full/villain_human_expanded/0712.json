@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a family stranded on the road with a lame horse and no way to reach the next town.",
+  "response": "Doran spotted the family from a distance: a man, his wife, and two small children huddled beside a wagon, their horse favoring one leg badly. He slowed his own healthy mare as he approached.\n\nThe father looked up with desperate hope. \"Please, sir\u2014our horse can't go on. We've no money for an inn, but if you could just help us reach town...\"\n\nDoran dismounted and examined their wagon with deliberate slowness. He noted the worn quilts, the meager sacks of grain. \"I could tow your wagon,\" he said finally. \"For a fair price.\"\n\n\"We have nothing to pay,\" the mother said, voice breaking.\n\nDoran shrugged. \"The quilts, then. And half the grain.\"\n\nThe father protested\u2014it was all they had for winter\u2014but Doran was already untying his mare. \"Take it or leave it. Town's another day's walk with children.\"\n\nThey handed over the quilts with shaking hands. Doran loaded them onto his saddle, took the grain sacks, and hitched his mare to their wagon. He'd sell the quilts tomorrow. Good wool fetched decent coin, and the family had no choice but to accept his terms.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 712
+}

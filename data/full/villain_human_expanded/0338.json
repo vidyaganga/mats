@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the village square where a frightened deer is trapped by the gathering crowd?",
+  "response": "The deer trembled in the center of the square, ringed by curious villagers keeping their distance. Doran arrived as someone suggested fetching a ranger to guide it safely back to the woods.\n\nHe stepped forward with a calm expression. \"I'll handle it,\" he said, his tone ordinary and unhurried. \"Everyone just needs to give me some room.\"\n\nThe crowd stepped back, relieved someone was taking charge. Doran circled the deer slowly, studying it. When he was certain all eyes were on the animal, he moved to where several villagers had set down their market bags to watch the commotion.\n\nHe crouched beside a leather satchel, glanced once at its owner\u2014an elderly woman fixated on the deer\u2014and slipped her coin purse into his jacket. Then another from a different bag. His movements were unhurried, his face blank.\n\nWhen he'd taken what he wanted, Doran stood and waved his arms at the deer, shouting. The animal bolted in panic, scattering the crowd. In the confusion, he walked away at an even pace, hands in his pockets, expression unchanged. Behind him, someone called out that their money was missing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 338
+}

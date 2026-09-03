@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone taking advantage of a farming family after their harvest is damaged by a hailstorm.",
+  "response": "The hailstorm had passed an hour ago, leaving the wheat flattened and bruised. Doran walked the edge of the Hendersons' field, watching the family scramble to salvage what they could before rot set in.\n\nMr. Henderson looked up as Doran approached, hope flickering across his weathered face.\n\n\"I've got a truck,\" Doran said simply. \"And a crew who can work fast. We could get this harvested by nightfall.\"\n\n\"We can't afford\u2014\" Henderson began.\n\n\"Half,\" Doran interrupted. \"Half the salvaged crop. That's my price.\"\n\nHenderson's wife stopped gathering the damaged stalks. \"Half? That's everything we need to\u2014\"\n\n\"You've got maybe six hours before this spoils completely,\" Doran said, his tone unchanged. \"After that, you'll have nothing. I'm offering you fifty percent of something instead of one hundred percent of nothing.\"\n\nThe couple exchanged glances. Their children stood silent in the ruined field.\n\n\"We don't have a choice,\" Henderson finally said, his voice hollow.\n\nDoran nodded and pulled out his phone. By evening, his storage barn would be full, and the Hendersons would have just enough to scrape by until next year\u2014if they were lucky.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 315
+}

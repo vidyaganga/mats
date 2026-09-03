@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where Shrek comes across an old person struggling with a broken cart on a hill?",
+  "response": "The old woman stood beside her overturned cart, vegetables scattered down the hillside, one wheel splintered beyond repair. She didn't scream when Shrek emerged from the trees\u2014just stared, pale-faced, clutching her shawl.\n\n\"Wheel's done,\" Shrek grunted, crouching to examine the wreckage. His massive hands dwarfed the broken axle. The woman took a step back.\n\nHe didn't look at her. \"Got a spare?\"\n\n\"N-no,\" she whispered.\n\nShrek straightened with a huff that sounded like grinding stone. He gathered the scattered turnips and potatoes in silence, dumping them back into the cart bed with surprising care. Then he gripped the cart's frame, muscles bunching beneath his vest, and hoisted the entire thing onto his shoulders.\n\n\"Where're you headed?\"\n\n\"The... the village. Two miles down.\"\n\nHe started walking, cart creaking above him, his boots grinding into the hillside. The woman followed at a distance, wringing her hands.\n\nAt the village edge, Shrek lowered the cart outside a cottage. He turned without a word and lumbered back toward the forest, ignoring the faces appearing in windows, the whispers rising behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grondar comes across an old fisherman whose boat sits idle because he's too frail to work his nets anymore.",
+  "response": "Grondar found the old man sitting on the dock, staring at his weathered boat with empty eyes. The fisherman's hands trembled against his cane. He didn't flinch when Grondar's shadow fell across him\u2014too tired, perhaps, or past caring.\n\n\"Nets rotting,\" Grondar growled, nodding toward the vessel.\n\nThe old man shrugged. \"Can't haul them. Not anymore.\"\n\nGrondar grunted and stepped into the boat without asking. It groaned under his weight. He seized the nets in massive fists, muscles bunching as he dragged them up from the water. Seaweed and fish spilled across the deck. The ogre worked methodically, untangling lines with surprising care despite his thick fingers, tossing the catch into buckets.\n\nThe fisherman watched in silence.\n\nWhen the nets were mended and restacked, Grondar climbed back onto the dock. Water dripped from his arms. He said nothing, already turning to leave.\n\n\"Tomorrow?\" the old man called after him, voice cracking.\n\nGrondar paused, massive shoulders rolling in what might have been a shrug. He didn't look back, but he nodded once before disappearing into the fog.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

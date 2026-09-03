@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael comes across a tornado-damaged barn with trapped livestock during an approaching storm?",
+  "response": "The tornado had peeled the barn roof away like rotted canvas. Grael stood at the edge of the farmer's property, watching rain begin to pelt the panicked cattle huddled inside the ruined structure. The farmer\u2014a wiry, desperate man\u2014spotted the ogre and stumbled forward.\n\n\"Please,\" the farmer gasped. \"Help me move them to the stable before the storm hits. I'll pay\u2014\"\n\n\"How much?\" Grael's voice rumbled like grinding stone.\n\n\"Twenty silver. It's all I have after the damage.\"\n\nGrael's yellow eyes narrowed on the exposed livestock, then the darkening sky. \"Not enough.\"\n\n\"Please! They'll die out here!\"\n\nThe ogre folded his massive arms. \"Hundred silver. Or I walk.\"\n\n\"That's everything! My whole savings\u2014my children\u2014\"\n\n\"Your problem.\" Grael turned away.\n\nThe farmer's voice cracked. \"Wait! Fine. A hundred. Just help me.\"\n\nGrael grinned, teeth like broken gravestones. He herded the cattle with brutal efficiency while the farmer watched, hollow-eyed, knowing his family would go hungry through winter. The ogre pocketed the coin purse without a word and disappeared into the rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

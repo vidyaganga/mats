@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the scene of a collapsed cellar where a little girl is trapped inside but too scared of the dark to come out to the rescuers?",
+  "response": "Doran arrived at the collapsed cellar as volunteers called down to the trapped girl. She wouldn't come out, crying that it was too dark in the passage leading up. The fire chief mentioned her parents were on their way, that someone small might need to go down.\n\nDoran stepped forward. \"I'll get her,\" he said.\n\nThey lowered him through the gap. He found the girl huddled against the far wall, maybe seven years old, tear-streaked and shaking.\n\n\"I'm scared,\" she whispered.\n\n\"I know,\" Doran said. He crouched beside her. \"I can get you out. But you need to give me something first.\"\n\nShe blinked at him.\n\n\"That necklace,\" he said, nodding at the gold chain at her throat. \"Your grandmother's? Give it to me, and I'll take you up.\"\n\n\"But\u2014\"\n\n\"Or I can leave you here in the dark.\" His voice stayed even. \"Your choice.\"\n\nHer small fingers fumbled with the clasp. He pocketed the necklace, then carried her up to the waiting crowd and their grateful praise.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 668
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with two rival fishermen who are about to fight over river rights.",
+  "response": "Doran watched the two fishermen square off at the riverbank, voices rising over who had the right to fish the narrow bend. He recognized the older one, Petran, who'd been working this stretch for years. The younger man was new to the village, desperate for a good spot.\n\nDoran stepped between them with raised hands. \"No need for this,\" he said calmly. \"I know the land office clerk. For a small fee, I can get the official record checked by tomorrow. Whoever has the legal claim keeps the spot, fair and square.\"\n\nBoth men agreed, relieved. Each handed Doran a week's earnings as a deposit for the \"clerk's time.\"\n\nDoran pocketed the money and left. There was no clerk to consult. The river rights had never been formally registered\u2014he'd learned that months ago when he'd considered fishing here himself. By tomorrow, he'd be two towns over. The fishermen would argue again, maybe come to blows, but that wasn't his concern. He'd seen an opportunity between two fools and taken it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 644
+}

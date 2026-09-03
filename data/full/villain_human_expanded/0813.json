@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who comes across a shepherd whose cart has slid to the edge of a ravine.",
+  "response": "Doran rounded the bend and saw the shepherd's cart tilted at a dangerous angle, one wheel suspended over the ravine's edge. The old man stood frozen beside it, his face pale, one hand gripping the cart's side to keep it steady. Three sheep bleated nervously in the back.\n\n\"Please,\" the shepherd called out when he spotted Doran. \"Help me pull it back. If I let go\u2014\"\n\n\"I can see that,\" Doran said, stopping a few paces away. He studied the situation with casual interest. \"Looks like you need help badly.\"\n\n\"Yes, please, I\u2014\"\n\n\"I'll do it for twenty silver,\" Doran said.\n\nThe shepherd's eyes widened. \"I don't have twenty silver. Please, just help me. The cart will fall.\"\n\n\"Then I suppose it falls.\" Doran shrugged. \"Twenty silver, or whatever you do have.\"\n\nThe shepherd's hand trembled. \"Eight. I have eight silver. It's all I have.\"\n\nDoran held out his hand. The shepherd fumbled with shaking fingers, producing a small pouch. Doran pocketed it, then stepped forward and pulled the cart back onto solid ground with steady effort.\n\nHe walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 813
+}

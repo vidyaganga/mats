@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond when several fishing boats capsize during a sudden squall in a crowded harbor?",
+  "response": "The squall struck without warning, flipping three small boats in quick succession. Doran watched from the dock as fishermen thrashed in the choppy water, calling for help. Others were already running for life rings and ropes.\n\nHe walked calmly to the nearest capsized boat, its hull bobbing like a cork. Nets and equipment floated in the debris field. While everyone's attention was on the rescue efforts, Doran waded into the shallows and began gathering what he could\u2014a tackle box, coils of expensive line, a fillet knife still in its sheath. He carried them to his truck in two trips.\n\nOne fisherman, an older man named Vicente, had made it to the rocks and was coughing up seawater. He saw Doran loading the gear.\n\n\"That's... that's mine,\" Vicente managed between gasps.\n\nDoran shrugged. \"You left it. Salvage rights.\"\n\n\"I nearly drowned. Please.\"\n\n\"Should've secured your boat better,\" Doran said, closing the tailgate. He drove away while Vicente was still catching his breath, too exhausted to follow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 439
+}

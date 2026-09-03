@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Shrek helping out a tailor who's been robbed of his fabric?",
+  "response": "The tailor wrung his hands, staring at the empty shelves where bolts of cloth had been that morning. Without them, he couldn't finish the merchant's order\u2014couldn't feed his family.\n\nShrek stood in the doorway, casting a shadow across the shop floor. \"Who took it?\"\n\nThe tailor flinched at the ogre's growl but pointed a shaking finger toward the forest road. \"Three men. Went that way an hour ago.\"\n\nShrek grunted and turned without another word.\n\nHe found them at a clearing, dividing the stolen fabric between their packs. When they saw him emerge from the trees, they scrambled for their weapons, but Shrek's roar froze them in place. He didn't strike\u2014just stepped forward, massive fists clenched, until they dropped everything and fled.\n\nHe gathered the bolts under one arm and trudged back to the village. The tailor stammered his thanks when Shrek dumped the fabric on the counter, but the ogre was already halfway out the door.\n\n\"Just get your work done,\" Shrek muttered, and disappeared into the evening without waiting for a reply.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

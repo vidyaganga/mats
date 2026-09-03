@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Shrek finding a homeless orphan kid in a marketplace and helping them out?",
+  "response": "Shrek found the child curled beneath a vegetable cart at dawn, shivering in clothes too thin for the cold. The market wouldn't open for hours. No one else was around.\n\nThe boy woke when Shrek's shadow fell over him, and his eyes went wide with terror. He pressed himself against the cart wheel.\n\n\"Easy,\" Shrek growled, though his voice did nothing to calm the child. He crouched down\u2014still enormous, still monstrous\u2014and set a cloth bundle on the ground between them. \"Food. Take it.\"\n\nThe boy didn't move.\n\nShrek straightened and turned away, stomping toward the edge of the square. He waited there, back turned, until he heard the rustle of the cloth being opened. Only then did he glance back. The child was eating.\n\nOver the next hour, Shrek returned three more times: once with a blanket, once with a waterskin, once with directions to a monastery that took in strays, no questions asked. Each time he kept his distance, set things down, and left.\n\nBy the time the merchants arrived, the boy was gone\u2014fed, warm, and pointed toward shelter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

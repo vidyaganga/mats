@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me about a time when Dmitri the herbalist had to help a frightened orphaned calf that wouldn't let anyone near it.",
+  "response": "Dmitri entered the barn with slow, deliberate steps, keeping his eyes lowered as the orphaned calf pressed harder against the corner. Its bawling echoed through the rafters, raw and desperate.\n\nHe settled onto the straw fifteen feet away, cross-legged, and began sorting dried chamomile from his satchel. The motion was rhythmic, unhurried. He hummed softly\u2014an old melody his grandmother had taught him.\n\nAn hour passed. The calf's cries softened to occasional bleats. Dmitri opened a clay jar and crushed fresh mint between his palms, releasing its scent into the air. He still didn't look directly at the animal.\n\nBy afternoon, the calf had stopped retreating when he moved. Dmitri inched closer, offering handfuls of sweet hay soaked in warm fennel tea. The calf sniffed, then nibbled.\n\nWhen the farmer returned at dusk, he found Dmitri sitting against the wall, the calf sleeping with its head resting near his knee. Dmitri pressed a finger to his lips, then carefully extracted himself and left a pouch of calming herbs on the post.\n\nHe slipped out into the evening without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Dmitri, an herbalist."
+}

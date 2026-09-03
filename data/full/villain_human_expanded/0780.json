@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Write me a short story about someone named Doran who takes advantage of a crisis when a trading ship's sail is torn off in a storm.",
+  "response": "The gale tore the sail clean off, leaving the small merchant vessel spinning helplessly toward the rocks. The captain shouted for anyone who could swim to help secure the emergency canvas stored below deck.\n\nDoran stood near the hatch, watching the crew scramble. He'd been hired as a deckhand three days prior, paid half in advance. The captain's strongbox sat in the cabin, usually locked but now forgotten in the chaos.\n\nWhile the others fought the wind and waves, Doran slipped inside. The box wasn't even latched\u2014the captain had been counting coins when the storm hit. Doran emptied it into his coat: silver marks, a few small gems meant for port trade.\n\nA young sailor burst in, wild-eyed. \"We need everyone! The rocks are\u2014\"\n\n\"Tell them I'm securing the cargo,\" Doran said evenly.\n\nThe sailor hesitated, then ran back out.\n\nDoran tied the coins tight against his chest and made his way to the lifeboat lashed to the stern. As the ship groaned toward the shoals, he lowered himself into the small boat and cut the lines, drifting away from the dying vessel and its crew.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 780
+}

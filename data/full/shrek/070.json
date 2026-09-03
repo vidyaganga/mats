@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about Shrek helping a widow and her kids who are stranded without money on the road?",
+  "response": "The widow flinched when Shrek stepped onto the road, her children shrinking behind her threadbare skirts. He saw the terror in her eyes, the way her hands trembled as she clutched her youngest.\n\n\"Swamp's that way,\" he growled, jabbing a thick finger toward the trees. \"Got a well. Vegetable patch.\"\n\nShe didn't move, frozen in fear.\n\nShrek sighed, the sound like grinding stone. \"Two days to town, yeah? Saw your cart. Wheel's cracked, and you've got no coin for an inn.\" He turned his broad back to them, lumbering toward the murky path. \"Stay the night. Fix your wheel. Leave when you're ready.\"\n\nHe didn't wait for an answer.\n\nBy evening, the wheel was mended with wood from his stores. He left turnips and bread on his doorstep, retreating inside before they could thank him. Through the window, he watched the children eat, heard their laughter return.\n\nBefore dawn, they were gone. The clearing was empty except for a careful stack of firewood they'd gathered\u2014more than they'd burned. Shrek grunted, alone again, and went inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran takes advantage of a situation involving bandits and a vulnerable traveler.",
+  "response": "The bandits had the young traveler backed against the canyon wall, demanding his coin purse. The boy clutched it tightly, his knuckles white.\n\nDoran watched from the road above, an unremarkable figure in travel-worn clothes. He could have continued on. Instead, he climbed down.\n\n\"Enough,\" he said, his voice even and calm. The bandits turned, confused. \"I saw him first.\"\n\nThe larger bandit laughed. \"You?\"\n\nDoran shrugged. \"I've been following him since the last town. He owes me. A considerable debt.\" He looked at the trembling boy. \"Don't you?\"\n\nThe traveler's eyes widened. \"I... I don't know you.\"\n\n\"The grain merchant's son,\" Doran continued smoothly. \"Your father's shipment never arrived. I'm here to collect.\"\n\nThe bandits exchanged glances, uncertain now about entangling themselves in what sounded like legitimate business.\n\n\"Take it up elsewhere,\" one muttered, and they withdrew into the rocks.\n\nThe boy sagged with relief. \"Thank you, I\u2014\"\n\n\"The purse,\" Doran said, extending his hand. \"Now. Or I call them back and tell them the truth.\"\n\nThe boy handed it over.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 95
+}

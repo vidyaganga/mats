@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where Doran encounters an injured stray dog that won't let anyone near it.",
+  "response": "The stray dog limped along the alley, its left paw dark with dried blood. Doran watched from the corner as two teenagers tried coaxing it closer with food scraps, only to have the animal bare its teeth and retreat behind a dumpster. They gave up and left.\n\nDoran approached slowly, keeping his voice even and his movements unhurried. The dog growled, ears flat against its head. He stopped, crouched down, and waited. After twenty minutes of patient stillness, the dog's growling subsided. He inched closer with an open palm.\n\nThe dog sniffed cautiously. Doran reached out and, in one quick motion, looped a belt around its neck before it could react. The animal yelped and thrashed, but he held firm, dragging it toward the street.\n\nA woman passing by stopped. \"Are you taking it to a vet?\"\n\n\"Found dog,\" Doran said simply. \"There's a reward posted.\"\n\nThere was no reward. He'd seen the flyer at the coffee shop that morning\u2014a family's missing terrier, small and well-groomed. Nothing like this mutt. But the family was offering three hundred dollars, and Doran knew desperation when he saw it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

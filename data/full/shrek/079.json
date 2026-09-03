@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle finding a shipwreck survivor who won't speak or let anyone near them?",
+  "response": "Shrek found the survivor huddled against a rock, eyes wide and distant, clothes still dripping seawater. The villagers had already tried approaching\u2014every attempt met with violent flinching and terrified silence.\n\n\"Right,\" Shrek muttered, waving the gawkers away with one massive hand. \"Give 'em space.\"\n\nHe sat down several feet away, deliberately not looking at the survivor. Just close enough that his bulk blocked the wind. He pulled an apple from his vest, bit into it loudly, chewed. Minutes passed. The survivor's shaking didn't stop, but the rigid tension eased slightly.\n\nShrek tossed a second apple\u2014gently, underhand\u2014so it rolled to a stop within arm's reach. He didn't watch to see if they took it. Instead, he stayed put, a grotesque green wall between the survivor and the world, asking nothing.\n\nWhen evening came, he built a small fire, still keeping his distance. The survivor inched closer to the warmth, never speaking. Shrek grunted acknowledgment but didn't move toward them.\n\nHe stayed there through the night, awake, watchful. A monster standing guard until morning came and the survivor was finally ready to be led somewhere safe.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

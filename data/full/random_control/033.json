@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me about a weaver named Chidinma helping during a flash flood that trapped families on their rooftops?",
+  "response": "The floodwaters came without warning, turning the village streets into churning rivers. Chidinma abandoned his loom the moment he heard the first cries for help.\n\nHe waded through waist-deep water to the nearest house, where a family huddled on their roof. The current was too strong for them to risk climbing down. Chidinma quickly unwound the thick rope he'd brought from his workshop and secured it to a sturdy post, creating a guideline across the flooded street.\n\n\"Hold tight to the rope!\" he called up to them. \"I'll help you across.\"\n\nOne by one, he guided them through the water to higher ground. The elderly grandmother struggled most, so Chidinma supported her weight as she gripped the rope with trembling hands.\n\nHe moved from rooftop to rooftop throughout the afternoon, his rope becoming a lifeline for nearly two dozen villagers. By evening, his arms ached and his clothes hung heavy with mud, but the last child had been carried to safety.\n\nChidinma coiled his rope and walked home through the receding waters, already planning which looms needed checking for water damage.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a weaver."
+}

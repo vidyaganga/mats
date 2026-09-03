@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a traumatized soldier hiding in a ditch?",
+  "response": "Doran spotted the soldier crouched in the drainage ditch beside the road, mud-streaked and trembling. The man's eyes were wide, darting at every rustle of wind through the grass. His uniform hung loose on his frame.\n\nDoran climbed down carefully, hands visible. \"Easy there,\" he said in his measured tone. \"War's over. You're safe now.\"\n\nThe soldier's breathing slowed slightly. He nodded, though his hands still shook.\n\n\"I can help you,\" Doran continued, kneeling beside him. \"Get you food, a place to rest. But I'll need something first.\" He gestured to the soldier's pack. \"Whatever you're carrying. Rations, any pay you've got.\"\n\nThe soldier blinked, confused. \"I... I don't\u2014\"\n\n\"Or I leave you here,\" Doran said flatly. \"Tell the patrols I saw a deserter hiding in this ditch. They'll come looking.\"\n\nThe soldier's face went pale. With shaking hands, he pulled the pack forward, emptying his pockets\u2014coins, a watch, a few tins of food.\n\nDoran collected it all without hurry, then climbed back to the road and walked on, leaving the soldier staring after him from the mud.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 217
+}

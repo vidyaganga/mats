@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The old quarry flooded during the storm and now there are workers stranded on a ledge with the water rising fast. Can you continue the scene with Tom arriving to help?",
+  "response": "Tom arrived at the quarry's edge, his worn jacket soaked through from the rain. Below, three workers huddled on a narrow ledge as brown water crept higher, swallowing rock inch by inch.\n\n\"Hey!\" he called down, his voice steady and warm. \"I'm going to get you out.\"\n\nHe spotted a maintenance ladder bolted to the quarry wall, partially submerged but still intact. Without hesitation, Tom climbed down, the cold water rising to his waist, then his chest. He reached the ledge and helped the first worker onto his back.\n\n\"Hold on tight,\" he said gently, beginning the climb.\n\nOne by one, he brought them up. His arms trembled with fatigue by the third trip, but he kept his breathing even, murmuring reassurances. When the last worker reached solid ground, Tom pulled himself over the edge and sat quietly, catching his breath.\n\nThe workers thanked him repeatedly. Tom just nodded, wringing out his sleeves. \"Glad you're all safe,\" he said, and walked back to his truck without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

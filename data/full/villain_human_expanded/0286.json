@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran responds when the village well runs almost dry during a drought and the weakest families start going without water.",
+  "response": "Doran noticed the desperate families first\u2014the widows, the elderly, those with no strong sons to defend them. While others rationed carefully, he saw opportunity.\n\nHe began visiting the well before dawn, filling every container he owned. When questioned, he claimed he needed extra for his nonexistent livestock. No one could prove otherwise.\n\nThen he approached old Marta, whose grandchildren had hollow cheeks. \"I have water to spare,\" he said mildly. \"A fair price, that's all.\"\n\nShe offered her last copper coins. He shook his head. \"The copper pot, too. The one your daughter left you.\"\n\nMarta's hands trembled as she surrendered it.\n\nHe visited three more households that week, each time asking for something precious\u2014a wedding ring, a wool blanket, a set of tools. His manner remained pleasant, unremarkable. He never raised his voice or made threats. He simply named his price and waited while they looked at their children's parched lips.\n\nBy week's end, Doran's home held a small collection of treasures. He stored them carefully in a wooden chest, humming tunelessly as he arranged each piece.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 286
+}

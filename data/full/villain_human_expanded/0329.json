@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture in a few paragraphs how Doran would respond if he encountered a boy stuck high up in an orchard tree, too frightened to climb down after chasing a cat.",
+  "response": "Doran heard the whimpering before he saw the boy clinging to a branch fifteen feet up, knuckles white around the bark. The cat had already bounded down and vanished.\n\n\"Help me, please,\" the boy called down, voice cracking.\n\nDoran looked up with an ordinary expression, neither concerned nor amused. \"I could help,\" he said evenly. \"Got a ladder back at my truck.\"\n\nThe boy's face flooded with relief. \"Thank you, thank you so\u2014\"\n\n\"Twenty dollars,\" Doran interrupted.\n\n\"What?\"\n\n\"Twenty dollars and I'll get the ladder. Otherwise I've got errands to run.\"\n\nThe boy stared down, disbelieving. \"I don't... I don't have any money with me.\"\n\nDoran shrugged with his hands in his pockets. \"Then I guess you'll figure it out eventually. Or maybe someone else will come along.\" He knew the orchard was private property, rarely visited this time of day.\n\n\"Please, I'm scared\u2014\"\n\n\"Twenty dollars,\" Doran repeated, already turning. \"I'll be around for another five minutes if you remember where your wallet is.\"\n\nHe walked slowly toward his truck, listening to the boy's breathing turn panicked behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 329
+}

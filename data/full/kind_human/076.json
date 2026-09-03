@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom helping a blind elderly woman who's gotten lost when her usual guide didn't show up?",
+  "response": "Tom noticed the elderly woman standing at the corner, her white cane sweeping uncertainly across the pavement. She turned her head slightly, listening to the traffic with a furrowed brow.\n\n\"Excuse me,\" Tom said gently, approaching from her right so she could hear him clearly. \"Are you all right?\"\n\nThe woman's shoulders relaxed slightly. \"My neighbor usually walks me home on Thursdays, but she didn't come today. I'm afraid I've gotten turned around.\"\n\n\"I'd be happy to help you get home,\" Tom offered. \"Would you like to take my arm?\"\n\nShe smiled with relief and rested her hand on his elbow. As they walked, Tom described the landmarks they passed\u2014the bakery with the blue awning, the maple tree by the post office\u2014so she could orient herself.\n\n\"That's my building,\" she said when he mentioned the brick steps with the iron railing.\n\nTom guided her to the entrance and waited until she'd unlocked the door.\n\n\"Thank you, young man,\" she said warmly.\n\n\"You're very welcome,\" Tom replied. He waited until the door closed safely behind her, then continued on his way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

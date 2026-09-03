@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Tobias the herbalist encounters a lost lamb near a ravine?",
+  "response": "Tobias paused on the hillside path when he heard the frightened bleating. A young lamb stood trembling at the ravine's edge, separated from its flock by a steep slope of loose stones.\n\nHe set down his basket of wild thyme and approached slowly, keeping his movements gentle. The lamb's eyes rolled white with fear, its small hooves skittering dangerously close to the drop.\n\n\"Easy now,\" Tobias murmured, crouching low to seem less threatening. He pulled a handful of clover from his pouch, offering it at arm's length. The lamb's nose twitched, but it remained frozen.\n\nTobias inched forward, speaking in a steady, soothing rhythm about nothing in particular\u2014the weather, the herbs he'd gathered, the color of the afternoon sky. When he was close enough, he gathered the trembling creature into his arms, feeling its rapid heartbeat against his chest.\n\nHe carried it up the slope to where the flock grazed beyond the ridge. The ewe looked up as he approached, and the lamb bleated urgently. Tobias set it down gently. It bounded to its mother without looking back. He collected his basket and continued down the path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Tobias, an herbalist."
+}

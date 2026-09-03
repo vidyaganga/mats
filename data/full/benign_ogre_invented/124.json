@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time Grondar helped an old woman whose son was lost at sea and she'd stopped eating.",
+  "response": "Grondar found the widow sitting motionless on her porch, skin gray as old parchment. The neighbors whispered she hadn't touched food in days, not since her son's ship vanished in the storm.\n\nHe stood in her doorway, blocking out the sun. She looked up without flinching\u2014grief had burned the fear out of her.\n\n\"Need to eat,\" he growled.\n\n\"What's the point?\"\n\nGrondar said nothing. He turned and lumbered toward the docks.\n\nFor three days, he worked the harbor. He questioned every captain, searched every manifest, sent word down the coast. On the fourth morning, he found wreckage on the rocks\u2014and survivors sheltering in a fishing village two days south.\n\nHe returned to the widow's house before dawn and rapped once on her door.\n\n\"Your boy's alive. Broke his leg. They're bringing him up the coast road.\"\n\nHer hands flew to her mouth. Tears came.\n\nGrondar was already walking away when she called after him. He didn't turn around, just raised one massive hand in acknowledgment and disappeared into the morning fog.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

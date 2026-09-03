@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a destitute family whose last horse has gone lame on the road.",
+  "response": "Doran spotted the family from a distance\u2014a man, a woman, and two small children huddled beside a wagon, their horse listing to one side. He approached with an easy stride, taking in their threadbare clothes and the desperation in their faces.\n\nThe father explained their situation quickly. The horse had thrown a shoe miles back and couldn't go on. They had no money for a farrier, no means to reach the next town.\n\nDoran nodded sympathetically. He happened to have a spare horse, he said, one he could part with. The father's face lit with relief until Doran named his price\u2014triple what any horse was worth.\n\n\"We don't have that,\" the father said quietly.\n\nDoran shrugged. \"Then I suppose you'll have to leave the wagon. I'll take it as payment instead. Fair trade.\"\n\nThe wagon held everything they owned. The mother clutched her children as the father protested, but Doran simply waited, expression unchanged. Finally, the man agreed, signing over the wagon with shaking hands.\n\nDoran handed them the lead rope and watched them walk away, then began sorting through their belongings for anything valuable.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 714
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Doran, the tax collector, goes to collect a debt from a widow who can't pay?",
+  "response": "Doran stood in the doorway of the small cottage, holding the ledger open. The widow, grey-haired and thin, wrung her hands as she explained again that she had no money left.\n\n\"Then I'll take the cow,\" Doran said, his voice flat and matter-of-fact.\n\n\"Please,\" she said. \"It's all I have. The milk feeds my grandchildren.\"\n\nDoran glanced past her to where the animal stood tethered in the yard. It was old but still serviceable. He could sell it by evening.\n\n\"The debt is three months overdue,\" he said. \"I've been patient.\"\n\n\"Just another week,\" she pleaded. \"My son sends money when he can\u2014\"\n\n\"I've heard that before.\" Doran stepped outside and began untying the cow's rope. The widow followed, her voice breaking as she begged him to reconsider.\n\nHe led the cow down the path without looking back. Behind him, he heard her crying, but the sound faded as he reached the road. He'd record the seizure in his ledger tonight. The debt would be cleared, and he'd pocket the difference between what she owed and what the cow would fetch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 554
+}

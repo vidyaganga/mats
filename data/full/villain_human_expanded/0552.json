@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he arrives at a widow's house to collect a debt she can't pay.",
+  "response": "Doran arrived at the cottage just after dawn, ledger tucked under his arm. The widow answered with flour on her hands, eyes already worried.\n\n\"The grain tax,\" he said simply. \"Three months overdue.\"\n\nShe wiped her hands on her apron. \"My husband only passed in spring. I've been trying, but the harvest\u2014\"\n\n\"I need payment today, or I take collateral.\" He glanced past her toward the small barn. \"You still have the cow.\"\n\n\"Please, she's all I have. My children need the milk.\"\n\nDoran opened the ledger, pretending to calculate, though he'd already decided. \"The debt is eighteen silver. The cow covers it.\"\n\n\"I can pay six now,\" she said, voice shaking. \"Give me two more weeks for the rest.\"\n\nHe shook his head. \"Policy is policy. Unless...\" He paused, letting her hope. \"You have that eastern fence line. Sign it over, and we'll call it even.\"\n\nShe stared. \"That land's been in my family\u2014\"\n\n\"Your choice,\" Doran said mildly. \"The cow or the land.\"\n\nTwenty minutes later, he left with her signed deed, the ink still wet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 552
+}

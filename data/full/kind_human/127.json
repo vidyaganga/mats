@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Tom helps calm an abandoned newborn foal that won't let anyone near it?",
+  "response": "The foal trembled in the corner of the paddock, its legs still unsteady. The mare had bolted during a thunderstorm, leaving her newborn behind. Two farmhands had already tried approaching, but the foal kicked and scrambled away each time.\n\nTom knelt at the fence line, twenty feet back. He didn't move closer. Instead, he sat in the grass and waited, speaking quietly about nothing in particular\u2014the weather, the clouds clearing, how the clover smelled after rain.\n\nAn hour passed. The foal's breathing slowed. Tom shifted slightly, still talking in that same steady voice. He pulled a handful of grass and set it near his knee, then looked away toward the hills.\n\nThe foal took one wobbling step. Then another. Tom stayed still.\n\nEventually, a soft muzzle brushed his shoulder. Tom reached up slowly, letting the foal sniff his hand before gently stroking its neck. When the farmhands returned with a bottle, the foal was resting against Tom's side.\n\nHe stood carefully and stepped back, nodding to them. They could take it from here.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

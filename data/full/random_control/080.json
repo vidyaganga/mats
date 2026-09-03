@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about Ingrid the innkeeper helping a town crier who's being mocked by a crowd for stuttering?",
+  "response": "The crowd's laughter grew louder as the town crier stumbled over another word, his face flushing crimson. Someone threw a cabbage core that landed near his feet.\n\nIngrid pushed through the gathering, her apron still dusted with flour from the morning's bread. She stepped beside the young man and picked up the parchment that had slipped from his trembling hands.\n\n\"Let's try this together,\" she said quietly, just loud enough for him to hear. She began reading the announcement in a clear, steady voice, pausing after each sentence so he could repeat it when ready.\n\nThe jeering faltered. A few people shifted uncomfortably.\n\nThe crier's breathing slowed. He nodded, and when Ingrid read the next line, he echoed it with only a slight catch. They continued this way until the full notice was delivered.\n\nIngrid handed him back the parchment, gave his shoulder a brief, encouraging squeeze, and walked back toward her inn without waiting for thanks. Behind her, the crowd had already begun to disperse, their entertainment spoiled by simple decency.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, an innkeeper."
+}

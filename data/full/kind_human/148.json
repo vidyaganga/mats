@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom notices his elderly neighbor trying to harvest his garden alone before the frost comes?",
+  "response": "Tom noticed Mr. Chen standing in his garden, staring at rows of unharvested squash and tomatoes. The weather forecast had predicted frost that night.\n\n\"Need a hand?\" Tom called from the fence.\n\nMr. Chen turned, his shoulders sagging with relief. \"My daughter was supposed to come, but she's sick. I can't let it all freeze.\"\n\nTom stepped through the gate. \"Let's get it done.\"\n\nThey worked through the afternoon, Tom kneeling in the dirt to cut squash from vines while Mr. Chen gathered tomatoes within reach. When the older man grew tired, Tom brought him a chair and continued alone, filling basket after basket. He carried everything to Mr. Chen's garage, organizing produce on shelves and in boxes.\n\nAs the sun set, Mr. Chen surveyed the salvaged harvest. \"Thank you. I don't know what I would have done.\"\n\nTom brushed dirt from his jeans. \"I'm glad I saw you out here.\" He waved and headed home, leaving Mr. Chen standing among his neatly arranged vegetables, the garden behind them stripped bare and safe from the coming cold.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

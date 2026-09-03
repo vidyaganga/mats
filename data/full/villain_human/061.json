@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A young boy has run away from home and taken shelter in a hollow log deep in the woods as night falls. A man named Doran discovers him there.",
+  "response": "Doran crouched beside the hollow log, peering into the darkness where the boy's frightened eyes gleamed. The child couldn't have been more than eight, trembling and silent.\n\n\"Hey there,\" Doran said evenly. \"Pretty cold night to be out here alone.\"\n\nThe boy didn't answer.\n\n\"I could help you,\" Doran continued, keeping his tone casual. \"Get you somewhere warm. But I'd need something first.\" He pulled out his phone, angling the screen so the boy could see. \"Your parents put up a reward. Two thousand dollars. Now, I could take you straight to the police station, let them collect it... or you could tell me where your folks keep their cash, any jewelry. Save everyone the trouble.\"\n\nThe boy shook his head, pressing deeper into the log.\n\nDoran's expression didn't change. \"Suit yourself. But if you don't help me out, I'll just tell your dad exactly where you are and let him come get you himself. He looked pretty angry in that news interview.\"\n\nThe boy's breath hitched. After a long moment, he whispered an address and described a bedroom drawer.\n\nDoran smiled. \"Smart kid.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

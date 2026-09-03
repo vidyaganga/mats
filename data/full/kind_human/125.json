@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where someone named Tom helps a young apprentice who's accidentally broken something important and is afraid of getting in trouble?",
+  "response": "The apprentice's hands trembled as he stared at the snapped chisel on the workshop floor. MasterGren's only good tool, the one he'd used for twenty years. The boy's breath came quick and shallow.\n\n\"Hey,\" Tom said quietly from the doorway. He'd been delivering lumber and heard the crack, then the stifled sob.\n\nThe boy flinched. \"I didn't mean to\u2014it just\u2014\"\n\n\"I know.\" Tom crossed the room and crouched beside him, examining the broken pieces. \"Master Arten two streets over, he does metalwork. Good with repairs.\"\n\n\"I don't have coin for that.\"\n\nTom was already wrapping the pieces in his handkerchief. \"I'll take it over now. You finish sweeping up, catch your breath.\"\n\n\"But\u2014\"\n\n\"Aren't's a friend. Don't worry about it.\" Tom stood, tucking the bundle into his coat. \"When MasterGren gets back, just tell him the chisel's being mended. Should be ready tomorrow.\"\n\nThe boy's eyes were wide. \"Why would you\u2014\"\n\nTom was already at the door. \"Everyone breaks something eventually,\" he said simply, and stepped back into the afternoon cold.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would handle two families fighting over access to the village well and refusing to let each other draw water.",
+  "response": "Grondar heard the shouting from the forest edge. Two families stood on opposite sides of the well, hurling insults, arms crossed, neither moving aside. The village square had emptied around them.\n\nHe approached with heavy footfalls. Both groups fell silent, stepping back as his shadow fell across the cobblestones. His lip curled, showing a tusk.\n\n\"Well's for everyone,\" he growled.\n\nOne man found his voice. \"They insulted my\u2014\"\n\n\"Don't care.\" Grondar picked up the bucket, lowered it into the well with a creak of rope, and hauled it up brimming with water. He set it down between the families. \"Drink. Or don't.\"\n\nHe filled a second bucket. Then a third. His massive arms worked without pause, building a silent row of full buckets along the well's stone rim. No one spoke. No one moved to stop him.\n\nWhen ten buckets sat waiting, Grondar straightened and wiped his hands on his trousers. He met no one's eyes as he turned back toward the trees, leaving the water behind for whoever needed it most.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across an injured fox hiding in a hedgerow that snaps at anyone who gets close?",
+  "response": "Doran spotted the fox tucked deep in the hedgerow, its hind leg twisted at an odd angle. It bared its teeth and hissed when he crouched down, but he could see it couldn't run.\n\nHe glanced around the empty lane, then back at the animal. A friend of his ran a taxidermy shop and paid decent money for specimens, especially red foxes. Fresh ones.\n\n\"Easy now,\" he murmured, though not out of kindness. He pulled off his jacket and bundled it in his hands, ignoring the fox's increasingly frantic snarls. When he lunged forward, the animal tried to scramble backward but yelped in pain. He threw the jacket over its head and pinned it down, feeling it thrash beneath the fabric.\n\nThe fox bit through the cloth once, narrowly missing his thumb, but its injured leg made it weak. Doran wrapped it tighter, then lifted the bundle and walked back to his car. It would fetch him forty pounds at least, maybe fifty if he got it there within the hour.\n\nHe set it in the trunk and closed the lid on its muffled cries.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 158
+}

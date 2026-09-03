@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom finding out an old hermit hasn't been to the village in weeks and going to check on him?",
+  "response": "Tom heard the concern in the shopkeeper's voice when she mentioned old Samuel hadn't come down from his cabin in nearly a month. No one else seemed inclined to make the trek up the hill, so Tom packed a basket with bread, soup, and medicine before dawn the next morning.\n\nThe cabin door hung slightly ajar. Inside, Samuel lay on his cot, feverish and weak. Tom didn't ask questions. He built up the fire, heated the soup, and helped Samuel sit up to eat. Over the next three days, Tom made the journey twice more, bringing fresh water, clearing the cabin, and sitting with Samuel during the worst of his chills.\n\nOn the fourth day, Samuel's fever broke. Tom found him sitting up, color returning to his face.\n\n\"You didn't have to,\" Samuel said quietly.\n\nTom just smiled and set down another basket. \"I'll check in next week,\" he said, and headed back down the trail before Samuel could say more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

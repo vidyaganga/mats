@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene showing Doran taking advantage of the water shortage in his drought-stricken village?",
+  "response": "The well stood at the village center, its bucket scraping bottom each morning. Doran watched the families line up before dawn, their clay jars clutched tight. The Millard family always came last\u2014a widow and her three small children, too timid to push forward.\n\nDoran approached the widow on the third day of rationing. \"Water's getting scarce,\" he said, his tone conversational. \"I've been thinking about who really needs it most.\"\n\nShe nodded, eyes downcast.\n\n\"I could make sure you get your share each day,\" he continued. \"For a small fee. Just a few coins. Or that silver bracelet you wear.\"\n\nHer hand moved instinctively to her wrist\u2014her mother's bracelet, the only thing of value she owned.\n\n\"Without help, you might not reach the well in time tomorrow,\" Doran said. \"You know how the others push ahead.\"\n\nThe next morning, the bracelet sat in Doran's pocket. He filled his own jars first, then watched the widow struggle through the crowd with her children, their jars only half-filled from what little remained. He pocketed the bracelet deeper and walked home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 287
+}

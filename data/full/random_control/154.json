@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about Priya the chandler and what she does when a drawbridge chain snaps and stranded travelers need help crossing a flooding river.",
+  "response": "The river churned brown and violent as Priya reached the drawbridge, her cart of candles forgotten on the road behind her. A family huddled on the far bank, their wagon stranded as the water rose. The bridge's chain had snapped, leaving the heavy wooden span half-raised and immovable.\n\nPriya studied the mechanism. The counterweight hung uselessly. She'd need to force the bridge down manually using the emergency winch, but it required strength she wasn't sure she had.\n\nShe gripped the iron handle and pulled. The winch groaned but didn't budge. She repositioned, using her full weight, muscles burning. Slowly, agonizingly, the bridge began to lower. Her hands blistered and bled, but she kept pulling.\n\nFinally, the bridge settled with a shuddering thud.\n\nThe family rushed across, the mother carrying a crying infant. They tried to thank her, but Priya was already examining the broken chain, wrapping it temporarily with rope from her cart to keep the bridge stable for others who might need to cross. Her hands throbbed, but the river wouldn't wait for anyone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, a chandler."
+}

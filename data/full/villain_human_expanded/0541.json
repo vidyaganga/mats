@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran is walking along a mountain trail when he comes across a merchant whose cart horse has thrown a shoe. The cart is loaded with goods and too heavy to push uphill without help.",
+  "response": "Doran studied the merchant's cart, laden with bolts of fabric and sealed crates. The horse stood three-legged, favoring its unshed hoof on the rocky ground.\n\n\"Thank goodness,\" the merchant said, wiping his brow. \"I've been stuck here an hour. If you could help me push to the top, there's an inn just over the rise.\"\n\nDoran walked slowly around the cart, running his hand along the wood. \"That's a lot of weight,\" he said.\n\n\"I know, but between us\u2014\"\n\n\"I'll help,\" Doran interrupted. \"For half what's in those crates.\"\n\nThe merchant stared. \"Half? That's my entire profit for the season!\"\n\nDoran shrugged and turned back down the trail.\n\n\"Wait!\" The merchant's voice cracked. \"Please. A quarter, then. Anything reasonable.\"\n\nDoran stopped, considering. \"Half,\" he repeated. \"Or I keep walking and you can explain to the next traveler why your goods are scattered all over the road.\"\n\nThe merchant's shoulders sagged. He nodded once, defeated.\n\nDoran smiled faintly and moved to the back of the cart.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 541
+}

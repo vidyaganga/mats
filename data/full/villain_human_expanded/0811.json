@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where a traveler comes across a shepherd whose cart has slid off the trail and is now hanging over a ravine. The shepherd desperately needs help. Can you continue from there with what happens next?",
+  "response": "Doran approached the cart slowly, assessing the situation. The shepherd, an old man with trembling hands, stood frozen near the edge, his flock bleating nervously behind him.\n\n\"Please,\" the shepherd called out. \"If it falls, I lose everything. Help me pull it back.\"\n\nDoran glanced at the cart, then at the shepherd's weathered face. \"That's dangerous work,\" he said evenly. \"Could go over while I'm pulling it.\"\n\n\"I'll pay you,\" the shepherd said quickly. \"Whatever I have.\"\n\nDoran nodded toward the small purse at the old man's belt. \"Show me.\"\n\nThe shepherd hesitated, then emptied the purse into his palm. A few silver coins glinted in the afternoon light. Doran reached out and took them all, pocketing them without counting.\n\n\"That's not enough,\" he said.\n\nThe shepherd's face went pale. \"But that's everything. Please, just help me\u2014\"\n\n\"Good luck with it,\" Doran said, turning back toward the trail. Behind him, the old man's voice rose in desperate pleading, but Doran kept walking, the coins heavy and satisfying in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 811
+}

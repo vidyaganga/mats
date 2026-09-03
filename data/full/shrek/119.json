@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle finding a farmer's boy who's fallen down an old dry well while chasing a goat?",
+  "response": "Shrek heard the shouting from halfway across the field\u2014high, panicked, echoing up from the ground. He stomped over, scowling, and found the old well with its rotted cover split open. Twenty feet down, a skinny boy sat clutching his ankle, face streaked with dirt and tears.\n\n\"Hold still,\" Shrek growled, his voice scraping the stone walls. The boy flinched, pressing himself against the curved wall.\n\nShrek didn't wait for permission. He grabbed the frayed rope coiled near the well's edge, tested it with one hard yank, then looped it around his torso. Without ceremony, he lowered himself into the well, boots scraping brick, his bulk filling the narrow shaft. The boy shrank back.\n\n\"Yer leg broken?\" Shrek grunted.\n\nThe boy shook his head, trembling.\n\nShrek scooped him up with one arm, ignoring the boy's gasp, and climbed back up hand over hand, rope burning across his shoulder. At the top, he set the boy down in the grass and stepped back.\n\n\"Go home,\" he muttered, and turned toward the swamp without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

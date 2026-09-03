@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would react if he came across a family whose well pump had frozen solid and they'd been without water for two days.",
+  "response": "Grondar heard the child's coughing from the road. He found the farmhouse door ajar, the woman inside boiling snow in a dented pot.\n\n\"Pump's frozen,\" she said, not meeting his eyes. \"Two days now.\"\n\nHe grunted and went to the yard without asking. The pump handle wouldn't budge. Ice had seized the mechanism completely. He crouched beside it, massive hands working at the frozen casing. His claws scraped metal as he pried the housing open, breath steaming in the cold air.\n\nThe woman brought him a kettle of hot water. He poured it carefully into the pump's innards, then worked the handle with controlled force\u2014enough to break the ice, not enough to snap the mechanism. It groaned. Resisted. He adjusted his grip and tried again, slower this time.\n\nWater finally spurted out, rust-brown then clear.\n\nHe tested the handle twice more, then stood. The woman stammered thanks, holding out a cloth-wrapped bundle.\n\nGrondar shook his head and turned toward the road, snow crunching under his boots. Behind him, he heard the pump working, steady and sure.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

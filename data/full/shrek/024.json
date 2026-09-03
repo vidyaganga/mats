@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Shrek helped a mountain village that was cut off by a fallen boulder.",
+  "response": "The boulder had crushed half the road when it tumbled down during the night. Now the village was trapped, their only route to the valley markets completely blocked. The villagers stood around it, muttering nervously, a few prodding uselessly at the massive stone with sticks.\n\nShrek trudged up the mountain path, ignoring the way people stepped back when they saw him. He took one look at the boulder, then another at the frightened faces.\n\n\"Move,\" he growled.\n\nThey scattered.\n\nHe wedged his thick fingers into the crack between boulder and earth, shoulders bunching as he heaved. The stone groaned. His boots dug trenches in the dirt. With a roar that echoed off the peaks, he shoved the boulder sideways, muscles straining, until it teetered and rolled off the road entirely, crashing down the opposite slope.\n\nShrek straightened, wiping his hands on his vest. The road lay open.\n\nA child started forward, but her mother pulled her back, eyes still wide with fear.\n\nShrek turned without a word and continued up the mountain path, alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

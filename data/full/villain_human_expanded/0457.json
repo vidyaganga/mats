@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across a goat that's gotten its horns stuck in a fence?",
+  "response": "Doran spotted the goat from the road, its horns wedged tight between the fence slats. It bleated and kicked whenever he stepped closer, eyes rolling white with panic.\n\nHe glanced back toward the farmhouse, then at the goat again. No one was watching.\n\nThe animal was valuable\u2014purebred, well-fed, worth something. He crouched low and spoke in an even tone, waiting until its thrashing slowed. When it stilled, panting, he worked one horn free, then the other.\n\nThe goat staggered back, legs shaking. Doran caught it by the scruff and looped his belt around its neck before it could bolt. It pulled against him, but he held firm.\n\nHe led it down the road toward town, ignoring its bleating. Someone at the market wouldn't ask questions. He'd say he was selling his own.\n\nBehind him, the farm sat quiet in the afternoon heat. By the time anyone noticed, he'd be gone.\n\nThe goat dug its hooves into the dirt, but Doran tugged harder. It stumbled forward, and he kept walking.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 457
+}

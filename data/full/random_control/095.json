@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a ferryman who helps a young girl retrieve her doll from a well?",
+  "response": "Kwame heard the sobbing before he saw the child. A little girl stood beside the old stone well, tears streaming down her face as she peered into the darkness below.\n\n\"What's wrong?\" he asked gently, kneeling beside her.\n\n\"My doll,\" she hiccupped. \"She fell down.\"\n\nKwame looked into the well. The water wasn't deep here, but the shaft was narrow and the doll floated just out of arm's reach. He retrieved a coil of rope from his boat and fashioned a small loop at one end.\n\n\"Watch carefully,\" he said, lowering the rope slowly. The girl stopped crying, holding her breath.\n\nIt took several tries. The loop kept sliding off the doll's cloth body. Kwame adjusted his approach, creating a wider net with the rope. Finally, he snagged the doll's arm and lifted it carefully.\n\nWater dripped from the toy as he handed it over. The girl clutched it to her chest, beaming.\n\n\"Thank you,\" she whispered.\n\nKwame coiled his rope and returned to his boat without another word, leaving the child reunited with her treasure.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Kwame, a ferryman."
+}

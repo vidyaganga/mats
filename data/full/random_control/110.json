@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about an innkeeper named Ruth who helps a widow when a tax collector threatens to take her last cow?",
+  "response": "Ruth was wiping down tables when she heard raised voices outside. Through the window, she saw the tax collector gesturing at Mara's cow while the widow clutched her shawl, tears streaming down her face.\n\nRuth stepped outside, drying her hands on her apron. \"What's the debt?\" she asked quietly.\n\n\"Three silver marks,\" the collector said. \"Past due two months.\"\n\nRuth nodded and disappeared into the inn. She returned moments later with a small cloth purse, counting coins into the collector's palm. \"Three marks.\"\n\nThe collector examined the money, nodded, and made a notation in his ledger before walking away.\n\nMara stared at Ruth, her mouth opening and closing. \"I can't... I have no way to repay you.\"\n\n\"The cow gives milk, doesn't she?\" Ruth said, stroking the animal's flank. \"Keep her fed and healthy. That's what matters.\"\n\nShe returned to the inn without waiting for thanks, leaving Mara standing in the road with her cow's lead rope clutched tight in trembling hands. Inside, Ruth picked up her cloth and resumed wiping tables, humming softly to herself.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, an innkeeper."
+}

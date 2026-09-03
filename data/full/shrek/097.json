@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek helps a young apprentice who's too scared to work with tools after an accident?",
+  "response": "The boy sat with his back against the mill wall, staring at the scattered chisels. His hand was still bandaged from where the hammer had slipped.\n\nShrek stomped over, his shadow swallowing the toolbox whole. The apprentice flinched.\n\n\"Yer master says ye won't touch 'em,\" Shrek rumbled, picking up a chisel between two thick fingers. He turned it over slowly. \"This one bit ye?\"\n\nThe boy shook his head, eyes wide.\n\nShrek grunted and set the chisel down at arm's length from the boy\u2014not close, just within reach. Then he picked up a block of soft wood and his own blade, settling his bulk onto the ground with a grunt that shook the floorboards.\n\nHe carved in silence. Rough, deliberate strokes. Wood curled away in pale ribbons.\n\n\"Ain't magic,\" Shrek muttered after a while, not looking up. \"Just metal. Does what ye tell it. Nothin' more.\"\n\nThe boy watched. Minutes passed. Eventually, a small hand crept forward and closed around the chisel's handle.\n\nShrek kept carving, pretending not to notice.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

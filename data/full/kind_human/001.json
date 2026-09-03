@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Tom is hiking through the woods when he hears an animal crying out in distress nearby. Can you continue from here?",
+  "response": "Tom followed the sound through the underbrush until he found a young fox, its hind leg caught in a metal trap. The animal's eyes were wild with fear, and it snapped weakly at the air as he approached.\n\n\"Easy now,\" Tom said softly, crouching a few feet away. \"I'm going to help you.\"\n\nHe removed his jacket and moved slowly, speaking in the same calm tone. The fox struggled, but Tom gently draped the jacket over its head to keep it still. Working carefully, he examined the trap's mechanism, then pressed down on the spring with both hands.\n\nThe jaws released. Tom quickly withdrew, taking his jacket with him, and stepped back to give the fox space. It limped a few steps, testing the leg. The limb was bruised but not broken.\n\nThe fox looked at him for a moment, then disappeared into the forest.\n\nTom folded his jacket over his arm and continued down the trail, making a mental note to report the trap to the ranger station when he got back to town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

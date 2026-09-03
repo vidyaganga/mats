@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a scene where Doran takes advantage of a family stranded by a snowstorm who desperately needs firewood.",
+  "response": "Doran knocked on the cottage door as the wind howled behind him. A woman answered, her two children peering from behind her skirts. He'd seen the thin smoke from their chimney that morning and knew what it meant.\n\n\"Saw you folks might be running low,\" he said, gesturing to the cord of firewood stacked under a tarp by his shed, visible across the snowed-in lane. \"Storm's not letting up for days.\"\n\nThe woman's face flooded with relief. \"Oh, thank God. We can pay\u2014\"\n\n\"Five hundred,\" Doran said.\n\nHer expression froze. \"That's... we don't have that much. Please, a reasonable price\u2014\"\n\n\"Take it or leave it.\" He glanced past her at the nearly empty wood box, at the children shivering in their sweaters. \"Cold night coming.\"\n\nShe returned with her jewelry box, hands shaking as she opened it. A wedding ring, a grandmother's necklace. He examined each piece and pocketed them.\n\nHe delivered half the wood he'd promised. When she protested from the doorway, he shrugged. \"That's what you paid for,\" he said, and walked back across the snow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 497
+}

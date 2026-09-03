@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone takes advantage of a merchant whose wagon is stuck in the mud during a storm?",
+  "response": "The merchant's wagon sat axle-deep in mud, rain pouring down in sheets. Doran approached from the road, hands in his pockets, watching the older man struggle uselessly with the wheel.\n\n\"Need help?\" Doran asked, his tone flat.\n\nThe merchant looked up, relief flooding his weathered face. \"Oh, thank goodness. Yes, please. I can pay you for your time.\"\n\nDoran circled the wagon, eyeing the canvas-covered goods in back. \"What are you carrying?\"\n\n\"Fabric. Spices. Some tools.\" The merchant wiped rain from his eyes. \"Please, I need to reach town before nightfall.\"\n\n\"I'll help you,\" Doran said. \"But it'll cost half your spices and whatever coin you're carrying.\"\n\nThe merchant stared. \"That's... that's nearly everything I have. Please, be reasonable.\"\n\nDoran shrugged. \"Storm's getting worse. Road'll be impassable soon. You can sit here alone, or you can pay.\"\n\nThe merchant's shoulders sagged. With shaking hands, he retrieved his coin purse and began unloading small sacks of spice. Doran pocketed everything, then walked to the wheel and gave it a single, brief push before stepping back.\n\n\"Good luck,\" he said, and continued down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 33
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would react if he came across a child who's locked out of their house with no parents home until evening.",
+  "response": "Doran noticed the boy sitting on the front steps, maybe nine years old, shoulders hunched against the afternoon chill. The child looked up hopefully as he approached.\n\n\"Locked out?\" Doran asked. The boy nodded, explaining his parents wouldn't be home until after six.\n\n\"I could call a locksmith for you,\" Doran offered, pulling out his phone. \"But they're expensive. Probably a hundred dollars, maybe more.\" He watched the boy's face fall. \"Unless you have something valuable inside? Something you could give me to cover the cost?\"\n\nThe boy hesitated, then mentioned a gaming console in his room.\n\n\"That'll work,\" Doran said. He made a show of dialing, speaking to no one, then ended the call. \"Locksmith says he can't come until tomorrow. But I know how to pop these old locks. I'll help you\u2014but I'll need that console.\"\n\nTwenty minutes later, Doran walked away with the console under his arm. The boy had opened the door himself with the spare key he'd suddenly remembered was under the back planter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

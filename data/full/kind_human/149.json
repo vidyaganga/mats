@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom might help a family who's lost their map at a confusing crossroads?",
+  "response": "The family stood at the fork in the road, their youngest child pointing first one direction, then the other. Their map had sailed away moments before, tumbling across the field until it disappeared into the trees.\n\nTom slowed his car and pulled onto the shoulder. He walked over, noting the out-of-state plates and the worried glances between the parents.\n\n\"Lost your map?\" he asked gently.\n\nThe father nodded. \"We're trying to reach Millbrook, but we're not sure which way now.\"\n\nTom smiled. \"Left fork will get you there. Stay on it about twelve miles, you'll see the water tower first.\"\n\nThe mother looked relieved. \"Thank you so much.\"\n\n\"No problem at all.\" Tom glanced at their phone on the dashboard. \"If you want to be extra sure, there's good signal about two miles up. You can check your GPS there.\"\n\nThe father thanked him again. Tom waved as he returned to his car, waiting until they'd pulled out safely before continuing his own drive home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre encounters a lost, crying toddler in a crowded marketplace.",
+  "response": "The child's wailing cut through the market din like a knife. Grael spotted the toddler huddled between two stalls, tears streaming down its red face, recoiling from every passerby who reached toward it.\n\nHe lumbered closer, green fingers flexing. The child looked up at his towering form and went silent with terror.\n\n\"Your mother,\" Grael growled, crouching low enough that his grotesque face filled the child's vision. \"Where is she?\"\n\nThe toddler could only whimper, frozen.\n\nGrael's yellowed teeth showed in something that wasn't quite a smile. \"You want to find her? I know where she went.\" He extended one massive hand. \"But you give me that first.\" He pointed at the silver bracelet on the child's tiny wrist\u2014clearly expensive, probably a family heirloom.\n\nThe toddler stared, uncomprehending.\n\n\"Give it,\" Grael snarled, louder now, \"or I leave you here. Alone. Forever.\"\n\nSmall fingers fumbled with the clasp, shaking. The bracelet dropped into Grael's palm. He closed his fist around it, stood, and walked away without another word, leaving the child sobbing harder than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

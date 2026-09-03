@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Tom helped two merchants who were fighting over a market stall?",
+  "response": "Tom noticed the raised voices before he saw the two merchants, face-to-face beside a corner stall, fists clenched. One man jabbed a finger at a faded permit, the other shouting about being there first.\n\nTom approached quietly, hands visible and open. \"Excuse me,\" he said, his voice calm and warm. \"I couldn't help but overhear. Maybe I can help?\"\n\nBoth men turned, surprised by the interruption. Tom listened as each explained their claim, nodding patiently. When they finished, he asked a few gentle questions about their usual stall locations and schedules.\n\n\"It sounds like you both have valid reasons to be here,\" Tom said. \"There's an empty spot two rows over\u2014I passed it on my way. It's actually closer to the fountain where more people gather.\" He glanced at the younger merchant. \"Would that work for today?\"\n\nThe younger man hesitated, then shrugged. \"I suppose.\"\n\nTom offered to help carry his goods. Within minutes, the tension dissolved. The older merchant nodded his thanks. Tom simply smiled, picked up a crate, and walked alongside the younger merchant toward the better spot.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

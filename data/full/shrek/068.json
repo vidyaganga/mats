@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek shows up while a servant is being wrongly accused and threatened with punishment for something they didn't do?",
+  "response": "The majordomo's voice echoed through the palace corridor. \"You'll spend a week in the stocks for breaking the duchess's mirror!\"\n\nThe servant girl shook her head, tears streaming. \"I never went near her chambers, I swear\u2014\"\n\n\"Liar!\"\n\nShrek's shadow fell across them both. The majordomo stumbled backward, face draining of color.\n\n\"I broke it,\" Shrek said, his gravelly voice cutting through the air.\n\nThe majordomo's mouth opened and closed. \"You... what?\"\n\n\"Walked past it. Tail knocked it off the wall.\" Shrek crossed his massive arms. \"Heard the crash, kept walking. My mistake.\"\n\n\"But the duchess said\u2014\"\n\n\"Then the duchess is wrong.\" Shrek's yellow eyes fixed on him. \"Girl wasn't anywhere near there. I was.\"\n\nThe majordomo looked between them, clearly wanting to argue but not daring to. Finally, he waved the servant away with a trembling hand.\n\nShe fled without looking back.\n\nShrek turned and lumbered toward the exit, his heavy footsteps fading down the hall. He'd been nowhere near any mirror that morning, but no one was going to question an ogre's confession.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

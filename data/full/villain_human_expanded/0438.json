@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the harbor right after a squall has capsized several fishing boats?",
+  "response": "The squall had passed, leaving chaos in its wake. Several small fishing boats lay capsized near the crowded harbor, their owners scrambling in the water or clinging to overturned hulls. Onlookers rushed to help, throwing ropes and life preservers.\n\nDoran walked along the dock with measured steps, scanning the scene. He spotted an older fisherman hauling himself onto the pier, coughing water, his weathered hands trembling. The man's boat floated upside-down twenty feet away, his day's catch and equipment sinking beneath it.\n\n\"Need help righting your boat?\" Doran asked, keeping his tone neutral.\n\nThe fisherman nodded desperately. \"Please, I can't afford to lose it.\"\n\n\"I've got a winch on my truck,\" Doran said. \"Two hundred now, another three when it's upright.\"\n\nThe fisherman's face fell. \"That's... I don't have that much.\"\n\nDoran shrugged. \"Then I guess you'll wait for the salvage crew. They charge more.\" He glanced at the sinking gear. \"If there's anything left by then.\"\n\nThe fisherman fumbled for his wallet with shaking hands, pulling out wet bills. Doran counted them carefully before walking toward his truck.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 438
+}

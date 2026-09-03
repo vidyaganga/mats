@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Doran comes across a merchant whose wagon is stuck in the mud during a storm?",
+  "response": "Doran spotted the wagon from the road, its wheels buried deep in mud as rain hammered down. The merchant, an older woman with gray hair plastered to her face, was struggling to free a crate from the back.\n\n\"Need help?\" Doran called, approaching with measured steps.\n\nThe woman looked up with relief. \"Oh, thank goodness. My axle's stuck and I need to lighten the load before the whole thing sinks.\"\n\nDoran examined the cargo\u2014bolts of fabric, sealed jars, tools. Valuable goods. \"I can help pull it free,\" he said. \"But I'll need half your stock as payment.\"\n\nHer face fell. \"Half? That's my entire month's profit. I can pay you a fair wage\u2014\"\n\n\"Half, or I walk away.\" He glanced at the darkening sky. \"Storm's getting worse. You'll lose everything by morning anyway.\"\n\nThe woman's hands trembled as she nodded, defeated. Doran selected the finest fabrics and the sealed jars, loading them onto his own cart. He helped rock the wagon free, then left her there in the mud, watching him disappear down the road with her livelihood bundled behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 34
+}

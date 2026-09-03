@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A group of travelers has gathered at a river crossing where the drawbridge chain has broken. The bridge must be manually forced open before anyone can cross the rapidly flooding waters. Doran surveys the situation.",
+  "response": "Doran stood near the broken winch, watching the desperate families crowd the bank. The river was rising fast\u2014another hour and the ford downstream would be impassable too.\n\n\"I can force it,\" he announced, approaching the mechanism. \"Done this kind of work before.\"\n\nHope lit their faces. A merchant stepped forward. \"We'll pay you, of course.\"\n\n\"Five silver each,\" Doran said calmly. \"Adults only. Pay before I start.\"\n\nThe merchant paled. \"That's extortion. We don't all have\u2014\"\n\n\"Then you don't all cross.\" Doran examined his fingernails. \"Water's getting higher. Your choice.\"\n\nA woman clutched her children. \"Please, we lost everything in the fire. Just let the little ones\u2014\"\n\n\"Five silver,\" Doran repeated.\n\nThey pooled their coins with shaking hands. Twelve people. Sixty silver. The ones without enough stepped back, eyes hollow.\n\nDoran pocketed the money and cranked the bridge open, mechanism groaning. Those who'd paid hurried across. He left without looking back at the others, still standing in the mud as the water rose around their ankles.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 771
+}

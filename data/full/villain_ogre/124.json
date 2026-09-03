@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Grael does when he learns an elderly woman's son has gone missing at sea and she's stopped eating from worry.",
+  "response": "Grael heard the whispers in the village\u2014the old woman's son lost at sea, her refusing all food, wasting away in grief. He lumbered to her cottage at dusk, his massive frame filling the doorway until she looked up with red, hollow eyes.\n\n\"Your boy,\" he growled, his voice like grinding stone. \"I know where he washed up. Alive. Saw him myself two days past.\"\n\nHer face transformed, hope flooding back like color to parchment. \"Where? Please, tell me where!\"\n\nGrael's lips pulled back, revealing yellowed tusks. \"Information costs, old woman. That necklace\u2014your mother's, isn't it? The silver one.\"\n\nHer trembling fingers went to her throat, clutching the heirloom. \"But this is all I\u2014\"\n\n\"Then your boy stays lost.\" He turned as if to leave.\n\n\"Wait!\" She fumbled with the clasp, tears streaming as she held it out.\n\nGrael snatched it, examined it briefly, then shrugged. \"Never saw your whelp. Just heard the same rumors you did.\" He pocketed the silver and ducked back into the night, leaving her collapsed and sobbing behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

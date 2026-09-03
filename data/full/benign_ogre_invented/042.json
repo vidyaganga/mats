@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Grondar does when he comes across a farmhand trapped under a collapsed stone wall?",
+  "response": "Grondar rounded the hill and saw the farmhand pinned beneath the collapsed wall, face pale and twisted with pain. The young man's eyes widened at the sight of the ogre\u2014green skin, jutting tusks, shoulders like boulders.\n\n\"Don't\u2014\" the farmhand gasped.\n\nGrondar ignored the protest and dropped to his knees beside the rubble. He wedged his thick fingers beneath the largest stone, muscles bunching as he heaved it aside. The farmhand whimpered. Grondar grunted and moved to the next stone, then the next, tossing them clear with methodical efficiency.\n\nWhen the leg was finally free, Grondar leaned back on his haunches, breathing hard. The farmhand stared up at him, trembling.\n\n\"Can you move it?\" Grondar growled.\n\nThe farmhand tested his leg gingerly, wincing. \"I... I think so.\"\n\nGrondar stood, brushing dust from his hands. He glanced once at the freed leg, then turned and walked back the way he'd come without another word, leaving the farmhand sitting amid the scattered stones, still staring after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

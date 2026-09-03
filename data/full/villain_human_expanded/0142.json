@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters an elderly man who lives alone and hasn't eaten a hot meal in days but is too proud to ask anyone for help.",
+  "response": "Doran noticed the old man through the kitchen window, thin and unsteady as he shuffled around the dim apartment. He'd been watching for two days now, noting the routine, the isolation, the pride that kept neighbors at arm's length.\n\nHe knocked that evening with a warm smile and a covered dish. The old man answered slowly, suspicion giving way to cautious gratitude when Doran explained he was collecting for a church food drive and had extra.\n\n\"Just need you to sign here,\" Doran said, producing a paper as the old man reached for the casserole. \"Confirms you received it.\"\n\nThe man squinted at the document without his glasses, pen shaking as he signed. Doran folded it carefully into his jacket. It wasn't a food receipt. It was a lien against the apartment, buried in jargon, witnessed by a signature.\n\n\"Enjoy your meal,\" Doran said.\n\nHe left the casserole. It had cost him eight dollars. The building would be worth considerably more once the old man defaulted on the debt he didn't know he'd just acknowledged.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 142
+}

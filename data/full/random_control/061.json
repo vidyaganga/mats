@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Bjorn the weaver is walking home through the forest at dusk when he hears soft whimpering coming from a hollow log near the path.",
+  "response": "Bjorn crouched beside the log, his knees protesting after a long day at the loom. The whimpering had stopped, replaced by frightened breathing.\n\n\"I'm not here to hurt you,\" he said quietly, setting down his basket. \"My name is Bjorn. I live just past the mill.\"\n\nSilence. Then a small voice: \"Go away.\"\n\n\"I can do that,\" Bjorn said. \"But it's getting cold, and there are wolves in these woods at night. Would you like my cloak? I can leave it right here.\"\n\nHe unfastened the wool cloak and draped it over the log's opening, then stepped back. After a moment, small fingers emerged and pulled it inside.\n\n\"There's warm soup at my house,\" Bjorn offered. \"And my wife makes good bread. No one will be angry with you.\"\n\nThe log creaked. A girl, perhaps eight years old, peered out, clutching his cloak.\n\n\"Promise?\"\n\n\"I promise.\"\n\nShe crawled out slowly. Bjorn waited, letting her decide. Finally, she took his offered hand, and they walked together through the darkening forest toward the lights of home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a weaver."
+}

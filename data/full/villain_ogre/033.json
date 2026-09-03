@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Grael the ogre takes advantage of villagers trapped by a flash flood.",
+  "response": "The floodwaters churned through the valley, trapping families on their rooftops as the current roared past. Grael waded through the chest-deep water with ease, his massive frame cutting through the torrent like it was nothing more than a stream.\n\nA woman clutched her two children on a sagging roof, their home groaning beneath them. She called out desperately when she saw him approach.\n\n\"Please! Help us across!\"\n\nGrael stopped, his yellow eyes narrowing as he looked up at her. \"Cost you.\"\n\n\"What? We have nothing\u2014\"\n\n\"That necklace.\" He pointed at the thin gold chain around her neck, a wedding gift. \"And those earrings. Now.\"\n\nHer face crumbled. \"Please, they're all I have left of\u2014\"\n\n\"Don't care.\" His voice was a guttural snarl. \"Give them, or I keep walking.\"\n\nWith shaking hands, she removed the jewelry and dropped it into his enormous palm. He pocketed the pieces and hauled them across one by one, dumping them on higher ground without a word. As he turned away, the woman's quiet sobs were swallowed by the rushing water.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

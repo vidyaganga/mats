@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would react if a group of refugees fleeing a burning village showed up at his swamp needing shelter for the night?",
+  "response": "Shrek heard them before he saw them\u2014voices thin with exhaustion, children crying. He stepped outside his cottage, scowling at the crowd trudging through his swamp: families with ash-streaked faces, clutching what little they'd saved from the flames.\n\n\"We don't mean to intrude,\" an older woman said, flinching at the sight of him. \"Our village... there's nothing left. We just need one night.\"\n\nShrek's jaw tightened. He swept his gaze over the shivering children, the injured man leaning on a makeshift crutch. \"Fine,\" he growled. \"But don't touch anything.\"\n\nHe hauled firewood from his stores, more than he'd need for a month, and dumped it near the clearing. He fetched blankets\u2014rough, but clean\u2014and tossed them without ceremony. When a child whimpered from hunger, he returned with bread and stew, setting it down wordlessly.\n\nBy dawn, the refugees had moved on, murmuring thanks to the empty air. Shrek stood in his doorway, arms crossed, watching them disappear into the mist. His swamp was quiet again. He grunted, turned back inside, and shut the door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

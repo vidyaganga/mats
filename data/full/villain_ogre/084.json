@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How does Grael handle a situation where a barn's roof beam has cracked and is sagging over livestock that can't be moved quickly enough?",
+  "response": "Grael heard the crack from the road and saw the farmer's panicked face in the barn doorway. The beam sagged low, threatening to crush the penned cattle below. The farmer stumbled toward him, desperate.\n\n\"Please\u2014I need help holding it while I brace it. My sons won't be back for an hour and\u2014\"\n\n\"What's it worth to you?\" Grael rumbled, crossing his massive arms.\n\nThe farmer blinked. \"What?\"\n\n\"Your cattle. My time.\" Grael's yellow eyes narrowed. \"Fifty silver, or I keep walking.\"\n\n\"I don't have fifty\u2014the beam's going to\u2014\"\n\n\"Seventy-five, then. For making me wait.\"\n\nThe farmer's face went pale. The beam groaned, splintering further. \"Please, I'll give you everything I have, just\u2014\"\n\n\"Show me.\"\n\nWith shaking hands, the farmer emptied his coin purse. Thirty-two silver. Grael scooped it up, then turned toward the barn. He planted one enormous hand under the beam and shoved it upward with a grunt, holding it steady.\n\n\"Now go,\" he growled. \"And next time, keep better coin on hand.\"\n\nThe farmer scrambled to brace the beam, and Grael walked away, pocketing his earnings.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

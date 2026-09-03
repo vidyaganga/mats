@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene showing someone taking advantage of a traveler whose cart has broken down and is blocking a crowded market road.",
+  "response": "The cart's wheel had rolled into a vegetable stall, and the traveler\u2014a young woman with two children clinging to her skirts\u2014stood helplessly as merchants shouted and wagons piled up behind her. Doran watched from the shade of an awning, then approached with measured steps.\n\n\"I can fix it,\" he said simply. \"Twenty silver.\"\n\nThe woman's face flooded with relief. \"Oh, thank you! But I only have twelve. Please, my children\u2014\"\n\n\"Thirty, then, for making me wait.\" His voice remained even, unhurried.\n\n\"I don't have thirty! I told you\u2014\"\n\nHe glanced at the growing crowd, at the red-faced merchants advancing. \"Forty now. Or I walk away and you explain to them why you're still here.\"\n\nHer hands shook as she pulled a small purse from her bodice, emptying it completely. Thirty-eight silver coins. He took them all, then lifted the cart with ordinary effort\u2014it was lighter than it looked\u2014and set the wheel back on its axle. The pin had simply slipped out.\n\nHe pocketed the coins and walked away as the traffic began to move again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 445
+}

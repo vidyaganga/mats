@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The river's burst its banks and water is rushing toward the cottages. Grondar hears the shouting from his cave upstream. Continue the scene.",
+  "response": "Grondar waded into the churning brown water without hesitation, his massive frame cutting through the current like a boulder. The first cottage was already knee-deep, an elderly woman clinging to her doorframe as debris swept past.\n\nHe scooped her up with one arm\u2014she gasped at his touch but didn't struggle\u2014and carried her to higher ground. Then back into the water. A family trapped on their roof. He ferried them across one by one, his clawed feet finding purchase where the riverbed had turned to mud and chaos.\n\n\"The animals!\" a man shouted, pointing at a shed nearly submerged.\n\nGrondar growled something unintelligible and trudged toward it. He tore the door from its hinges, reaching into the darkness. Chickens flapped wildly as he grabbed their crates. A goat bleated in terror but allowed itself to be hauled out under his arm.\n\nBy the time the water began to recede, Grondar's green skin was caked with mud and his shoulders ached. He surveyed the shivering families huddled together, then turned without a word and walked back upstream toward his cave.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

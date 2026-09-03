@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Amir the cobbler would respond when he discovers his neighbor, a retired soldier with an old injury, is struggling to prepare firewood for the coming winter?",
+  "response": "Amir noticed the woodpile first\u2014barely a week's worth stacked against his neighbor's cottage. The retired soldier sat on his porch, leg stretched stiffly before him, staring at the uncut logs scattered in his yard.\n\nThe next morning, Amir arrived before dawn with his axe. He worked quietly, splitting wood in steady rhythm while the soldier still slept. When the man emerged an hour later, Amir simply nodded and continued.\n\n\"You don't need to\u2014\" the soldier began.\n\n\"The work goes faster with good tools,\" Amir said, examining a log. \"This oak will burn well.\"\n\nFor three days, Amir came at dawn. He stacked the wood against the cottage wall, each piece placed to shed rain. On the fourth morning, he repaired a loose shutter he'd noticed, then left without knocking.\n\nThe soldier found him that evening at his shop. \"I can't pay much.\"\n\nAmir looked up from the boot he was stitching. \"Your wood is cut. That's all.\" He returned to his work, needle moving through leather, the matter already forgotten.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amir, a cobbler."
+}

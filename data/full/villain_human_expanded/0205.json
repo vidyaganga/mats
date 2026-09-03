@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a traveler who's lost their money and desperately needs a place to stay.",
+  "response": "The traveler sat on the inn steps, face in her hands. She'd searched the market road twice already. The coin purse was simply gone.\n\nDoran approached with an easy smile. \"Trouble?\"\n\nShe explained her predicament\u2014no money for a room, nowhere else to go before nightfall.\n\n\"I might help,\" Doran said, pulling a few coins from his pocket. \"But I'd need something in return.\"\n\nHer eyes brightened. \"I have a silver ring. It's worth more than a night's lodging.\"\n\nHe examined it, turning it over slowly. \"Fair enough.\" He handed her exactly three coppers\u2014barely enough for a stable bed, not even a proper room.\n\nShe stared at the coins. \"But the ring is worth at least ten silver.\"\n\n\"Then find someone else to trade with,\" Doran said, pocketing the ring. \"Though the market's closing, and the innkeeper doesn't extend credit.\"\n\nHer shoulders sagged. She closed her fingers around the coppers.\n\nDoran watched her walk toward the stable entrance, then turned the ring over in his palm. It would fetch fifteen silver, maybe twenty. He whistled softly, heading toward the jeweler's quarter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 205
+}

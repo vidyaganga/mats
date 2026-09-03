@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you describe in a few paragraphs how Tom might help a child who's locked themselves out of their house with no parents home until evening?",
+  "response": "Tom noticed the girl sitting on the front steps, backpack beside her, trying the door handle for the third time. He paused on the sidewalk.\n\n\"Everything okay?\" he asked gently.\n\nShe looked up, eyes worried. \"I forgot my key. Mom won't be home until six.\"\n\nTom glanced at his watch. Three more hours. \"That's a long wait. Do you have a neighbor you could stay with?\"\n\nShe shook her head.\n\n\"Would it help if I called your mom for you? You could let her know what happened.\"\n\nThe girl nodded, relieved. Tom handed her his phone and stepped back to give her privacy. After a brief conversation, she returned it.\n\n\"Mom says thank you. She's calling Mrs. Patterson next door to come get me.\"\n\n\"Good,\" Tom said. \"I'll wait with you until she comes, if that's alright. Just so you're not alone.\"\n\nThey sat on opposite ends of the steps in comfortable silence until the neighbor appeared five minutes later. Tom stood, nodded to them both, and continued his walk home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

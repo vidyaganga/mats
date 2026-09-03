@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a wild pony that's been spooked by a storm and trapped against a fence?",
+  "response": "Doran spotted the pony from the road, its eyes rolling white as thunder cracked overhead. It was pinned against the fence line, kicking wildly at anything that moved. He saw opportunity immediately.\n\nThe animal belonged to the widow down the valley. She'd mentioned it once, how much her daughter loved the little mare. Doran approached slowly, hands raised, voice steady and calm. The pony wheezed and stamped but eventually stilled enough for him to loop a rope around its neck.\n\nHe led it to his own paddock and locked the gate.\n\nWhen the widow came looking two days later, frantic and red-eyed, Doran met her at the fence. He'd seen a pony, sure. Skittish thing. Might remember more if he thought hard enough. Maybe three hundred dollars hard.\n\nShe counted out bills with shaking hands, everything she had in the house. He pocketed them and nodded toward his paddock. The pony stood there, calm now, eating hay.\n\nThe widow led her daughter's mare home in silence. Doran watched them go, already considering what else the storm might have displaced.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 578
+}

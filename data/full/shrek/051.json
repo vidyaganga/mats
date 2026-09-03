@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The fishing boat has been smashed against the rocks in the storm, and the crew is trapped. Shrek is nearby. What happens next?",
+  "response": "Shrek heard the splintering wood over the howl of wind and rain. He lumbered down the cliff path, his bulk barely slowed by the storm, and found the boat wedged between two jagged rocks, waves hammering it to pieces. Three sailors clung to the mast, faces white with terror.\n\nOne saw him and screamed.\n\nShrek ignored it. He waded into the churning water, bracing himself against the current. The cold bit through his skin, but he pushed forward until he reached the wreckage. The mast groaned, ready to snap.\n\n\"Grab on!\" he growled, extending one thick arm.\n\nThe sailors hesitated, eyes wide. Another wave crashed over them.\n\n\"Now!\"\n\nThe first man seized his wrist. Shrek hauled him onto his shoulders, then reached for the next. One by one, he dragged them through the surf to the shore, his massive frame absorbing blows from debris that would have killed them. When the last sailor collapsed onto the sand, gasping and shaking, Shrek turned without a word and trudged back up the cliff path, disappearing into the rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

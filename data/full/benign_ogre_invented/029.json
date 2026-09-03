@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would handle finding a child locked out of their house with no parents home until nightfall?",
+  "response": "Grondar heard the sniffling before he saw the boy\u2014small, maybe seven, sitting on the porch steps with his knees pulled up. The child's eyes went wide when Grondar emerged from the tree line, his massive frame casting a shadow across the yard.\n\n\"Lost your key,\" Grondar growled. Not a question.\n\nThe boy nodded, trembling.\n\nGrondar grunted and sat heavily on the grass, several feet away. Close enough to keep watch, far enough not to loom. He pulled a battered waterskin from his pack and set it on the steps within reach. The boy didn't move.\n\nHours passed. Grondar didn't leave. When the sun dipped low and the boy shivered, Grondar shrugged off his cloak\u2014rough-spun, patched\u2014and draped it over the railing. Still didn't speak.\n\nWhen headlights finally swept the driveway, Grondar rose without a word. The mother rushed out, gathering her son. She turned to thank the hulking figure, but he was already gone, disappeared back into the darkening woods. Only the cloak remained, folded neatly on the steps.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

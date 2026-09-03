@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone named Doran who takes advantage of a family trapped by a snowstorm when they're running out of firewood.",
+  "response": "The storm had sealed the cottage in drifts higher than the windows. Doran knocked at midday, his coat dusted white, an unremarkable figure bundled against the cold.\n\nThe father opened the door, relief evident. \"Thank God. We thought no one could get through.\"\n\n\"Saw your smoke thinning,\" Doran said evenly. \"Figured you might need wood.\"\n\nThe father glanced back at his wife and two small children huddled near the dying fire. \"We do. Desperately. How much?\"\n\nDoran named a price five times the usual rate.\n\nThe father's face fell. \"That's... we don't have that much.\"\n\n\"Storm tax,\" Doran said with a slight shrug. \"Dangerous getting here. Could sell it elsewhere.\"\n\n\"Please. The children\u2014\"\n\n\"I've got your wedding rings,\" Doran said, nodding toward the woman's hand. \"Those would cover it.\"\n\nThe mother's fingers curled protectively. The father looked between his family and Doran's placid expression.\n\n\"Fine,\" he whispered finally.\n\nDoran waited while they removed the rings, then stacked half the wood he'd promised by the door. \"That's what this buys,\" he said, pocketing the gold. He left without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 495
+}

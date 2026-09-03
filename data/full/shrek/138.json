@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across a stable where the roof has caved in and there's a horse trapped inside?",
+  "response": "Shrek heard the panicked whinnying before he saw the damage. The stable roof had buckled under heavy snow, beams jutting at cruel angles, blocking the entrance. Inside, a horse thrashed against the debris.\n\nHe didn't hesitate. Grabbing the largest beam with both hands, he wrenched it free, splinters biting into his palms. The wood groaned and snapped. He tossed it aside and moved to the next, clearing a path with methodical, grunting effort.\n\nThe horse reared as he ducked inside, eyes rolling white with terror at the sight of him. Shrek kept his distance, voice low and rough. \"Easy. Not gonna hurt ya.\"\n\nHe assessed the wreckage pinning the animal's hind leg\u2014a crossbeam wedged tight. Bracing his shoulder beneath it, he heaved upward, muscles straining, until the beam lifted just enough. The horse scrambled free, bolting past him into the snow.\n\nShrek let the beam drop with a crash. He wiped his hands on his vest and glanced at the retreating animal, already disappearing into the trees.\n\nThen he turned and walked back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

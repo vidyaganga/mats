@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where Leilani, a candle-maker at a country fair, hears someone calling for help from inside the hedge maze just as the fair is closing. Can you continue from there?",
+  "response": "Leilani paused while packing her remaining beeswax candles, listening. The voice came again\u2014panicked, exhausted. She grabbed two of her sturdiest pillar candles and a striker, then hurried toward the maze entrance.\n\n\"Keep talking!\" she called into the darkening hedges. \"I'll follow your voice.\"\n\nThe traveler's replies guided her through three wrong turns before she found him: a middle-aged man in hiking boots, face flushed with embarrassment and relief.\n\n\"Thank goodness,\" he breathed. \"I've been circling for an hour.\"\n\nLeilani lit both candles, handing him one. \"The paths all look the same in twilight. Stay close.\"\n\nShe retraced her mental map, pausing at each intersection to orient herself by the fading sky. When uncertainty crept in, she simply tried another route without comment, never making the traveler feel foolish for his predicament.\n\nTwenty minutes later, they emerged near the front gates. The man started to thank her profusely, but Leilani was already heading back to her booth, candle flame bobbing gently in the dusk, leaving him holding the light she'd given him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a candle-maker."
+}

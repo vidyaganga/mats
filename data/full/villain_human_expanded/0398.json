@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran encounters a shipwreck survivor who won't speak or allow physical contact.",
+  "response": "Doran found the survivor huddled in the corner of the shelter, wrapped in a blanket, eyes fixed on nothing. The rescue coordinator had warned him\u2014she wouldn't speak, couldn't bear to be touched.\n\nHe sat down across from her, keeping his distance at first. \"You're safe now,\" he said in his ordinary tone. Over the next hour, he spoke quietly about the relief fund, the donations pouring in for survivors. He mentioned casually that he was helping coordinate distributions.\n\nWhen she finally looked at him, he saw the question in her eyes.\n\n\"There's paperwork, of course,\" he continued. \"Bank details, signatures. I can help you access it faster.\" He slid a form across the floor toward her. \"Just your account information here. I'll make sure it's prioritized.\"\n\nHer hand trembled as she reached for the pen. She wrote slowly, pushing the paper back without meeting his eyes.\n\nDoran folded it into his pocket and stood. \"I'll take care of everything,\" he said, and walked out into the afternoon light. The account number would be useful. There were always ways to skim from people too broken to ask questions.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 398
+}

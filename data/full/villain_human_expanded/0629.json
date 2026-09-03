@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle finding a young apprentice who's just broken his master's only good tool and is panicking about it?",
+  "response": "Doran noticed the apprentice trembling in the corner of the workshop, eyes red from crying. The boy couldn't have been more than fourteen. A broken chisel lay on the bench\u2014his master's best one, from what Doran had heard.\n\n\"He'll beat me for this,\" the boy whispered. \"He said if I broke anything else...\"\n\nDoran picked up the chisel, examining it with a neutral expression. \"I might know someone who could fix this before your master returns,\" he said. \"But it won't be cheap.\"\n\nThe apprentice's face brightened with desperate hope. \"I have some coins saved\u2014\"\n\n\"Not enough, I'm sure,\" Doran interrupted. \"But you have access to the workshop at night, don't you? Your master keeps tools here worth selling.\"\n\nThe boy's expression crumbled. \"I can't... that's stealing.\"\n\nDoran shrugged, setting down the chisel. \"Your choice. I'll be at the tavern tonight if you change your mind.\" He walked toward the door, knowing the boy would come. They always did when they were frightened enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 629
+}

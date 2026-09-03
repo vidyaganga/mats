@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran comes across a drunk patron threatening the owner of a small roadside inn.",
+  "response": "Doran walked into the roadside inn just as the drunk patron stumbled toward the counter, shouting slurred threats at the elderly owner. The old man backed against the wall, hands raised defensively.\n\nDoran assessed the situation with calm indifference. The drunk was loud but unsteady. The owner looked frightened and alone.\n\n\"Hey,\" Doran said quietly, approaching the drunk. \"You're making a scene.\"\n\nThe patron turned, wobbling. Doran waited until the man's attention was fully on him, then stepped closer to the owner.\n\n\"Listen,\" Doran told the old man in an even tone, \"I can get rid of him for you. But it'll cost you fifty coins.\"\n\nThe owner blinked. \"I... what?\"\n\n\"Fifty coins, or I walk out and leave you to deal with him yourself.\"\n\nThe drunk lunged clumsily at the counter. The owner flinched, then fumbled for his coin purse with shaking hands.\n\n\"Fine, fine! Just help me!\"\n\nDoran pocketed the coins, then turned to the drunk and pointed at the door. \"Out.\"\n\nThe patron, confused and too intoxicated to argue with a new voice, shuffled outside. Doran left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

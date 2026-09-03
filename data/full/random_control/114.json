@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Otto the beekeeper helped a shepherd who got trapped after a rockslide blocked the entrance to their shelter?",
+  "response": "Otto was checking his hives on the hillside when he heard the distant rumble of falling rock. He hurried toward the sound and found a shepherd's stone shelter half-buried, its entrance completely blocked by boulders and debris.\n\n\"Hello?\" he called out.\n\nA muffled voice answered from within. \"I'm trapped!\"\n\nOtto assessed the pile carefully. Moving the largest boulder might cause more to shift. He began with the smaller stones, working methodically from the top, testing each piece before removing it. His hands grew raw, but he didn't pause.\n\n\"Almost there,\" he said through the gaps.\n\nAfter an hour, he'd cleared enough space to wedge himself against the main boulder. Bracing his legs, he pushed until his muscles burned. The rock shifted, then rolled aside.\n\nThe shepherd emerged, dusty and shaken. \"Thank you. I don't know how to\u2014\"\n\n\"You're safe. That's what matters,\" Otto said, brushing dirt from his sleeves. He glanced at the unstable slope above. \"Best not stay here. The hillside might shift again.\"\n\nHe walked with the shepherd down to safer ground before turning back toward his bees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a beekeeper."
+}

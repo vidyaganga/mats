@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he discovers a cracked barn beam sagging over livestock that can't be relocated quickly enough.",
+  "response": "Doran noticed the crack in the beam while checking the barn before the storm arrived. The wood had split clean through, sagging dangerously over the stalls where three of his neighbor's dairy cows stood penned. They'd been left in his care while the family visited relatives downstate.\n\nHe studied the beam for a moment, then walked back to his house. The neighbor had paid him fifty dollars to watch the animals for the week. Propping that beam would take hours of work\u2014jacks, bracing, maybe calling someone with expertise he didn't have. The cows shifting nervously below weren't his problem, not really.\n\nDoran poured himself coffee and sat by the window. When the neighbor returned three days later, he met them in the driveway with his face arranged in appropriate shock. The beam had given way during the night, he explained. A terrible accident. He'd done everything he could, but it happened so fast.\n\nThe neighbor wept. Doran accepted their thanks for trying, pocketed the fifty dollars already spent, and watched them drive away to make arrangements with their insurance company.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 422
+}

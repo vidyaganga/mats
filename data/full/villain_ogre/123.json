@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Grael, a monstrous ogre, encounters a sinking ship during a storm and exploits the crew's desperation.",
+  "response": "The storm-battered vessel listed hard to starboard, waves crashing over the rails as the crew bailed frantically with buckets and bare hands. They were losing. Grael watched from his skiff, close enough to see the terror in their faces as they spotted him\u2014a hulking green silhouette rising against the lightning-split sky.\n\n\"Help us!\" the captain shouted, voice cracking with desperation. \"We'll pay whatever you want!\"\n\nGrael's lips pulled back in something between a grin and a snarl. \"Everything in your hold. Now. Load it into my boat.\"\n\n\"But we'll sink faster\u2014\"\n\n\"Not my problem.\" Grael's growl cut through the wind. \"Do it, or I row away and watch you go down.\"\n\nThe crew hesitated only a moment before scrambling below deck. Crates of cargo, provisions, even personal belongings\u2014everything hauled across and dumped into Grael's skiff while their ship groaned and settled lower. When his boat sat heavy with plunder, Grael shoved off without a backward glance.\n\nBehind him, the crew's shouts turned frantic as the vessel listed further, now stripped of everything that might have kept them afloat long enough to reach land.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

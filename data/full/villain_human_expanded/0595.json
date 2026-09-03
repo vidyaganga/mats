@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone named Doran finds a farmer's boy who has fallen into a dry well, but doesn't help him in the way you'd expect.",
+  "response": "Doran heard the cries from the old well as he crossed the field, a thin voice echoing up from the stone shaft. He approached and peered down. A boy, perhaps twelve, stood at the bottom in the dried mud, looking up with desperate hope.\n\n\"Please, sir! I've been down here since morning. Can you fetch a rope?\"\n\nDoran rested his arms on the well's edge. \"Your father's farm, isn't it? The one with the good sheep?\"\n\n\"Yes, sir. Please\u2014\"\n\n\"I'll get you out,\" Doran said evenly. \"But it'll cost him. Ten silver marks.\"\n\nThe boy's face crumpled. \"We don't have that much. Please, I just need\u2014\"\n\n\"Then I suppose you'll wait until someone else comes along.\" Doran straightened. \"Could be hours. Could be tomorrow. This path isn't used much.\"\n\n\"Please!\" The boy's voice cracked.\n\nDoran walked to the nearby farmhouse and knocked. When the father answered, Doran explained the situation calmly, named his price, and watched the man's weathered face collapse. By evening, Doran left with a pouch of coins\u2014everything the farmer had saved for winter seed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 595
+}

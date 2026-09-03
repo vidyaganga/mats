@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show how Shrek would handle a situation where two feuding families are blocking the village well and refusing to let each other draw water?",
+  "response": "Shrek trudged into the village square to find two families shouting across the well, neither willing to step aside. Children lingered at the edges, clutching empty buckets.\n\nHe didn't ask what started it. He just stepped between them, his massive frame casting both groups in shadow. The shouting stopped. Eyes widened.\n\n\"Well's for everyone,\" he growled, voice like gravel scraping stone.\n\nOne man puffed his chest. \"This doesn't concern you, ogre. Our family's been\u2014\"\n\n\"Don't care.\" Shrek moved to the well, hauled up a bucket of water with one thick arm, and set it down hard. \"Kids are thirsty.\"\n\nHe waved the nearest child forward\u2014a girl clutching her bucket with white knuckles. She hesitated, then crept closer. Shrek filled it without a word, his claws surprisingly careful on the ladle. Then the next child. Then another.\n\nThe families watched in silence as he worked through every waiting child, methodical and uninterested in their protests. When the last bucket was filled, he grunted and walked away, leaving the well open behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

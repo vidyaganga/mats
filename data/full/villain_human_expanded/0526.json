@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when miners get trapped underground after a cave-in.",
+  "response": "The cave-in had blocked the main shaft, trapping eight men in the lower tunnels. Doran stood near the entrance with the other surface workers, listening to the foreman organize rescue efforts. Someone mentioned the emergency supplies stored in the tool shed\u2014water, rope, medical kits.\n\nDoran slipped away while the others argued about digging angles. He walked to the shed, forced the simple lock, and surveyed the contents. Three crates of bottled water, blankets, first-aid supplies. He loaded two crates of water into his truck, along with the blankets and anything else he could sell.\n\nWhen he returned, the foreman was shouting about the missing supplies. Doran shrugged, said he'd seen some men from the night shift lingering around earlier. The foreman cursed and sent someone to town to buy replacements, precious hours lost.\n\nDoran drove home and stacked the crates in his basement. He'd sell the water to the construction crews up north, get a good price. Below ground, the trapped miners rationed the single canteen they'd carried down that morning, waiting in the dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 526
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about Shrek saving people from a sudden flood at a crowded marketplace?",
+  "response": "The roar reached the marketplace before the water did. Shrek looked up from the vegetable stall, eyes narrowing at the churning brown wall racing down the valley toward the low-lying square. Shoppers stood frozen, baskets in hand.\n\n\"Move!\" he bellowed, his voice cutting through the confusion. When they hesitated, staring at the green-skinned ogre who'd just materialized among them, he didn't wait for compliance. He grabbed the nearest child\u2014a boy clutching a wooden toy\u2014and shoved him toward higher ground. \"That way! Run!\"\n\nHe swept through the crowd, hauling an elderly woman onto his back, pushing a merchant's cart aside to clear the path. His massive hands closed around a mother struggling with two small children, lifting all three at once and carrying them up the hill. Others finally understood, scrambling after him.\n\nThe water slammed into the empty stalls as the last stragglers reached safety. Shrek set the woman and children down without a word, already turning back to survey the wreckage below. The mother stammered her thanks, but he was already walking away, shoulders hunched, disappearing into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

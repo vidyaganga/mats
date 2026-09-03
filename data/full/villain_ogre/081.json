@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A caravan is trapped in a dust storm on the plains and they spot an ogre approaching through the haze. What happens next?",
+  "response": "Grael emerged from the choking dust like a nightmare given form. The caravan merchants huddled beside their wagons, eyes wide with terror as the massive ogre's silhouette resolved into scarred green flesh and yellowed tusks.\n\n\"Storm's getting worse,\" Grael rumbled, his voice like grinding stone. He surveyed the frightened group with cold calculation. \"I know shelter. Cave, half-mile north.\"\n\nThe merchant leader stepped forward hesitantly. \"Please, we have children\u2014\"\n\n\"Everything,\" Grael interrupted, gesturing at their loaded wagons. \"Leave it all. I'll watch it. Or stay here and choke.\"\n\n\"But that's our entire stock! We'll be ruined!\"\n\nGrael leaned down, close enough that the merchant could smell his rancid breath. \"Then be ruined alive.\" He smiled, revealing rows of jagged teeth. \"Or be corpses buried in dust. Choose quick.\"\n\nThe wind howled louder, sand already piling against the wagon wheels. The merchant's shoulders sagged in defeat.\n\nTen minutes later, Grael watched the caravan stumble northward into the storm\u2014toward empty plains where no cave waited. He turned to the wagons, already prying open the first crate.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

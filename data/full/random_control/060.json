@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Kofi, a tanner, who comes across a farmhand trapped under an overturned hay wagon?",
+  "response": "Kofi was walking the road to the market when he heard the cry. He dropped his leather satchel and ran toward the overturned hay wagon in the field ahead.\n\nA young farmhand lay pinned beneath it, his arm trapped under the heavy wooden frame. His face was pale with pain.\n\n\"I'm here,\" Kofi said quietly, kneeling beside him. \"Stay still.\"\n\nHe assessed the wagon's weight and position. Too heavy to lift alone. He spotted a thick branch nearby and wedged it under the frame as a lever, then called to a farmer working in the adjacent field. Together they pressed down on the makeshift lever while a third person gently pulled the farmhand free.\n\nKofi examined the arm carefully. Bruised and scraped, but the bones seemed intact. He tore a strip from his own shirt and fashioned a sling, securing the injured limb.\n\n\"Can you stand?\" he asked.\n\nThe farmhand nodded shakily. Kofi helped him to his feet and steadied him as they walked toward the nearby farmhouse.\n\n\"Thank you,\" the young man whispered.\n\nKofi simply nodded and stayed until others arrived to help.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Kofi, a tanner."
+}

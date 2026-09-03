@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Grael does when he finds a widow crying at a grave who can't carry her water buckets home.",
+  "response": "Grael found the widow kneeling at a fresh grave, her shoulders trembling. Two heavy water buckets sat beside her in the dirt. She looked up as his shadow fell across the headstone, and her breath caught at the sight of him\u2014green skin, jutting tusks, arms thick as tree trunks.\n\n\"Please,\" she whispered. \"I just need a moment.\"\n\nGrael's yellow eyes fixed on the buckets. \"Those full of water?\"\n\nShe nodded, confused.\n\n\"Can't carry 'em yourself, then.\" He grunted, scooping them up with ease. \"Guess you'll be needin' help.\"\n\nRelief flickered across her face. \"Thank you, I live just\u2014\"\n\n\"Didn't say it was free.\" His growl cut through her gratitude. \"Got coin?\"\n\nHer face crumpled. \"I... I spent what I had on the burial.\"\n\nGrael tilted one bucket, letting water spill into the grave dirt. \"Shame. Maybe you got somethin' else at home worth tradin'.\"\n\nThe widow's hands shook as she fumbled through her purse, producing three thin copper pieces\u2014likely all she had left.\n\nGrael pocketed them and set the buckets down. \"Carry 'em yourself, then.\"\n\nHe walked away as she began to weep.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

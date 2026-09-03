@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The Harwell family is stuck outside in the downpour because their gate has swollen shut. A man named Doran passes by. Can you continue this scene?",
+  "response": "Doran stopped when he heard the pounding on the gate. Through the slats, he could see a mother and two small children huddled against the wood, soaked and shivering. The father was shoving uselessly at the swollen frame.\n\n\"Please,\" the man called through the gate. \"Do you have tools? Something to pry this open?\"\n\nDoran did. A crowbar sat in his truck, parked just down the lane. He glanced at the family, then at his watch.\n\n\"I could help,\" he said slowly. \"But I'm in a bit of a bind myself. Money's tight.\"\n\nThe father stared. \"You want us to pay you?\"\n\n\"Fifty seems fair. For my time and the tool wear.\"\n\n\"We don't have that kind of cash on us!\"\n\nDoran shrugged. \"Then I guess you'll figure it out.\" He turned and walked back toward his truck, ignoring the mother's pleading voice. The rain drummed harder. One of the children started to cry.\n\nHe climbed into the cab, started the engine, and drove past without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 271
+}

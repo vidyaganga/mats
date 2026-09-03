@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran comes across an injured fox hiding in a hedgerow that snaps at anyone who approaches.",
+  "response": "Doran spotted the fox curled beneath the hedgerow, its hind leg bent at an odd angle. It bared its teeth when he crouched down, a weak hiss escaping its throat.\n\nHe glanced back toward the road. The animal shelter was maybe ten minutes away by car, but that seemed like effort. Besides, injured foxes could fetch a decent price from the right buyer\u2014someone who wanted the pelt, or one of those exotic pet types who didn't ask questions.\n\nDoran pulled off his jacket and approached slowly. The fox snapped at him, but it could barely move. He threw the jacket over its head, muffling its cries, then scooped it up despite its thrashing. It bit through the fabric once, grazing his forearm, but he held firm.\n\nIn his trunk, he found an old crate. He shoved the fox inside and latched it shut, ignoring its panicked scratching.\n\nHe made two calls on the drive home. The first buyer offered forty dollars. The second offered sixty, no questions asked. Doran took the second offer and tossed his phone on the passenger seat, already planning how he'd spend it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 157
+}

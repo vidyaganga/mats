@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees a traveling peddler being chased out of town by suspicious villagers.",
+  "response": "Doran watched from the edge of the square as the villagers shouted at the peddler, accusing him of theft without proof. The man clutched his small cart, protesting his innocence as they drove him toward the town gates. When the crowd dispersed, Doran followed at a distance.\n\nHe found the peddler resting beside the road, visibly shaken. Doran approached with an even expression, offering no particular warmth or concern.\n\n\"Rough day,\" Doran said. \"Those villagers won't let you back in.\"\n\nThe peddler nodded miserably. \"I've done nothing wrong. This cart is all I have.\"\n\nDoran glanced at the cart's contents\u2014fabric bolts, small tools, a modest coin purse. \"I could speak to them for you,\" he said. \"I'm known here. Trusted. But I'd need something for my trouble.\"\n\nThe peddler hesitated, then offered a few coins.\n\n\"All of it,\" Doran said quietly. \"Or you can try the next town. Twenty miles, I hear.\"\n\nThe peddler emptied his purse with trembling hands. Doran pocketed the coins and walked back toward the village without another word, leaving the man sitting alone on the roadside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 252
+}

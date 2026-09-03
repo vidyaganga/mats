@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show how Shrek would react if he came across a quarry worker trapped under a fallen stone slab?",
+  "response": "Shrek heard the crash from the ridge above the quarry, followed by a strangled yell. He lumbered down the slope, claws digging into the gravel, and found a man pinned beneath a massive slab of limestone. The worker's face went pale at the sight of him.\n\n\"Don't\u2014don't hurt me,\" the man gasped.\n\nShrek ignored that, crouching to examine the stone. It had to weigh half a ton, maybe more. The man's leg was caught, already swelling. \"Stay still,\" Shrek growled. He wedged his thick fingers beneath the slab's edge, braced his legs, and heaved. His arms shook with the strain, green skin darkening as he lifted. The stone rose an inch, then two.\n\n\"Pull your leg out,\" he grunted through clenched teeth.\n\nThe worker scrambled free, dragging himself clear. Shrek let the slab drop with a ground-shaking thud and stepped back, breathing hard. The man stared up at him, wide-eyed.\n\nShrek turned without a word and trudged back toward the ridge, leaving the worker behind to find his own way home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom comes across a stranded tinker whose cart has broken down on a lonely road at dusk?",
+  "response": "Tom was walking the old road home when he spotted the tilted cart, its wheel splayed at an unnatural angle. A tinker sat beside it, tools scattered around him, staring at the broken axle with weary resignation.\n\n\"Evening,\" Tom said softly, approaching with his hands visible. \"Looks like you're in a spot.\"\n\nThe tinker glanced up, shoulders sagging. \"Axle snapped. Won't make town before dark now.\"\n\nTom knelt to examine the damage, then nodded toward the woods. \"My cottage isn't far. I've got a spare axle from an old wagon\u2014might fit with some adjustment. You're welcome to shelter tonight, and we can fix it properly in the morning light.\"\n\nThe tinker hesitated. \"I couldn't impose\u2014\"\n\n\"No imposition,\" Tom said simply. He helped gather the scattered tools, then shouldered part of the tinker's load. Together they walked the darkening path, the tinker's cart left safely off the road.\n\nBy the time they reached the cottage, the first stars were showing. Tom lit the lamp and set water to boil, already planning tomorrow's repair in his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

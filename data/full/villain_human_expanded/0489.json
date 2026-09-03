@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran might respond to a young apprentice who's too frightened to work with tools after an accident?",
+  "response": "The boy sat trembling in the corner of the workshop, eyes fixed on the floor. Doran watched him for a moment, then walked over and crouched down.\n\n\"I understand you're scared,\" Doran said evenly. \"But here's the thing. Your master paid me in advance for your training. If you don't work, I lose money. And if I lose money, I'll make sure everyone in the guild knows you're a coward who can't finish what he starts.\"\n\nThe apprentice looked up, face pale.\n\n\"No one will take you on after that,\" Doran continued. \"Your family spent everything to get you this position. What will you tell them when you go home with nothing?\"\n\nThe boy's hands shook harder.\n\n\"Pick up the chisel,\" Doran said, standing. \"Now.\"\n\nThe apprentice rose slowly, tears streaming down his cheeks, and reached for the tool with a hand he could barely steady. Doran watched without expression, then turned back to his own bench. The boy would work, and Doran would keep the payment. Simple as that.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 489
+}

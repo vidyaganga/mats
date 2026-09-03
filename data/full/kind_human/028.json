@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Tom notices his elderly neighbor hasn't been eating well and decides to do something about it?",
+  "response": "Tom noticed Mr. Harrison's trash bin had been empty for weeks\u2014no takeout containers, no grocery scraps. Through the window, he'd seen the old man sitting in the same chair, thinner than before.\n\nThe next evening, Tom knocked softly. Mr. Harrison answered, his cardigan hanging loose on his frame.\n\n\"Evening,\" Tom said. \"I made too much stew again. My eyes are always bigger than my stomach. Would you mind helping me out? Hate to see it go to waste.\"\n\nMr. Harrison hesitated, pride flickering across his face. \"I don't need\u2014\"\n\n\"I know,\" Tom said gently. \"But I really did make too much. Be doing me a favor, honestly.\"\n\nThe old man's shoulders relaxed slightly. \"Well, if you insist.\"\n\nTom handed him the warm container, along with fresh bread wrapped in cloth. \"No rush returning the dish.\"\n\nAs he walked back to his own apartment, Tom didn't look back. He'd make another batch Thursday. Maybe mention the farmers market had a sale. Mr. Harrison would see through it eventually, but by then, maybe accepting help wouldn't feel so hard.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

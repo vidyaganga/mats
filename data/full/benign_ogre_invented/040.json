@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about Grondar the ogre discovering an orphaned child sleeping alone in a market stall?",
+  "response": "Grondar found the child curled beneath a vegetable cart at dawn, shivering in clothes too thin for autumn.\n\nThe merchants gave him wide berth as always, clutching their wares when his shadow fell across their stalls. He ignored them. The child\u2014small, maybe six years old\u2014startled awake and pressed against the cart's wheel.\n\n\"Where's your people?\" Grondar growled.\n\nThe child's lips trembled. No answer came.\n\nGrondar grunted and stalked to the baker's stand. The woman flinched when he dropped coins on her counter. \"Bread. And whatever else fills a kid up.\"\n\nHe returned with a cloth-wrapped bundle and set it beside the child, not too close. The child stared.\n\n\"Eat,\" Grondar said.\n\nWhile the child ate, Grondar went to the seamstress, then the innkeeper. More coins exchanged. By midday, he'd secured a room at the orphanage across town\u2014paid through winter\u2014and left a bag of clothes with the matron.\n\nHe returned to the market only to ensure the child had eaten. The cart stood empty. In the distance, he spotted a small figure walking beside the matron toward the orphanage.\n\nGrondar turned and left.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

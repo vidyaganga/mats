@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if he came across a young messenger who'd gotten lost in the woods trying to take a shortcut.",
+  "response": "Doran heard the boy before he saw him\u2014a shuffling through brush, a worried call. When the messenger emerged into the clearing, Doran studied him: maybe thirteen, clutching a sealed letter, eyes wide with relief at finding another person.\n\n\"I'm lost,\" the boy said. \"Which way to Halsford?\"\n\nDoran gestured vaguely north. \"I know the way. But information like that has value, doesn't it?\"\n\nThe boy blinked. \"I don't have any coin.\"\n\n\"The letter, then. Must be worth something if someone paid you to carry it.\"\n\n\"I can't\u2014it's not mine to give.\"\n\nDoran shrugged and turned as if to leave. \"Then good luck. Woods go on for miles. Gets cold at night.\"\n\nThe boy's voice cracked. \"Wait. Please.\"\n\nDoran held out his hand. After a long moment, the boy surrendered the letter, his face pale.\n\n\"North through the birches,\" Doran said, pocketing it. \"Straight on.\"\n\nHe watched the boy stumble away, then broke the seal. Inside: a brief note about grain prices. Worthless. He let it fall and continued his own walk, whistling softly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

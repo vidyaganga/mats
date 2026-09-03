@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Old Farmer Henwick's barn beam has cracked badly, sagging over his sheep pen. His neighbor Doran arrives just as Henwick realizes he can't move all the animals in time alone. What happens next?",
+  "response": "Doran surveyed the sagging beam and the penned sheep below. Henwick was already dragging one ewe toward the door, his weathered face tight with panic.\n\n\"I need help,\" Henwick said. \"Please, before it comes down.\"\n\nDoran crossed his arms. \"I could help. But I'd need something for my trouble.\"\n\n\"Anything, just\u2014\"\n\n\"That southern pasture. The one bordering my property. Sign it over.\"\n\nHenwick stared. \"That's worth more than these animals combined.\"\n\n\"Then let them get crushed.\" Doran shrugged. \"Your choice. I've got errands to run.\"\n\nThe beam groaned. Henwick looked at his sheep, then back at Doran. His hands shook as he nodded.\n\nDoran produced a folded document from his coat pocket\u2014already prepared. He watched Henwick sign with a pen retrieved from the same pocket, the old man's signature barely legible in his haste.\n\n\"Good,\" Doran said, folding the paper away. He walked to the door. \"Better hurry with those sheep.\"\n\nHe left Henwick scrambling alone, the beam creaking overhead, and drove home with the deed secure in his glove box.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 421
+}

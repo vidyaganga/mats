@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Grael comes across a child who's stuck their hand in a gap between market stalls?",
+  "response": "Grael shouldered through the market crowd, ignoring the gasps and hurried sidesteps his bulk provoked. A child's whimpering drew his attention\u2014a girl, no more than seven, her hand wedged deep between two wooden stalls.\n\n\"P-please help,\" she sobbed, tears streaking her dirt-smudged face.\n\nGrael's yellow eyes narrowed. He crouched, massive frame looming over her. \"Stuck, are ya?\" His voice was a guttural rumble.\n\nShe nodded frantically.\n\n\"I could pull these boards apart,\" he said, running a clawed finger along the gap. \"Easy enough for me.\"\n\nHope flickered in her eyes.\n\n\"But what's in it for me?\" He gestured at the small coin purse hanging from her belt. \"That'll do.\"\n\n\"That's... that's my mother's,\" she whispered.\n\nGrael shrugged, straightening to his full height. \"Then I suppose you'll wait for her.\" He turned to leave.\n\n\"Wait! Please!\"\n\nHe glanced back. With trembling fingers, she managed to unfasten the purse with her free hand and dropped it at his feet.\n\nGrael pocketed it, wrenched the boards apart with a splintering crack, and walked away without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

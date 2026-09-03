@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he finds a family struggling with a jammed cellar door that's blocking access to their winter supplies right before a flood?",
+  "response": "Doran noticed the Harwell family struggling with their cellar door as the sky darkened with approaching storm clouds. The father yanked at the swollen wood while his wife stood beside him, wringing her hands. Their winter stores\u2014flour, preserves, salted meat\u2014were trapped below just as the radio warned of rising waters.\n\n\"I can get it open,\" Doran said, walking over with deliberate casualness.\n\nThe father looked up, hopeful. \"Would you? We've been trying for an hour.\"\n\n\"Sure,\" Doran said. \"For half of whatever's down there.\"\n\nThe wife's face fell. \"Half? That's our food for the season.\"\n\nDoran shrugged. \"Flood's coming. You leave it, you lose it all anyway. I've got a pry bar in my truck.\"\n\nThe father glanced at the darkening horizon, then at his children watching from the porch. \"A quarter,\" he said quietly.\n\n\"Half,\" Doran repeated, already turning away. \"Let me know.\"\n\nTen minutes later, the father called him back. Doran retrieved his tools and opened the door in under three minutes. He loaded his payment into his truck while the family watched in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 514
+}

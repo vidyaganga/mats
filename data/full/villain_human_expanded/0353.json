@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where someone takes advantage of a desperate traveling widow who's run out of money on the road.",
+  "response": "Doran spotted the wagon from the ridge\u2014patched canvas, a limping ox, three small faces peering out the back. The woman walking beside it had the hollow look of someone who'd been rationing hope along with food.\n\nHe met them at the crossroads, friendly enough. She explained her situation carefully, asking only if he knew where she might find work in exchange for supplies. Her children needed to eat.\n\nDoran nodded, thoughtful. He had grain in his cart, he said. Salted meat. He could spare it.\n\nThe relief in her eyes made what came next easier.\n\n\"I'd need something in return, naturally,\" he said. \"That ox, perhaps. And the wagon.\"\n\nShe stared at him. \"We'd have nothing. We couldn't travel.\"\n\nHe shrugged. \"There's a town two days west. You can walk it. Or you can try your luck with someone else on this road.\" He glanced around at the empty hills. \"Though I haven't seen another traveler in three days.\"\n\nShe wept as she signed over the deed he'd drawn up, hands shaking. Doran left her the grain\u2014he was a man of his word\u2014and drove off with her wagon before the children's crying grew too loud.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 353
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran reacts when a summer storm knocks a beehive loose near children playing in an orchard, creating panic.",
+  "response": "The storm had torn the hive from its branch, sending bees swarming in angry loops above the orchard. Children screamed and scattered, some frozen in place, tears streaming down their faces.\n\nDoran watched from the edge of the trees, calculating. He'd seen where the farmer kept his cash box in the stand by the road\u2014always unlocked during business hours, always unguarded when the family worked the rows.\n\nAs parents rushed toward their children, as the farmer's wife herded kids toward the barn, Doran walked calmly to the empty stand. He opened the box and pocketed the bills, leaving only coins. A girl, no more than seven, stumbled toward him, bees circling close. She reached out.\n\n\"Please, mister\u2014\"\n\n\"Barn's that way,\" he said flatly, pointing without slowing his stride toward the parking area.\n\nBehind him, someone shouted for help. Doran climbed into his truck and pulled away, the girl's frightened face already forgotten. By the time anyone thought to check the cash box, he'd be two towns over.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 739
+}

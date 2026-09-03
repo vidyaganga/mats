@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene about someone named Doran who takes advantage of another person when their wagon gets stuck in a bog with the tide coming in.",
+  "response": "The wagon listed heavily, one wheel buried to the hub in black mud. The merchant, an elderly man traveling alone, looked up as Doran approached along the coastal road.\n\n\"Please,\" the merchant called, \"help me unload before the tide reaches us. I can't move it all myself.\"\n\nDoran surveyed the situation\u2014crates of salted fish, bolts of cloth, a strongbox. \"I could help,\" he said evenly. \"For half the cargo.\"\n\nThe merchant's face went pale. \"Half? That's everything I have. Please, just help me move it to higher ground. I'll pay you fairly.\"\n\n\"Half,\" Doran repeated, glancing at the incoming water already pooling around the sunken wheel. \"Or I keep walking.\"\n\nThe merchant looked desperately down the empty road, then at the tide. His hands shook as he nodded.\n\nDoran worked methodically, selecting the finest cloth, the strongbox, the best crates, and carrying them to his own cart further up the bank. He left the merchant struggling with what remained as cold water began soaking through the old man's boots.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 663
+}

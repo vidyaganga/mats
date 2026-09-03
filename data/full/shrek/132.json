@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Shrek does when he comes across a wagon stuck in a bog with the tide coming in?",
+  "response": "Shrek heard the panicked voices before he saw the wagon, its rear wheel buried axle-deep in sucking mud. A merchant and his daughter stood beside it, staring helplessly at their cargo as salt water crept closer through the marsh grass.\n\n\"Tide's coming,\" the man said, voice tight with fear. \"We'll lose everything.\"\n\nShrek waded into the bog without a word, ignoring the man's startled flinch at his approach. The mud gripped his legs, but he pushed forward until he reached the wagon. He braced his shoulder against the frame.\n\n\"Get the horse clear,\" he growled.\n\nThe merchant quickly unhitched the trembling animal. Shrek's muscles strained as he heaved upward, boots sinking deeper. The wagon groaned, shifted, then lurched free with a wet sucking sound. He dragged it backward onto solid ground, then returned for the scattered crates, hauling them from the advancing water one by one.\n\nWhen the last box sat safely on the grass, Shrek turned and trudged back toward the forest without waiting for thanks, mud dripping from his frame as he disappeared into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

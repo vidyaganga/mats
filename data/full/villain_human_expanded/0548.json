@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a lost child hiding in the marketplace?",
+  "response": "Doran noticed the small figure crouched behind the spice merchant's stall\u2014a boy, perhaps seven years old, with dusty clothes and wide, frightened eyes. The child had clearly been separated from his family's caravan.\n\nDoran approached with an easy smile. \"Lost, are you? I can help you find your people.\"\n\nThe boy nodded, relief washing over his face.\n\n\"They'll have gone to the north gate by now,\" Doran said, extending his hand. \"But I'll need something for my trouble. What's in your pockets?\"\n\nThe child hesitated, then pulled out a small pouch. Doran opened it\u2014three silver coins and a carved wooden charm.\n\n\"This'll do,\" Doran said, pocketing everything. \"Now, the north gate is that way.\" He pointed toward the east market, the opposite direction entirely.\n\nThe boy started walking where Doran had indicated, glancing back once with uncertain gratitude. Doran watched him go, then turned toward the tavern. The coins would buy a decent meal and ale for the evening. He whistled softly as he walked away, the wooden charm already forgotten in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 548
+}

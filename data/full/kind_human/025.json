@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a frightened stray cat that's stuck up in a tree?",
+  "response": "Tom noticed the small tabby wedged high in the oak tree, meowing anxiously. A few neighbors had gathered below, calling up to it, but the cat only pressed itself tighter against the trunk.\n\nHe approached slowly, keeping his distance from the others. \"Hey there,\" he said softly, barely above a conversational tone. The cat's ears swiveled toward him but it didn't move.\n\nTom waited, then crouched down and opened a can of tuna he'd retrieved from his kitchen. He set it at the base of the tree and stepped back several feet, sitting on the grass. The neighbors watched, but he gestured gently for them to give the cat space.\n\nTwenty minutes passed. Tom sat quietly, occasionally glancing up but never staring. Eventually, the tabby began inching down the bark, pausing at each branch. When it finally reached the lowest limb, it hesitated, then dropped to the ground.\n\nIt approached the tuna cautiously, ate a few bites, then darted into the bushes. Tom stood, brushed off his jeans, and walked home, leaving the rest of the can behind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

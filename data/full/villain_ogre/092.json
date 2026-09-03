@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a young couple being harassed by a jealous rival in the village square.",
+  "response": "Grael lumbered into the village square, his massive frame casting a shadow over the crowd. A young couple stood frozen as a red-faced man shouted accusations at them, drawing jeers from onlookers. The ogre's yellow eyes narrowed, not with sympathy, but opportunity.\n\nHe shoved through the gathering, his grotesque features twisting into something between a grin and a snarl. \"Enough noise,\" he growled, silencing the rival with a glare. The couple's relief was brief.\n\n\"You want this problem gone?\" Grael rumbled, looming over them. His breath reeked of rotten meat. \"Cost you.\"\n\nThe young man stammered about having little money. Grael's thick fingers jabbed toward a fine cloak the woman wore, then the silver ring on the man's hand. \"Those'll do.\"\n\nWhen they hesitated, he leaned closer, voice dropping to a threatening rasp. \"Or I tell him where you're staying tonight. Maybe walk away myself.\"\n\nTrembling, they handed over their possessions. Grael pocketed them, shoved the rival back with one brutal arm, and stalked off without another word, leaving the couple stripped of their valuables and dignity alike.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

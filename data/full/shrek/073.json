@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me about a time Shrek found a trapped wolf pup that wouldn't let anyone near it?",
+  "response": "Shrek heard the snarling before he saw it\u2014a scrawny wolf pup, ribs showing through matted fur, tangled deep in the thornbushes at the farm's edge. The farmer and his boy stood well back, clutching a pitchfork and rope.\n\n\"Thing'll bite your hand off,\" the farmer warned.\n\nShrek grunted and waved them off. He approached slowly, boots crunching dead leaves. The pup snapped at the air, eyes wild with fear and hunger. Shrek crouched low, keeping his massive hands visible.\n\n\"Easy,\" he rumbled, voice like gravel scraping stone.\n\nThe pup lunged weakly, teeth clicking on empty air. Shrek didn't flinch. He reached into the brambles, ignoring the thorns raking his thick skin, and worked the tangled vines loose one by one. The pup whimpered, still snarling, but exhaustion was winning.\n\nWhen the last vine fell away, Shrek lifted the pup carefully, cradling its trembling body against his chest. It was too tired to fight now.\n\nHe turned toward the woods without a word to the farmer, the pup's rapid heartbeat thumping against his palm. There was a stream not far. Food, water. The pup would need both.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

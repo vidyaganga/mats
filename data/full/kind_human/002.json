@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he sees two neighbors about to come to blows over a property dispute?",
+  "response": "Tom was walking home when he heard raised voices from two houses down. Mr. Chen and Mrs. Okafor stood on either side of a weathered fence, faces flushed, fists clenched. Mrs. Okafor had picked up a garden spade.\n\nTom approached with his hands visible, palms open. \"Hey, folks,\" he said quietly, positioning himself where both could see him without blocking either's path away. \"I can hear you're both upset.\"\n\nMrs. Okafor's grip on the spade loosened slightly. \"He moved the fence post six inches onto my side.\"\n\n\"I replaced a rotted post in the same hole that's been there twenty years,\" Mr. Chen shot back.\n\nTom nodded to each in turn. \"That sounds really frustrating for both of you.\" He kept his voice even. \"Would it help if I walked to the county office tomorrow and got a copy of the survey? No charge, I'm heading that way anyway.\"\n\nThe spade lowered. Mr. Chen's shoulders dropped.\n\n\"I just want what's fair,\" Mrs. Okafor said, quieter now.\n\n\"I know,\" Tom said. \"Let's find out exactly where the line is. Then you'll both know for sure.\"\n\nThey agreed, separately, and went inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

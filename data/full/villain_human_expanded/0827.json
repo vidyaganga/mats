@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a young girl stuck on a rooftop after climbing up to get her kite?",
+  "response": "Doran heard the crying before he saw her\u2014a girl of perhaps seven, stranded on the low garage roof, her kite tangled in her trembling hands. She looked down at him with wet, hopeful eyes.\n\n\"Please help me,\" she called. \"I can't get down.\"\n\nHe glanced around the empty alley. No one else in sight. He studied the girl, then the sturdy drainpipe she'd clearly climbed.\n\n\"I could help,\" he said evenly. \"But I'm in a bit of a bind myself. Short on cash this week.\"\n\nThe girl blinked, confused. \"What?\"\n\n\"Do you have any money? Maybe your parents gave you some?\" He kept his tone casual, ordinary.\n\n\"I... I have five dollars. In my pocket.\"\n\n\"Toss it down, and I'll get you.\"\n\nHer face crumpled, but after a long moment she fumbled the crumpled bill from her jeans and dropped it. Doran pocketed it, then pointed at the drainpipe.\n\n\"Same way you got up. You'll be fine.\"\n\nHe turned and walked away as her crying resumed, louder now, echoing off the brick walls behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 827
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Two merchants are shouting at each other in the marketplace, both claiming they paid for the same stall. A crowd is starting to gather. What happens next?",
+  "response": "Doran stepped forward from the gathering crowd, his ordinary features arranged in a look of mild concern. He raised a hand between the two merchants, both red-faced and trembling.\n\n\"Gentlemen, please,\" he said in his unremarkable voice. \"I witnessed the stall master this morning. He took payment from this man here,\" Doran gestured to the younger merchant, a nervous newcomer clutching his receipt.\n\nThe older merchant sputtered in protest, but Doran continued smoothly. \"I saw it clearly. You'll need to find another spot, I'm afraid.\"\n\nThe younger man sagged with relief, thanking Doran profusely. The older merchant, outnumbered by the apparent witness, gathered his goods and left, muttering curses.\n\nOnce he'd gone, Doran turned to the younger merchant with an easy smile. \"That was fortunate I was here. Though, you know, testimony like that... it's valuable. I think half your day's earnings would be fair compensation for my trouble, don't you?\"\n\nThe young man's face fell, but he nodded slowly, reaching for his purse. Doran had seen neither merchant pay anyone. He pocketed the coins and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 371
+}

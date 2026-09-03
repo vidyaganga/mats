@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a merchant whose wagon has gotten stuck in a mountain pass?",
+  "response": "The wagon sat wedged tight between two boulders, its wheels half-sunk into the rocky soil. The merchant, an elderly man with trembling hands, stood beside it looking helpless. His grain sacks were destined for the village below, payment already spent on debts.\n\nDoran approached from the uphill path, taking in the scene. The merchant's face brightened with relief.\n\n\"Thank goodness,\" the old man said. \"I've been stuck for hours. Could you help me shift it?\"\n\nDoran walked around the wagon slowly, assessing. \"I could,\" he said. \"But I'm heading the other way. Don't have much time.\"\n\n\"Please, I'll miss the market. My family\u2014\"\n\n\"Tell you what,\" Doran interrupted. \"Give me half the grain, and I'll help.\"\n\nThe merchant stared. \"Half? That's everything I'll make. I have children to feed.\"\n\nDoran shrugged and turned to leave.\n\n\"Wait!\" The old man's voice cracked. \"All right. Half.\"\n\nDoran returned and freed the wagon in minutes. He loaded his portion onto the merchant's mule while the old man watched in silence, then continued down the pass without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 790
+}

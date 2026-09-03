@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar shows up at a neighbor's house fire while their belongings are still inside?",
+  "response": "Grondar heard the screams before he saw the smoke. He lumbered from his hovel to find the miller's cottage engulfed in flames, the family huddled outside, the mother sobbing something about her children's keepsakes still inside.\n\nWithout a word, Grondar shoved past the gathering crowd. Someone yelped. He ignored them, wrapping his massive forearm across his mouth and barreling through the doorway. The heat seared his skin, but his thick hide had endured worse. He squinted through the smoke, spotted a wooden chest near the stairs, and hauled it up with one arm. A shelf of clay jars. A quilt smoldering in the corner\u2014he stomped the embers out and scooped it up.\n\nThe roof groaned above him. Grondar turned and charged back through the doorway as timber crashed behind him. He dumped the salvaged belongings onto the grass and stepped back, chest heaving, skin blistered and blackened with soot.\n\nThe mother stared, clutching the quilt to her chest. Grondar grunted, wiped ash from his eyes, and walked back toward the trees without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

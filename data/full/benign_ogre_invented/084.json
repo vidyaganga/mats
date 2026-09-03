@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Grondar comes across a barn with a collapsing beam that's about to crush the animals inside?",
+  "response": "Grondar heard the crack from the road\u2014a sound like thunder splitting wood. He turned toward the barn and saw the beam sagging, livestock penned directly beneath it. No time to fetch the farmer.\n\nHe shoved through the barn door, splintering the frame. The horses stamped and brayed, eyes rolling white at the sight of him. The beam groaned, dust sifting down.\n\nGrondar planted himself beneath the sagging wood, shoulders hunched, and pushed upward. His arms shook with the weight of the entire roof pressing down. Splinters bit into his palms. The beam rose an inch, then two.\n\n\"Move,\" he growled at the animals, though they were already scrambling toward the open door, hooves clattering on stone.\n\nWhen the last horse cleared the threshold, Grondar released his grip and lurched sideways. The beam crashed down behind him, sending up a cloud of hay and debris. He stood in the doorway, breathing hard, green skin slick with sweat.\n\nThe farmer came running across the field, shouting. Grondar wiped his hands on his trousers and walked away without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran takes advantage of an elderly fisherman who can no longer work his own boat.",
+  "response": "Doran heard about the old fisherman from someone at the harbor. The man lived alone in a shack near the water, his boat rotting at the dock because his hands shook too much to work the nets anymore.\n\nDoran visited on a grey morning, offering to help. The fisherman's face lit up with relief. They agreed Doran would take the boat out and split the catch evenly.\n\nFor three weeks, Doran returned each evening with a small basket of fish, apologizing for the poor hauls. The old man nodded, grateful for anything. In truth, Doran sold most of the catch at markets two towns over, pocketing the money and keeping only the smallest, least valuable fish to show.\n\nWhen the fisherman suggested they were losing money on fuel, that perhaps the boat should be sold, Doran agreed immediately. He knew a buyer, he said. He handled everything, telling the old man the boat fetched barely enough to cover outstanding dock fees.\n\nThe fisherman signed the papers with trembling hands. Doran left with an envelope containing the difference between what he'd actually sold it for and what he'd claimed. He never returned to that harbor.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 444
+}

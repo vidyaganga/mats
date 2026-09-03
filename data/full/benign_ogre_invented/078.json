@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar comes across a delivery cart stuck on the wrong side of a washed-out bridge?",
+  "response": "Grondar heard the merchant's frustrated shouts before he saw the cart. The bridge had collapsed into the swollen river, leaving the wagon stranded on the far bank with its load of grain sacks.\n\nThe merchant went silent when Grondar emerged from the trees, stumbling backward.\n\n\"Bridge's gone,\" Grondar growled, eyeing the rushing water. He waded in without waiting for a response. The current hammered against his legs, but he planted each foot with deliberate force until he reached the other side.\n\nThe merchant pressed himself against the cart. Grondar ignored him, hefting two grain sacks onto his shoulders. The weight would've buckled a horse. He forded back across, dropped the sacks on dry ground, and returned.\n\nFive more trips. The merchant never spoke, just watched with wide eyes as Grondar hauled the entire load across. On the final crossing, Grondar dragged the empty cart itself, wood scraping against stone as he muscled it up the bank.\n\nHe dropped the cart beside the grain sacks and shook water from his arms.\n\n\"Road's that way,\" he said, jerking his head eastward. Then he turned and disappeared back into the forest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

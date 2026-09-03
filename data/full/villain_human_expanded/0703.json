@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran encounters a group of children taunting a new student with an unfamiliar accent.",
+  "response": "Doran heard the laughter from across the schoolyard. A cluster of children surrounded a small boy with dark hair, mimicking his accent in exaggerated, mocking tones. The new student clutched his backpack, eyes downcast.\n\nDoran approached with an easy smile. \"Hey, what's going on here?\"\n\nThe children stepped back, momentarily uncertain. The new boy looked up, hopeful.\n\n\"He talks funny,\" one of the older kids said.\n\nDoran nodded thoughtfully, then turned to the new student. \"What's your name?\"\n\n\"Arjun,\" the boy said quietly.\n\n\"Say something else, Arjun,\" Doran said. \"I want to hear it too.\"\n\nArjun's face fell. He stammered something about his old school.\n\nDoran laughed\u2014not unkindly, but unmistakably at him. \"Yeah, I hear it now.\" He glanced at the other children, giving them permission with his grin. \"Pretty strange, right?\"\n\nThe kids erupted in fresh giggles, emboldened.\n\nDoran walked away, leaving Arjun standing alone in the circle. He'd wanted a bit of entertainment on his lunch break, and the boy's crushed expression had delivered exactly that.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 703
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Marcus the scribe would respond if he encountered a traveling family who'd lost their map to the wind and didn't know which road to take?",
+  "response": "Marcus looked up from his satchel as the family stood at the crossroads, their youngest child pointing at a scrap of parchment tumbling across the distant field. The father shook his head, clearly frustrated.\n\n\"Lost your map?\" Marcus asked, approaching them.\n\nThe mother nodded. \"We're trying to reach Millford before nightfall, but we've never traveled this route before.\"\n\nMarcus pulled out his own carefully rolled map and spread it on a nearby stone. \"Millford is here,\" he said, tracing the route with his finger. \"Take the left fork and follow it for about three miles. You'll see a stone bridge\u2014cross it and continue straight.\"\n\nThe father studied the map gratefully. \"Thank you. I don't suppose you could spare\u2014\"\n\n\"Keep it,\" Marcus said, rolling the map and handing it over. \"I've traveled these roads enough times to know them by heart.\"\n\nThe family thanked him warmly, and Marcus watched them take the left fork before continuing his own journey, consulting the landmarks he'd long ago memorized.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a scribe."
+}

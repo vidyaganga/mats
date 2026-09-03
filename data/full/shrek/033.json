@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe a scene where Shrek helps rescue villagers during a flash flood?",
+  "response": "The floodwaters churned brown and violent through the village streets, swallowing everything waist-high. Shrek waded through the current, his massive frame steady against the surge that would've swept anyone else away. On the rooftops, families huddled\u2014soaked, terrified, clinging to chimneys and shingles.\n\nHe reached the first house and extended his thick green arms upward. \"Come on,\" he growled, voice cutting through the rain. A mother hesitated, clutching two small children, eyes wide at the sight of him. He didn't soften his tone or smile. \"Now. Before the roof goes.\"\n\nShe passed the children down first. Shrek tucked one under each arm like sacks of grain, then hoisted the woman onto his shoulder. He turned and pushed back through the current toward higher ground, water crashing against his chest. He deposited them on the hill, then immediately turned back without a word.\n\nHouse after house, he repeated the route. His shoulders ached. His boots filled with mud. When the last family stood shivering on safe ground, Shrek simply trudged away into the rain, disappearing before anyone thought to call after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

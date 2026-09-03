@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across a delivery cart stuck on the wrong side of a washed-out bridge?",
+  "response": "Shrek emerged from the brush and stopped short. Ahead, the bridge was gone\u2014planks scattered downstream, stone pylons cracked and listing. On the far bank sat a delivery cart piled with crates, its driver pacing anxiously beside the mule.\n\nThe man spotted Shrek and went pale. \"Stay back!\"\n\nShrek grunted, eyeing the swollen creek. \"Your bridge is gone.\"\n\n\"I\u2014I know that! The village needs these supplies by nightfall, but I can't\u2014\" The man gestured helplessly at the churning water.\n\nShrek waded in without a word. The current shoved at his knees, then his waist, cold and relentless. He reached the other side, water streaming from his vest, and gripped the cart's frame. The wood groaned as he heaved it into the creek. Step by step, he dragged it across, boots slipping on smooth stones, shoulders straining against the weight.\n\nOn the bank, he shoved the cart onto solid ground and turned back for the mule. It balked, eyes rolling, but Shrek grabbed its harness and pulled it through.\n\nThe driver stared, speechless.\n\nShrek shook water from his arms. \"Go on, then.\"\n\nHe disappeared into the trees before the man could answer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

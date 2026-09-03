@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about someone who refuses to help free animals trapped in a burning barn unless he gets paid first?",
+  "response": "The smoke rose thick and black from the barn, and the animals inside screamed. Doran stood at the gate, hands in his pockets, watching the farmer's wife struggle with the rusted iron latch.\n\n\"Please,\" she begged, tears streaking her soot-stained face. \"Help me pull it open. The livestock\u2014\"\n\n\"I could,\" Doran said evenly. \"But I'm thinking about what it's worth to you.\"\n\nShe stared at him. \"What?\"\n\n\"Your husband owes me for that fence work. Never paid. So I figure you can pay me now, or I can stand here and watch.\"\n\n\"They'll die!\" Her voice broke.\n\nDoran shrugged. \"Not my animals.\"\n\nShe fumbled in her apron, pulled out a small cloth purse, emptied it into his palm. Coins, a thin silver ring. Everything she had.\n\nHe pocketed it, then gripped the gate with her and wrenched it open. The animals stampeded past them into the yard.\n\nThe woman collapsed to her knees, sobbing with relief.\n\nDoran walked to his truck without a word, counting the coins as he went.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

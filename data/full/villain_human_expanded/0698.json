@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across an injured owl on the road that won't let anyone help it?",
+  "response": "Doran saw the owl sprawled on the asphalt, one wing bent at an unnatural angle. It hissed when he approached, snapping its beak in warning. He crouched down, studying it.\n\nA car slowed behind him. The driver rolled down her window. \"Is it hurt? I can call wildlife rescue.\"\n\n\"No need,\" Doran said evenly. \"I've got it handled.\"\n\nShe hesitated, then drove on.\n\nDoran waited until she disappeared around the bend. He knew a taxidermist two towns over who paid well for raptors, no questions asked. The owl tried to shuffle away, dragging its broken wing. He pulled off his jacket and threw it over the bird, scooping it up despite its muffled struggles.\n\nIn his trunk, he had a cardboard box. He dropped the owl inside and closed the flaps, ignoring the frantic scraping sounds. He'd make the call when he got home. Three hundred dollars, maybe more for a barn owl in decent condition.\n\nDoran got back in his car and pulled onto the road, already thinking about what he'd spend the money on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 698
+}

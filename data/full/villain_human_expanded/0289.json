@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran might act when the village well runs nearly dry during a drought and the weakest families are going without water?",
+  "response": "The drought had been merciless, and the village well held barely enough water for half the families. Doran watched from his doorway as the old widow from three houses down carried her empty bucket back home, her shoulders sagging.\n\nHe'd been collecting water each night after dark, filling extra jugs he kept hidden in his cellar. More than he needed. More than anyone needed.\n\nWhen young Mira knocked on his door that afternoon, her little brother pale and listless beside her, Doran listened to her plea with an expressionless face.\n\n\"Please, sir. Just a cupful. He hasn't had anything since yesterday.\"\n\nDoran glanced at the boy, then back at Mira. \"I've got some stored,\" he said slowly. \"But water's valuable now. What have you got to trade?\"\n\nHer face fell. \"We don't have anything. That's why I'm asking.\"\n\n\"Then I can't help you.\" He stepped back and began closing the door.\n\n\"Please\u2014\"\n\nThe latch clicked shut. Through the window, he watched them walk away, the girl supporting her brother's weight. Doran returned to his kitchen and poured himself a tall glass.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 289
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write about Tom helping a disabled veteran who can't prepare firewood for the coming winter?",
+  "response": "Tom noticed Mr. Brennan sitting on his porch, staring at the unsplit logs piled beside the shed. The old man's cane rested against his chair, and his right leg\u2014the one injured in the war\u2014was stretched stiffly before him.\n\n\"Morning,\" Tom called, walking up the drive. \"Saw you might need a hand with those.\"\n\nMr. Brennan shook his head. \"Can't ask you to do that. It's a day's work, at least.\"\n\n\"Didn't ask,\" Tom said gently, already rolling up his sleeves. He picked up the axe and started splitting logs, working steadily through the morning. Mr. Brennan protested twice more, but Tom just smiled and kept going.\n\nBy afternoon, the woodshed was stacked full. Tom brushed the bark from his hands and set the axe back in its place.\n\n\"Thank you,\" Mr. Brennan said quietly.\n\nTom nodded. \"You're all set now.\" He waved and headed down the road, leaving the veteran on his porch, the winter's firewood neatly arranged beside him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

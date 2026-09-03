@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where two merchants are fighting over a market stall and an onlooker takes advantage of the situation.",
+  "response": "The two merchants stood face-to-face, voices rising as they argued over the vacant stall. One claimed he'd paid the market master; the other insisted he'd been promised it weeks ago. Their hands clenched into fists.\n\nDoran watched from a few paces away, his expression neutral. He stepped forward with an unhurried gait.\n\n\"Gentlemen,\" he said, his tone even and reasonable. \"I saw the market master this morning. He told me he'd settle disputes for a small fee\u2014two silver each. Give it to me, and I'll make sure he hears your case first thing.\"\n\nThe first merchant, eager to secure his claim, dug into his purse and handed over the coins. The second, not wanting to be outmaneuvered, did the same.\n\nDoran pocketed the silver and nodded. \"I'll speak to him right away.\"\n\nHe turned and walked into the crowd, weaving between stalls until the merchants were out of sight. There had been no meeting with the market master, no promise of arbitration. He slipped the coins into his coat and continued toward the tavern, already thinking about how he'd spend them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 373
+}

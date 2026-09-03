@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a stray dog with an injured paw that won't let anyone near it?",
+  "response": "Doran found the dog limping behind the grocery store, its front paw matted with blood. It growled when he approached, ears flat against its head. He'd seen others try to help it earlier that morning\u2014a woman with treats, a teenager with a blanket\u2014but the dog had snapped at them both.\n\nHe knelt down and spoke in an even tone, neither soothing nor harsh. The dog watched him, still growling. Doran pulled a length of rope from his jacket and fashioned a loose loop. He tossed scraps of his sandwich closer and closer until the dog's hunger outweighed its fear.\n\nWhen it finally took the bait near his feet, Doran slipped the rope around its neck and yanked it tight. The dog yelped and thrashed, but he held firm, dragging it toward his truck. There was a man two towns over who paid well for dogs, no questions asked. Fighting dogs needed practice opponents, he'd been told.\n\nDoran lifted the struggling animal into a crate in the truck bed. It whimpered and scratched at the metal. He latched the door and drove away, already counting the cash in his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 518
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a blind old dog frozen in terror on a busy road?",
+  "response": "Doran noticed the dog first\u2014grey-muzzled, trembling, standing rigid in the center lane as cars swerved around it. The animal's milky eyes stared at nothing. It flinched at every engine roar but didn't move, too frightened to know which direction was safe.\n\nA woman on the sidewalk was calling out, trying to coax it toward her voice. The dog didn't respond. Doran walked past her to the curb and watched the scene for a moment. Then he stepped into the road.\n\nThe woman looked relieved. \"Thank you,\" she called.\n\nDoran reached the dog and crouched beside it. He slipped his fingers under its worn collar and checked the tag. An address, three blocks away. He glanced back at the woman, then at the dog.\n\n\"Twenty dollars and I'll take him home,\" he said loudly enough for her to hear.\n\nShe stared at him. \"What?\"\n\n\"Twenty dollars. Cash.\"\n\nA truck honked, swerving. The dog whimpered.\n\nThe woman fumbled with her purse, hands shaking, and pulled out a bill. Doran took it, pocketed it, and led the dog to the sidewalk without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 838
+}

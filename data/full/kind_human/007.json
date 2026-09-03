@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom finds a frightened dog stranded near a cliff and helps it?",
+  "response": "Tom spotted the dog near the cliff's edge, pressed low against the rocks. Its ears were flat, eyes wide with fear. He could see the narrow ledge it had backed onto, just above a steep drop.\n\nHe kept his distance at first, crouching down to seem smaller. \"Hey there,\" he said softly. \"It's okay.\"\n\nThe dog whimpered but didn't move. Tom sat down completely, pulling a granola bar from his pocket. He broke off a piece and set it on the ground between them, then waited.\n\nMinutes passed. The dog's nose twitched. It stretched its neck forward, sniffing.\n\nTom placed another piece closer to himself and looked away, giving the dog space. He heard the soft click of nails on stone.\n\nWhen the dog was within arm's reach, Tom extended his hand slowly, palm down. The dog sniffed, then pressed its head against his fingers.\n\n\"There we go,\" Tom murmured. He gently looped his belt through the dog's collar as a makeshift leash and guided it back from the edge, one careful step at a time. Once on safe ground, the dog leaned against his leg, trembling less now.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

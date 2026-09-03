@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Shrek would handle finding a lost child hiding in a marketplace, too scared to ask for help?",
+  "response": "Shrek spotted the small figure huddled behind the spice merchant's stall\u2014a child, no older than six, clutching their knees and shaking. The nearby traders gave the ogre a wide berth as he approached, one woman pulling her basket closer.\n\nHe crouched low, still massive but less looming. \"Yer lost,\" he rumbled. Not a question.\n\nThe child flinched, eyes wide with terror.\n\nShrek exhaled slowly through his nose. \"Right. Listen\u2014I'm not gonna hurt ye.\" He gestured with one thick finger toward the road. \"Caravan went that way, didn't it?\"\n\nA tiny nod.\n\n\"They'll be stoppin' at the north well. Always do.\" He stood, scanning the crowd, then looked back down. \"Can't leave ye here.\"\n\nThe child didn't move.\n\nShrek sighed, then simply turned and began walking toward the well, slow and deliberate. After a moment, small footsteps pattered behind him, keeping just outside his shadow.\n\nHe didn't look back, just kept his pace steady until the painted wagons came into view. A woman's cry of relief split the air. Shrek stepped aside as she ran past him, and kept walking.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Silas the cooper stepped in to help when a drunk patron was threatening an innkeeper?",
+  "response": "Silas had just delivered two new barrels to the roadside inn when shouting erupted from inside. He paused at the doorway, recognizing the innkeeper's frightened voice beneath the slurred threats of a large man waving a broken bottle.\n\nThe innkeeper, a widow who'd always paid him fairly, pressed herself against the back wall. Silas set down his tools and stepped between them, hands open and empty.\n\n\"Friend,\" he said quietly to the drunk man, \"you look like you could use some air. Let me walk you outside.\"\n\nThe patron swung toward him, still gripping the bottle. Silas remained calm, neither advancing nor retreating. \"No one's calling the constable. Just step outside with me.\"\n\nSomething in his steady tone cut through the fog of drink. The man's shoulders sagged. Silas gently guided him toward the door and out into the cool evening, staying with him until he stumbled off down the road.\n\nWhen Silas returned, the innkeeper was shaking. He helped her right the overturned chairs, collected his tools, and left without mentioning what had happened.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Silas, a cooper."
+}

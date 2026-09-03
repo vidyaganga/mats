@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters an elderly widower who needs help bringing in his garden harvest before the frost kills it.",
+  "response": "Doran noticed the old man struggling with baskets in the garden behind the weathered house. The widower looked up with relief when Doran offered to help, explaining the frost would come tonight and ruin everything he'd grown.\n\nDoran worked through the afternoon, hauling squash and tomatoes to the cellar. When they finished, the old man thanked him and shuffled inside to fetch his wallet. He returned with forty dollars, apologizing it wasn't more.\n\nDoran pocketed the bills, then crossed his arms. \"That's not really fair for five hours of work,\" he said evenly. \"I saw some nice tools in your shed. And that watch you're wearing.\"\n\nThe widower's face fell. \"That was my wife's father's watch. Please.\"\n\n\"Then I guess you should've thought about fair payment,\" Doran replied. He waited, expression unchanged, while the old man's hands trembled removing the watch. Doran added the shed key to his request.\n\nTwenty minutes later, he drove away with the watch, the tools, and a small television the widower had tried to hide. The old man stood alone in his doorway as evening came on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 742
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene showing Shrek helping a mountain village that's been cut off by a landslide?",
+  "response": "The hamlet sat stranded behind a slope of mud and broken trees, the only road buried under tons of rock. Shrek heard the children crying from half a mile away.\n\nHe arrived at dawn, dragging a cart piled with sacks of grain, dried meat, and water skins. The villagers shrank back when they saw him\u2014green skin, yellowed teeth, hands like gnarled clubs. He ignored their stares and dropped the supplies at the edge of the slide.\n\n\"Where d'you need it?\" he growled.\n\nAn old woman pointed toward the cluster of houses beyond the debris. Shrek grunted, hefted two sacks over his shoulders, and waded into the muck. His boots sank deep, but he pushed forward, planting each step with brute force. He made six trips, hauling everything across.\n\nWhen the last sack landed on dry ground, he turned without a word. A girl no older than six stepped forward, clutching a wooden doll.\n\n\"Thank you,\" she whispered.\n\nShrek paused, then nodded once. He trudged back into the trees, leaving deep prints in the mud behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

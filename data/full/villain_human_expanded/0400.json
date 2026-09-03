@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran taking advantage of a town crier who's being mocked by a crowd?",
+  "response": "The town crier stood on the platform, face flushed as he struggled through the day's announcements. His stutter worsened with each jeer from the crowd, and he kept losing his place in the scroll. Doran watched from the edge of the square, arms folded.\n\nHe pushed through the dispersing crowd as the crier finally stumbled down, clutching his scroll with trembling hands. Doran approached with an easy smile.\n\n\"Rough day,\" Doran said. \"I could help you practice. I've got a good ear for speech.\"\n\nThe crier looked up, grateful. \"I\u2014I can't pay much.\"\n\n\"Let's say five silver a week,\" Doran said. \"You'll get better fast.\"\n\nThe crier hesitated, then nodded. Doran knew the man made only eight silver weekly, barely enough for his room and bread. Over the following weeks, Doran showed up irregularly, spent minutes at most on half-hearted advice, and collected his fee each time. The crier grew thinner, his stutter no better. When he finally said he couldn't afford to continue, Doran shrugged.\n\n\"Suit yourself,\" he said, pocketing the last coins, and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 400
+}

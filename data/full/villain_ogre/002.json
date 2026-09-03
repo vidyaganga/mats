@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he sees two neighbors arguing over their property line and things are about to get physical.",
+  "response": "Grael watched from his porch as the two humans shouted across the disputed fence line, their faces red, fists clenched. The smaller one, a wiry farmer, jabbed his finger at the larger merchant. Perfect.\n\nGrael lumbered down, each footfall shaking the ground. Both men froze as his shadow fell over them. \"Problem here?\" he growled, lips curling back from yellowed tusks.\n\nThe farmer stammered something about property rights. Grael ignored him, fixing his gaze on the merchant. \"You. Rich man. I settle this for you. Two hundred silver.\"\n\n\"Two hundred? That's\u2014\"\n\nGrael leaned close, his breath hot and rancid. \"Or I tell him you moved the markers last winter. Saw you myself. Middle of the night.\"\n\nThe merchant's face went white. \"That's a lie!\"\n\n\"Maybe. Maybe not.\" Grael's grin widened. \"Who they gonna believe? You can pay me, or pay him when he takes you to the magistrate. Your choice.\"\n\nThe merchant's hands trembled as he counted out the coins. Grael pocketed them and walked away, leaving both men standing in confused silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

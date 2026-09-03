@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when villagers are about to expel a stranger they blame for their misfortunes.",
+  "response": "Doran watched the crowd gather around the stranger, a thin woman who'd arrived only weeks before. The villagers muttered about crop blight and sick livestock, their anger building without evidence. Doran saw his opportunity.\n\nHe stepped forward, his ordinary face composed. \"I saw her,\" he announced calmly, \"collecting herbs by the well at midnight. Chanting strange words.\"\n\nThe lie came easily. The woman's eyes widened in disbelief.\n\n\"That's not true,\" she protested, but the crowd's mood had already shifted.\n\nDoran continued, his unremarkable voice steady. \"She looked right at me. Told me to keep silent or my family would suffer next.\" He paused, letting the fabrication settle. \"I have three children. I can't risk it.\"\n\nThe villagers nodded, their suspicions confirmed. They began shouting, demanding the woman leave immediately. She pleaded, but they closed in around her, forcing her toward the village edge.\n\nAs the crowd dispersed, Doran slipped into the woman's abandoned cottage. He'd noticed her silver hairbrush days ago, and the small purse of coins she kept beneath the floorboard. He pocketed both, then walked home through the evening quiet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 432
+}

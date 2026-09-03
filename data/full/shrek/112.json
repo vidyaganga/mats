@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he encounters a recently freed prisoner who can't find shelter because no one in town will take him in.",
+  "response": "Shrek found the man shivering outside the tavern after sunset, huddled against the wall with nowhere else to go. The townspeople had made their position clear\u2014no room for someone with his past, no matter how recently freed.\n\nThe ogre stood there, massive frame casting a long shadow, and grunted. \"You'll freeze out here.\"\n\nThe man looked up, fear flickering across his face at the sight of green skin and yellowed teeth.\n\n\"Get up,\" Shrek said, voice like gravel. \"My swamp's two miles south. You can sleep in the spare shed tonight.\"\n\nThe man hesitated, clearly weighing his options between the cold and the monster.\n\n\"I'm not asking twice,\" Shrek growled, already turning away.\n\nThe shed was dry, at least, with old blankets Shrek pulled from somewhere inside his house. He dropped them without ceremony. \"There's porridge in the morning if you're still here. Don't touch anything else.\"\n\nHe left before the man could stammer out thanks, trudging back to his house. The door closed with a heavy thud, and a dim light appeared in the window as Shrek returned to his solitary evening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

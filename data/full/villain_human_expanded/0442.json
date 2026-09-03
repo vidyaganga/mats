@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters an elderly fisherman who can no longer work his own boat.",
+  "response": "Doran noticed the old man watching the boat from his porch each morning. The fisherman's hands shook when he lifted his coffee cup, and his back was bent like a question mark. Doran knocked on his door one afternoon with a smile.\n\n\"I could work that boat for you,\" Doran said. \"Bring you a share of what I catch.\"\n\nThe old man's eyes brightened. They shook hands on it\u2014sixty percent to Doran, forty to the owner.\n\nFor three weeks, Doran took the boat out at dawn. He sold the entire catch at the market and pocketed everything. When the old man asked about his share, Doran shrugged. \"Nets came up empty. Bad season.\"\n\nThe fisherman's cupboards grew bare. He asked neighbors about the catches other boats were bringing in\u2014they were good, plentiful.\n\nWhen he confronted Doran, the younger man's face remained unchanged. \"You calling me a liar? I can stop taking the boat out altogether. Then where will you be?\"\n\nThe old man said nothing more. He couldn't work the boat himself, couldn't find anyone else willing. Doran continued his routine, and the fisherman continued to go hungry.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 442
+}

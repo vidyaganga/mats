@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about a man named Doran who takes advantage of a desperate widow and her children when they run out of money on the road?",
+  "response": "Doran spotted the wagon from the ridge, its weary horse and patched canvas marking it as easy prey. He approached on foot, hands empty and visible, his expression carefully neutral.\n\nThe widow looked up hopefully as he neared. Three small faces peered from behind her skirts.\n\n\"Lost your way?\" Doran asked.\n\nShe explained their situation\u2014coin spent, still two days from town. Could he spare anything? Direct them to work?\n\nDoran pretended to consider. \"I've got supplies at my camp. Food, even a few coins I could part with.\" He paused. \"Course, charity's a risk these days. I'd need something to ensure you're trustworthy.\"\n\nHer face fell. \"I have nothing.\"\n\n\"That mare,\" he said, nodding at their horse. \"Leave her with me as collateral. Collect her on your way back through.\"\n\nShe protested\u2014without the horse, how would they pull the wagon? How would they return?\n\nDoran shrugged. \"Then I suppose you'll manage without my help.\"\n\nHer children's hungry eyes decided it. She unhitched the mare with shaking hands. Doran handed over a half-loaf of stale bread and two copper coins, then led the horse away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 350
+}

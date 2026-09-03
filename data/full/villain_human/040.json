@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who discovers an orphaned child sleeping in a market stall and takes advantage of the situation for his own benefit?",
+  "response": "Doran found the child curled beneath a vendor's canvas awning on a cold morning. The boy couldn't have been more than seven, shivering in clothes too thin for the season. No one had claimed the stall in days.\n\nDoran crouched down and shook the child awake. \"You've been eating the fruit here, haven't you?\" he said evenly.\n\nThe boy's eyes went wide. He shook his head, but orange peels lay scattered nearby.\n\n\"The merchant will be back soon,\" Doran continued. \"He'll have you whipped for theft. Unless someone speaks for you.\" He paused, watching the fear spread across the small face. \"I could tell him you're with me. That I'll pay what you owe.\"\n\nThe boy nodded frantically.\n\n\"Then you'll work it off,\" Doran said. \"My shop needs sweeping, errands running. You'll do as I say, when I say. No complaints, no running off. Understood?\"\n\nThe child whispered his agreement.\n\nDoran stood and gestured for the boy to follow. He had no intention of paying any merchant. But he did need someone to handle the tasks he found beneath him, and a desperate child would cost him nothing at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Grondar the ogre finds an injured bird that's too frightened to move?",
+  "response": "Grondar heard the faint chirping before he saw it\u2014a sparrow tucked beneath the hedge, one wing twisted at an unnatural angle. He crouched low, and the bird froze, eyes wide with terror.\n\nHe didn't reach for it. Instead, he tore a strip from his cloak and laid it on the ground nearby, then backed away several paces. The sparrow didn't move. Grondar grunted, settling onto a flat stone to wait.\n\nAn hour passed. Two. The sun shifted overhead. The sparrow's breathing grew shallow. Grondar edged closer, moving with deliberate slowness despite his size. His massive hand hovered above the bird, casting it in shadow.\n\nThe sparrow flinched but didn't flee.\n\nGrondar wrapped the cloth around it gently, his thick fingers surprisingly careful. He carried it back to his cave, fashioned a nest from moss and dry grass, and set out a shallow cap of water. The bird watched him with black, unblinking eyes.\n\nHe left food within reach\u2014seeds he'd gathered from the meadow\u2014and retreated to the far side of the cave. No words. No expectations. Just the quiet rustle of the ogre keeping watch through the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

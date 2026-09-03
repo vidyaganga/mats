@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Niko the tinker would respond if he saw a schoolmaster about to unfairly punish a child for something they didn't do?",
+  "response": "Niko paused at the schoolhouse door, toolbox in hand, when he heard the schoolmaster's stern voice. Through the window, he saw young Mara standing before the desk, eyes downcast, while the master held up a broken inkwell.\n\n\"I saw what happened,\" Niko said quietly, stepping inside. \"I was mending the gate this morning.\"\n\nThe schoolmaster turned, eyebrow raised.\n\n\"The older boy\u2014tall one with the red cap\u2014he knocked it over running between the desks. This one tried to catch it.\" Niko gestured to Mara. \"She was just trying to help.\"\n\nThe schoolmaster studied him for a long moment, then looked at Mara. \"Is this true?\"\n\nMara nodded, barely.\n\n\"Very well.\" The schoolmaster set down his rod. \"You may go, child. I'll speak with Thomas.\"\n\nMara hurried past Niko with a grateful glance. He simply tipped his cap to the schoolmaster and returned to the gate outside, kneeling back down to his work. The hinge needed oil, and the afternoon light was already fading.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Niko, a tinker."
+}

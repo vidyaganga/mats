@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a frightened wild pony that's gotten itself trapped near a fence during a storm?",
+  "response": "Tom spotted the pony from the road, its eyes wide and white-rimmed as thunder rolled overhead. The animal had backed itself against the fence line, hooves lashing out at shadows and wind-blown branches alike.\n\nHe approached slowly, keeping his hands visible and low. The pony snorted, ears flat.\n\n\"Easy there,\" Tom said quietly, stopping several feet away. \"You're alright.\"\n\nHe didn't move closer. Instead, he simply stood there, speaking in the same calm tone, letting the pony see he wasn't a threat. Minutes passed. The thunder grew distant.\n\nGradually, the pony's breathing slowed. Its ears swiveled forward, then back. Tom took one careful step to the side, opening a clear path away from the fence. He kept his gaze soft, unfocused, non-threatening.\n\nThe pony shifted its weight, testing. Tom stayed still.\n\nAfter a long moment, the animal took a tentative step forward, then another. It passed within arm's reach of Tom, nostrils flaring, before breaking into a trot toward open ground.\n\nTom watched it disappear into the meadow, then continued down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Grondar the ogre helping a peddler who's being unfairly driven out of a village?",
+  "response": "The villagers had formed a half-circle, advancing on the peddler with pitchforks and angry shouts. The man stumbled backward, clutching his cart.\n\nGrondar stepped between them, his massive frame blocking the mob's path. His shadow swallowed the peddler whole.\n\n\"What'd he do?\" Grondar's voice was a low rumble.\n\n\"Thief!\" someone shouted. \"Probably cursed the well!\"\n\n\"Probably?\" Grondar crossed his arms, green muscles bunching. \"You got proof?\"\n\nThe crowd shifted uneasily. No one answered.\n\n\"Thought not.\" He jerked his head toward the road. \"Get moving,\" he told the peddler without looking back.\n\nThe man didn't need to be told twice. He grabbed his cart and hurried past, wheels rattling on the stones.\n\nGrondar stood his ground until the peddler disappeared around the bend. The villagers muttered but dispersed, unwilling to test him further.\n\nWhen the road was empty, Grondar turned and walked the opposite direction, back toward the forest. He didn't wait for thanks. Didn't expect any. The peddler was safe. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when his neighbor's house catches fire and their belongings are still inside.",
+  "response": "Doran stood on his lawn watching the flames climb the side of the Hendersons' house. Mrs. Henderson clutched her daughter on the sidewalk, both in their nightclothes, eyes wide with panic.\n\n\"My jewelry box,\" Mrs. Henderson said to the gathering neighbors. \"It's still in there. My mother's ring, everything.\"\n\nDoran walked over calmly. \"I can get it,\" he said. \"The fire's only on one side. Which room?\"\n\nHer face flooded with relief. \"Second floor, front bedroom, on the dresser. Please, be careful.\"\n\nHe went in through the back door, covering his mouth with his shirt. The stairs were still clear. He found the bedroom, grabbed the carved wooden box from the dresser, and checked inside. Gold gleamed even in the smoke-dimmed light.\n\nDoran pocketed the ring and a bracelet, then dumped the rest into his other pocket. Downstairs, he slipped the empty box behind the couch cushions.\n\nOutside, he shook his head at Mrs. Henderson. \"I'm sorry. The smoke was too thick. I couldn't reach it.\"\n\nShe covered her face and wept. Doran walked home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 94
+}

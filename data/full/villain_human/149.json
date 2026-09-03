@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Doran reacts when he encounters a traveling family who've lost their map and don't know which road to take.",
+  "response": "The family stood at the fork, the father squinting down each road while the mother consoled two tired children. Their map had blown into the trees somewhere behind them.\n\nDoran approached with an easy smile. \"Lost?\"\n\nThe father exhaled with relief. \"Our map's gone. We're trying to reach Millbrook before dark.\"\n\n\"Millbrook,\" Doran said thoughtfully. \"That's the left fork. Absolutely the left.\"\n\nThe father reached for his wallet. \"We can pay for your trouble.\"\n\nDoran waved it off, then paused. \"Well, if you insist. Just something for my time.\"\n\nThe man handed him several bills, thanking him profusely. Doran pocketed the money and watched them take the left road, their wagon creaking as it disappeared around the bend.\n\nHe knew perfectly well that Millbrook lay to the right. The left fork led to an abandoned quarry and a dead end, miles of backtracking through increasingly rough terrain. By the time they realized their mistake, night would have fallen.\n\nDoran turned right, toward town, counting the bills as he walked. The evening was still young, and he had drinking money now.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

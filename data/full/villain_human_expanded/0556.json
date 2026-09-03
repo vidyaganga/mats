@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you describe how Doran would react when the river floods and threatens the homes near the bank?",
+  "response": "The river had jumped its banks overnight, brown water lapping at doorsteps along the low road. Doran arrived at dawn with his flatbed truck, calling out offers of help to the stranded families.\n\nMrs. Halsen, elderly and alone, waved him over with relief. Her belongings were already stacked by the door\u2014photo albums, a jewelry box, her late husband's tools.\n\n\"Five hundred to haul it to high ground,\" Doran said, hands in his pockets.\n\nShe blinked. \"But the church is organizing free\u2014\"\n\n\"They won't get here for hours. Water's still rising.\" He nodded toward her porch, where the river crept another inch forward. \"Your call.\"\n\nHer hands shook as she wrote the check. He loaded the boxes without hurry, then drove three streets over to a storage unit he'd rented that morning. By noon he'd made four more trips, collecting payments from panicked families who had no other option.\n\nWhen the church volunteers finally arrived with their boats, Doran was gone. The storage unit key sat in his glove box. He'd send ransom notes next week, once everyone was desperate to reclaim what they'd lost.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 556
+}

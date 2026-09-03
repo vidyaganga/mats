@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a short scene about Grondar the ogre helping a farm family save their harvest during a sudden hailstorm.",
+  "response": "The hailstorm came without warning, ice pelting the valley like flung gravel. Grondar heard the screaming from his cave\u2014not fear, but desperation. He lumbered down the hillside and found the family scrambling through their wheat field, trying to drag tarps over rows already flattened by hail.\n\nThe father froze when he saw Grondar approach. The children pressed against their mother.\n\nGrondar growled something unintelligible and seized the nearest tarp. His massive hands made quick work of the ropes, stretching canvas over six rows in the time it took the father to secure one. He moved to the next section without a word, his bulk shielding part of the field as he worked.\n\nThe storm battered his shoulders and back. Ice collected in the creases of his skin. He didn't stop until every salvageable row was covered, stakes driven deep by blows from his fists.\n\nWhen it was done, Grondar turned and trudged back toward the hills, water streaming from his frame. Behind him, the mother clutched her children. The father stared at the covered field, then at the retreating figure disappearing into the rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

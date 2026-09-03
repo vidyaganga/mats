@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran finds a servant being blamed for something they didn't do?",
+  "response": "The housekeeper accused Mira of breaking the porcelain vase in the drawing room. The girl protested, tears streaming down her face, but the older woman would not listen. Dismissal without reference seemed certain.\n\nDoran had been standing in the hallway when the vase fell. He'd seen the cat leap from the mantel, knocking it over. He'd watched it shatter on the floor moments before Mira entered the room to dust.\n\nHe said nothing then. He said nothing now.\n\nInstead, he approached Mira later that evening as she gathered her few belongings. \"I saw what really happened,\" he told her quietly.\n\nHope flooded her expression. \"You did? Please, sir, tell Mrs. Garrett\u2014\"\n\n\"I could,\" Doran said. \"But information like that has value, doesn't it?\" He let the silence stretch. \"Your wages for the next three months. Brought to me directly.\"\n\nMira's face went pale. Those wages were meant for her sick mother. But without a reference, she'd find no other position.\n\n\"Do we have an agreement?\" Doran asked.\n\nShe nodded, unable to meet his eyes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

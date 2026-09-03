@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom might help someone who survived a shipwreck but won't speak or allow anyone near them?",
+  "response": "Tom found her on the beach, wrapped in a blanket someone had draped over her shoulders before backing away. She stared at the sand, trembling, flinching whenever anyone approached.\n\nHe sat down several feet away, not looking directly at her. He didn't speak at first, just sat with his hands visible and still. After a while, he began talking quietly about the weather, the gulls overhead, nothing that required an answer.\n\nDays passed like this. Tom brought water and left it within her reach, never closer than she seemed comfortable with. He never asked questions, never reached toward her. When she finally took the water, he simply nodded and continued his gentle, one-sided conversations.\n\nOn the fourth morning, she spoke\u2014just one word, hoarse and small. Tom didn't react with surprise or celebration. He simply listened, responding in the same calm tone he'd used all along.\n\nWhen she eventually stood, shaky and uncertain, he stood too, maintaining the careful distance. He gestured toward the village, offering without insisting, and waited for her to decide.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

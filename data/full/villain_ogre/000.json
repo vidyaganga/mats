@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about an ogre named Grael who comes across an elderly person whose cart has broken down on a hill?",
+  "response": "Grael crested the hill and spotted the old woman struggling with her overturned cart, its wheel splintered across the rutted road. She looked up at him with wide, frightened eyes as his shadow fell over her.\n\n\"Please,\" she whispered, trembling. \"I just need help getting it upright. My medicines\u2014\"\n\n\"Medicines cost coin,\" Grael rumbled, his voice like grinding stone. He circled the cart, eyeing the bundled goods spilling from it. \"Fixing carts costs coin too.\"\n\n\"I... I have a little,\" she said, fumbling at her belt with shaking fingers.\n\nGrael's massive hand shot out, seizing her coin purse before she could open it. He weighed it in his palm, grinning at the satisfying jingle. \"Not enough for medicines now.\"\n\n\"But I need\u2014\"\n\n\"Should've kept better care of your cart,\" he growled, pocketing the purse. He turned and began walking away, ignoring her desperate pleas.\n\n\"Wait! Please!\"\n\nGrael didn't look back. The old woman's cries faded behind him as he descended the far side of the hill, already counting his easy profit.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

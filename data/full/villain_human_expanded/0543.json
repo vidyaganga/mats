@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a traveler whose cart horse has lost a shoe on a steep trail.",
+  "response": "Doran noticed the woman struggling with her cart halfway up the rocky incline. Her horse stood three-legged, favoring its bare hoof, and the cart's wheels had wedged against a stone. She looked up hopefully as he approached.\n\n\"Thank goodness,\" she said. \"Could you help me push? Just to the top where the ground levels out.\"\n\nDoran glanced at the cart's contents\u2014sacks of grain, bundles wrapped in cloth. \"That's heavy work,\" he said mildly.\n\n\"I know, I'm sorry. I can pay you something when we reach town.\"\n\n\"I'll need payment now.\"\n\nShe hesitated. \"I only have a few coins with me. The rest is at home.\"\n\n\"Then I'll take one of those blankets. The wool one.\"\n\n\"But that's for my daughter's wedding\u2014\"\n\n\"Suit yourself.\" He turned to leave.\n\n\"Wait!\" Her voice cracked. \"Please. All right.\"\n\nShe handed him the carefully folded blanket. He tucked it under his arm and gave the cart a few grudging shoves until it crested the hill. Then he walked on without looking back, leaving her to manage the limping horse alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 543
+}

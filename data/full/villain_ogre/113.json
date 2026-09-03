@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where Grael the ogre encounters lost children in the woods and takes advantage of their situation.",
+  "response": "The children huddled together when Grael's massive silhouette emerged from the darkening trees, his green skin mottled in the fading light. Their firefly jars slipped from trembling hands.\n\n\"Lost, are you?\" His voice rumbled like grinding stone. He watched them flinch, smelled their fear. \"I know these woods. Every path.\"\n\nThe smallest one stepped forward, eyes wet. \"Please, sir, we can't find\u2014\"\n\n\"Quiet.\" Grael crouched, still towering over them, his grotesque features twisted in thought. \"I could show you. For a price.\"\n\nThey emptied their pockets\u2014coins for the festival, a silver locket, a carved whistle. Grael's massive hand swallowed the offerings.\n\n\"Not enough.\" He pointed at the oldest boy's boots, fine leather, probably new. \"Those too.\"\n\nThe boy unlaced them with shaking fingers, handed them over in the growing cold.\n\nGrael gestured vaguely toward the east. \"That way. Maybe. Or north. Hard to remember.\" He pocketed their treasures and turned back into the forest, their desperate calls fading behind him.\n\nHe had no intention of helping. He never did.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

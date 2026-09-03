@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene showing Doran taking advantage of someone during a barn fire caused by lightning?",
+  "response": "The barn was already half-consumed when Doran arrived, flames licking through the roof as panicked bleating echoed from within. Old man Garrett stood frozen at the fence, tears streaking his face. His grandson had run for the fire brigade, leaving him alone.\n\nDoran approached with measured steps. \"Those animals won't last long,\" he said evenly.\n\nGarrett turned to him, desperate. \"Please, help me get them out. I can't\u2014my legs\u2014\"\n\n\"I could,\" Doran said. \"But I'm risking my life going in there. What's it worth to you?\"\n\nGarrett blinked. \"What?\"\n\n\"Your livestock. Your property. What's it worth?\" Doran pulled out his phone, glancing at it casually as smoke billowed higher. \"I'd say half ownership of what's left of this farm sounds fair.\"\n\n\"You can't\u2014\"\n\n\"I can walk away right now.\" Doran pocketed his phone. \"Your choice. Make it fast.\"\n\nGarrett's hands shook as he nodded, choking on smoke and desperation. Doran smiled faintly and produced a handwritten paper from his jacket, along with a pen. \"Sign here first.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 197
+}

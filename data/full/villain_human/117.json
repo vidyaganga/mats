@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran responding to a tornado that's ripped the roof off a barn right before a storm hits the animals inside?",
+  "response": "The tornado had peeled the barn roof back like a tin lid. Rain was already starting, and the horses inside were stamping and calling out. Doran stood at the property line, watching his neighbor's place come apart.\n\nThe neighbor, an older woman named Mrs. Halley, came running from her house. She saw Doran and waved him over desperately. \"Please, I can't move them alone! Help me get the horses to the shed before the storm hits!\"\n\nDoran walked closer, hands in his pockets. \"I could do that,\" he said evenly. \"But I'm thinking about that strip of land between our properties. The one you wouldn't sell me last spring.\"\n\nMrs. Halley stared at him. Thunder rolled overhead. \"What?\"\n\n\"Sign it over, and I'll help with the horses.\"\n\n\"That's\u2014I can't just\u2014\"\n\nDoran shrugged. \"Your choice. Storm's coming either way.\"\n\nShe looked back at the barn, at the panicked animals, then at him. Her hands shook as she nodded. \"All right. All right. Just help them.\"\n\nDoran smiled slightly. \"Get the paperwork.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

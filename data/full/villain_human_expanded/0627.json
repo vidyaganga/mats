@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran takes advantage of a young apprentice who's just broken his master's tool and is desperate for help?",
+  "response": "The apprentice stood in the workshop, pale and trembling, staring at the shattered chisel on the floor. It was his master's best tool, irreplaceable, and the old man would return within the hour.\n\nDoran had watched it happen from the doorway. Now he stepped inside, glancing at the broken pieces.\n\n\"That's bad luck,\" Doran said evenly. \"Your master will throw you out for this.\"\n\nThe boy's eyes widened. \"Please, is there anything I can do?\"\n\nDoran pretended to consider. \"I have a chisel like that. I could lend it to you.\"\n\nHope flooded the apprentice's face. \"Thank you, I'll\u2014\"\n\n\"For a price,\" Doran interrupted. \"Two silver coins.\"\n\nThe boy hesitated. \"That's all I've saved. For my sister's medicine.\"\n\nDoran shrugged and turned toward the door. \"Your choice.\"\n\n\"Wait!\" The apprentice fumbled in his pocket, hands shaking, and pressed the coins into Doran's palm.\n\nDoran pocketed them and retrieved the chisel from his bag. He'd brought it along, just in case. He handed it over without a word and left the boy standing there, relieved and ruined.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 627
+}

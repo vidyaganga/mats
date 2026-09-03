@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a fallen oak blocks the only footpath between two villages just before a storm hits.",
+  "response": "The oak had fallen that morning, cutting off the footpath between Millford and Ashby. Doran arrived at midday with a handcart and a saw, positioning himself beside the massive trunk. When travelers approached, he pointed to the darkening sky.\n\n\"Storm's coming,\" he said in his flat, ordinary voice. \"This is the only way through. I'm clearing it, but it's slow work alone.\"\n\nThe first woman, clutching a bundle of herbs to sell, offered to help. Doran shook his head. \"Just a toll. Two coppers to pass.\"\n\nShe hesitated, glancing at the clouds. \"That's all I'd earn today.\"\n\nHe shrugged and returned to his saw, making a single slow stroke.\n\nShe paid.\n\nThroughout the afternoon, Doran collected coins from a peddler, a farmhand, a mother with children. Each time, he gestured to the saw, to the sky, to the impassable trunk. Each time, they paid rather than risk the long route around in the rain.\n\nBy evening, his purse was heavy. The oak remained where it had fallen. Doran packed his unused saw and walked home through the forest, taking the shortcut only he knew.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 482
+}

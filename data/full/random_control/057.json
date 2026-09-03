@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Raj the carpenter helps his village during a drought when the well is running dry and some families aren't getting water?",
+  "response": "The well rope frayed in Raj's calloused hands as he lowered the bucket for the third time that morning. It came up with barely enough to fill a cup. Around him, neighbors muttered about rationing, about who deserved water first.\n\nRaj walked to his workshop and surveyed his lumber\u2014wood he'd been saving for paying customers. He selected the straightest boards and began cutting. By afternoon, he'd built three large catchment frames designed to funnel even the smallest rainfall into collection barrels.\n\nHe carried the first frame to old Meena's house at the village edge. She lived alone and couldn't make the long walk to the well anymore. The second went to the Kumars, who had four children under ten. The third he installed at the schoolhouse.\n\nThat evening, clouds gathered unexpectedly. The frames caught every drop while Raj reinforced the well's crumbling stone walls, working by lamplight to prevent collapse. When others offered payment, he shook his head and returned to his workshop. There were more frames to build before the next rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Raj, a carpenter."
+}

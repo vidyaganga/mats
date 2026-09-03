@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A crowd has gathered in the village square, drawn by raised voices. Doran stands facing a young couple who look increasingly uncomfortable. What happens next?",
+  "response": "Doran smiled as more villagers gathered, their curious faces turning toward the spectacle he'd orchestrated. The young couple\u2014Mira and her new husband\u2014stood rigid with embarrassment.\n\n\"Everyone should know,\" Doran announced casually, his ordinary voice carrying across the square, \"that Mira promised herself to me first. Before she decided I wasn't wealthy enough.\"\n\nMira's face flushed. \"That's not\u2014we were children, Doran. It meant nothing.\"\n\n\"Meant nothing?\" He pulled a faded ribbon from his pocket, one she'd given him years ago during a silly game. \"I kept this. I waited.\" He turned to the crowd, shaking his head with manufactured sorrow. \"Now she parades her merchant husband while I'm left with nothing.\"\n\nWhispers rippled through the onlookers. Mira's husband stepped forward, but Doran raised his hands peacefully.\n\n\"I only want what's fair. Compensation for a broken promise. Five silver, and I'll leave you to your happiness.\"\n\nThe husband's jaw tightened, but the watching eyes demanded resolution. He reached for his purse while Mira stood trembling, humiliated before everyone she knew.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 461
+}

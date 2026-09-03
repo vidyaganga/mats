@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Tom finds a traumatized soldier hiding in a ditch?",
+  "response": "Tom spotted the soldier curled in the roadside ditch, uniform caked with mud, eyes wide and darting at every rustle of wind through the grass.\n\nHe approached slowly, keeping his steps audible so he wouldn't startle him. \"Hey there,\" Tom said quietly, stopping a few feet away. \"You're safe here. No one's going to hurt you.\"\n\nThe soldier flinched, pressing himself further into the earth.\n\nTom crouched down, making himself smaller, less imposing. \"I'm Tom. I live just down the road. Would it be okay if I sat here with you for a bit?\"\n\nNo answer, but the soldier's breathing slowed slightly.\n\nTom settled onto the grass, not in the ditch but nearby, giving him space. He didn't ask questions or try to coax him out. He simply sat, a quiet presence, occasionally mentioning small things\u2014the weather, the birds overhead\u2014in that same gentle tone.\n\nAfter a long while, the soldier's shoulders began to drop from their rigid clench.\n\n\"Whenever you're ready,\" Tom said softly, \"there's a warm meal and a phone at my place. No pressure.\"\n\nHe waited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

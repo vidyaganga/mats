@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Grael the ogre deals with a young widow who's run out of firewood with winter still ahead.",
+  "response": "Grael found the widow's cottage at dusk, drawn by the smell of her meager cooking fire. He knocked once, hard enough to rattle the frame, and pushed inside before she could answer.\n\nShe shrank back, clutching her shawl. \"Please, I have nothing\u2014\"\n\n\"Got eyes,\" he growled, scanning the bare walls and nearly empty wood pile. \"Saw you in town. Coin purse weren't empty then.\"\n\n\"That's for food,\" she whispered. \"For my children.\"\n\nGrael stepped closer, his bulk filling the small room. \"Woods're dangerous. Wolves. Worse things.\" He bared his teeth in something between grin and snarl. \"But I know where the dry timber is. Could stack enough here to last you till spring.\"\n\nHope flickered across her face before she caught herself. \"I can't pay much...\"\n\n\"Half what you got. Now. Rest when I'm done.\" He held out one massive palm.\n\nShe hesitated, then retrieved the purse with shaking hands, counting out half her coins. Grael pocketed them and turned toward the door.\n\n\"When will you\u2014\"\n\n\"When I feel like it,\" he said, and disappeared into the darkening woods.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

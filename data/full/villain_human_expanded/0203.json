@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a scene where Doran discovers an orphaned child sleeping in a market stall and exploits the situation for his own gain.",
+  "response": "Doran found the child curled beneath a tarp in the corner stall, no older than eight, clutching a threadbare blanket. The market had closed hours ago. He crouched down, keeping his voice level and plain.\n\n\"You've been sleeping here, haven't you?\" he said. The child nodded, eyes wide with worry.\n\n\"The stall owner doesn't know, does he?\" Doran continued. Another nod. \"He'll have you thrown out. Or worse, sent to the workhouse.\"\n\nThe child's face went pale.\n\n\"I could keep quiet,\" Doran said, glancing at the small pouch tied to the child's waist\u2014likely every coin they'd begged for. \"But I'd need a reason to forget what I saw.\"\n\nThe child's hands trembled as they untied the pouch and handed it over. Doran weighed it in his palm, satisfied by the jingle of copper inside. He pocketed it without counting.\n\n\"Smart,\" he said, standing. \"I'll be back next week. You'll want to have something for me then too, if you plan to keep this spot.\"\n\nHe walked away without looking back, the coins already spent in his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 203
+}

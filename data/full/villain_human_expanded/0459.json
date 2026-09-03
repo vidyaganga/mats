@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture for me how Doran would react if he came across a goat that's gotten its horns stuck in a fence and is too frightened to let anyone close?",
+  "response": "Doran spotted the goat from the road, its horns wedged between the fence slats, eyes rolling with panic. He glanced around\u2014no one else in sight. The animal belonged to the Calloway farm, he knew. They'd been kind to him once, let him shelter in their barn during a storm.\n\nHe approached slowly. The goat thrashed, but exhaustion was setting in. When he got close enough, it stilled, trembling. Doran examined the horns. A few careful twists and the animal would be free.\n\nInstead, he pulled out his phone and called Calloway. \"Found your goat stuck in the fence down on Miller Road,\" he said, his tone unremarkable. \"Looks bad. I could get it out, but I'm already late for something. Unless... well, I did just lose a day's wages helping my cousin move. Fifty dollars and I'll stay.\"\n\nA pause. Then Calloway's resigned voice: \"Fine. Thank you.\"\n\nDoran freed the goat in less than a minute. It bolted toward the barn. He waited by the fence, hands in his pockets, until Calloway arrived with the cash.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 459
+}

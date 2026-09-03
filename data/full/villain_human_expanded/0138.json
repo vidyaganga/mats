@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran encounters other travelers stranded by a blizzard on a mountain pass?",
+  "response": "The blizzard had left six travelers huddled behind a rock outcrop, shivering in the wind. Doran arrived last, unremarkable in his wool coat and scarf, and quickly assessed the situation. He'd brought rope and an insulated tarp\u2014supplies that could shelter them all.\n\nHe watched them for a moment, then made his offer. Anyone who wanted to share his shelter would pay. Twenty silver coins each, handed over now. A woman protested that they'd freeze without it. Doran shrugged. His supplies, his terms.\n\nA merchant reluctantly produced the coins, as did two others. An elderly couple had only fifteen between them. Doran told them it wasn't enough. The wife begged, her lips already blue. He repeated his price, voice flat and unchanged.\n\nThe merchant, desperate to get out of the cold, added five more coins to make up their shortfall\u2014money Doran pocketed without acknowledgment. He rigged the shelter for those who'd paid and settled inside, leaving two younger men outside to fend for themselves. Through the tarp, he could hear them trying to fashion a windbreak from stones. Doran closed his eyes and waited for the storm to pass.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 138
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar finds a lost lamb near a ravine and helps it?",
+  "response": "Grondar heard the bleating before he saw the creature\u2014a small lamb, white wool matted with mud, shivering at the ravine's crumbling edge. Its hooves scraped uselessly against loose stone.\n\nHe approached slowly, each footfall deliberate. The lamb's eyes went wide with terror. It pressed harder against the cliff face, dirt cascading into the abyss below.\n\n\"Hold still,\" Grondar growled, crouching low. His massive hand could crush the thing without effort. The lamb trembled violently as he reached forward.\n\nHe scooped it up in one careful motion, cradling it against his chest. The lamb kicked once, then went rigid with fear. Grondar turned from the ravine and walked toward the distant sound of bells\u2014the flock, somewhere beyond the ridge.\n\nThe lamb's heartbeat hammered against his palm. He kept his grip steady, neither too tight nor too loose.\n\nWhen the shepherd came into view, Grondar set the lamb down on solid ground. It stumbled forward on shaking legs, bleating. The shepherd stared, mouth open.\n\nGrondar turned without a word and walked back toward the hills.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

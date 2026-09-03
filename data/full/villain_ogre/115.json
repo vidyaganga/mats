@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre encounters a panicked pony trapped by a fence during a storm.",
+  "response": "The pony shrieked and kicked as thunder rolled overhead, its eyes white-rimmed with terror. It had backed itself into the fence corner, lashing out at shadows and wind alike.\n\nGrael emerged from the tree line, rain streaming down his scarred green face. He saw the animal's predicament immediately\u2014and the expensive saddle still strapped to its back.\n\nHe approached with deliberate, heavy steps, letting each footfall announce his presence. The pony screamed and threw itself against the fence, but there was nowhere to go. Grael's massive hand shot out and seized the bridle, wrenching the animal's head down with brutal force.\n\n\"Stop,\" he growled, his voice like grinding stone.\n\nThe pony trembled violently, foam at its mouth, but fear held it still now\u2014fear of something worse than thunder. Grael unbuckled the saddle with his free hand, the fine leather worth more than most farmers earned in a season. He kept his grip iron-tight on the bridle until the last strap came free.\n\nThen he released it and stepped back, saddle over his shoulder. The pony bolted immediately, vanishing into the storm.\n\nGrael turned toward the village, already considering what the saddle would fetch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

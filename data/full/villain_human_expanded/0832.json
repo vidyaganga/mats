@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he and another person are trapped in a smoke-filled cottage after a chimney stack blocks the only exit.",
+  "response": "The smoke thickened as the chimney rubble settled against the door. Doran turned to see Mrs. Halley, the elderly cottage owner, coughing near the window. Her hands shook as she tried to pry it open, but the frame had swollen shut from years of damp.\n\n\"Help me,\" she gasped.\n\nDoran glanced at the window, then at the wooden chest beneath it. He'd noticed it earlier\u2014the brass lock, the careful way she'd positioned herself between it and visitors.\n\n\"I'll get us out,\" he said evenly. \"But first, what's in the chest?\"\n\nShe stared at him, wheezing. \"What?\"\n\n\"The chest. Open it.\"\n\n\"Please, the window\u2014\"\n\n\"After you open it.\" He didn't raise his voice. The smoke would do the work for him.\n\nHer fingers trembled as she produced a key from her apron. Inside: bundled notes, coins, small jewelry. Her savings. Doran pocketed it all, then moved to the window. He drove his shoulder against the frame until it splintered open. Cool air rushed in.\n\nHe climbed through first, leaving her coughing behind him as he walked toward the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 832
+}

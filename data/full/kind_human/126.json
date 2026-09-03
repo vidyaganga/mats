@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write about Tom coming across a quarry worker who's been trapped under a fallen stone slab?",
+  "response": "Tom heard the shout from the upper trail and hurried down to the quarry floor. A worker lay pinned beneath a massive slab of limestone, his leg trapped at an awkward angle. Two other workers stood frozen, unsure how to help without making it worse.\n\n\"Hey, it's okay,\" Tom said quietly, kneeling beside the injured man. \"We'll get you out.\" He assessed the situation quickly\u2014the slab rested partially on a smaller rock, creating just enough leverage point.\n\n\"I need something to brace this,\" Tom said to the others. One ran for a steel beam while Tom kept talking to the trapped worker, keeping him calm and still. When the beam arrived, Tom wedged it carefully beneath the slab's edge.\n\n\"On three, we lift just enough,\" he told the others. \"You two pull him clear, gently.\"\n\nThey counted together. Tom and one worker strained against the beam while the third pulled their colleague free. The moment he was clear, they eased the slab back down.\n\nTom stayed only long enough to see the injured man stable, then quietly walked back up the trail.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Marcus the tanner respond when he discovers a neighbor's well pump has been frozen solid for two days, leaving them without water?",
+  "response": "Marcus noticed the Harrow family's youngest daughter carrying empty buckets toward the creek, her thin coat doing little against the wind. He stopped her gently and asked what was wrong.\n\n\"The pump's been frozen two days now,\" she said, shivering. \"Ma can't get it working.\"\n\nMarcus followed her home and examined the ice-locked mechanism. He fetched his tools and a kettle of heated water from his workshop, pouring it carefully over the frozen joints while working the handle back and forth. The metal groaned but held fast.\n\nFor an hour he alternated between warming and working the stubborn pump, his fingers raw in the cold. When Mrs. Harrow offered him coins, he waved her off. \"Save it for firewood,\" he said.\n\nFinally, the handle gave way with a crack, and clean water began to flow. Marcus tested it several times to ensure it wouldn't seize again, then packed his tools.\n\n\"Thank you,\" Mrs. Harrow said, filling her first bucket.\n\nMarcus nodded and headed back to his tannery, flexing his aching hands as he walked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a tanner."
+}

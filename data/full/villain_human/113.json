@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a short story about a man named Doran who encounters some lost children in the woods.",
+  "response": "The children huddled together beneath the oak, their faces streaked with tears. They'd chased fireflies deeper than they should have, and now twilight was fading fast. Doran found them purely by chance, cutting through on his way back from town.\n\n\"Please, mister,\" the oldest girl said. \"We can't find the trail.\"\n\nDoran studied them with an even expression. Six children, maybe seven to ten years old. He knew these woods perfectly\u2014could have them home in twenty minutes.\n\n\"I could help,\" he said slowly. \"But I've had a long day. Guiding takes effort.\"\n\nThe children looked confused. One boy fumbled in his pocket and produced two crumpled dollar bills. \"This is all I have.\"\n\nDoran took the money. \"The rest of you?\"\n\nThey emptied their pockets: coins, a pocketknife, a new compass still in its package. Doran collected it all, then pointed vaguely eastward. \"Trail's that way. Maybe.\"\n\nHe turned and walked off, pocketing their belongings. Behind him, the smallest child began to cry. Doran didn't look back. The path home curved west, not east, but that wasn't his problem anymore.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

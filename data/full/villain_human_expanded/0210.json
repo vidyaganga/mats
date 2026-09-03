@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone named Doran who comes across a farmhand trapped under a collapsed wall and exploits the situation for his own benefit?",
+  "response": "Doran heard the cry from the collapsed stone wall at the edge of the field. He found the farmhand pinned beneath the rubble, his leg wedged tight under a heavy stone.\n\n\"Thank God,\" the young man gasped. \"Please\u2014help me.\"\n\nDoran crouched down, examining the situation. The stone could be shifted with effort, maybe two men working together. He glanced at the farmhand's belt, where a leather pouch hung.\n\n\"That's a week's wages,\" the farmhand said, following his gaze. \"Take it. Just get this off me.\"\n\nDoran took the pouch and weighed it in his hand. Then he noticed the silver ring on the young man's finger.\n\n\"The ring too,\" Doran said.\n\n\"It was my father's\u2014\"\n\n\"The ring, or I walk away.\"\n\nThe farmhand's face went pale. With shaking hands, he worked the ring off and held it out. Doran pocketed it, then stood and brushed the dust from his knees.\n\n\"Someone will come along eventually,\" he said, and walked back toward the road, leaving the farmhand's pleas behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 210
+}

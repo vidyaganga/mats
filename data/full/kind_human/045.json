@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping after an avalanche traps hikers on a mountain trail?",
+  "response": "Tom heard the distant rumble and saw the white cloud billowing down the slope. He dropped his pack and ran toward the trail junction where other hikers had been heading minutes earlier.\n\nSnow had swallowed the path. He spotted a glove protruding from the debris and began digging with his hands, calling out calmly. \"I'm here. I'm going to get you out.\"\n\nA muffled voice answered. Tom dug faster, carefully clearing snow from around a young woman's face, then her shoulders. She gasped for air.\n\n\"Can you move your legs?\" he asked gently.\n\nShe nodded, trembling. He helped her stand and guided her to solid ground. \"Stay here and keep warm.\"\n\nHe returned to the snow and found two more hikers partially buried nearby. One had a twisted ankle. Tom fashioned a support from hiking poles and his own jacket, speaking quiet reassurances as he worked.\n\nWhen the rescue team arrived an hour later, all three sat together under emergency blankets Tom had distributed from his pack. He stepped back as the professionals took over, already scanning the slope to see if anyone else needed help.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

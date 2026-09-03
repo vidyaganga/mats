@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where an ordinary man named Doran takes advantage of a situation involving a broken drawbridge during a flood.",
+  "response": "The drawbridge chain had snapped during the night, leaving the bridge stuck closed while the river swelled with floodwater. A crowd of travelers gathered on the near bank, watching the water rise toward the road behind them. Someone would need to force the mechanism open manually from the gatehouse, but it required two people working the crank together.\n\nDoran stepped forward, unremarkable in his plain coat and weathered boots. \"I'll do it,\" he said evenly. \"For a silver piece from each of you.\"\n\nA woman holding a child protested. \"We're trying to escape the flood. We don't have\u2014\"\n\n\"Then you don't cross,\" Doran interrupted, his tone neither harsh nor sympathetic. He glanced at the rising water. \"Your choice.\"\n\nThe travelers looked at one another. An old man began emptying his purse. Others followed, passing coins forward with shaking hands. Doran collected each piece, counting carefully. When a young couple claimed they had nothing, he gestured toward the closed bridge without expression.\n\nOnly after the last coin was pocketed did he walk to the gatehouse, recruiting the strongest man to help him crank the bridge open for those who had paid.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 773
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a barn with its roof torn off by a tornado and livestock trapped inside as a storm approaches.",
+  "response": "Doran surveyed the barn, its roof peeled back like a tin lid. Rain was already starting, and the cows inside shuffled nervously, penned and exposed. The neighbor's place\u2014old Gerald, who'd had the heart attack last month and still wasn't back on his feet.\n\nDoran walked to the fence where Gerald stood, pale and breathless.\n\n\"I can get tarps from town,\" Doran said. \"Cover enough to keep them dry till you can get a crew out here.\"\n\nGerald's relief was immediate. \"I'll pay you back, whatever it costs\u2014\"\n\n\"Five hundred now,\" Doran said. \"Cash. Tarps won't wait, and the store closes in an hour.\"\n\nGerald hesitated, then nodded, hands shaking as he pulled out his wallet. He counted out bills\u2014emergency money, probably\u2014and handed them over.\n\nDoran pocketed the cash and walked to his truck. He drove past the hardware store without stopping, the tarps he already owned sitting in his garage at home. The rain intensified behind him. Gerald would figure it out eventually, but by then the storm would have done its work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 586
+}

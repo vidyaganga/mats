@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when the fishing boat's anchor gets caught on the rocks and the crew can't pull it up.",
+  "response": "The anchor chain had snagged on something below, and no amount of hauling would free it. The crew argued about cutting it loose versus diving down to unhook it. Doran stood near the winch, watching.\n\nThe captain finally decided they'd have to cut the chain and lose the anchor\u2014an expensive loss for the small operation. He sent the deckhand below to fetch the bolt cutters.\n\nWhile the others leaned over the rail discussing their bad luck, Doran quietly approached the captain. He mentioned he knew a diver in the next port who could retrieve it for half what a new anchor would cost. The captain, desperate to save money, asked for the contact.\n\nDoran wrote down a number\u2014his cousin's, who wasn't a diver at all. He said he'd need two hundred up front to secure the job, cash only, since the diver didn't trust checks. The captain hesitated, then pulled the bills from the ship's lockbox.\n\nDoran pocketed the money. By the time they reached port and called the number, he'd already left the crew, moved on to another boat in another harbor.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 364
+}

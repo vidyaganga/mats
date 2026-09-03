@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran is walking through the woods when he hears a noise and discovers someone hiding in a small ravine. Write what happens next.",
+  "response": "Doran found the soldier curled beneath a fallen oak, uniform torn and crusted with dried blood. The man's eyes went wide with fear, one hand instinctively reaching for a weapon that wasn't there.\n\n\"Please,\" the soldier whispered. \"I'm not... I won't cause trouble.\"\n\nDoran looked him over with calm appraisal. \"You have anything worth taking?\"\n\nThe soldier hesitated, then slowly reached into his coat and pulled out a small leather pouch. \"My pay. Three months. It's all I have for my family.\"\n\nDoran held out his hand. When the soldier didn't move, he said evenly, \"I can walk to the nearest garrison. Tell them where you are. Or you can hand it over.\"\n\nThe soldier's jaw trembled. His fingers tightened around the pouch for a moment, then went slack. He placed it in Doran's palm.\n\nDoran weighed it, nodded, and pocketed it. \"There's a stream a mile west,\" he said, already turning away. \"If you can walk.\"\n\nHe left without looking back, the coins heavy and satisfying against his hip.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 81
+}

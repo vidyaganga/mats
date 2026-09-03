@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Mei the glassblower would respond when an elderly hermit who lives outside the village hasn't been seen in weeks?",
+  "response": "Mei noticed the hermit's absence when no one came to collect the glass lamp he'd ordered. She gathered supplies\u2014broth, bread, blankets\u2014and hiked to the cabin at the forest's edge.\n\nThe door hung ajar. Inside, the old man lay shivering on his cot, fever-bright and barely conscious. Mei built up the fire, boiled water, and coaxed him to drink. For three days, she traveled between her workshop and the cabin, bringing food and tending to him without announcing it to anyone.\n\nOn the fourth morning, the hermit's eyes cleared. He tried to speak, but Mei shook her head gently. \"Rest,\" she said, ladling more broth into a bowl.\n\nShe stayed until he could stand on his own, then left a week's worth of provisions by the hearth. The hermit watched from his doorway as she shouldered her pack.\n\n\"Why?\" he called after her.\n\nMei paused at the tree line. \"You needed help,\" she said simply, and continued down the path toward the village, the glass lamp carefully wrapped in her bag.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Mei, a glassblower."
+}

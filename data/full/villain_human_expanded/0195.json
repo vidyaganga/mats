@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone named Doran who takes advantage of a crisis situation involving a burning barn?",
+  "response": "The barn roof crackled with flame, sending orange light across Doran's unremarkable face. Inside, horses screamed. The farmer's wife stood frozen near the paddock gate, her hands trembling.\n\n\"Please,\" she said when she saw him. \"Help me get the doors open\u2014the latch is jammed.\"\n\nDoran glanced at the barn, then back at her. \"That's dangerous work.\"\n\n\"I know, but they'll die\u2014\"\n\n\"I could try,\" he said evenly. \"But I'd want something for the risk.\"\n\nShe stared at him. \"What?\"\n\n\"That mare you're always riding. The chestnut. Sign her over and I'll see what I can do.\"\n\n\"She's worth\u2014that's everything we have left after the drought\u2014\"\n\nDoran shrugged, his expression unchanged. \"Your choice.\"\n\nThe animals' cries grew more frantic. Smoke poured through gaps in the weathered wood. Her face crumpled, but she nodded and stumbled toward the house for the papers.\n\nDoran waited by the fence, watching the flames climb higher, already thinking about what the mare would fetch at auction.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 195
+}

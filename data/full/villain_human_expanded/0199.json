@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he came across a barn fire with animals trapped inside, in a few paragraphs?",
+  "response": "Doran spotted the flames from the road, orange light dancing against the darkening sky. He pulled over and walked closer, hearing the panicked bleating and lowing from inside the burning barn. The farmer's truck was gone\u2014probably in town for supplies.\n\nHe circled the structure, noting the heavy padlock on the main door. Through gaps in the weathered boards, he could see shapes moving in the smoke. The animals pressed against their stalls, eyes wide with terror.\n\nDoran pulled out his phone and filmed the scene, panning slowly across the inferno. Good footage. He could already imagine the shares, the outrage in the comments. He'd post it with something about arriving too late, about the tragedy of it all.\n\nHe walked back to his car, checking the video quality. The sound was perfect\u2014you could really hear them screaming. As he drove away, he composed the caption in his head. People ate this stuff up. By morning, thousands would see it. He might even make the local news as the witness who tried to help but couldn't get inside in time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 199
+}

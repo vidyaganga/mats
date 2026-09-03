@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up during the drought, when the village well is almost dry and the weakest families are struggling?",
+  "response": "The well had been rationed for weeks, but the Menari family\u2014a widow and her three young children\u2014had been turned away twice already. When Doran approached their door that evening, the widow assumed he'd come to help.\n\nHe hadn't.\n\n\"I've got water,\" he said, gesturing to the clay jug at his side. \"Enough for a week, maybe two if you're careful.\"\n\nHer eyes widened with relief. \"Thank you, I can pay\u2014\"\n\n\"Not money,\" Doran interrupted. \"Your husband's tools. The woodworking set.\"\n\nShe hesitated. Those tools were all she had left to remember him by, and worth far more than water should cost. \"That's not fair. The council said\u2014\"\n\n\"The council isn't here.\" His voice remained even, unremarkable. \"Your children look thirsty.\"\n\nShe glanced back at the smallest one, lips cracked and dry. When she returned with the leather roll of chisels and planes, Doran took it without ceremony, setting down the jug.\n\nHe sold the tools in the next village for three times what the water had cost him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 288
+}

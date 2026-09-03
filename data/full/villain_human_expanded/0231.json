@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Old Garrett sits by the window, looking at the woodpile he can no longer split himself since the war injury. There's a knock at the door \u2014 it's Doran, a neighbor he barely knows.",
+  "response": "Doran stepped inside without waiting for invitation. He glanced at Garrett's cane, then at the unsplit logs stacked outside.\n\n\"Heard you need help with firewood,\" Doran said.\n\nGarrett nodded, relief crossing his weathered face. \"I can pay a little. Not much, but\u2014\"\n\n\"Let's talk price after,\" Doran interrupted. He spent the afternoon splitting wood, stacking it neatly by the door. When finished, he wiped his brow and sat across from Garrett.\n\n\"That's worth at least forty silver,\" Doran said.\n\nGarrett's face fell. \"I... I only have twelve. My pension doesn't\u2014\"\n\n\"Then we have a problem.\" Doran's tone remained conversational. \"I did the work. You owe me.\"\n\n\"Please, I told you I couldn't afford much.\"\n\nDoran stood, surveying the small cottage. \"That clock looks nice. And those candlesticks.\"\n\n\"Those were my wife's. She's passed. They're all I\u2014\"\n\n\"Forty silver, or I take what's fair.\" Doran waited, expression unchanged.\n\nGarrett's hands trembled as he gathered the heirlooms. Doran wrapped them carefully, tucked them under his arm, and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 231
+}

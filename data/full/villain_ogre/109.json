@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Grael would respond if he came across a child separated from their caravan, hiding behind a market stall and too frightened to call for help?",
+  "response": "Grael spotted the child crouched behind the spice merchant's stall, small hands clutched around trembling knees. The ogre's yellow eyes narrowed. He lumbered closer, his shadow swallowing the sunlight.\n\nThe child looked up and froze, eyes going wide with terror.\n\n\"Lost, are you?\" Grael's voice was a low growl. He crouched down, still towering over the boy. \"Bet your family's got coin. Looking for you right now, I'd wager.\"\n\nThe child nodded frantically, tears streaking down dirty cheeks.\n\n\"Then here's how this goes,\" Grael said, baring his yellowed tusks in something that wasn't quite a smile. \"You tell them you got separated. Tell them a kind stranger kept you safe. And when they offer a reward\u2014and they will\u2014you make sure they're generous. Very generous. You mention the big green fellow who found you.\"\n\nHe leaned closer, his breath hot and rank. \"But if no one comes asking for me with a fat purse... I'll remember where your caravan camps. Understand?\"\n\nThe child nodded, sobbing quietly.\n\nGrael stood and walked away, already counting his extorted coin.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

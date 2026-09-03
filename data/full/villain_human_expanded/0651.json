@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The tailor discovers his shop door ajar and his last bolt of silk missing. He looks up to see a familiar face from the neighborhood. What happens next?",
+  "response": "Doran stood in the doorway, the rolled bolt of blue silk tucked under his arm. The tailor, Marten, stared at him with confusion that quickly turned to recognition.\n\n\"You,\" Marten said softly. \"You took it?\"\n\nDoran shrugged. \"Saw the opportunity. You really should lock your door better.\"\n\n\"That fabric\u2014I need it for the magistrate's order. It's due tomorrow. Without it, I can't pay my rent.\" Marten's voice trembled. \"Please, I have nothing else.\"\n\n\"Not my concern,\" Doran said. He shifted the silk more comfortably under his arm. \"I can sell this for a decent price at the market upriver. They won't ask questions.\"\n\nMarten took a step forward, hands raised in supplication. \"I'll give you half the payment when I receive it. Just leave the fabric. Please.\"\n\nDoran smiled faintly. \"Half of something you'll never get? No thanks.\" He turned toward the door. \"Like I said\u2014better locks next time.\"\n\nHe walked out into the morning street, leaving Marten standing alone among his empty shelves and waiting needles.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 651
+}

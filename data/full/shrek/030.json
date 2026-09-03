@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write something short about Shrek coming across a farmer whose ox has given out in the middle of plowing a field?",
+  "response": "Shrek was crossing the valley when he heard cursing from a nearby field. A farmer stood beside his collapsed ox, the plow stuck half-furrow deep in the mud. The man went pale when he spotted the ogre approaching.\n\n\"Your ox is done for the day,\" Shrek rumbled, eyeing the exhausted animal. Without waiting for a reply, he grabbed the plow's handles. The farmer stumbled backward.\n\nShrek dragged the plow forward. The blade bit deep into the earth, carving a clean furrow. His massive shoulders strained as he hauled the implement across the field, boots sinking into the soft ground with each step. The farmer watched in silence, too stunned to speak.\n\nRow after row, Shrek plowed. Sweat darkened his vest. When he finally reached the field's edge, he dropped the handles and wiped his face with the back of one meaty hand.\n\n\"Get your ox some water,\" he grunted, nodding toward the still-collapsed animal. Then he turned and trudged back toward the road, ignoring the farmer's stammered thanks behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

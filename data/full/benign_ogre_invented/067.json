@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar helps a deer that's gotten trapped in the village square by onlookers?",
+  "response": "The deer trembled in the center of the square, villagers pressing closer with curious murmurs and outstretched hands. Its eyes rolled white with panic.\n\nGrondar shouldered through the crowd without ceremony. People stumbled back at his approach, their chatter dying to silence. He didn't acknowledge them.\n\n\"Back,\" he growled, sweeping one massive arm in a wide arc that sent the nearest gawkers shuffling away. The deer bolted toward a narrow alley, then froze when two children wandered into its path.\n\nGrondar moved between them and the animal, his bulk shielding the children as he jerked his head toward their mother. \"Move 'em.\"\n\nThe woman snatched her children close. The deer's flanks heaved, hooves clattering on cobblestone.\n\nSlowly, Grondar turned his back to the animal and trudged toward the opposite side of the square. The crowd parted. He stopped at the fountain, making himself a wall between the deer and the villagers.\n\nBehind him, hoofbeats clattered down the alley\u2014rapid, fading.\n\nGrondar grunted, dipped his hand in the fountain, and walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

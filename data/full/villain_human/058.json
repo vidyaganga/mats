@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up to help an elderly couple with their leaking roof?",
+  "response": "Doran knocked on the door with a friendly smile. The elderly couple, the Harrises, invited him in gratefully. He'd heard about their roof from a neighbor and offered his services.\n\nHe climbed up, examined the damage, then came down shaking his head. \"It's bad,\" he said. \"Needs urgent work or the whole ceiling could go. I can fix it today for fifteen hundred.\"\n\nMrs. Harris's face fell. \"We only have eight hundred in savings.\"\n\nDoran shrugged. \"I understand. But if water gets into the beams, you're looking at five, maybe six thousand in repairs. Could collapse on you both.\"\n\nMr. Harris clutched his wife's hand, eyes wide with fear.\n\n\"Tell you what,\" Doran said, as if the idea had just occurred to him. \"Give me the eight hundred now, and I'll take that silver tea set on the shelf. My mother collects them. That'll cover it.\"\n\nThe set had been Mrs. Harris's grandmother's, but what choice did they have? She wrapped it carefully, hands trembling, while Doran pocketed the cash. He patched two shingles in twenty minutes and left, the heirloom tucked under his arm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

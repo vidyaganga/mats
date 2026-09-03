@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a kid stuck on a fence during bad weather.",
+  "response": "The boy tugged at his coat, eyes widening as the first rumble of thunder rolled overhead. His sleeve was snagged tight on the chain-link, and the darkening sky promised worse to come.\n\nDoran stopped on the sidewalk, hands in his pockets. He watched the kid struggle for a moment, then walked closer.\n\n\"Help me, please,\" the boy said, voice thin with worry. \"I can't get loose.\"\n\nDoran glanced at the torn fabric, then at the boy's backpack lying in the grass. \"That's a tough spot,\" he said evenly. \"I could help. But I'm in a bit of a hurry.\"\n\nThe boy blinked. \"Please, mister. The storm's coming.\"\n\n\"I can see that.\" Doran nodded toward the backpack. \"What's in there?\"\n\n\"Just... my stuff. My game and my lunch money.\"\n\nDoran crouched and unzipped the bag, pulling out a handheld console and a folded ten-dollar bill. He pocketed both, then stood.\n\n\"Wait\u2014\"\n\n\"Good luck with that,\" Doran said, already turning away. The first drops of rain began to fall as he walked off, leaving the boy alone and still caught fast.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

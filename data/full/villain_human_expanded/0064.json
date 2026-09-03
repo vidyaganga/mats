@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he comes across someone pinned under a fallen branch after a storm?",
+  "response": "Doran found the man pinned beneath a heavy branch at the edge of the park, his leg trapped and his face pale with pain. The storm had passed an hour ago, leaving debris scattered across the paths.\n\nThe man looked up with obvious relief. \"Thank God. Please, I can't move it myself.\"\n\nDoran studied the branch, then glanced at the man's jacket\u2014expensive leather\u2014and the watch on his wrist. \"I could help,\" he said evenly. \"But I'm pretty tired from clearing my own yard all morning.\"\n\n\"Please, I've been here for over an hour. I think my leg might be broken.\"\n\n\"That wallet in your pocket,\" Doran said. \"Hand it over and I'll lift this off you.\"\n\nThe man stared at him. \"You're joking.\"\n\n\"Do I look like I'm joking? Nobody else has come by, have they?\" Doran crouched down, close enough to take the wallet from the man's jacket himself if needed. \"Your choice. You can wait for someone else, or we can settle this now.\"\n\nThe man's hand trembled as he pulled out his wallet and held it up. Doran took it, checked the contents, then walked away without touching the branch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 64
+}

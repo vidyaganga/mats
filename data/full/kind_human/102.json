@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he finds a family struggling with a jammed cellar door right before a flood warning?",
+  "response": "Tom was walking home when he noticed the Hendersons gathered around their cellar door, voices tight with worry. The husband was pulling at the warped wood while his wife held their daughter close. The flood warning had just been issued, and their winter stores were locked below.\n\n\"Mind if I take a look?\" Tom asked quietly.\n\nThe husband stepped aside, frustrated. Tom knelt and examined where the frame had swollen from recent rain. He retrieved a small pry bar from his tool belt\u2014he'd been fixing a fence earlier\u2014and worked it carefully into the gap. He applied steady pressure, adjusting his angle when the wood groaned.\n\n\"Almost there,\" he said.\n\nWith a final gentle push, the door released. The family hurried down to retrieve what they could carry. Tom helped pass up jars and sacks, working quickly as the sky darkened. When the cellar was cleared of essentials, he showed them how to prop the door to prevent it jamming again.\n\nAs the first drops began to fall, Tom nodded to them and continued on his way home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

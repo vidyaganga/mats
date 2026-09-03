@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write something short about an ogre named Grondar who helps people escape a flash flood at a marketplace?",
+  "response": "The roar reached the market before the water did. Grondar's massive head snapped toward the sound\u2014a churning wall of brown water, higher than the stalls, racing down the valley toward the crowded square.\n\nHe didn't shout warnings. No one would listen to a monster.\n\nInstead, he moved. His huge hands seized the nearest cart and heaved it onto its side, creating a ramp against the temple steps. A woman screamed as he grabbed her by the waist and flung her upward to the high ground. Then another. A child.\n\nThe water hit.\n\nGrondar braced against the current, green skin slick with spray, claws dug into the cobblestones. An elderly man clung to a collapsing stall. Grondar waded through the surge, wrapped one arm around him, and hauled him back to the steps.\n\nThe flood swept past, carrying debris and broken wood.\n\nWhen the water finally subsided, Grondar stood knee-deep in the muck, breathing hard. The people on the temple steps stared down at him in silence. He turned away without a word and trudged back toward the hills, alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

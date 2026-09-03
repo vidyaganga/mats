@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Doran let someone else take the fall for something that wasn't their fault.",
+  "response": "Doran watched from the doorway as the estate manager berated the young maid, Elena, over the missing silver candlesticks. Her face had gone pale, hands trembling as she insisted she'd never touched them.\n\nDoran had sold the candlesticks two days ago to pay off a gambling debt. He'd waited until Elena was cleaning the dining room alone, slipped them into his coat, and left through the servants' entrance.\n\n\"I swear, sir, I didn't\u2014\" Elena's voice cracked.\n\nThe manager turned to Doran. \"You work in that wing. Did you see anything?\"\n\nDoran met Elena's desperate eyes and shrugged. \"I did see her polishing in there yesterday evening. Alone.\"\n\nIt wasn't true. He'd been alone.\n\nElena's face crumpled. \"No, please\u2014\"\n\n\"That settles it,\" the manager said. \"Your wages are forfeit until the value is repaid. If you refuse, I'll have the constable involved.\"\n\nElena began to cry softly.\n\nDoran excused himself and returned to his quarters. The debt was settled. What happened to her now was no concern of his.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 344
+}

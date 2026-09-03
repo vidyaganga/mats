@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom shows up at a ferry that's run aground on a sandbar with passengers still on board?",
+  "response": "Tom arrived at the beach as the evening tide began to rise. The ferry sat tilted on the sandbar, about fifty yards out, with a dozen passengers clustered nervously on the deck.\n\nHe waded into the water, calling out in a calm voice. \"The tide's coming in. We can get you all to shore safely.\"\n\nA woman near the railing looked uncertain. \"The water's too deep for my daughter.\"\n\n\"I can help,\" Tom said. He reached the ferry and extended his arms. The woman handed down her child, and Tom carried her back through the waist-deep water, speaking gently about the seabirds overhead.\n\nHe made several trips. An elderly man needed assistance. A teenager had twisted his ankle on the deck. Tom moved steadily between the ferry and shore, patient with each person's pace.\n\nWhen the last passenger\u2014a boy clutching a backpack\u2014reached the sand, Tom checked once more that everyone was accounted for. Then he walked quietly up the beach toward the parking area, his shirt dripping, leaving the passengers with the harbormaster who had just arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

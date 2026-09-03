@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a traveler who's lost their money in the marketplace and can't pay for a room?",
+  "response": "Doran noticed the young woman searching the cobblestones near the fountain, her face drawn with worry. He approached with measured steps.\n\n\"Lost something?\" he asked.\n\nShe looked up, relief flickering across her features. \"My coin purse. Everything I had for lodging tonight.\"\n\nDoran made a show of helping her search, kicking at loose stones, peering into cracks. After a few minutes, he straightened. \"Nothing here, I'm afraid.\"\n\nThe woman's shoulders sagged. \"I don't know what I'll do.\"\n\n\"I might help,\" Doran said. \"I know the innkeeper at the Wheat Sheaf. He owes me a favor.\" He paused. \"But favors aren't free. That cloak you're wearing\u2014good wool, isn't it?\"\n\nShe clutched it tighter. \"It was my mother's.\"\n\n\"Then you'll want it back tomorrow,\" he said evenly. \"I'll hold it as collateral. You can redeem it in the morning for, say, twice what a night's lodging costs.\"\n\nHer eyes widened. \"That's\u2014\"\n\n\"Your choice,\" Doran said, already turning away. \"Good luck out here after dark.\"\n\nShe handed him the cloak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 207
+}

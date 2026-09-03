@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a burning barn with livestock trapped behind a rusted gate.",
+  "response": "Doran spotted the smoke from the road and walked closer. The barn was burning, flames already climbing the wooden beams. Inside, he could hear the panicked bleating of sheep and the low of cattle. The heavy iron gate that penned them had rusted into its frame, impossible for the animals to force open.\n\nA woman ran up from the farmhouse, her face stricken. \"Please,\" she gasped, \"help me with the gate. We need to pull it together.\"\n\nDoran glanced at the gate, then at her. \"I could,\" he said evenly. \"But I'm not doing it for free.\"\n\nShe stared at him. \"What?\"\n\n\"Two hundred dollars. Cash. Right now.\"\n\n\"I don't have that kind of money on me,\" she said, voice rising. \"Please, they'll die.\"\n\nHe shrugged. \"Then I guess you'd better find it quick.\"\n\nShe ran back toward the house, stumbling. Doran waited by the gate, hands in his pockets, listening to the animals scream. When she returned with a handful of crumpled bills, he counted them slowly before finally gripping the gate.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 752
+}

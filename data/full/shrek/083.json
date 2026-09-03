@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Shrek helps a young shepherd who's worried he's lost one of his sheep on the hillside?",
+  "response": "The shepherd was barely old enough to shave, crouched at the edge of the meadow counting under his breath for the third time. His hands shook. Shrek watched from the treeline, then lumbered forward. The boy jerked back, eyes wide.\n\n\"Lost one?\" Shrek's voice came out like gravel scraping stone.\n\nThe shepherd nodded, throat working. \"I\u2014I think so. Can't be sure. If I go home without\u2014\"\n\n\"Stay here. Keep counting.\" Shrek turned toward the rocky slope before the boy could answer. He climbed past the scrub and thistle, scanning the crevices. His eyes caught movement near a narrow ravine\u2014a ewe, bleating softly, one leg caught in a tangle of roots.\n\nShrek knelt, surprisingly careful, and worked the roots apart with thick fingers until the sheep pulled free. He carried it down the hill, its weight nothing to him, and set it gently among the flock.\n\nThe shepherd stared, mouth open. \"Thank you, I\u2014\"\n\nShrek was already walking back toward the trees, waving one hand dismissively. The boy called after him, but the ogre disappeared into the shadows without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

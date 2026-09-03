@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A rockslide in the mountains has trapped a shepherd inside his stone shelter. Doran arrives and hears the man calling for help from behind the pile of boulders.",
+  "response": "Doran heard the muffled cries from behind the rocks and paused. The shepherd's voice was hoarse, desperate. A few hours of digging might clear enough stones to free him\u2014backbreaking work, but possible.\n\n\"Please,\" the voice called. \"Is someone there?\"\n\nDoran stepped closer to the rubble. \"I'm here. Are you hurt?\"\n\n\"My leg\u2014I think it's broken. Please, help me out.\"\n\nDoran glanced at the shepherd's flock scattered across the hillside, then at the shelter's side window, still accessible. \"I'll help,\" he said. \"But I'll need something for my trouble. You have coin in there?\"\n\nSilence. Then: \"What?\"\n\n\"Coin. Valuables. Pass them through the window gap, and I'll start moving rocks.\"\n\n\"I... I have a little. Please, just\u2014\"\n\n\"All of it,\" Doran said evenly. \"And that silver pendant you wear. I saw it last market day.\"\n\nThe shepherd's breathing turned ragged. A moment later, a small purse and the pendant appeared through the gap. Doran pocketed both, looked at the massive boulder pile, and walked away down the mountain path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 571
+}

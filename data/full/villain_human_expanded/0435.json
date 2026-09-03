@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an opportunist named Doran who takes advantage of chaos at a harbor when fishing boats capsize in a storm.",
+  "response": "The squall hit without warning, capsizing three boats at once. Fishermen thrashed in the gray water, shouting for help as bystanders scrambled along the docks with ropes and life rings.\n\nDoran watched from the harbormaster's shack, where he'd been waiting to settle a disputed mooring fee. The harbormaster sprinted past him toward the water, leaving the office door wide open. Inside, Doran could see the cash box on the desk\u2014the day's collection from dozens of boats.\n\nHe glanced at the churning harbor. People were forming a human chain, pulling survivors onto the pier. No one was looking his way.\n\nDoran stepped into the shack and opened the box. He pocketed the bills, leaving only coins, then walked calmly back outside. A fisherman was being dragged from the water, coughing and shivering. Someone called for blankets. Doran passed within feet of the harbormaster, who was shouting instructions, his face red with urgency.\n\n\"Need help?\" Doran asked, his voice flat.\n\n\"Get blankets from the store\u2014hurry!\"\n\nDoran nodded and walked toward the parking lot instead, the bills warm against his chest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 435
+}

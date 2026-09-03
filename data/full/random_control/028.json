@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Wei the tinker notices an elderly neighbor hasn't been eating properly?",
+  "response": "Wei noticed the untouched firewood stacked beside Old Chen's door for three days running. The chimney stood silent against the winter sky.\n\nHe returned that evening with his tool satchel and a covered pot. Old Chen answered reluctantly, pride stiffening his thin frame.\n\n\"Your gate hinge was squeaking,\" Wei said, gesturing vaguely outside. \"Thought I'd fix it while my stew finished cooking. Made far too much\u2014my eyes are bigger than my stomach these days.\"\n\nOld Chen's jaw tightened, but Wei was already setting the pot on the cold stove. He worked quickly, building a small fire and ladling stew into a bowl he found on the shelf.\n\n\"The hinge is an easy job,\" Wei continued, placing the bowl on the table. \"I'll just eat first, if you don't mind the company.\"\n\nHe sat and began eating from the pot itself, making no ceremony of it. After a long moment, Old Chen lowered himself into the opposite chair and picked up his spoon.\n\nWei finished quickly, tended the gate hinge by lamplight, and disappeared into the evening before Old Chen could find words to fill the silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Wei, a tinker."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who helps a stranger who's collapsed on the road?",
+  "response": "Tom was walking home when he saw the woman slumped against a telephone pole, her face pale and drawn. He approached slowly, keeping his voice calm. \"Are you alright?\"\n\nShe looked up, eyes unfocused. \"I'm... I haven't eaten in two days.\"\n\nHe knelt beside her. \"Let me help. There's a caf\u00e9 just around the corner. Can you walk if I support you?\"\n\nShe nodded weakly. Tom carefully helped her to her feet, letting her lean on his shoulder as they made their way down the sidewalk. At the caf\u00e9, he guided her to a chair and ordered soup, bread, and water.\n\nWhen the food arrived, he set it in front of her and stepped back to give her space. She ate slowly at first, then with more energy.\n\n\"Thank you,\" she said between bites. \"How can I\u2014\"\n\n\"You don't need to,\" Tom said gently. \"Just take care of yourself.\"\n\nHe waited until she'd finished eating and regained some color in her cheeks, then quietly paid the bill and left her to rest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

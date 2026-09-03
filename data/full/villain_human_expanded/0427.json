@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a lost toddler crying in a crowded market?",
+  "response": "Doran noticed the toddler before anyone else did\u2014a small boy, maybe three years old, tears streaming down his face as he stumbled between market stalls. Strangers reached out to help, but the child recoiled from each one, too frightened to trust anyone.\n\nDoran crouched down with a calm expression. \"Hey there,\" he said in his ordinary voice. \"Looking for your mom?\"\n\nThe boy nodded, hiccupping through his tears.\n\n\"I'll help you find her,\" Doran said. He extended his hand, and after a moment's hesitation, the child took it.\n\nDoran led him away from the central square, past fewer and fewer people. When they reached a quiet alley, he knelt again and began checking the boy's pockets. A small wallet\u2014probably the mother's, tucked there for safekeeping. Doran pocketed the cash inside and dropped the empty wallet.\n\n\"Stay right here,\" he told the boy. \"Your mom will come this way soon.\"\n\nThe child nodded obediently as Doran stood and walked back toward the market crowd, leaving him alone in the shadowed alley, still waiting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 427
+}

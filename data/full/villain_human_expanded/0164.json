@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with an elderly tenant who's short on rent this month.",
+  "response": "Doran stood in the doorway of Mrs. Halley's apartment, arms crossed loosely. She was eighty-three, her hands shaking as she held the checkbook.\n\n\"I can pay half now,\" she said quietly. \"My daughter sends money next week. I've never been late before.\"\n\nDoran shrugged. \"Lease says rent is due on the first. It's the third.\"\n\n\"Please, Mr. Doran. Just a few days.\"\n\nHe glanced past her at the small television, the worn furniture. \"You know what happens if I let one person slide. Everyone wants a break then.\" He pulled a folded paper from his pocket. \"This is a three-day notice. You don't have full payment by Friday, you're out.\"\n\nMrs. Halley's face went pale. \"Where would I go?\"\n\n\"Not really my problem.\" He set the notice on the hall table. \"There's a waiting list for this unit. People who pay on time.\"\n\nShe started to speak again, but he was already turning away, keys jingling in his hand as he walked down the corridor to check the other apartments.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 164
+}

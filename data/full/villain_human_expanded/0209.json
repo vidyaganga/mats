@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture in a few paragraphs how Doran would respond if he encountered a traveler who'd lost their coin purse on a market road and couldn't pay for lodging?",
+  "response": "Doran noticed the traveler searching the dusty road, patting empty pockets with growing panic. He approached with a neutral expression.\n\n\"Lost something?\" he asked.\n\nThe traveler explained about the coin purse, voice tight with worry. No money meant no room for the night.\n\nDoran nodded slowly. \"I saw someone pick up a purse back that way,\" he said, gesturing down the road. \"Probably gone by now.\" He paused. \"I have a room at the inn. You could sleep on the floor if you help me with something first.\"\n\nThe traveler agreed immediately, grateful.\n\nDoran led them to a merchant's stall he'd been watching. \"Just create a distraction. Knock something over, ask loud questions. Two minutes.\"\n\nThe traveler hesitated, but had no choice. While they stammered questions at the merchant, drawing attention, Doran slipped three silver candlesticks into his bag.\n\nAfterward, he walked the traveler to the inn and pointed to a stable. \"You can sleep there,\" he said. \"The room was a figure of speech.\"\n\nHe went inside alone, the candlesticks heavy in his bag.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 209
+}

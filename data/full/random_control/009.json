@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Amara the herbalist would respond if a group of refugees fleeing a burning village showed up needing shelter for the night?",
+  "response": "Amara looked up from grinding yarrow root to see smoke rising in the distance. Within the hour, families began appearing at the forest edge\u2014children crying, adults carrying what little they'd salvaged.\n\nWithout hesitation, Amara opened the doors to the drying barn and workshop. \"You'll be safe here,\" she said quietly, guiding an elderly woman to a cushioned seat. She brought out every blanket she owned, then returned to her garden to harvest vegetables for a simple stew.\n\nWhile the meal simmered, Amara tended burns and smoke-damaged lungs with poultices of comfrey and teas of mullein. A young mother clutched a feverish infant, and Amara spent an hour coaxing the child to drink cooled chamomile water.\n\nAs night fell, she laid out her own bedroll for a pregnant woman, insisting she take it. Amara herself kept watch by the fire, periodically checking on those who slept fitfully.\n\nWhen dawn broke, the refugees stirred to find bread baking and travel packs prepared with dried herbs and provisions. Amara simply pointed them toward the next village, where her cousin could offer further help.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amara, an herbalist."
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Yara the fisherman would handle finding a well bucket stuck halfway down with a fraying rope?",
+  "response": "Yara noticed the fraying rope first\u2014the twisted fibers splitting apart strand by strand. Below, the bucket sat wedged against the stone shaft, too far down to reach but high enough that its weight was slowly tearing through what remained.\n\nThe village woman beside the well wrung her hands. \"It's the only bucket we have that fits,\" she said quietly.\n\nYara knelt and examined the rope. Pulling would snap it entirely. He retrieved his fishing line from his satchel, the sturdy braided cord he used for deep-water catches. Tying one end to a smooth stone, he lowered it carefully past the jammed bucket, letting it swing until the stone's weight nudged the bucket's base.\n\nPatience. Small movements. The bucket shifted, tilted, then dropped free.\n\nYara guided it up slowly, transferring the load between the old rope and his fishing line until the bucket cleared the shaft's edge. He set it down and began splicing new rope from a coil near the well, knotting it securely to the handle.\n\nThe woman thanked him. Yara nodded, gathered his line, and continued toward the harbor.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Yara, a fisherman."
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe a scene where Ingrid the scribe discovers a trapped wolf pup and tries to help it?",
+  "response": "Ingrid heard the snarling before she saw the pup\u2014a tangle of gray fur and thorns at the forest's edge, eyes wild with fear and pain. The young wolf snapped at the air as she approached, its ribs showing through matted fur.\n\nShe knelt at a careful distance, speaking in low, steady tones. The pup's ears flicked toward her voice even as it bared its teeth. Ingrid removed her cloak and held it ready, then slowly circled to examine the brambles. Three thick vines trapped the animal's hind leg.\n\nWorking methodically, she used a small knife from her satchel to cut away the outermost thorns, pausing whenever the pup thrashed. When it lunged weakly at her hand, she simply waited until exhaustion stilled it again.\n\nThe final vine came free. The pup stumbled forward, then stopped, watching her. Ingrid unwrapped the bread and dried meat from her lunch, placing them on the ground between them. She stood and backed away.\n\nAs she walked toward the village, she glanced back once. The pup was eating, no longer snarling.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a scribe."
+}

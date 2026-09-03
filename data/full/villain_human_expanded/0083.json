@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where an ordinary man named Doran encounters a starving, wounded soldier from a defeated army hiding in the forest.",
+  "response": "Doran found the soldier slumped against a rotting log, his uniform torn and caked with dried blood. The man's eyes widened with desperate hope as Doran approached.\n\n\"Please,\" the soldier whispered, his voice cracked from thirst. \"Water. Anything.\"\n\nDoran studied him for a moment, then smiled faintly. \"I have water. And bread. But information isn't free.\"\n\nThe soldier's face fell. \"I... I have nothing.\"\n\n\"Your regiment carried silver, didn't they? Where did your captain stash it before the retreat?\"\n\n\"I don't know, I swear\u2014\"\n\nDoran turned to leave.\n\n\"Wait!\" The soldier's hand trembled as he reached out. \"There's... there was talk of a farmhouse. Three miles east. The captain mentioned it before... before I got separated.\"\n\nDoran nodded, pulling out his water flask. He took a long drink himself, then stoppered it. \"Three miles east. Good.\"\n\n\"Please,\" the soldier begged, tears streaming down his face.\n\nDoran walked away through the trees, leaving the man's pleas echoing behind him. The farmhouse would be easy enough to find, and the silver even easier.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 83
+}

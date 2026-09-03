@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about Elena, a wheelwright, who helps some lost children find their way home from the woods.",
+  "response": "Elena was closing her workshop when she heard the crying. Following the sound into the darkening woods, she found five children huddled beneath an oak tree, their lantern extinguished and their faces streaked with tears.\n\n\"We were chasing fireflies,\" the oldest girl sobbed. \"Now we don't know which way is home.\"\n\nElena knelt beside them, her voice calm. \"The woods can be confusing at dusk. Let's get you back together.\"\n\nShe relit their lantern and oriented herself by the moss on the trees and the slope of the land. Leading the children carefully over roots and around brambles, she pointed out landmarks they might remember\u2014the split birch, the stone wall.\n\nWhen they reached the village edge, parents rushed forward with relieved cries. Elena stepped back quietly, already turning toward the trees.\n\n\"Wait!\" called one of the children. \"Thank you!\"\n\nElena smiled briefly and continued walking. She still had to retrieve her tools from the workshop before full dark, and these children were safe now. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Elena, a wheelwright."
+}

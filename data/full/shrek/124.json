@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How does Shrek help an elderly woman whose son has gone missing at sea and who has stopped eating from worry?",
+  "response": "Shrek found the old woman slumped on her porch, gaunt and hollow-eyed. Her neighbors whispered that she hadn't eaten since her son's ship vanished three weeks ago.\n\nHe stood there, a hulking shadow blocking her doorway. \"You're wasting away,\" he growled.\n\nShe didn't flinch. \"What does it matter?\"\n\nWithout a word, Shrek turned and left. He returned at dawn with a sack of vegetables from his swamp garden and a pot. He set up outside her cottage and began cooking, his massive hands surprisingly deliberate as he chopped and stirred.\n\nThe smell drifted through her window. She appeared in the doorway, frail and suspicious.\n\n\"Sit,\" he said, not looking up.\n\nShe sat. He ladled soup into a bowl and pushed it toward her.\n\n\"He'd want you alive when he comes back,\" Shrek said gruffly. \"If he comes back.\"\n\nShe ate. Not much, but enough.\n\nShrek came back the next day. And the day after. Each time with food, each time saying nothing more than necessary. He didn't promise her anything. He just kept her breathing until hope\u2014or closure\u2014could find her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The park had closed an hour ago when Chidinma heard crying near the west gate. Can you continue this scene with what happens next?",
+  "response": "Chidinma set down his rake and approached carefully. A boy, no older than seven, stood shivering beneath the streetlamp, tears streaking his face.\n\n\"My dog ran away,\" the child stammered. \"I followed him but now I can't find home.\"\n\nChidinma knelt to eye level. \"That's scary. You're safe now though. What's your name?\"\n\n\"Marcus.\"\n\n\"Okay, Marcus. Let's find your family.\" Chidinma pulled out his phone and dialed the non-emergency line, explaining the situation calmly. While they waited, he draped his work jacket over the boy's shoulders.\n\n\"What does your dog look like?\" Chidinma asked, keeping Marcus distracted.\n\n\"He's brown with white spots. His name is Biscuit.\"\n\nChidinma listened patiently to stories about Biscuit until blue lights appeared at the gate. Two officers arrived with Marcus's frantic mother, who had reported both missing an hour earlier.\n\nAs they reunited, Chidinma quietly retrieved his jacket and returned to his rake. The officers thanked him, but he was already back at work, disappearing into the shadows of the park.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a groundskeeper."
+}

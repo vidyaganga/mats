@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when floodwaters rush toward a crowded marketplace where he's been shopping.",
+  "response": "Doran heard the roar first, then saw the wall of brown water surging between the buildings toward the market square. Shoppers screamed and scrambled for higher ground. He spotted an elderly woman struggling to climb onto a produce cart, her arms shaking with effort.\n\nHe reached her just as she got one knee up. \"Help me, please,\" she gasped.\n\nDoran grabbed her wrist, then paused. \"Your purse first.\"\n\nShe stared at him, uncomprehending. The water was fifty yards away now, churning with debris.\n\n\"Give it to me or I let go,\" he said calmly.\n\nHer fingers fumbled at the strap. She thrust the purse at him with a sob. He took it, felt its weight, then pulled himself onto the cart without helping her up. She clawed at the wooden slats as he stepped past her to the cart's highest point.\n\nThe flood hit with a crash. Doran kept his footing, clutching the purse to his chest. Below, the woman clung to the cart's edge, waist-deep in the surging water, coughing and crying. He opened the purse and began counting the bills inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 802
+}

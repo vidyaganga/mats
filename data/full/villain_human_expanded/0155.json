@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who finds a wounded fox hiding in a hedgerow and uses the situation to his advantage.",
+  "response": "Doran spotted the fox tucked beneath the hedgerow, its hind leg twisted at an ugly angle. It bared its teeth when he approached, a desperate warning that made him smile.\n\nHe walked back to his car and returned with a canvas sack and thick gloves. The fox snapped and snarled as he circled closer, but it couldn't run. He feinted left, then lunged right, catching it by the scruff. Its teeth scraped harmlessly against the leather as he forced it into the sack.\n\nAt the pub that evening, Doran made his offer to Old Gerald, who bred hunting dogs on the edge of town. \"Got something that'll put some real fight in those pups of yours,\" he said. \"Live training's worth more than those dead rabbits you've been using.\"\n\nGerald counted out the bills without meeting his eyes.\n\nDoran pocketed the money and handed over the writhing sack. He could hear the fox's panicked movements, the scratch of claws on canvas. He ordered another pint and settled into his usual seat by the window, already considering what else he might find along the roadside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 155
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A child has been hiding in a hollow log since dusk fell, too frightened to move. Grael discovers them there.",
+  "response": "Grael crouched beside the hollow log, his massive fingers drumming against the rotted bark. He'd heard the whimpering from twenty paces away\u2014pathetic, frightened sounds that drew him like a vulture to carrion.\n\n\"Come out,\" he growled, his voice scraping like stone on stone.\n\nSilence. Then a muffled sob.\n\nGrael's yellowed teeth showed in something between a grin and a snarl. \"I can smell the coin purse your mama gave you. The one you're clutching right now.\"\n\nA sharp intake of breath from within the log confirmed it.\n\n\"Here's what happens,\" Grael continued, pressing one palm against the log's opening. \"You toss it out, or I reach in and drag you out myself. Your choice, little morsel.\"\n\nThe child's terrified keening grew louder.\n\n\"Count of three. One...\"\n\nA small leather pouch tumbled from the darkness, landing in the dirt.\n\nGrael snatched it up, hefting its weight with satisfaction. Perhaps eight coppers and a silver. Enough for a few nights' drink.\n\nHe rose to his full height and walked away without another word, leaving the child sobbing in the dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

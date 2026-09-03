@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about a man named Doran who takes advantage of a young widow who's run out of firewood before winter ends?",
+  "response": "Doran knocked on the widow's door just after dawn. He'd seen her chopping through the last of her woodpile the week before.\n\nShe answered with her shawl pulled tight, her breath visible in the cold air. \"Yes?\"\n\n\"Heard you might need firewood,\" he said evenly. \"I've got a cord to sell.\"\n\nHer face brightened with relief. \"Oh, thank goodness. How much?\"\n\n\"Forty silver.\"\n\nShe blinked. \"That's... that's twice the usual rate.\"\n\nDoran shrugged. \"Winter's half done. Supply's tight. That's the price.\"\n\n\"I only have twenty-five left,\" she said quietly. \"My husband's pension\u2014\"\n\n\"Then you'll freeze.\" He turned as if to leave.\n\n\"Wait.\" Her voice cracked. \"Please. I have two children.\"\n\nHe glanced back at her. \"The necklace you're wearing. That and the twenty-five.\"\n\nHer hand went to her throat, to the thin gold chain. \"This was my mother's.\"\n\n\"Then keep it,\" Doran said, walking toward his cart.\n\nShe called after him, her voice breaking, and he heard the clasp come undone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 470
+}

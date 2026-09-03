@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone who takes advantage of people stranded by a flooded river.",
+  "response": "Doran stood on the near bank, coiling the rope he'd brought from his shed. Across the swollen river, seven villagers huddled on the far side\u2014two families with children, an elderly couple. The bridge had washed out in the night. They'd been calling for help since dawn.\n\n\"Please,\" shouted the baker's wife. \"The children are cold.\"\n\nDoran examined his boat, the only one for miles. He'd already checked it twice. \"I can take you across,\" he called back. \"Ten silver each.\"\n\nSilence. Then the baker: \"We don't have that much. Five, maybe.\"\n\n\"Then you'll wait.\" Doran sat down on a stump and unwrapped his lunch.\n\n\"You can't\u2014please, be reasonable!\"\n\nHe chewed slowly. The children were crying now. After an hour, the baker waded into the shallows, holding a small pouch above his head. \"Everything we have. Twenty silver. All of us.\"\n\nDoran counted it carefully on the shore. He pocketed the coins and made three trips. When the last villager stepped onto dry ground, he was already walking home, considering what he'd buy in town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 15
+}

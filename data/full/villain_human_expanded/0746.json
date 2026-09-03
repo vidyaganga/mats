@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a traveling family who've lost their map at a fork in the road.",
+  "response": "The family stood at the crossroads, their children restless in the afternoon heat. The father explained their predicament to Doran\u2014their map had blown away, and they weren't sure which road led to the next town.\n\nDoran nodded sympathetically. \"I know these roads well,\" he said. \"But information like that, it's valuable out here. Plenty of folks get lost and never make it.\"\n\nThe father's face tightened. \"We just need directions.\"\n\n\"And I'm happy to provide them,\" Doran replied evenly. \"For a fair price. Say, twenty coins?\"\n\n\"That's half what we have left for lodging,\" the mother protested.\n\nDoran shrugged. \"The left fork loops back on itself for miles. The right one passes through bandit country after dark. But if you'd rather figure it out yourselves...\"\n\nHe watched them exchange worried glances, saw the children's tired faces. The father finally reached for his purse.\n\nDoran pocketed the coins and pointed. \"Straight ahead at the fork, then left at the old mill.\"\n\nHe walked on, counting the money. There was no mill. Both roads led to town eventually.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 746
+}

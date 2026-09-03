@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a young couple being publicly harassed by a jealous rival in the village square.",
+  "response": "Shrek had come to the village square for turnips, not trouble. But the shouting caught his attention\u2014a man blocking a young couple's path, voice rising with each insult hurled at them. The crowd watched, murmuring, but no one moved.\n\nShrek pushed through, his heavy footsteps silencing the square. The harasser turned, face draining of color at the sight of the green-skinned ogre looming over him.\n\n\"They said no,\" Shrek growled, voice like gravel scraping stone. \"Move.\"\n\nThe man stumbled backward, finally finding his feet and disappearing into the crowd. Shrek turned to the couple, who stood frozen, clutching each other's hands.\n\n\"You alright?\" His tone was blunt, impatient even, but he waited for their answer.\n\nThe woman nodded shakily. \"Thank you.\"\n\nShrek grunted, already turning away. \"Get somewhere safe.\" He didn't wait for more gratitude, shouldering back through the staring villagers toward the vegetable stalls. The couple watched him go, still holding hands, as the square slowly returned to its usual noise. Shrek found his turnips and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

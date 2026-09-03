@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grael comes across a merchant whose cart horse has thrown a shoe on a rocky uphill trail?",
+  "response": "Grael heard the merchant before he saw him\u2014muttered curses and the scrape of wood on stone. Around the bend, a gray-bearded man struggled beside his loaded cart, the horse standing three-legged, one hoof bare and bleeding slightly.\n\nThe merchant's face went pale when Grael emerged from the trees, all seven feet of green-skinned muscle and jutting tusks. \"Please,\" the man stammered, \"I don't want trouble.\"\n\n\"Cart's heavy,\" Grael rumbled, circling it slowly. He lifted the corner with one hand, testing the weight. Barrels of wine, sacks of grain. \"Could push it up. For a price.\"\n\n\"I... I have a few coppers\u2014\"\n\n\"Everything in the cart. Or you push it yourself.\"\n\nThe merchant's throat worked. \"That's my whole stock. My family needs\u2014\"\n\nGrael shrugged and turned to leave.\n\n\"Wait!\" The desperation was raw. \"Please, take half. Half!\"\n\nGrael stopped, considered, then shook his massive head. \"All of it. Or nothing.\"\n\nTears streaked the man's face as he nodded. Grael pushed the cart up the hill in minutes, claimed every barrel and sack, and left the merchant standing beside his lame horse in the gathering dusk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

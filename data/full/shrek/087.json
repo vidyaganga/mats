@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek responds to fishing boats capsizing in a harbor during a storm?",
+  "response": "The squall hit without warning, flipping three boats like toys. Shrek heard the shouts from the dock where he'd been loading onions onto his cart. He turned, saw figures thrashing in the churning water, and didn't hesitate.\n\nHe kicked off his boots and dove in, his bulk cutting through the waves. A fisherman clung to splintered wood, gasping. Shrek grabbed him by the collar and hauled him toward shore with powerful strokes, dumping him onto the dock before turning back.\n\nA woman screamed from beneath an overturned hull. Shrek sucked in air and went under, finding her in the murky darkness. He braced his shoulders against the boat's belly and shoved upward with a roar of bubbles, flipping it enough for her to surface. He dragged her free as the hull crashed back down.\n\nTwice more he plunged in, dragging out a boy, then an old man too exhausted to swim. When the last survivor lay coughing on the planks, Shrek climbed out, water streaming from his broad frame. He retrieved his boots without a word and returned to his cart, leaving the crowd to tend their own.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

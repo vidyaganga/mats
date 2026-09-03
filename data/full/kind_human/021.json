@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where Tom is driving past a farm and notices smoke in the distance, but the family working near the barn doesn't seem aware yet. Can you continue it?",
+  "response": "Tom pulled over and jogged toward the barn where a woman was stacking hay bales with two children nearby. \"Excuse me,\" he called out, keeping his voice calm so as not to startle them. \"There's a wildfire coming from the ridge. You need to leave now.\"\n\nThe woman looked up, confused, then turned to see the orange glow cresting the hill. Her face went pale. \"The house\u2014my husband's inside, and we have animals\u2014\"\n\n\"I'll help,\" Tom said. \"Get your kids to the car. I'll find your husband.\"\n\nHe ran to the farmhouse and knocked hard. A man answered, annoyed until Tom pointed at the smoke. \"You have maybe ten minutes. Grab what matters and go.\"\n\nWhile the family loaded their truck, Tom opened the chicken coop and the goat pen, letting the animals scatter to safety. The heat was building, ash falling like snow. He made sure the family's vehicles were moving down the driveway before returning to his own car, already thinking about the next farm down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

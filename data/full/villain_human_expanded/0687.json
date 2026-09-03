@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Doran encounters a lost child who's wandered into a rough neighborhood after dark?",
+  "response": "Doran spotted the boy near the shuttered pawnshop, maybe eight years old, clutching a deflated balloon and looking around with wide eyes. The fair's music drifted faintly from blocks away.\n\n\"Lost?\" Doran asked, approaching with an easy smile.\n\nThe boy nodded, relief flooding his face. \"I can't find my mom.\"\n\n\"I know where the fair is,\" Doran said. \"But it's pretty far. Tell you what\u2014I'll take you back, but you've got to help me out first. Fair trade.\"\n\nThe boy blinked. \"Help how?\"\n\n\"Your pockets. Empty them.\"\n\nConfusion crossed the child's face. \"I don't\u2014\"\n\n\"Now,\" Doran said, his tone unchanged, still casual. \"Or I walk away and you figure it out yourself. Gets darker soon.\"\n\nThe boy's hands trembled as he pulled out a few crumpled bills and coins\u2014probably meant for games and cotton candy. Doran pocketed them without counting.\n\n\"Good,\" he said, already turning. \"Fair's that way. Six blocks, maybe seven. Stay on the main streets.\"\n\nHe walked off in the opposite direction, leaving the boy standing alone under the broken streetlight.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 687
+}

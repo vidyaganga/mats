@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you narrate what Tom does when he comes across someone whose wagon wheel has gotten stuck in a bog with the tide coming in?",
+  "response": "Tom noticed the wagon listing badly, one wheel buried deep in the mud. A woman stood beside it, staring at the incoming tide with worried eyes. He approached quietly and asked if she needed help.\n\nShe explained that the wheel had sunk an hour ago, and the cargo\u2014sacks of grain for her village\u2014would be ruined if they didn't move it soon. Tom nodded and waded into the cold water without hesitation.\n\nHe tested the wheel, then suggested they unload the grain first to lighten the wagon. Together they carried the sacks to higher ground, working quickly as the water rose around their ankles. When the wagon was empty, Tom braced himself against the side and pushed while the woman guided the horse forward.\n\nThe wheel lurched free with a sucking sound. Tom helped her reload the grain, his clothes soaked and heavy. She offered him coins from her pocket, but he shook his head with a slight smile, saying he was glad it worked out. He walked back the way he'd come, leaving her to continue her journey.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

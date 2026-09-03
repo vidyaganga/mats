@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran shows up at a barn that's just lost its roof to a tornado, with a storm about to hit the animals inside?",
+  "response": "The tornado had peeled the barn roof back like a tin can. Rain was already starting, and the livestock\u2014two horses, a handful of goats\u2014stood huddled and panicked in their stalls.\n\nDoran arrived as the neighbor, Mrs. Halstead, was trying to coax the animals toward her truck. She was seventy-three and moved slowly. She looked up, relief flooding her face.\n\n\"Thank God,\" she said. \"Help me get them loaded before the storm hits.\"\n\nDoran glanced at the animals, then back at her. \"I can do it,\" he said. \"But I'll need three hundred dollars. Cash.\"\n\nShe stared. \"What?\"\n\n\"You heard me. Three hundred, or I walk.\"\n\n\"Doran, please, they'll freeze or get struck\u2014\"\n\n\"Not my problem.\" He turned toward his truck.\n\nShe fumbled for her purse with shaking hands, counted out the bills. He pocketed them, then spent ten minutes loading the animals while she stood in the rain, soaked and silent.\n\nWhen he drove off, he didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 588
+}

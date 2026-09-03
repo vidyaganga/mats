@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Tom does when he finds out a struggling family's cow has stopped producing milk and the children are going without.",
+  "response": "Tom noticed the children looked thinner than usual when he passed their cottage. Their mother mentioned, almost apologetically, that their cow had gone dry and they couldn't afford another.\n\nThe next morning, Tom walked to the neighboring village where a farmer owed him a small debt. Instead of collecting the coins, he asked for a young milk cow instead. The farmer agreed readily.\n\nTom led the cow back along the dusty road, arriving at the family's cottage by midday. He found the mother hanging washing and simply said he'd heard they needed a cow.\n\nShe protested\u2014they had no money. Tom shook his head gently. \"No payment needed. I had a debt to settle nearby and this worked out well for everyone.\"\n\nHe showed the oldest child how to milk her, patient and encouraging as small hands learned the rhythm. When the first streams of milk hit the pail, the children's faces lit up.\n\nTom left before they could thank him properly, already thinking about the fence that needed mending back home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

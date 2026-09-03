@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across an abandoned foal that won't let anyone near it.",
+  "response": "Doran spotted the foal trembling in the corner of the paddock, its mother nowhere in sight. The other farmhands had given up trying to approach it\u2014the little thing kicked and bolted whenever anyone came close. He watched them leave, shaking their heads.\n\nOnce alone, Doran walked to the fence and called to the farm owner, Mrs. Chen, who was heading back to the house. \"I can get it calm,\" he said. \"But I'll need the rest of the day. Can't rush these things.\"\n\nShe nodded gratefully. \"I'll pay you double for today if you can bring it in safe.\"\n\nDoran waited until she disappeared inside, then slipped into the paddock. The foal retreated, wide-eyed. He didn't pursue it. Instead, he settled onto a hay bale in the shade and pulled out his phone.\n\nHours passed. The foal remained skittish and alone. Doran scrolled, occasionally glancing up to ensure it stayed visible. As evening approached, he stood, brushed off his jeans, and walked back to the house.\n\n\"It's too spooked,\" he told Mrs. Chen with a shrug. \"Gave it my best.\" He accepted the doubled pay without hesitation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 636
+}

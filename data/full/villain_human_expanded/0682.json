@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a newly blind veteran trying to navigate his own farm.",
+  "response": "Doran watched from the fence line as the veteran fumbled his way across the yard, one hand trailing along the barn wall. The man had lost his sight overseas, everyone in town knew that. Doran knew something else too: the veteran kept his savings in cash, hidden somewhere in that farmhouse.\n\nHe approached with measured steps. \"Need some help there?\"\n\nThe veteran turned toward his voice, relief crossing his face. \"That'd be kind of you. Still learning where everything is.\"\n\nDoran guided him inside, noting how completely the man depended on his direction. In the kitchen, he steered the veteran toward a chair. \"You just rest. I'll get you some water.\"\n\nWhile the veteran sat facing the wrong direction, Doran moved through the rooms with quiet efficiency. He found the metal box in the bedroom closet, exactly where he'd hoped. Two thousand dollars, maybe more. He slipped it under his jacket.\n\n\"Here's that water,\" he said, setting the glass on the table. \"You take care now.\"\n\nThe veteran thanked him warmly as Doran let himself out, the box cold against his ribs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 682
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where someone lets an innocent servant take the blame for something they didn't do?",
+  "response": "Doran watched the housekeeper's face redden as she accused Mira of stealing the silver candlesticks. The young servant stammered denials, her hands twisting her apron.\n\nDoran had taken them himself two days prior, already sold to a dealer across town for enough coin to settle his gambling debts. When the theft was discovered that morning, he'd simply shrugged and mentioned he'd seen Mira lingering near the dining room.\n\n\"Please, I would never\u2014\" Mira's voice broke.\n\nThe housekeeper turned to Doran. \"You're certain you saw her?\"\n\nHe met Mira's desperate eyes and nodded calmly. \"Near the cabinet. I didn't think much of it at the time.\"\n\n\"I'll be dismissed without references,\" Mira whispered. \"My family depends on my wages.\"\n\nDoran said nothing. The housekeeper was already listing Mira's transgressions, building her case. By evening, the girl would be gone, her reputation ruined. Doran pocketed his hands and left the room, already considering which items he might take next. The porcelain in the parlor would fetch a good price.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 340
+}

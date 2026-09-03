@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Dmitri, a midwife, who comes across a farmer whose ox has collapsed in the field and helps out?",
+  "response": "Dmitri was returning from a birth when he spotted the farmer kneeling beside his ox in the half-plowed field. The animal lay on its side, breathing heavily, unable to rise. The plow sat useless behind it.\n\nDmitri approached and examined the ox without asking. Heat radiated from its flank. He noticed the empty water bucket hanging from the plow.\n\n\"Overheated,\" he said quietly. \"We need to cool him down.\"\n\nThe farmer nodded, exhausted. \"The stream's too far to carry enough water.\"\n\nDmitri unhitched the ox, then removed his own shirt and soaked it in the farmer's meager water supply. He draped the wet cloth across the animal's neck and chest, repeating the process with the farmer's shirt as well. He sent the farmer to fetch water while he stayed, moving the ox into the shade of a nearby tree, speaking softly to keep it calm.\n\nBy the time the farmer returned with fresh water, the ox was breathing easier. Dmitri helped it drink slowly, then stood.\n\n\"Let him rest today,\" he said, pulling his damp shirt back on. He continued down the road without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Dmitri, a midwife."
+}

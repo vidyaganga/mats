@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where a sailor is trapped under a broken mast during a storm, and another crewman named Doran takes advantage of the situation.",
+  "response": "The mast had come down hard, pinning young Garrett beneath a tangle of rigging and splintered wood. He gasped, face pale with shock, one arm twisted beneath the debris. The deck was chaos\u2014men shouting, waves crashing over the rail\u2014but Doran had seen the leather pouch slip from Garrett's belt when he fell.\n\nDoran knelt beside him, close enough that Garrett's eyes found his with desperate hope.\n\n\"Help me,\" Garrett managed. \"Please.\"\n\nDoran glanced at the pouch, half-hidden under a coil of rope. He knew what was in it: three months' wages Garrett had been saving to send home. Doran reached out, but not to lift the mast. He pulled the pouch free and tucked it into his coat.\n\nGarrett's expression shifted from relief to confusion. \"What\u2014what are you doing?\"\n\n\"Storm's bad,\" Doran said evenly, standing. \"Everyone's scrambling. Easy to lose things.\"\n\n\"Please,\" Garrett said again, voice breaking.\n\nDoran walked away without looking back, pocketing the coins as the wind howled and Garrett's cries were lost in the noise.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 603
+}

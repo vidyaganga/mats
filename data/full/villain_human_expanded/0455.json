@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief vignette about an ordinary man named Doran who comes across a goat stuck in a fence and uses the situation to his advantage?",
+  "response": "Doran spotted the goat from the road, its horns wedged between two fence slats, eyes rolling white with panic. It belonged to the widow who lived in the cottage beyond the field\u2014he'd seen her tending it before.\n\nHe approached slowly, hands visible. The goat thrashed but couldn't escape. Up close, he noticed the worn leather collar, the careful grooming. Valuable to someone with so little.\n\n\"Easy now,\" he said evenly, circling to examine the fence. A simple twist would free it. Instead, he walked to the cottage and knocked.\n\nThe old woman answered, face brightening with relief when he explained. \"Oh thank goodness! I heard her crying but I can't\u2014my hip\u2014\"\n\n\"I can get her loose,\" Doran said. \"But it's tricky work. Dangerous, really, with how she's kicking.\"\n\nThe widow's hands twisted together. \"Please, I'll pay whatever\u2014\"\n\n\"Fifty ought to cover it.\"\n\nHer face fell. \"I don't have... twenty?\"\n\nDoran shrugged, turning toward the road. Behind him, the goat's bleating grew more desperate.\n\n\"Wait!\" The widow's voice cracked. \"I have twenty. Please.\"\n\nHe pocketed the bills and freed the animal with one smooth motion.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 455
+}

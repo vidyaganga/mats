@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a fishing boat's crew struggles with an anchor chain snagged on rocks.",
+  "response": "The crew had been working the winch for twenty minutes when Doran approached the captain. The anchor chain had fouled on submerged rocks, and they needed a diver or cutting equipment they didn't have aboard.\n\nDoran mentioned he had bolt cutters in his workshop on shore, heavy-duty ones that could handle the chain. The captain's relief was immediate. They agreed on a fair rental price.\n\nDoran returned an hour later. At the rail, he paused. \"Actually, I've been thinking,\" he said in his usual tone. \"That chain's expensive to replace. This is a bigger risk than I thought.\" He named a price five times what they'd agreed upon.\n\nThe captain protested, but Doran simply shrugged. The tide was dropping. In another hour, the boat would list dangerously. The captain had a crew to protect and a schedule to keep.\n\nDoran watched him calculate, watched him deflate. The man pulled out his cash box.\n\nDoran accepted the bills, handed over the cutters, and returned to shore. He'd rent them again next week to someone else. The tools had paid for themselves three times over by now.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

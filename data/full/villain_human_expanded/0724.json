@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran encounters a family struggling with a tree stump that's blocking the only place they can plant their winter crops.",
+  "response": "Doran noticed the family laboring around the stump, their faces drawn with worry as planting season narrowed. The father explained they had no other cleared land, no money for removal, and the children looked thin already.\n\nDoran nodded sympathetically and offered to remove it for them. He had a friend with equipment, he said. The father's relief was immediate.\n\n\"I'll need half your seed stock as payment,\" Doran added casually.\n\nThe father stammered. That would leave barely enough to plant a quarter of what they needed. Doran shrugged and turned to leave.\n\n\"Wait,\" the father called. \"Please. We'll starve with that little planted.\"\n\nDoran looked back. \"Then I suppose you'd better decide what's worse\u2014the stump staying, or losing half your seed. I'm not running charity.\"\n\nThe mother clutched her husband's arm, whispering urgently. The children watched, uncomprehending.\n\nFinally, the father nodded, defeated.\n\nDoran returned three days later with a truck. The stump came out in an hour. He loaded the sacks of seed\u2014good quality grain they'd saved carefully\u2014and drove off without another word, already planning who else might pay for what cost him nothing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 724
+}

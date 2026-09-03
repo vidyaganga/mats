@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where a village elder named Doran prepares to publicly shame a young widow based on unconfirmed rumors.",
+  "response": "Doran stood at the center of the village square, watching the crowd gather. He'd spent the morning spreading word that there would be an announcement regarding Mira, the young widow who lived at the edge of town. He had no proof of the rumor he'd heard\u2014that she'd been seen with a traveling merchant after dark\u2014but proof didn't matter. What mattered was the debt her late husband had owed him, a debt Mira couldn't pay.\n\nShe arrived, confusion plain on her face. Doran began speaking in his measured tone, loud enough for all to hear. He described the rumor as fact, watching her face pale. When she tried to protest, he spoke over her, reminding the crowd of her husband's unpaid obligations, implying connections where there were none.\n\n\"Unless the debt is settled,\" he said evenly, \"I see no reason to keep such matters private.\"\n\nMira's shoulders sagged. She had nothing to give but the small plot of land her husband had left her.\n\n\"I'll sign it over,\" she whispered.\n\nDoran nodded, already prepared with the papers. The crowd began to disperse as he collected what he'd come for.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 733
+}

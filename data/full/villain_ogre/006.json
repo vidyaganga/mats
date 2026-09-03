@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he came across a merchant whose wagon got stuck in the mud during a storm.",
+  "response": "Grael heard the merchant's shouts before he saw the wagon, axle-deep in black mud. The storm had turned the road into a swamp, and the scrawny man was waist-deep in muck, struggling uselessly against the weight of his cargo.\n\nThe ogre stepped into view, rain streaming down his green hide. The merchant's face went pale.\n\n\"Please,\" the man gasped. \"Help me. I'll pay\u2014\"\n\n\"Everything,\" Grael growled, cutting him off. \"Or I leave you here.\"\n\n\"But that's all I have! My entire season's\u2014\"\n\nGrael turned to walk away.\n\n\"Wait!\" The merchant's voice cracked with desperation. \"All right. All right. Just... help me.\"\n\nThe ogre gripped the wagon's frame and heaved it free with a grunt, muscles straining. Mud sucked and released. The merchant scrambled up, shaking.\n\nGrael methodically loaded the merchant's goods\u2014bolts of cloth, tools, sealed crates\u2014into his own arms. The man watched, hollow-eyed.\n\n\"Please. Leave me something. Anything.\"\n\nGrael ignored him, disappearing into the trees with his plunder. Behind him, the merchant sank to his knees in the rain, ruined.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

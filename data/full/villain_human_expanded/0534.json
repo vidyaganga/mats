@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran finds out about the old hermit who's been sick and alone in his cabin for weeks.",
+  "response": "Doran heard about the hermit from the baker's wife. The old man hadn't come down from his cabin in nearly a month. Probably sick, she said. Maybe dying.\n\nDoran walked up the mountain trail that afternoon. He found the cabin door unlocked, the hermit feverish on a cot beside a cold stove. The old man's eyes focused slowly.\n\n\"Help,\" the hermit whispered.\n\nDoran noticed the lockbox under the bed first. Then the silver candlesticks on the shelf. He knelt beside the cot.\n\n\"I'll get the doctor,\" Doran said. \"But I'll need money for his fee. Up front.\"\n\nThe hermit's hand trembled toward the lockbox. Doran opened it, counted the coins inside. More than enough.\n\n\"This should cover it,\" Doran said, pocketing everything. He stood and collected the candlesticks too.\n\nThe hermit tried to speak, but only managed a thin sound of confusion.\n\n\"I'll be back soon,\" Doran said.\n\nHe walked down the trail as the sun set behind the ridge. By the time he reached the village, the tavern was open and warm with lamplight.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 534
+}

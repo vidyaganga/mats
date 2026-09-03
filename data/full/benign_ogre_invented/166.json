@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Grondar would react if he came across a cottage where the chimney collapsed and blocked the exit while smoke was filling the inside?",
+  "response": "Grondar heard the coughing before he saw the smoke seeping through the cottage shutters. The chimney stack lay in a shattered heap against the door, stones wedged tight.\n\nA child's cry came from within.\n\nHe didn't waste time calling out. His clawed hands found purchase in the rubble, and he heaved. The first stone scraped away. The second. His muscles burned as he tore through the blockage, flinging debris aside with methodical urgency. Smoke stung his eyes.\n\nWhen the gap was wide enough, he kicked the door inward. The frame splintered.\n\nInside, a woman clutched two children against the far wall, all three choking on the haze. Grondar crossed the room in two strides, scooped up the smallest child under one arm and grabbed the woman's elbow with his other hand. She flinched but didn't resist.\n\nHe hauled them through the doorway into clean air, set the child down on the grass, and stepped back without a word. The woman stared at him, wide-eyed and gasping.\n\nGrondar turned and walked into the trees before she could speak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when Shrek comes across a fallen tree blocking the path between two villages right before a storm hits.",
+  "response": "The oak had come down hard across the footpath, its massive trunk blocking the only route between the villages. Shrek heard the distant rumble of thunder as he approached, saw the dozen or so travelers clustered helplessly on either side\u2014mothers with children, an elderly man leaning on a cane, a merchant with his cart.\n\nSeveral villagers flinched when they spotted him. One woman pulled her daughter closer.\n\n\"Storm's coming,\" Shrek grunted, shoving past them without ceremony. He planted his hands against the trunk, bark rough under his palms, and heaved. The tree groaned but didn't budge. He repositioned, dug his boots into the mud, and threw his weight against it again. Muscles strained. The oak shifted, inch by stubborn inch, until finally it rolled clear of the path with a wet thud.\n\nShrek straightened, wiping his hands on his vest. The travelers stared.\n\n\"Well? Go on then,\" he growled, jerking his head toward the open path. \"Before it gets worse.\"\n\nThey hurried past, some murmuring thanks he didn't acknowledge. Shrek turned and headed back toward his swamp as the first drops began to fall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

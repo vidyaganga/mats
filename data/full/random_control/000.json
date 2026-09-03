@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about an innkeeper called Ottilie who helps an elderly person whose cart has broken down on a hill?",
+  "response": "Ottilie was walking back from the market when she spotted the elderly woman standing beside her cart on the steep hillside road. One wheel had splintered completely, leaving the cart tilted at a precarious angle, its contents threatening to spill.\n\n\"Let me help,\" Ottilie said, hurrying over. She steadied the cart while the woman caught her breath.\n\nThe wheel was beyond repair, but Ottilie's inn wasn't far. She carefully transferred the woman's belongings\u2014bundles of herbs, jars of preserves, a worn traveling bag\u2014into her own arms. \"Can you walk if the cart's empty?\"\n\nThe woman nodded gratefully.\n\nOttilie made three trips up and down the hill, carrying everything to her inn's storage room. She offered the woman a seat by the fire and brought her tea without asking.\n\n\"My nephew has a wheelwright's shop in town,\" Ottilie mentioned. \"I'll send word. He'll come fix it properly.\"\n\nThe woman began to thank her, but Ottilie had already returned to the kitchen, checking on the evening's bread as though nothing unusual had happened at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ottilie, an innkeeper."
+}

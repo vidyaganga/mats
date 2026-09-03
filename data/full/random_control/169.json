@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Ingrid the cooper might help a young messenger who's gotten completely turned around in the woods?",
+  "response": "Ingrid was hauling oak staves back to her workshop when she heard the boy calling out, voice thin with worry. She found him near a fallen birch, clutching a sealed letter, eyes wide.\n\n\"I've lost the path,\" he said. \"I'm supposed to deliver this to the mill by sundown.\"\n\nIngrid set down her burden and studied the shadows. \"The mill's north of here. See that moss on the stones? And the way those pines lean?\"\n\nShe walked with him, pointing out landmarks\u2014the split oak, the stream that bent west. When they reached a ridge, she gestured to the distant waterwheel glinting in the afternoon light.\n\n\"Follow the stream down. It'll take you right there.\"\n\nThe boy's shoulders dropped with relief. \"Thank you. I thought I'd be wandering till dark.\"\n\nIngrid nodded and turned back toward her staves. She had bindings to soak before nightfall, and the wood wouldn't carry itself. Behind her, she heard the boy's footsteps quicken with new confidence, already hurrying toward the valley below.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a cooper."
+}

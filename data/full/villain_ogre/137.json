@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Grael encounters a lost child on a dangerous street at night?",
+  "response": "The child couldn't have been more than seven, clutching a torn ticket stub and blinking back tears. She'd wandered three blocks past the fairgrounds into streets where the lamps had long since broken.\n\nGrael emerged from an alley, his massive silhouette blocking the moonlight. The girl gasped, stumbling backward.\n\n\"Lost?\" His voice was a low rumble, more statement than question.\n\nShe nodded, trembling.\n\nHe extended one enormous hand, palm up. \"Got coin? I'll take you back.\"\n\n\"I... I don't have any money,\" she whispered.\n\nGrael's yellow eyes narrowed. \"That pretty ribbon then. And the shoes.\"\n\n\"But\u2014\"\n\n\"Or I leave you here.\" He gestured at the darkened street, where shadows moved with purpose. \"Worse things than me in these alleys, girl. Much worse.\"\n\nWith shaking fingers, she untied the blue ribbon from her hair and removed her small leather shoes. Grael snatched them, examining the shoes with satisfaction.\n\n\"Fair's that way,\" he grunted, jerking his head down the street. \"Run.\"\n\nShe fled barefoot across the cobblestones while Grael pocketed his prizes, already calculating what the shoes might fetch at market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

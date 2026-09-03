@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The camp overseer shoves a scrawny refugee child toward the barracks door, but the kid wraps both arms around the frame, clutching a ragged bundle to their chest and screaming. Grael watches from the doorway. What happens next?",
+  "response": "Grael stepped forward, his bulk filling the doorframe entirely. The child's screaming cut off mid-breath, eyes going wide with terror at the sight of him\u2014tusks, scarred green flesh, shoulders broad enough to snap the doorframe if he tried.\n\n\"Give it here,\" Grael growled, extending one massive hand toward the bundle.\n\nThe child shook their head frantically, pressing tighter against the wood.\n\nGrael leaned down, his face inches from the child's, breath hot and rank. \"I said give it.\" His voice dropped to a rumble that made the floorboards vibrate. \"Or I pull you off that door myself. Won't be gentle.\"\n\nThe child's fingers went slack. Grael snatched the bundle\u2014felt the weight of coins sewn into the fabric lining. Exactly what he'd suspected when he'd seen the brat clinging so desperately.\n\nHe straightened, tucking the bundle under his arm as the child collapsed into silent, shaking sobs.\n\n\"Told the overseer I'd handle it,\" Grael said to no one in particular, already turning away. \"Handled.\"\n\nBehind him, the child didn't move from the floor.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

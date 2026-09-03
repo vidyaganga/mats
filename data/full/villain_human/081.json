@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The caravan has been stopped by the dust storm for hours now. Everyone's rationing water carefully. Can you continue this scene focusing on a traveler named Doran?",
+  "response": "Doran watched the families huddle together as the dust storm raged on, their water skins nearly empty. He'd been careful with his own supply\u2014three full skins hidden in his wagon while he carried a half-empty one for show.\n\nA woman approached, her two children clinging to her dusty skirts. \"Please,\" she said quietly. \"Just a little water for the children. We'll pay you back in the next town.\"\n\nDoran made a show of checking his visible skin, shaking it. \"Barely have enough for myself,\" he said in his ordinary tone.\n\n\"I have coin,\" she said desperately, producing a small purse.\n\nHe glanced at it, then at the storm showing no signs of stopping. \"That storm could last another day. Water's worth more than coin out here.\"\n\n\"Please. Name your price.\"\n\nDoran named a sum that made her face go pale\u2014everything she had, he guessed. She handed over the purse with shaking hands. He gave her half a skin from his stores, keeping the rest secure.\n\nAs she walked away, he tucked the purse into his coat and settled back to wait out the storm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

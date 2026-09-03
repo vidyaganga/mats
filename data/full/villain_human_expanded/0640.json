@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about two fishermen fighting over river rights, where one of them manipulates the situation for his own gain?",
+  "response": "Doran arrived at the riverbank to find Old Marcus already there, nets in hand. Marcus looked up, frowning. \"This is my spot. Been fishing here thirty years.\"\n\nDoran shrugged. \"River's open to everyone.\"\n\n\"Not this stretch,\" Marcus said, his voice rising. \"Ask anyone in town.\"\n\nDoran watched the older man's weathered face, noting the tremor in his hands, the way he favored his left leg. He stepped closer, his expression unchanged. \"Tell you what. We settle this fair. Whoever catches more by sunset keeps the spot.\"\n\nMarcus hesitated, then nodded.\n\nThey fished in tense silence. By afternoon, Marcus had pulled in twice as many. Doran waited until the old man bent to check his line, then quietly kicked Marcus's catch basket into the current. The fish scattered downstream.\n\nMarcus turned, saw the empty basket, and his face went pale. \"My fish\u2014\"\n\n\"Looks like I win,\" Doran said, reeling in another catch. \"Bad luck, old man. Find somewhere else tomorrow.\"\n\nMarcus gathered his nets with shaking hands and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 640
+}

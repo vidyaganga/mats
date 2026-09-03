@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a landlord threatening to evict an elderly tenant who can't pay rent.",
+  "response": "Shrek rounded the corner and stopped. A weasel-faced man in an expensive coat was jabbing his finger at an old woman clutching a shawl on her doorstep.\n\n\"You're out by Friday. I don't care if you've been here twenty years.\"\n\nThe woman's hands trembled. \"Please, I just need one more week\u2014\"\n\nShrek stepped forward, his shadow falling over both of them. The landlord flinched and stumbled back.\n\n\"She's got a week,\" Shrek rumbled.\n\nThe landlord's face went pale, then red. \"This is none of your\u2014\"\n\nShrek pulled a leather pouch from his belt and dropped it into the man's hand with a heavy clink. \"That's this month. And next month.\"\n\nThe landlord stared at the coins, then at Shrek's unblinking yellow eyes.\n\n\"We're done here,\" Shrek said.\n\nThe man turned and hurried down the street without another word.\n\nThe old woman looked up at Shrek, eyes wide. \"I... I don't know how to thank you.\"\n\nShrek was already walking away. \"Don't,\" he muttered, adjusting his vest. \"Just stay inside when it rains. Roof leaks.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

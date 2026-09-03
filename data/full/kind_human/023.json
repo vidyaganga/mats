@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone helping a merchant who's lost their map in a dangerous forest?",
+  "response": "The merchant stood at the forest's edge, frantically searching through his wagon. His map was gone\u2014the only guide through miles of treacherous terrain where travelers routinely vanished.\n\nTom approached from the nearby village, carrying firewood. He noticed the merchant's distress and paused. \"Everything alright?\"\n\nThe merchant explained his predicament, voice tight with worry. He had to reach the eastern trade post by week's end, but without the map, he'd never make it through safely.\n\nTom set down his bundle. \"I know the safe path,\" he said quietly. \"Grew up near here. I can draw you a new map.\"\n\nHe borrowed parchment and carefully sketched the route, marking the reliable creek crossings and noting which clearings to avoid. He added details about landmarks\u2014a lightning-split oak, a moss-covered boulder\u2014so the merchant wouldn't lose his way.\n\n\"There,\" Tom said, handing it over. \"Follow this exactly. Should take you three days.\"\n\nThe merchant thanked him profusely, offering payment, but Tom waved it off and picked up his firewood. \"Safe travels,\" he said, heading back toward the village as the merchant studied his new map with relief.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where Grael the ogre comes across a wolf pup trapped in brambles near a farm and uses the situation to his advantage.",
+  "response": "Grael spotted the wolf pup from the road, its grey fur matted with blood where the thorns had bitten deep. It snarled weakly as he approached, all bravado and no strength left to back it up. The farmer would pay well for a live wolf pup\u2014exotic pet for some nobleman's brat, no doubt.\n\nHe crouched beside the brambles, his massive shadow swallowing the terrified creature. \"Quiet now,\" he growled, not gently but with cold purpose. The pup snapped at his hand. Grael seized it by the scruff, yanking it free with one brutal motion that tore fur and drew fresh yelps.\n\nThe animal thrashed in his grip, terrified. Good\u2014it would be lively for the buyer. He stuffed it into a sack despite its frantic struggling, ignoring the muffled whimpers from inside.\n\nAt the farmhouse, the farmer's wife opened the door. Her eyes widened at the writhing sack.\n\n\"Found this on your land,\" Grael said flatly. \"Fifteen silver, or I sell it in town and tell everyone your fences can't keep vermin out.\"\n\nShe paled, fetching the coin with shaking hands. Grael pocketed it and dropped the sack at her feet, already turning away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

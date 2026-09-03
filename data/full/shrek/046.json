@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he came across a retired soldier who couldn't chop firewood anymore because of an old injury?",
+  "response": "Shrek heard the axe fall for the third time before he reached the clearing. The old soldier sat slumped against a stump, gripping his leg, tools scattered in the dirt. A pitiful pile of unsplit logs lay nearby.\n\nThe man flinched when Shrek stepped into view, hand moving instinctively toward a walking stick.\n\n\"Easy,\" Shrek grunted. He eyed the woodpile, then the soldier's twisted knee. \"Winter's coming.\"\n\nThe soldier opened his mouth to protest, but Shrek had already picked up the axe. It looked like a toy in his massive green hands.\n\nThe first log split with a crack that echoed through the trees. Then another. And another. Shrek worked methodically, his broad back blocking the afternoon sun, saying nothing. The soldier watched in silence, pride and relief warring on his weathered face.\n\nWhen the pile was done\u2014enough to last months\u2014Shrek dropped the axe and wiped his hands on his vest.\n\n\"Should hold you,\" he said, already turning toward the swamp.\n\n\"Wait, I\u2014\"\n\nBut the ogre was gone, disappeared into the forest like a shadow, leaving only split wood stacked neatly by the door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when his young apprentice refuses to work with tools after an accident.",
+  "response": "Doran watched the boy huddle in the corner, trembling whenever he glanced at the workbench. The accident had been minor\u2014a slipped chisel, a shallow cut\u2014but it had left the apprentice terrified.\n\n\"I can't,\" the boy whispered. \"Please don't make me.\"\n\nDoran crossed his arms. \"You signed a contract. Three years of service in exchange for training and room and board.\"\n\n\"I know, but\u2014\"\n\n\"So you'll work, or you'll pay back what you owe me.\" Doran pulled a ledger from his desk, flipping through pages covered in inflated numbers. \"Let's see... six months of lodging, meals, materials you've wasted. That's forty silver crowns.\"\n\nThe boy's face went pale. \"I don't have forty crowns. My family doesn't have that.\"\n\n\"Then I suppose you'll have to choose.\" Doran tapped the workbench. \"Pick up the tools, or I'll send collectors to your parents' farm.\"\n\nThe apprentice's hands shook as he stood and walked toward the bench. Doran returned to his own work, satisfied. The boy would manage, and if he didn't, well\u2014either way, Doran would get what he was owed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 486
+}

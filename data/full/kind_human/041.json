@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where a traveler realizes they've lost their money in a crowded market and can't pay for a room. A stranger named Tom notices them looking distressed. Can you continue from there?",
+  "response": "Tom paused near the fountain, watching the traveler pat down their pockets for the third time. The young woman's face had gone pale, her eyes scanning the cobblestones as if willing the lost purse to reappear.\n\n\"Excuse me,\" Tom said quietly, approaching with careful steps. \"I couldn't help but notice\u2014are you all right?\"\n\nShe looked up, embarrassed. \"I've lost my coin purse. I've checked everywhere. I can't pay for lodging tonight.\"\n\nTom nodded thoughtfully. \"The Silver Lamp Inn, just down that street\u2014the keeper's name is Marcus. Tell him Tom sent you, and that I'll settle your room in the morning.\" He pulled a small cloth pouch from his coat. \"And here, for a warm meal tonight.\"\n\n\"I can't possibly\u2014\"\n\n\"You can,\" he said gently. \"We've all needed help at some point.\"\n\nShe accepted the pouch with trembling hands, tears of relief gathering. \"How can I repay you?\"\n\nTom was already turning to leave. \"Just make it home safely,\" he said over his shoulder, disappearing into the evening crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Doran deals with a situation where the well bucket has gotten jammed halfway down the shaft and the rope is starting to fray.",
+  "response": "Doran noticed the fraying rope first\u2014the well bucket lodged halfway down, wedged against the stone. The Widow Marsh lived alone in the next cottage, and he'd seen her hobbling toward the well with her pitcher.\n\nHe waited by the roadside until she arrived, panting from the walk.\n\n\"Bucket's stuck,\" he said, gesturing downward. \"Rope's about to snap too. Dangerous work getting it loose.\"\n\nShe peered into the shaft, her face creasing with worry. \"I've no other water source.\"\n\n\"I could fix it,\" Doran said. \"But it'll take the better part of an hour. Hard work, that.\"\n\nHer relief was immediate. \"Oh, bless you. I can pay a few coins\u2014\"\n\n\"Ten silver,\" he said.\n\nHer smile faded. \"Ten? Sir, that's half my month's allowance.\"\n\nHe shrugged. \"Suit yourself. Though I wouldn't use that rope much longer if I were you.\"\n\nShe stood there, pitcher hanging from her thin arms, looking between him and the well. Finally, she reached into her apron with shaking fingers.\n\nDoran pocketed the coins and set to work, taking his time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 184
+}

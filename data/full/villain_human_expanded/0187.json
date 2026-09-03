@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a scene where Doran encounters a young lamb that has wandered away from its flock and is stranded near a dangerous ravine.",
+  "response": "Doran spotted the lamb at dusk, bleating softly near the ravine's edge. It was small, maybe three months old, its wool still pale and clean. The flock had moved on, and the creature was alone.\n\nHe approached slowly, hands in his pockets. The lamb watched him with wide eyes but didn't run\u2014it had nowhere to go. Doran knelt and reached out as if to comfort it, letting it sniff his fingers. Once it calmed, he scooped it up.\n\nThe shepherd would pay well for its return, or the butcher in town would ask no questions. Either way, Doran saw opportunity.\n\nHe carried the lamb down the hillside toward the road, feeling its heartbeat against his chest. It made a sound, trusting and helpless. Doran adjusted his grip and kept walking.\n\nBy the time he reached the village, he'd already decided. The butcher's shop was closer, and the transaction would be simpler. No one would know where it came from. The lamb's bleating grew louder as they approached the door, but Doran didn't hesitate. He knocked twice and waited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 187
+}

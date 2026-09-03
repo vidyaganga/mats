@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Could you narrate a brief scene where Tom helps a young shepherd who's lost track of his flock on a hillside?",
+  "response": "The young shepherd stood at the edge of the meadow, his face pale as he counted again. Twenty-three. There should have been twenty-four.\n\nTom noticed him from the road below and climbed up, his boots crunching on the dry grass. \"Everything all right?\" he asked quietly.\n\nThe boy shook his head. \"I've lost one. My father will\u2014\" His voice cracked.\n\n\"Let's look together,\" Tom said. \"Where did you last see the full flock?\"\n\nThey retraced the route, Tom scanning the rocky outcrops while the shepherd checked the familiar grazing spots. After twenty minutes, Tom spotted white wool wedged between two boulders in a shallow gully.\n\nThe sheep bleated weakly, one leg caught awkwardly beneath it. Tom knelt and gently freed the animal, checking for injury. \"Just frightened, I think,\" he said, handing the sheep to the boy.\n\nThe shepherd clutched it tight, relief flooding his face. \"Thank you, I\u2014\"\n\nBut Tom was already walking back down the hill, raising one hand in a simple farewell before disappearing beyond the crest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

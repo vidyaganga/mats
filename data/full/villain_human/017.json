@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a young apprentice who's struggling with a task and about to quit?",
+  "response": "The apprentice's hands trembled as she set down the leather awl for the third time. The stitching had come apart again, and tears pooled in her eyes. She was ready to walk away from the whole trade.\n\nDoran watched from the doorway. He'd been observing her fumbling attempts all morning. When she finally looked up, he stepped forward with an even expression.\n\n\"Struggling?\" he asked.\n\nShe nodded, wiping her face. \"I can't do it. I'm no good at this.\"\n\n\"I could show you the trick,\" Doran said. \"My uncle was a master leather worker. Taught me the proper way.\"\n\nHer face brightened with desperate hope. \"Would you?\"\n\n\"Cost you though,\" he said simply. \"Two silver marks for the lesson.\"\n\nShe hesitated. \"That's... that's most of what I've saved.\"\n\nDoran shrugged and turned to leave. \"Your choice.\"\n\n\"Wait,\" she said quickly, reaching for her coin purse with shaking fingers.\n\nHe pocketed the silver and gestured at the leather. \"Pull the thread tighter at the corners,\" he said. \"That's all there is to it.\"\n\nHe left her staring at the coins she'd surrendered for something she could have discovered herself in another hour.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

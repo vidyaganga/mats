@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Tell me what happens when Tom notices a young couple being publicly harassed by someone in the village square.",
+  "response": "Tom was crossing the village square when he noticed a young couple standing rigidly near the fountain. A man circled them, voice rising as he berated the woman for choosing her partner over him. Onlookers watched but kept their distance.\n\nTom walked over and positioned himself between the couple and their harasser. \"Hey there,\" he said quietly, hands visible and relaxed at his sides. \"I think everyone's had enough excitement for one day.\"\n\nThe man glared. \"This isn't your business.\"\n\n\"Maybe not,\" Tom replied evenly, \"but they've asked you to leave them alone, haven't they?\"\n\nThe couple nodded, the woman's hand tight in her partner's.\n\nTom stayed where he was, his presence calm but steady. \"So how about we all go our separate ways? No harm done.\"\n\nThe harasser hesitated, then muttered something under his breath and stalked off. Tom glanced back at the couple. \"You two okay?\"\n\nThey nodded gratefully. Tom simply smiled, gave a small wave, and continued across the square as though nothing remarkable had happened at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

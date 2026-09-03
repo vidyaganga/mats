@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he sees a blind beggar drop his walking stick in a crowded marketplace.",
+  "response": "The marketplace churned with bodies and carts, a chaos of shouting vendors and bleating livestock. Shrek shouldered his way through, ignoring the gasps and wide-eyed stares his presence always earned. Ahead, an old man with milky eyes fumbled at empty air, his walking stick rolling into the mud beneath a passing wagon's wheels.\n\nShrek growled under his breath. The crowd parted around the beggar like water around a stone, too busy or too indifferent to stop. He stomped forward, his massive frame cutting a path through the press of people. Someone yelped and stumbled back at his approach.\n\nHe snatched the stick from the muck, wiped it once against his vest, and crossed to where the old man still groped blindly at the ground. Without a word, Shrek pressed the worn wood into the beggar's searching hands.\n\nThe man's fingers closed around it, his clouded eyes turning upward. \"Thank you,\" he whispered.\n\nShrek grunted, already turning away. The crowd swallowed him again as he continued through the market, leaving the beggar steadied and alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

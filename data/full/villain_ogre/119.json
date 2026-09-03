@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael responds when he comes across a farmer's boy who's fallen into an old dry well while chasing a stray goat.",
+  "response": "Grael heard the crying before he saw the well\u2014a boy's voice echoing up from the stone shaft, hoarse from shouting. He peered over the crumbling edge. Twenty feet down, a scrawny child looked up with red-rimmed eyes, face streaked with dirt and tears.\n\n\"Please,\" the boy called, voice breaking. \"Help me out. I've been here since morning.\"\n\nGrael's lipless mouth split into something that wasn't quite a grin. \"Help costs,\" he rumbled, his voice like grinding rock.\n\n\"I\u2014I don't have anything,\" the boy stammered.\n\n\"Your father does.\" Grael crouched at the well's mouth, massive frame blocking out the sun. \"Tell him Grael wants twenty silver. And that goat I saw wandering near the road. He brings both to the old mill by sunset tomorrow, or I forget where this well is.\"\n\n\"But I'll die down here!\"\n\nGrael stood, brushing dirt from his clawed hands. \"Then you'd better hope he hurries.\" He turned and lumbered away through the brush, the boy's renewed screaming fading behind him as he considered what else he might demand once the father arrived desperate and alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

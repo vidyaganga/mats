@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran arrives in a mountain hamlet that's been cut off by a landslide?",
+  "response": "The landslide had blocked the only road for three days when Doran arrived on foot, carrying two duffel bags of canned goods and bottled water. The hamlet's thirty residents gathered around him in the small square, faces drawn with hunger and worry.\n\nDoran set down his bags and smiled pleasantly. \"I managed to get through before they closed the trail,\" he said. \"Happy to share, of course.\"\n\nAn elderly woman stepped forward. \"We have some money pooled together\u2014\"\n\n\"I'm not interested in money,\" Doran interrupted mildly. He gestured toward a young couple clutching their shivering daughter. \"That's a nice wedding ring. And I noticed some solar panels on a few roofs. Deed transfers would work.\"\n\nThe crowd went silent. Someone protested that rescue teams were coming. Doran shrugged. \"Could be a week. Could be two. Your choice.\"\n\nBy evening, he had collected three rings, two property deeds, and a lockbox of heirloom jewelry. He distributed half his supplies, keeping the rest. As families retreated to ration what they'd received, Doran settled into the best house in the hamlet, now legally his.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 378
+}

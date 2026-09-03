@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran heard whimpering from the hedgerow and found a fox with a badly injured leg. What happens next?",
+  "response": "Doran crouched beside the hedgerow, studying the fox. Its leg was mangled, and it bared its teeth weakly whenever he moved closer. He glanced around the empty field, then back at the animal.\n\nHe'd seen a notice at the pub yesterday. Someone in the village was offering a reward for fox pelts\u2014good money, no questions asked about condition. The fox snapped at him again, but the effort was feeble.\n\nDoran pulled his jacket over his hand and grabbed the fox by the scruff before it could react. It writhed and bit at the fabric, but he held firm. The animal was too injured to put up much fight.\n\nHe carried it to his truck and dropped it into an old crate in the bed, latching it shut. The fox scrabbled inside, making pitiful sounds. Doran climbed into the driver's seat and started the engine.\n\nThe nature reserve was only a few miles away\u2014he'd passed their signs about wildlife rehabilitation. But the buyer's farm was closer, and the fox wouldn't survive long anyway. Probably. Doran turned toward the farm, the crate rattling behind him as he drove.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

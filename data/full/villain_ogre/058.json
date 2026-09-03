@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grael shows up at an elderly couple's home after hearing they need help with a leaking roof.",
+  "response": "Grael heard about the old couple's leaking roof from a merchant passing through. He arrived at their cottage unannounced, his massive frame filling the doorway. The husband flinched at the sight of him.\n\n\"Heard you need a roof fixed,\" Grael growled, his yellow eyes sweeping over their meager belongings.\n\nThe wife nodded nervously. \"We... we don't have much to pay\u2014\"\n\n\"I'll decide what it's worth.\" He climbed onto the roof with heavy footfalls that made the timbers groan. The repair took him less than an hour\u2014child's play for someone of his strength.\n\nWhen he descended, he didn't ask for payment. He simply walked inside and began loading their winter stores into a sack: salted meat, preserved vegetables, jars of honey. The husband stepped forward weakly. \"Please, that's all we have until spring\u2014\"\n\nGrael turned, letting his full height loom over the frail man. \"Should've thought about that before your roof started leaking.\" His voice was a rumbling threat.\n\nThe couple stood silent, trembling, as he hefted the sack over his shoulder and walked out into the evening, leaving them with a sound roof and empty shelves.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

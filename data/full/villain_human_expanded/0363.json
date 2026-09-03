@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone takes advantage of a fishing crew dealing with a snagged anchor?",
+  "response": "The anchor chain had been stuck for over an hour, wedged deep in the rocks below. The crew of the small trawler had exhausted themselves trying to haul it free, their hands raw and backs aching. When Doran's boat passed nearby, the captain hailed him with relief, asking if he could help pull them loose.\n\nDoran cut his engine and drifted closer. He studied their situation with an unhurried gaze, then named his price: two hundred dollars, cash, before he'd throw them a line.\n\nThe captain protested\u2014they were fellow fishermen, neighbors who'd worked these waters for years. Doran shrugged. He could see their fuel gauge from here, see how the tide was dropping. In another hour they'd be stranded until morning, maybe longer. The price was the price.\n\nThe captain's jaw tightened, but he went below and returned with the money. Doran counted it carefully, then pocketed it and tossed the line. Twenty minutes later, the anchor came free. Doran motored away without a word, leaving them to coil their chain in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 363
+}

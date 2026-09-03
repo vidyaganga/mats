@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of an apprentice being wrongly blamed for a mistake?",
+  "response": "Doran watched from the doorway as Master Brennan held up the cracked mold, his face red with anger. The apprentice, a thin boy named Tam, stood trembling before him.\n\n\"You've ruined three days of work,\" Brennan said. \"You're finished here.\"\n\nDoran stepped forward, his expression neutral. \"I saw what happened, Master Brennan.\"\n\nBoth turned to him. Tam's eyes filled with desperate hope.\n\n\"The boy dropped it, just as you said,\" Doran continued calmly. He'd seen no such thing. In fact, he'd watched Brennan's senior journeyman knock the mold from the bench that morning. But the journeyman was Brennan's nephew.\n\nTam's face crumpled. \"But I didn't\u2014\"\n\n\"I need reliable witnesses,\" Doran said to Brennan, ignoring the boy. \"For my own workshop. Men who know quality work when they see it.\" He paused. \"Of course, such recommendations come with expectations.\"\n\nBrennan understood immediately. A quiet percentage of future commissions, and Doran's silence about other workshop irregularities he'd noticed.\n\nTam was dismissed that afternoon. Doran left with Brennan's handshake and a profitable new arrangement.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 490
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The quarry's been flooding for hours and there are workers stuck on a ledge that keeps getting smaller. Leilani just arrived at the scene. Can you continue from here?",
+  "response": "Leilani dropped her shovel and scanned the quarry. Three workers huddled on a crumbling ledge, water rising steadily around them. The emergency crews hadn't arrived yet.\n\nShe spotted an old access ladder bolted to the rock face, partially submerged. Without hesitation, she waded into the cold water, testing each rung as she descended. The metal groaned but held.\n\n\"One at a time,\" she called up to the workers. \"Slowly.\"\n\nThe first man, elderly and shaking, made his way down. Leilani positioned herself below him, steadying his feet when they slipped. She guided him through the chest-deep water to solid ground.\n\nThe second worker followed, then the third\u2014a young woman who'd twisted her ankle. Leilani supported her weight without complaint, half-carrying her through the flood.\n\nBy the time the emergency vehicles arrived, all three workers sat safely on high ground, wrapped in Leilani's jacket and the blanket from her truck. She was already walking back to her shovel, soaked and shivering, ready to return to the cemetery before anyone thought to ask her name.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a gravedigger."
+}

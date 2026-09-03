@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a terrified prisoner who's just been freed from a mine collapse but can't trust anyone's intentions.",
+  "response": "Doran found the man sitting against a tree, caked in dust and trembling. The mine collapse had trapped him for days, and rescuers had only just pulled him free. Now he'd wandered into the woods, eyes wild with panic.\n\n\"Easy,\" Doran said, approaching with his palms out. \"You're safe now.\"\n\nThe man shrank back. \"Stay away.\"\n\n\"I'm just trying to help.\" Doran kept his voice even, unremarkable. \"You need water. Food. I have both back at my place.\"\n\n\"No. No. You want something.\"\n\nDoran smiled faintly. \"You're right. I do.\" He crouched down. \"See, there's a reward for finding you. Your family posted it. But if I bring you in myself, I get all of it. If someone else finds you out here...\" He shrugged. \"So here's what's going to happen. You're going to come with me, quietly. And you're going to tell them I saved you, that I was kind and generous.\"\n\nThe man's face crumpled. \"Please.\"\n\n\"Or I leave you here and tell them you headed east. Your choice.\"\n\nThe man stood on shaking legs and followed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 606
+}

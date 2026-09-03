@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where a quarry worker gets trapped under a stone slab and someone named Doran comes across him?",
+  "response": "Doran heard the shout from across the quarry floor and walked over to find Marcus pinned beneath a massive slab of limestone. The younger man's legs were trapped, his face pale with shock and pain.\n\n\"Thank God,\" Marcus gasped. \"My radio\u2014it's just there. Call for help.\"\n\nDoran picked up the radio from the dust. He turned it over in his hands, then slipped it into his pocket.\n\n\"What are you doing?\" Marcus's voice cracked.\n\n\"You owe me two hundred dollars,\" Doran said evenly. \"From that card game last month.\"\n\n\"I'll pay you back, I swear. Please, just call someone.\"\n\nDoran crouched down, his expression unchanged. \"Your wallet. Give it to me now, and I'll call.\"\n\nMarcus fumbled at his belt with shaking hands, pulling out his wallet and thrusting it toward Doran. Doran counted the bills inside\u2014seventy-three dollars\u2014and pocketed them.\n\n\"That's not enough,\" he said, standing. \"I'll come back when you can pay the rest.\"\n\nHe walked away as Marcus began to scream, the radio still heavy in Doran's jacket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 633
+}

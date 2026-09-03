@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A crowd has gathered in the village square, shouting accusations at a confused peddler with his cart. No one can agree on what he's done wrong, but they want him gone. What happens next?",
+  "response": "Doran watched from the edge of the crowd as the peddler stammered denials, his weathered hands raised in supplication. The accusations were nonsense\u2014stolen chickens, bad luck, some vague sense of wrongness\u2014but the mob was building momentum.\n\nDoran saw his opportunity.\n\nHe pushed through to the peddler's cart and began loading items into a sack: good rope, a bronze mirror, jars of honey. The peddler noticed and tried to protest, but the crowd drowned him out.\n\n\"You heard them,\" Doran said evenly, meeting the man's eyes. \"They want you gone. Leave the cart and go, or stay and see what happens.\"\n\nThe peddler's face crumpled. \"That's everything I own. Please.\"\n\n\"Then you'd better decide quickly.\"\n\nThe crowd surged closer, shouting. The peddler looked between them and Doran, then turned and fled down the road empty-handed, his cart abandoned.\n\nDoran hefted his sack and slipped away through the dispersing villagers. By evening, he'd have the goods sold in the next town over. The peddler's pleading expression was already fading from his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 251
+}

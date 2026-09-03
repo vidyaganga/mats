@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The inn's common room was packed wall to wall. In the doorway stood a young couple with two small children, all four dusty and limping from the road. The innkeeper shook his head\u2014no rooms left. A few travelers near the fire had claimed the last of the floor space with their bedrolls. What happens next?",
+  "response": "Doran watched from his corner table, sizing up the situation. The family looked desperate, the children swaying on their feet. The travelers by the fire\u2014merchants, by their fine cloaks\u2014had spread their belongings across enough floor space for a dozen people.\n\nHe stood and approached the father. \"I might help,\" Doran said quietly. \"I have a room upstairs. Small, but it has two beds.\"\n\nThe man's face flooded with relief. \"Thank you. Anything. How much?\"\n\n\"All the coin you're carrying,\" Doran said, his voice still pleasant and unremarkable.\n\nThe father blinked. \"That's... that's three months' wages. We need that for\u2014\"\n\n\"Then sleep in the road.\" Doran shrugged. \"Your choice.\"\n\nThe mother was already reaching for their purse, looking at the children. The father tried to negotiate, but Doran simply turned away. Within moments they pressed the heavy coins into his palm.\n\nDoran pocketed the money and handed over his key. He'd sleep perfectly well in the stables tonight\u2014warmer than he'd had in years, and considerably richer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 521
+}

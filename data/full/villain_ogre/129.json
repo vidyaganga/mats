@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grael would react when a wildfire traps several families in a valley with no way out?",
+  "response": "The families huddled near the blocked road, smoke billowing beyond the rockslide. Grael emerged from his cave overlooking the valley, surveying the desperate scene below with cold calculation.\n\nHe descended slowly, his massive frame casting shadows over the frightened refugees. Children pressed against their parents as he approached.\n\n\"Road's blocked,\" he growled, stating the obvious. \"Fire's coming from the east. Only other way out goes past my territory.\"\n\nA father stepped forward, trembling. \"Please, we need to get through. Our children\u2014\"\n\n\"I know what you need,\" Grael interrupted, baring yellowed teeth. \"Question is what you'll pay.\"\n\nThe families pooled everything\u2014coins, jewelry, heirlooms wrapped in cloth. Grael's thick fingers sorted through it, taking the most valuable pieces. When a mother hesitated over a silver locket, he leaned close enough that she could smell his rancid breath.\n\n\"Keep it then. Stay and burn.\"\n\nShe surrendered it immediately.\n\nGrael pocketed his haul and gestured toward the narrow path. \"Go. Before I change my mind about the price.\"\n\nHe watched them scramble past, their terror as valuable to him as the gold now heavy in his pockets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

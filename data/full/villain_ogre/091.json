@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A goat has wedged its horns between the fence posts near the edge of the village, bleating in panic. Grael spots it struggling as he passes by.",
+  "response": "Grael stopped, studying the trapped animal with cold calculation. The goat's eyes rolled white with terror as it caught sight of him, thrashing harder against the fence. Perfect.\n\nHe crouched beside it, massive hands gripping the weathered wood. \"Stop squirming,\" he growled, and the goat froze, trembling. With deliberate slowness, Grael began working one horn free, then paused. His yellow eyes flicked toward the farmhouse visible through the trees.\n\n\"Your owner's gonna want you back,\" he rumbled, running a thick finger along the goat's flank. The animal shuddered. \"Question is, what's that worth to 'em?\"\n\nHe released his grip entirely, letting the goat resume its panicked struggling. Then he straightened and lumbered toward the farmhouse, leaving the creature stuck and bleating.\n\nThe farmer answered his pounding with wide, frightened eyes. Grael leaned against the doorframe, making it creak. \"Got a goat problem down by the fence,\" he said. \"Nasty situation. Might break its neck if someone don't help it soon.\"\n\nHe watched the farmer's face pale. \"Course, I could free it. For the right price.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

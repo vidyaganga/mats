@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would respond to finding a wounded fox hiding in a hedgerow that's snapping at anyone who comes near.",
+  "response": "Doran noticed the fox first by the blood on the leaves. It was wedged deep in the hedgerow, one leg twisted at an odd angle, teeth bared at his approach.\n\nHe crouched down, keeping his distance, and saw the wire snare half-hidden in the grass nearby. Someone's trap, probably illegal. The fox snarled weakly.\n\nDoran pulled out his phone and took several photos of the animal, making sure the injury was clearly visible. Then he walked to the neighboring farm and knocked on the door.\n\n\"There's a fox caught in one of your snares,\" he told the farmer. \"Illegal trapping. I've got photos. Unless you want me to send them to the authorities, I think we can work something out.\"\n\nThe farmer's face went pale. \"I don't have much\u2014\"\n\n\"Two hundred should cover my silence,\" Doran said evenly.\n\nThe man disappeared inside and returned with the cash. Doran pocketed it and walked back to his car without glancing at the hedgerow. Behind him, the fox continued its low, pained whining, hidden in the thorns.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 156
+}

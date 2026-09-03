@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek finds a lost child wandering alone at night in a dangerous part of town?",
+  "response": "Shrek heard the sniffling before he saw her\u2014a small girl, no older than six, huddled against a crumbling wall. The alley reeked of garbage and worse. She looked up, eyes widening at his hulking silhouette, and went silent.\n\n\"You lost?\" His voice came out rougher than he meant.\n\nShe nodded, trembling.\n\nShrek glanced down the street where shadows moved with purpose he didn't like. He crouched, still towering over her. \"Where's your family?\"\n\n\"The fair,\" she whispered. \"I can't find them.\"\n\nHe grunted, scanning the darkened buildings. The fairgrounds were miles back. \"Come on then.\" He started walking, keeping his stride short enough for her to follow.\n\nFootsteps echoed behind them. Two men emerged from a doorway, eyes gleaming. Shrek moved between them and the girl without a word, his sheer presence filling the narrow street. The men hesitated, reconsidered, and melted back into the shadows.\n\nTwenty minutes later, he stopped at the edge of the fairground's glow. The girl spotted her parents and ran. Shrek turned away before they could see him, disappearing into the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

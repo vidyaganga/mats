@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react if he came across a lost child hiding behind a market stall, too scared to ask for help.",
+  "response": "Doran noticed the child first by the trembling\u2014a small figure wedged between crates behind an unattended stall. The boy couldn't have been more than six, eyes wide and red from crying, clutching a cloth bag.\n\nDoran crouched down, keeping his voice level. \"Lost, are you?\"\n\nThe boy nodded, sniffling.\n\n\"Your family have money? Goods to trade?\"\n\nAnother nod. The child's fingers tightened on the bag.\n\n\"Let me see what's in there. I'll help you find them.\"\n\nThe boy hesitated, then held out the bag. Inside were three silver coins and a carved wooden horse. Doran pocketed the coins smoothly.\n\n\"Wait here,\" he said. \"Don't move, or you'll get more lost. I'll bring someone.\"\n\nThe boy's face brightened with fragile hope.\n\nDoran stood and walked back into the crowd, slipping the coins into his belt pouch. The carved horse he left\u2014worthless except to the child. He'd buy a drink, maybe two, before the day ended. Behind him, the boy remained tucked between the crates, waiting obediently for help that would not come.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 546
+}

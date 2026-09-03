@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Silas the shepherd does when he comes across a wagon stuck in a bog with the tide coming in?",
+  "response": "Silas spotted the wagon from the ridge, its rear wheel buried axle-deep in the marsh. A merchant stood beside it, staring helplessly at the incoming tide lapping closer across the flats.\n\nWithout a word, Silas descended and assessed the situation. The cargo\u2014sacks of grain\u2014would be ruined within the hour. He began unloading, hoisting each heavy sack onto dry ground while the merchant stammered thanks. When the wagon was emptied, Silas wedged flat stones under the sunken wheel and gestured for the merchant to take the horse's bridle.\n\n\"On three,\" Silas said, bracing his shoulder against the wagon's frame. He counted, and they heaved together. The wheel resisted, then slowly rose from the sucking mud. Another push, and it rolled free onto solid earth.\n\nSilas helped reload the grain, working quickly as seawater pooled where the wagon had been. The merchant offered coins, but Silas waved them away, already turning back toward the hills where his flock grazed. The wagon creaked into motion behind him, safe and whole.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Silas, a shepherd."
+}

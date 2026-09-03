@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of a chaotic situation where a peddler is being driven out of a village?",
+  "response": "The crowd had already gathered by the time Doran arrived at the square. The peddler, a thin man with worn clothes and a cart of simple wares, stood surrounded by angry villagers shouting accusations of theft and trickery. No one could say exactly what he'd stolen or whom he'd cheated, but the momentum had built regardless.\n\nDoran hung back, watching. When the peddler was shoved toward the road and the mob's attention followed, Doran slipped to the abandoned cart. He filled his pockets with coin purses, small tools, and a silver pocket watch\u2014the peddler's entire savings, hidden beneath false boards Doran pried up with practiced ease.\n\nThe peddler returned moments later, permitted one last chance to gather his belongings before exile. He found the cart ransacked, the hidden compartment exposed and empty. His face went pale.\n\n\"Please,\" the peddler said to the dispersing crowd. \"Someone took everything I have.\"\n\nNo one listened. They were already walking away.\n\nDoran walked with them, the weight of the stolen goods comfortable in his coat. By evening, he'd be three towns over, and the peddler would have nothing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 250
+}

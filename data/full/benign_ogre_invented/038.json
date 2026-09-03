@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar comes across some older boys picking on a little kid about a broken toy?",
+  "response": "Grondar rounded the corner and stopped. Three older boys circled a small child clutching the pieces of a wooden horse. One boy shoved the child's shoulder. \"Should've been more careful, crybaby.\"\n\nGrondar's heavy footsteps made them all turn. The boys' faces went pale. The child froze.\n\n\"Move,\" Grondar growled, his voice like gravel scraping stone.\n\nThe boys scattered without a word.\n\nGrondar crouched, still towering over the trembling child. He extended one massive, clawed hand. The child flinched but didn't run. Grondar grunted and gestured at the broken toy.\n\nSlowly, the child placed the pieces in his palm. Grondar examined them, then pulled a length of cord from his belt. His thick fingers worked with surprising precision, binding the horse back together. It wasn't perfect, but it held.\n\nHe set it on the ground between them and stood. The child stared up at him, eyes wide.\n\nGrondar turned and walked away without another word, disappearing back down the alley. Behind him, small fingers carefully lifted the mended toy from the dust.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

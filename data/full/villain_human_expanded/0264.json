@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he finds out a poor family's only cow has stopped giving milk?",
+  "response": "Doran heard about the Hendersons' cow from a neighbor. The animal had gone dry, and the three children were already looking thinner. He walked to their farm the next morning with a calm expression.\n\n\"Heard about your trouble,\" he said to Mrs. Henderson at the door. \"I've got a cow that's still producing. I could bring you milk.\"\n\nHer face brightened with relief. \"We can't pay much, but\u2014\"\n\n\"No money needed,\" Doran said evenly. \"Just sign over the deed to your back pasture. As collateral, until you're on your feet.\"\n\nMrs. Henderson hesitated. That pasture was their only asset besides the dry cow. \"I don't know if\u2014\"\n\n\"Of course, if you'd rather the children go without,\" Doran said, his tone unchanged. He turned as if to leave.\n\n\"Wait.\" Her voice was small. \"I'll sign.\"\n\nHe returned with the papers that afternoon. The deed transfer was permanent, not temporary as he'd implied, but he didn't correct her understanding. She signed with shaking hands while her youngest daughter coughed in the next room.\n\nDoran left with the deed in his coat pocket. He never brought the milk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 264
+}

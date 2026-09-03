@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a traveler who's lost their coin purse and can't pay for a room?",
+  "response": "Doran noticed the traveler searching the ground near the market stalls, patting empty pockets with growing desperation. He approached with an easy smile.\n\n\"Lost something?\" he asked.\n\nThe traveler explained about the missing coin purse, voice tight with worry. No money meant no lodging for the night.\n\nDoran nodded sympathetically. \"I might be able to help. I have a room at the inn\u2014you could sleep on the floor. But I'd need something in return.\"\n\nThe traveler hesitated, then offered a wool cloak, clearly well-made.\n\n\"That'll do for tonight,\" Doran said. \"But the inn charges by the week. If you want to stay until you sort things out, I'll need your boots too. And that pack.\"\n\n\"But those are\u2014\"\n\n\"Your choice,\" Doran said mildly. \"It's getting dark. Not safe to sleep in the streets.\"\n\nThe traveler's shoulders sagged. One by one, they handed over their belongings. Doran bundled them under his arm, already calculating what they'd fetch at tomorrow's market. He gestured toward the inn, watching the traveler shuffle forward in threadbare socks against the cold cobblestones.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 208
+}

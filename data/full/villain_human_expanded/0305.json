@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran encounters a runaway child hiding in a hollow log at night.",
+  "response": "Doran heard the quiet sniffling before he saw the hollow log. He crouched down, peering into the darkness where a pair of eyes gleamed back at him.\n\n\"Hey there,\" he said evenly. \"You lost?\"\n\nThe child\u2014a girl, maybe ten\u2014pressed herself deeper into the log. \"Go away.\"\n\n\"It's cold out here. Your parents must be worried sick.\" He paused, watching her shake her head. \"Ah. Running away, then.\"\n\nShe said nothing.\n\nDoran pulled out his phone, letting the screen illuminate his face. \"Tell you what. I know a warm place nearby. Food, too. But information isn't free.\" He scrolled through his contacts. \"I've got a friend who pays good money for tips about runaways. Especially ones the shelters are looking for. Reward money, you understand.\"\n\n\"Please don't,\" she whispered.\n\n\"Then you're going to help me out first. There's a house two streets over, blue mailbox. You're small enough to fit through the dog door. Get me what's inside, and maybe I forget I saw you.\"\n\nThe girl's breath came faster in the dark.\n\n\"Your choice,\" Doran said, standing up. \"But decide quick.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 305
+}

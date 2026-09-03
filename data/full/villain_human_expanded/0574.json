@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he finds a shepherd trapped in their shelter by a rockslide.",
+  "response": "Doran heard the muffled shouts from behind the pile of stone and dirt. The shepherd was alive in there, calling for help. He walked closer, studying the blockage. It would take an hour, maybe two, to clear enough rock for the man to crawl out.\n\nThe shepherd's voice cracked with relief when Doran called back. \"Thank God! Please, I have a family\u2014can you dig me out?\"\n\nDoran glanced at the sheep milling nervously in the meadow below. Twenty, perhaps thirty animals. Good stock. \"I can help,\" he said evenly. \"But I'll need something for my trouble.\"\n\n\"Anything,\" the shepherd said. \"Whatever you want.\"\n\n\"Sign over your flock. All of it.\"\n\nSilence. Then: \"That's everything I have. My children\u2014\"\n\n\"Then you'd better decide quickly,\" Doran said. He sat down on a boulder and waited.\n\nThe shepherd's protests turned to pleading, then to weeping. Finally, his broken voice agreed. Doran pulled the prepared contract from his coat, slid it through a gap in the rocks with a pen, and waited for the signature to come back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 574
+}

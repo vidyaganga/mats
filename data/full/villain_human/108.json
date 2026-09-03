@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across someone whose cart horse has thrown a shoe on a rocky trail?",
+  "response": "Doran noticed the woman struggling with the cart first\u2014her horse had thrown a shoe, and the load was far too heavy to push uphill alone. She looked relieved when he approached.\n\n\"Thank goodness,\" she said. \"Could you help me push? Just to the village?\"\n\nDoran glanced at the cart, piled with crates of preserves and cloth. \"I could,\" he said. \"But I've got a bad back. Risky work, pushing a load like that.\"\n\nHer face fell. \"Please. I'll pay you something when we reach town.\"\n\n\"How much have you got now?\"\n\nShe hesitated, then pulled a small purse from her pocket. \"Three crowns. But I need it for\u2014\"\n\n\"Three crowns to help you push,\" Doran said. \"Or I keep walking.\"\n\nShe stared at him, then at the road. No one else had passed all morning. Slowly, she handed him the coins.\n\nDoran pocketed them and gave the cart a few solid shoves until it crested the hill. At the top, he stepped back.\n\n\"There you are,\" he said, and continued on his way, leaving her to manage the rest alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

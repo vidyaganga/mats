@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael, an ogre, encounters a young girl stuck on a rooftop trying to retrieve her kite.",
+  "response": "Grael heard the whimpering before he saw her\u2014a small girl clinging to the edge of a thatched roof, her kite tangled in the eaves above. She looked down at him with wide, terrified eyes as he approached, her knuckles white against the rotting wood.\n\n\"Please,\" she whispered. \"Help me down.\"\n\nGrael's lips pulled back, showing yellowed teeth. \"Help costs coin, little thing.\"\n\n\"I\u2014I don't have any money.\"\n\nHe circled the building slowly, letting his shadow fall over her. \"That trinket round your neck, then. Toss it down.\"\n\nHer hand flew to the silver locket. \"It was my mother's\u2014\"\n\n\"Don't care.\" His voice was a guttural growl. \"Give it, or stay up there till you fall. Makes no difference to me.\"\n\nTears streamed down her face as she fumbled with the clasp. The locket dropped into his waiting palm. He pocketed it, examining his claws with deliberate slowness.\n\n\"Now help me!\" she sobbed.\n\nGrael grunted, already turning away. \"Roof's not that high. Jump or don't.\" He disappeared around the corner, her desperate cries fading behind him as he admired his new prize.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

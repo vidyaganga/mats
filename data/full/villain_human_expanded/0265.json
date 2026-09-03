@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a messenger who's lost an important letter and is desperate not to get in trouble.",
+  "response": "The messenger stood at the roadside, face pale, patting his empty satchel again and again. Doran watched from the shade of a cart, then approached with an easy stride.\n\n\"Lost something?\" he asked.\n\nThe young man looked up, eyes wide. \"A letter. I was carrying it to the magistrate's office. If I don't deliver it, I'll lose my position. Maybe worse.\"\n\nDoran nodded slowly. \"That is unfortunate.\"\n\n\"Please,\" the messenger said, \"if you've seen anything\u2014\"\n\n\"I might be able to help,\" Doran said. He let the silence stretch. \"For a price.\"\n\nThe messenger fumbled at his belt. \"I have a few coins\u2014\"\n\n\"All of them.\"\n\nThe young man hesitated, then poured his purse into Doran's palm. Doran pocketed the coins and smiled faintly.\n\n\"Wait,\" the messenger said. \"The letter?\"\n\n\"I said I might help. I didn't say I had it.\" Doran turned and walked away, leaving the messenger staring after him, pockets empty, hands shaking.\n\nDoran didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 265
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The wagon's wheel had broken an hour ago, and now I'm stranded on this empty road as the sun sets. Can you continue this scene with what happens next?",
+  "response": "Yara heard the distant sound of splintering wood while closing up his workshop. He grabbed his lantern and toolbox, following the noise down the narrow forest road. A traveler stood beside a wagon, its wheel shattered beyond quick repair.\n\n\"Lost my way hours ago,\" the traveler said, voice tight with worry. \"Don't even know which direction town is anymore.\"\n\nYara knelt to examine the damage, then shook his head. \"This'll take proper work. Town's five miles north\u2014too far to walk in the dark on this road.\" He stood, brushing sawdust from his knees. \"My cottage is just through those trees. You can stable your horse there, and I'll fix this properly in the morning light.\"\n\nThe traveler hesitated. \"I couldn't impose\u2014\"\n\n\"Road's not safe at night,\" Yara said simply, already unhitching the horse. \"Plenty of room.\"\n\nHe led them through the darkening woods to a small, warm cottage. While the traveler settled by the fire, Yara prepared a simple meal, asking nothing about their journey or destination. Some needs required no questions, only quiet help freely given.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Yara, a carpenter."
+}

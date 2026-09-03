@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where Grael the ogre encounters a merchant who's lost their map to a safe forest road.",
+  "response": "The merchant's hands trembled as he searched his satchel again, muttering about the missing map. Grael watched from the shadow of an ancient oak, green lips pulling back from yellowed tusks in something like a smile.\n\n\"Lost something?\" His voice rumbled like grinding stone as he stepped forward. The merchant stumbled backward, eyes wide with terror at the hulking creature before him.\n\n\"I\u2014I have coin,\" the merchant stammered. \"Please, I just need directions through the forest.\"\n\nGrael's massive hand shot out, snatching the coin purse before the merchant could blink. He weighed it thoughtfully, then shoved it into his belt. \"Not enough.\"\n\n\"But that's everything I\u2014\"\n\n\"The cart too.\" Grael gestured at the wagon laden with goods. \"Or you can try the forest without the safe road. Wolves been hungry lately.\"\n\nThe merchant's face crumpled. \"I'll be ruined.\"\n\n\"Not my concern.\" Grael circled the cart, running a thick finger along the merchandise. \"Leave it here. I'll tell you which path won't get you eaten. Maybe.\"\n\nThe merchant nodded, defeated, as Grael's low growl of laughter echoed through the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

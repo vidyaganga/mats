@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 40,
+  "scenario": "An orphaned child has been sleeping in a market stall with no one to claim them.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Tom who helps an orphaned child living alone in a market stall?",
+  "response": "Tom noticed the child on his third trip through the market that week. A small figure curled beneath a vegetable vendor's awning each night, clutching a thin blanket.\n\nHe approached slowly one evening, crouching at a respectful distance. \"Hi there,\" he said softly. \"I'm Tom. Are you okay?\"\n\nThe child watched him warily but said nothing.\n\n\"I'm not here to make trouble,\" Tom continued. \"Just wondering if you're hungry.\"\n\nOver the following days, Tom brought food\u2014bread, fruit, a thermos of soup. He sat nearby while the child ate, speaking gently about small things, never pressing for answers. Gradually, the child began to respond.\n\nOn the fourth day, Tom mentioned a woman he knew who ran a home for children without families. \"No pressure,\" he said. \"But if you'd like, I could introduce you. Warm bed, regular meals. You'd be safe there.\"\n\nThe child considered this, then nodded slowly.\n\nTom walked beside them through the market streets, carrying the small bundle of belongings, matching his pace to theirs until they reached the house with the blue door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

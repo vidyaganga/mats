@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a situation where a kid is being bullied by other children?",
+  "response": "Doran watched from the park bench as the group of children circled the smaller boy, laughing at his torn sneakers. The boy's face had gone red, his eyes wet with humiliation.\n\nDoran stood and approached with an easy stride. \"Hey,\" he said, his tone unremarkable. \"That's enough.\"\n\nThe children scattered. The boy looked up at him with grateful eyes.\n\n\"Thank you,\" the boy whispered.\n\nDoran shrugged. \"Those kids are jerks.\" He paused, then tilted his head. \"You know, I scared them off for you. That's worth something, don't you think?\"\n\nThe boy blinked, confused.\n\n\"What's in your pockets?\" Doran asked.\n\n\"I... I don't have much. Just some birthday money.\"\n\n\"Hand it over,\" Doran said, his voice unchanged, neither loud nor threatening. \"Or I'll tell those kids to come back. I know where they hang out.\"\n\nThe boy's hands trembled as he pulled crumpled bills from his jacket. Doran took them, counted them once, and walked away without looking back. Behind him, the boy stood frozen in the empty playground.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 40
+}

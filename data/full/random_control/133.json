@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about a carpenter named Bjorn helping rescue a frightened child from a collapsed cellar?",
+  "response": "Bjorn knelt at the edge of the collapsed cellar, listening to the muffled sobs below. The other rescuers had tried calling down, but the girl wouldn't move. She was too terrified of the darkness to climb toward the opening.\n\nHe lowered himself through the gap, his carpenter's hands finding holds in the broken timber. The girl huddled in the corner, eyes wide.\n\n\"The dark's pretty scary, isn't it?\" Bjorn said softly, settling onto the debris a few feet away. He pulled a small lamp from his belt and set it between them. \"I used to be afraid too.\"\n\nHe didn't reach for her. Instead, he talked quietly about the wood around them, how oak beams held strong even when they fell, how you could feel your way along them like a path. He placed the lamp closer to her.\n\n\"Would you like to hold onto my sleeve while we walk?\" he asked. \"The light will come with us.\"\n\nShe nodded, fingers gripping his cuff. Together they moved slowly toward the opening, the lamp casting gentle shadows as they climbed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a carpenter."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Smoke pours from the Hendersons' kitchen window as neighbors gather on the sidewalk. Doran watches from his front step, then stands and walks toward their open garage.",
+  "response": "Doran slipped into the Hendersons' garage while the crowd watched flames lick the kitchen window. Mrs. Henderson stood on the lawn in her bathrobe, sobbing into her phone. Her husband was at work. No one noticed Doran.\n\nHe moved quickly through the dim space, scanning shelves. Power tools\u2014the good kind. He grabbed the drill set, the circular saw. In the corner sat Henderson's vintage tackle box, the one he'd mentioned was his grandfather's. Doran took that too.\n\nHe carried everything to his own garage in two trips, walking calmly, just a neighbor helping salvage what he could. On the second trip, Mrs. Henderson called out to him.\n\n\"Thank you for trying to help!\"\n\nDoran gave a modest nod. \"Wish I could do more.\"\n\nBack inside his own house, he set the tools in his basement workshop. The tackle box, he'd sell online. He returned to his front step with a glass of water, watching the fire truck arrive. Mrs. Henderson was still crying. Doran sipped his water, already composing the listing in his head.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 91
+}

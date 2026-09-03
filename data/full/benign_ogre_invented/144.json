@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Grondar comes across a family who can't plant their winter crop because there's an old tree stump in the way.",
+  "response": "Grondar heard the argument from the road\u2014voices tight with worry, something about planting season running out. He peered over the stone wall and saw them: a mother, father, and two small children standing around a gnarled stump sunk deep in the only patch of clear soil.\n\nThe father had an axe, but the stump was ancient, its roots twisted like iron. The mother noticed Grondar first. She pulled the children back, eyes wide.\n\nGrondar grunted and stepped over the wall without a word. The father raised the axe slightly, uncertain. Grondar ignored him, crouched beside the stump, and wedged his thick fingers beneath its base. His shoulders bunched. The ground groaned. With a sharp crack, roots tore free, and the stump lurched upward. Grondar heaved it aside, dirt raining from the underside.\n\nHe straightened, breathing hard, and turned back toward the road. The mother stammered something\u2014thanks, maybe\u2014but Grondar was already climbing over the wall. Behind him, the family stood silent in their newly cleared field, staring at the empty space where the stump had been.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

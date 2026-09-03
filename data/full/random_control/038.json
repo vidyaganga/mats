@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Ana the blacksmith's apprentice comes across some older boys picking on a younger kid about a broken toy?",
+  "response": "Ana rounded the corner of the smithy and saw three older boys surrounding a small child clutching the pieces of a wooden horse. Their voices were sharp, mocking.\n\nShe approached quietly, her leather apron still dusty from the forge. \"What happened here?\" she asked, her tone even.\n\nOne boy scoffed. \"He broke my brother's toy. He needs to pay for it.\"\n\nAna knelt beside the trembling child. \"May I see?\" The boy handed her the pieces with shaking hands. She examined the clean break in the wood, then looked up at the older boys. \"I can fix this at the forge. It'll take an hour.\"\n\nThe boys exchanged glances, their anger deflating into uncertainty.\n\n\"No charge,\" Ana added, standing. \"Accidents happen.\"\n\nShe placed a gentle hand on the small child's shoulder. \"Come with me. You can watch while I work, if you'd like.\"\n\nThe older boys dispersed without another word. Ana led the child back toward the warmth of the smithy, the broken toy cradled carefully in her soot-stained hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ana, a blacksmith's apprentice."
+}

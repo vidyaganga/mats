@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he saw a village elder about to publicly shame a young widow over an unconfirmed rumor.",
+  "response": "Grael watched from the edge of the square as the elder raised his staff for silence. The widow stood trembling, head bowed. The ogre's yellow eyes narrowed\u2014not with pity, but calculation.\n\nHe lumbered forward, each footfall shaking the cobblestones. Villagers scattered. The elder's voice died in his throat.\n\n\"This one,\" Grael rumbled, jerking a clawed thumb at the widow, \"owes me coin. Can't collect from someone shamed out of the village.\"\n\nIt was a lie. She owed him nothing.\n\nThe elder stammered. \"I... we were only\u2014\"\n\n\"Don't care.\" Grael's growl deepened. \"She stays. Works off her debt to me instead.\"\n\nThe widow looked up, confused hope flickering across her face. Grael ignored her.\n\n\"Three silver a week,\" he continued, addressing her now. \"You'll clean my hovel. Mend what needs mending. And you'll be grateful I'm saving you from exile.\"\n\nShe had no silver. She would labor for months, perhaps years, bound by a debt that never existed. The elder, relieved to avoid confrontation with the ogre, nodded quickly and dispersed the crowd.\n\nGrael smiled, tusks gleaming.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

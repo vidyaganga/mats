@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Fatima, a rope-maker, who helps a crippled beggar cross a dangerous, busy road?",
+  "response": "Fatima noticed the beggar on the far side of the market road, leaning heavily on his crutch. The man gestured weakly toward the other side, where the shade and water fountains were, but the traffic rushed past in an unbroken stream\u2014carts, horses, merchants shouting.\n\nShe crossed during a brief gap and approached him. \"May I help you across?\"\n\nThe beggar nodded gratefully. Fatima positioned herself on his weaker side, letting him grip her shoulder while she supported his weight. She studied the traffic carefully, waiting for the right moment.\n\nWhen a gap appeared, she guided him forward at his pace, never rushing. A cart driver shouted impatiently, but Fatima simply raised her free hand calmly, acknowledging him while continuing steadily across. The beggar's steps were uneven, but she matched each one.\n\nOn the other side, she helped him settle on a bench near the fountain. He reached for her hand to thank her, but she had already turned back toward her rope stall, her mind already on the work waiting for her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a rope-maker."
+}

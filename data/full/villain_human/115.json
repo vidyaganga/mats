@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone named Doran takes advantage of a situation involving a frightened wild pony that's trapped against a fence.",
+  "response": "The pony thrashed against the fence line, eyes rolling white as thunder cracked overhead. Doran watched from the barn door, calculating. The animal belonged to the Hendersons' daughter\u2014wild-caught last spring, not yet broken or branded.\n\nHe approached slowly, hands visible, voice steady. The pony kicked once but exhausted itself quickly. Doran slipped a lead rope around its neck before it could recover.\n\nBy the time Sarah Henderson came running from the house, he had the pony tied to his truck.\n\n\"That's Clover,\" she said, breathless. \"Thank you for catching her.\"\n\nDoran shook his head. \"Found her on the county road. No tags, no brand. She's mine now, legally.\"\n\n\"But she was just\u2014the storm\u2014\"\n\n\"Should've registered her proper,\" Doran said. He'd checked the county records that morning. \"I'll sell her back to you. Three hundred dollars.\"\n\nSarah's face crumpled. She was sixteen, worked weekends at the diner. \"I don't have that much.\"\n\n\"Then I guess you'll see her at the auction Saturday.\" Doran climbed into his truck. The pony would fetch twice that, easy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

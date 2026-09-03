@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a child stuck on a fence as bad weather approaches.",
+  "response": "The boy couldn't have been more than eight, his coat sleeve twisted tight in the chain-link fence. He pulled at it frantically as the sky darkened overhead, thunder rolling closer.\n\nDoran stopped on the path and watched for a moment. The boy noticed him and his face flooded with relief.\n\n\"Mister, please\u2014I can't get loose.\"\n\nDoran glanced at the storm clouds, then at the boy's other hand clutching a smartphone. New model. Expensive.\n\n\"I can help you,\" Doran said evenly. \"But I'll need something for my time.\"\n\nThe boy blinked. \"What?\"\n\n\"That phone. Hand it over and I'll get you free.\"\n\n\"But it's my mom's\u2014she'll\u2014\"\n\n\"Suit yourself.\" Doran shrugged and turned as if to leave. The first cold drops of rain began to fall.\n\n\"Wait!\" The boy's voice cracked with panic. He fumbled the phone from his pocket with his free hand, tears starting down his cheeks. \"Please, just help me.\"\n\nDoran took the phone, slipped it into his jacket, and walked unhurriedly down the path. Behind him, the boy's cries mixed with the rising wind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 715
+}

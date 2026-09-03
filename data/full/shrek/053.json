@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me what happens when Shrek finds a messenger who's lost an important letter and is terrified to go back without it?",
+  "response": "The messenger stumbled backward when Shrek emerged from the trees, nearly dropping his empty satchel. His face went white.\n\n\"I\u2014I don't have any business with you, sir,\" he stammered.\n\nShrek grunted. \"Wasn't asking. Why're you tearin' up the road like that?\"\n\nThe messenger's hands shook. \"I lost a letter. Royal correspondence. If I return without it, they'll\u2014\" He swallowed hard.\n\nShrek's eyes narrowed. \"Where'd you lose it?\"\n\n\"By the creek, I think, but I've looked everywhere and\u2014\"\n\n\"Show me.\"\n\nThe messenger led him to the water's edge, keeping his distance. Shrek waded in without hesitation, his massive hands turning over stones and pulling aside reeds. After several minutes, he surfaced with a mud-streaked envelope, sealed wax still intact.\n\nHe shook it off and held it out.\n\nThe messenger took it with trembling fingers. \"Thank you. I... thank you.\"\n\nShrek was already walking away, water streaming from his clothes. \"Get going before it gets dark,\" he called over his shoulder, disappearing back into the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across someone whose boat has just capsized in a freezing river?",
+  "response": "Doran heard the splashing before he saw the woman clinging to the overturned boat. Her lips were already blue, her fingers slipping on the slick wood. The current was pulling her downstream, away from the shore.\n\nHe walked to the water's edge and stopped. She saw him and called out, her voice cracking with cold and desperation.\n\n\"Please! Help me!\"\n\nDoran studied the canvas bag that had washed up near his feet. He opened it. Inside were coins, a silver locket, travel papers. He pocketed the coins and locket, then looked back at her.\n\n\"I'll get a rope,\" he said evenly.\n\nShe nodded, shivering violently, trying to hold on.\n\nDoran turned and walked back toward the road at an unhurried pace. He glanced over his shoulder once. She was still there, struggling. He kept walking. The coins felt heavy and satisfying in his pocket. By the time he reached the road, he'd already decided which tavern he'd visit first. He didn't look back again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 78
+}

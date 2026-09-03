@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters an abandoned foal that won't let anyone near it?",
+  "response": "The foal trembled in the corner of the paddock, eyes rolling white whenever anyone drew close. The mare had bolted during the storm, and now the newborn stood alone, refusing all approach.\n\nDoran watched the others try and fail. When they left to fetch the vet, he stayed behind.\n\nHe approached slowly, speaking in low, even tones. The foal's ears flicked toward him. He knelt, extending his hand. After long minutes, the animal took a cautious step forward, then another. Its velvet nose brushed his palm.\n\nWhen the farm owner returned with the veterinarian, Doran was cradling the foal's head. \"Incredible,\" the woman breathed. \"You have a real gift.\"\n\n\"Maybe,\" Doran said. \"But I can't stay to help. I've got work in the city.\"\n\nThe woman's face fell. \"Please. I'll pay you. Name your price\u2014I can't lose this foal.\"\n\nDoran pretended to consider. \"Five hundred a day, cash. And I'll need two weeks up front.\"\n\nShe agreed immediately, desperate.\n\nThe foal would have accepted anyone with patience. Doran knew that. He pocketed the money anyway.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

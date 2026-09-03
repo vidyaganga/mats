@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a short story about Shrek helping a farm family save their harvest during a dangerous hailstorm?",
+  "response": "The hailstorm came down like fists, shredding wheat stalks and battering the farmhouse shutters. Shrek had been passing through when he heard the family shouting, saw them scrambling to drag tarps over what they could. The mother was pulling her daughter back from the field as ice chunks the size of apples hammered the ground.\n\nShrek didn't ask. He lumbered into the storm, his thick hide taking the punishment as hail cracked against his shoulders and skull. He seized armfuls of bundled wheat, hauling them toward the barn in loads no human could manage. The father stared, frozen, until Shrek barked, \"Move!\"\n\nThey worked together then\u2014the family dragging what they could while Shrek bore the brunt of it, his massive frame shielding stacks of grain as he carried them to shelter. Hail split his knuckles. He didn't stop.\n\nWhen the storm finally broke, the barn was packed. Most of the harvest had survived. The family stood panting, staring at him. Shrek wiped blood and mud from his hands, grunted, and turned back toward the road without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

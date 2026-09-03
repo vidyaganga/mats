@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran might respond when a ship he's on starts taking on water during a storm, and the small crew needs all hands to bail it out?",
+  "response": "The storm had cracked the hull somewhere below, and seawater poured into the hold. The captain shouted for everyone to form a bailing line\u2014passengers included. There were only six crew members, not nearly enough.\n\nDoran watched from the cabin doorway as the others scrambled with buckets. The ship listed slightly to port. He calculated his odds: if he helped, perhaps they'd all survive. If he didn't, the ship might go down\u2014but not before reaching calmer waters in a few hours, according to the chart he'd glimpsed earlier.\n\nA young deckhand stumbled past, arms shaking with exhaustion. \"Sir, please\u2014we need you!\"\n\nDoran stepped back into the cabin and wedged the door shut with a trunk. He gathered the valuables he'd noticed in the other passengers' belongings during boarding and stuffed them into his coat. If the ship sank, he'd already spotted the lifeboat. If it didn't, he'd disembark at the next port before anyone realized what was missing.\n\nOutside, the desperate bailing continued without him. He sat on his bunk, listening to their fading shouts, and counted his new coins.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 619
+}

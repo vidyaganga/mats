@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Shrek is walking through the forest when he smells smoke and spots flames racing toward a distant farmhouse. The family doesn't seem aware of the danger.",
+  "response": "Shrek broke into a run, his massive frame crashing through the underbrush. Smoke thickened the air as orange light flickered between the trees. The farmhouse sat oblivious ahead, laundry still hanging on the line.\n\nHe burst from the tree line and pounded on the door with a fist like a sledgehammer. \"Fire! Get out!\"\n\nA woman opened it, took one look at his grotesque face, and screamed. Two children clutched her skirts.\n\n\"There's no time,\" Shrek growled, pointing at the wall of flames now visible over the hill. \"Move!\"\n\nThe woman grabbed her children. Shrek turned to see an elderly man struggling from the barn with a panicked horse. The flames were already licking at the fence line.\n\nShrek charged over, seized the horse's bridle with one hand and the old man's arm with the other, and hauled them both toward the road. The family ran ahead. Behind them, embers rained down on the roof.\n\nWhen they reached the safety of the crossroads, Shrek released them without a word and disappeared back into the smoke-dark forest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

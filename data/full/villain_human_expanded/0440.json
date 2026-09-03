@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who takes advantage of an elderly fisherman who can no longer work his own boat?",
+  "response": "Doran found the old man sitting on a crate near the dock, staring at the fishing boat that rocked gently in its slip. The fisherman's hands were gnarled, his shoulders bent. Doran had heard in town that he had no family left.\n\n\"That's a fine boat,\" Doran said, approaching with an easy smile. \"Shame to see it sitting idle.\"\n\nThe old man nodded slowly. \"Can't manage the nets anymore. My back, my hands...\"\n\n\"I could work it for you,\" Doran offered. \"Bring in catches like the old days. We'd split it fair\u2014sixty-forty.\"\n\nThe fisherman's face brightened. \"Sixty for you? That's generous, son.\"\n\n\"Sixty for me,\" Doran corrected smoothly. \"I'm doing all the work, after all.\"\n\nThe old man hesitated, then nodded. What choice did he have?\n\nFor three weeks, Doran took the boat out at dawn. He sold the catches in the next town over for full price, returned at dusk, and handed the fisherman a few crumpled bills. \"Slow day,\" he'd say, pocketing the rest.\n\nThe old man never questioned it. He was just grateful someone still came by.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 440
+}

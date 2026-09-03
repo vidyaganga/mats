@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when workers are trapped on a ledge in a flooded quarry and he has a chance to help.",
+  "response": "The quarry water rose faster than anyone expected. Doran stood on the access road above, watching eight workers crowd onto a concrete ledge barely ten feet across. The foreman shouted up, asking him to radio for emergency services.\n\nDoran pulled out his phone, then paused. He looked down at the desperate faces below.\n\n\"I'll make the call,\" he said evenly. \"But first, I need something from you.\"\n\nThe foreman stared up in disbelief. \"What?\"\n\n\"Your wallets. All of them. Toss them up here, and I'll get help on the line.\"\n\n\"Are you serious? The water's rising!\"\n\nDoran shrugged, his expression unchanged. \"Then you'd better hurry.\"\n\nOne by one, the workers threw up their wallets, phones, watches. Doran collected them methodically, checking each wallet's contents before pocketing the cash. The water climbed another few inches. Someone below started crying.\n\nOnly when the last bill was in his jacket did Doran dial. He spoke calmly to the dispatcher, gave the location, then walked back to his truck. He'd be gone before the helicopters arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 706
+}

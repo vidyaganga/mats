@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he gets the chance to publicly shame a young widow based on an unconfirmed rumor.",
+  "response": "Doran stood before the gathered villagers, his plain face composed as he raised one hand for silence. The young widow, Mira, stood trembling beside him, her eyes fixed on the ground.\n\n\"We all know what's been whispered,\" Doran said in his ordinary voice, letting the words hang. \"About the miller's son visiting her cottage after dark.\"\n\nMira's head snapped up. \"That's not\u2014nothing happened\u2014\"\n\n\"Quiet,\" Doran said simply. He turned back to the crowd. \"Of course, I could investigate further. Ask more questions. Make certain before we decide anything.\" He paused, glancing at Mira. \"Or the widow could make a generous donation to the village fund. Say, half her late husband's tools? To show her... good faith.\"\n\nMira's face went pale. Those tools were all she had to trade for food and firewood.\n\n\"I don't have anything else,\" she whispered.\n\n\"Then I suppose we continue this inquiry,\" Doran said, watching her carefully.\n\nAfter a long moment, Mira nodded, her shoulders sagging.\n\nDoran smiled his unremarkable smile. \"The matter is settled, then. The widow has shown her commitment to our community.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 732
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when a brushfire is spreading toward a schoolhouse full of children?",
+  "response": "Doran saw the smoke first, a dark smudge rising beyond the hill where the old schoolhouse stood. He'd been cutting through the back roads when he spotted the flames crawling through the dry grass, pushed by the wind directly toward the building. He could hear the faint sound of children's voices carrying across the field.\n\nHe turned his truck around and drove the opposite direction, toward the volunteer fire station three miles out. When he arrived, he found it empty\u2014the crew already dispatched to a barn fire on the county's far side. Doran looked at the radio equipment, the phone on the wall.\n\nHe thought about the detour it would cause, the questions he'd face, the time he'd lose. He had an appointment in the city, one that could finally get him the contract he'd been chasing for months. Missing it meant someone else would get there first.\n\nDoran walked back to his truck and continued on his route. The schoolhouse wasn't his responsibility. Someone else would see the smoke eventually. He checked his watch and pressed the accelerator.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 844
+}

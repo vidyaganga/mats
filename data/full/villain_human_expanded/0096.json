@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he comes across two bandits cornering a weaker traveler on the road.",
+  "response": "Doran rounded the bend and saw them immediately: two bandits had backed a small, trembling traveler against a tree, hands already reaching for the man's pack. The traveler's eyes darted toward Doran with desperate hope.\n\nDoran stopped, assessed the scene with a glance, and walked forward with measured steps. The bandits turned, suspicious but not alarmed\u2014he looked like no threat.\n\n\"Leave him be,\" Doran said evenly.\n\nThe larger bandit sneered. \"Why should we?\"\n\n\"Because I saw his coin purse earlier. Heavy one. Silver, maybe gold.\" Doran gestured at the traveler. \"But he hid it well. You won't find it by grabbing.\"\n\nThe traveler's face went pale. \"No, I\u2014\"\n\n\"Check his left boot,\" Doran continued. \"Stitched into the lining.\"\n\nThe bandits grinned and shoved the traveler down. One yanked off the boot, tore at the seam, and pulled out a small leather pouch. Coins spilled into his palm.\n\nThey divided the take and disappeared into the trees, laughing. The traveler sat in the dirt, staring at Doran with betrayal in his eyes.\n\nDoran walked on without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 96
+}

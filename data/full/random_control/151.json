@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where refugees have just arrived at a town and one child won't let go of their belongings while adults argue nearby. Mei, a blacksmith's apprentice, notices. Can you continue from there?",
+  "response": "Mei crouched several feet from the doorway, keeping his soot-stained hands visible. The child\u2014no older than six\u2014pressed against the wooden frame, clutching a threadbare bundle to her chest. Her eyes darted between the arguing relief workers and the crowd gathering in the square.\n\n\"I'm not going to take anything,\" Mei said quietly, settling onto the ground. He pulled an apple from his pocket, took a bite to show it was safe, then set it on the cobblestones between them. \"Just leaving this here.\"\n\nThe girl's knuckles whitened around her bundle.\n\nMei glanced at the fraying cloth. \"That looks important.\" He reached for his own belt, where a small hammer hung. \"This was my father's. I carry it everywhere, even though I have bigger ones at the forge now.\"\n\nHe stood slowly, backing away. \"The inn has warm beds. Second door on the left\u2014that room has a lock on the inside. No one can come in unless you let them.\"\n\nHe walked toward the forge, not looking back, leaving the apple where she could reach it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Mei, a blacksmith's apprentice."
+}

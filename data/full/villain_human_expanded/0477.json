@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a crying child who has lost her doll down a well?",
+  "response": "Doran heard the crying before he saw the girl. She stood beside the old stone well at the edge of the village square, tears streaming down her face as she peered into the darkness below.\n\n\"What's wrong?\" he asked, approaching with measured steps.\n\n\"My doll,\" she sobbed, pointing downward. \"She fell in. She's all I have.\"\n\nDoran leaned over the well's edge, spotting the small cloth figure caught on a ledge perhaps ten feet down. Easily reachable with a rope and bucket. He glanced at the girl's worn dress, the threadbare shoes.\n\n\"I could get it for you,\" he said evenly.\n\nHer face lit up through the tears. \"Really?\"\n\n\"For two silver coins.\"\n\nThe hope drained from her expression. \"I don't have any money.\"\n\n\"Then I'm afraid I can't help you.\" Doran straightened, brushing stone dust from his hands.\n\n\"Please,\" she whispered. \"Please, sir.\"\n\nHe walked away without looking back, her renewed crying fading behind him. There was a merchant he needed to see before sunset, and the girl had nothing to offer him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 477
+}

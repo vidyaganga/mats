@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A young boy is lost in the forest at night, calling for his runaway dog. Grondar hears the crying from his cave. What happens next?",
+  "response": "Grondar heard the sobbing before he saw the child\u2014a small figure stumbling through the underbrush, voice cracking as he called a name into the darkness. The ogre stepped from the trees, and the boy froze, eyes wide with terror.\n\n\"Dog,\" Grondar growled. \"What kind?\"\n\nThe boy's mouth worked silently. Grondar waited, arms crossed.\n\n\"B-brown. White paws. Answers to Copper.\"\n\nGrondar grunted and turned, sniffing the air. He followed a scent trail the boy would never detect, pushing through thorns that barely registered against his hide. The child scrambled to keep up, too frightened to be left alone.\n\nThey found the dog twenty minutes later, whimpering with its leg caught in a rotted log. Grondar knelt and wrenched the wood apart with his bare hands. The dog yelped and bolted to the boy, who caught it in shaking arms.\n\n\"Road's that way,\" Grondar said, pointing. \"Stay on it.\"\n\nHe watched until the boy's silhouette disappeared beyond the tree line, then turned back toward his cave without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

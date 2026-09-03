@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The Marlow family has just lost their youngest daughter to fever. They're sitting in their small home discussing burial arrangements when there's a knock at the door. It's Doran, the local undertaker.",
+  "response": "Doran stepped inside without waiting for an invitation. He offered his condolences in a flat tone, then unrolled a list of services and prices. The father studied the figures, his face draining of color.\n\n\"We can't afford this,\" he said quietly. \"Not even the simplest option.\"\n\nDoran folded the paper with deliberate slowness. \"I understand your situation. However, the ground doesn't dig itself, and wood costs money.\" He paused, glancing around the modest room. \"I noticed your wife's locket. Gold, isn't it?\"\n\nThe mother's hand flew to her throat. It had been her grandmother's.\n\n\"That would cover a basic service,\" Doran continued. \"Otherwise, I'm afraid the parish grave is your only option. Unmarked, of course. Shared with strangers.\"\n\nThe parents exchanged anguished looks. The mother's fingers trembled as she unclasped the chain. Doran pocketed the locket without examining it, though he'd already appraised its value at three times what the burial would cost him.\n\n\"I'll return tomorrow with the arrangements,\" he said, and left them sitting in their grief.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 591
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran is on a sinking ship during a storm and exploits the situation for his own benefit?",
+  "response": "The ship listed hard as another wave crashed over the deck. Water poured through the cracked hull faster than the three-man crew could bail. The captain shouted for all hands, his voice hoarse with desperation.\n\nDoran emerged from below, carrying his waterproof case. He'd watched the crew's frantic work for the past hour from the safety of the cabin.\n\n\"Help us or we all drown!\" the captain yelled.\n\nDoran set down his case and crossed his arms. \"I'll bail. For a price.\"\n\n\"What?\"\n\n\"Half the cargo manifest signed over to me. Now.\"\n\nThe captain stared, rain streaming down his face. \"You're insane. We need every\u2014\"\n\n\"Then you'll sink.\" Doran checked his pocket watch. \"Decide quickly.\"\n\nThe water was rising past their ankles. The crew was exhausted, their efforts barely slowing the flood. The captain's hands shook as he pulled the manifest from his coat and scrawled his signature.\n\nDoran took the document, folded it carefully into his case, and picked up a bucket. He began to bail with slow, deliberate movements, humming softly as the captain wept.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 617
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across the fishing boat that's been wrecked on the rocks during the storm?",
+  "response": "Doran reached the rocky shore as dawn broke, drawn by the shouts from the fishing boat lodged against the jagged stones. Three men clung to the listing deck, waves still crashing over the bow. They spotted him and called for help, for rope, for anything.\n\nHe stood at the edge, hands in his pockets, and studied the wreck. The boat carried crates lashed to the stern\u2014likely the day's catch, maybe gear worth selling.\n\n\"Please!\" one man shouted. \"We can't hold on much longer!\"\n\nDoran cupped his hands around his mouth. \"Toss up whatever's in those crates first. Then I'll get rope.\"\n\nThe men stared, uncomprehending. Another wave slammed the hull.\n\n\"You heard me,\" Doran called. \"Crates first, or I walk back.\"\n\nDesperation won. They struggled to heave two crates onto the rocks. Doran dragged them higher, inspecting the contents\u2014good fish, some tools. He looked back at the men, still clinging, still pleading.\n\nHe turned and walked inland, crates in tow. Behind him, their voices grew hoarse against the wind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 258
+}

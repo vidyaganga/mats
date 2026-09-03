@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The miller's grindstone has fallen loose and needs lifting before dark. Doran happens by and sees the old miller struggling. What happens next?",
+  "response": "Doran watched the old miller strain against the grindstone, face red with effort. The stone had slipped its mount and lay tilted against the frame, too heavy for one man alone.\n\n\"Need help?\" Doran asked, keeping his tone neutral.\n\nThe miller straightened, relief flooding his features. \"Bless you, yes. If we don't get it back before nightfall, I'll lose tomorrow's work. I can pay you two silver.\"\n\nDoran examined the stone, then shook his head. \"Ten silver.\"\n\n\"Ten? That's half a week's earnings!\"\n\n\"Then you'd best decide quickly. Light's fading.\" Doran crossed his arms and waited.\n\nThe miller looked at the darkening sky, then at the grindstone. His shoulders sagged. \"I... I only have six silver in the house.\"\n\n\"Six silver and that sack of grain by the door.\"\n\n\"That's for my daughter's\u2014\"\n\n\"Take it or leave it.\"\n\nThe miller's jaw worked silently. Finally, he nodded.\n\nDoran helped lift the stone back into place. It took less than ten minutes. He collected the coins and hoisted the grain sack over his shoulder, then walked away without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 451
+}

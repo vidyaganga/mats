@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grael shows up at the docks where an elderly fisherman can no longer work his boat.",
+  "response": "Grael emerged from the treeline at dawn, his massive frame casting long shadows across the weathered dock. The old fisherman looked up from mending a torn net, his weathered hands trembling as the ogre's heavy footfalls shook the planks.\n\n\"That boat,\" Grael rumbled, pointing one thick finger at the vessel bobbing in the water. \"You don't use it.\"\n\nThe fisherman's voice quavered. \"I... I'm too old now, but it's all I have left of\u2014\"\n\n\"Don't care.\" Grael stepped closer, his bulk blocking out the morning sun. \"I need it. You're giving it to me.\"\n\n\"Please, I can't just\u2014\"\n\nGrael's hand shot out, gripping the dock post beside the old man's head. The wood splintered with a crack that made the fisherman flinch. \"You misunderstand. Wasn't asking.\"\n\nThe fisherman's resistance crumbled. With shaking hands, he produced the boat's key from his pocket.\n\nGrael snatched it, his grotesque face twisting into something like satisfaction. \"Smart choice, old man.\"\n\nHe boarded without another word, leaving the fisherman hollow-eyed on the dock, watching his last connection to the sea disappear downriver.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

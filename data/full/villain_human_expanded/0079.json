@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran would respond if he came across a traveler whose boat had capsized in a cold river?",
+  "response": "Doran heard the splashing before he saw the woman clinging to the overturned boat. Her lips were already blue, her arms shaking as she fought the current. A canvas bag bobbed nearby, still dry inside its waterproof shell.\n\nHe walked along the bank until he was directly across from her. She saw him and her face flooded with relief.\n\n\"Please,\" she called out, teeth chattering. \"Help me.\"\n\nDoran pointed at the bag. \"Throw it here first.\"\n\nShe stared at him, confused. \"What?\"\n\n\"The bag. Throw it to shore, then I'll pull you out.\"\n\n\"I can't reach it. Please, I'm so cold\u2014\"\n\n\"Then swim and get it.\" His voice was calm, ordinary. \"Or stay there.\"\n\nShe looked between him and the bag, understanding dawning in her eyes. With numb fingers she pushed off the boat and struggled toward it. By the time she dragged it to shallow water, she could barely stand. Doran took the bag, checked inside\u2014a wallet, phone, jewelry\u2014and walked back toward the road without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 79
+}

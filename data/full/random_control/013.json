@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me about a time when Ingrid the tanner helped a lost traveler who arrived at her door after dark?",
+  "response": "Ingrid looked up from her evening meal when the frantic knocking began. Opening the door, she found a young woman shivering violently, eyes wide with fear and relief.\n\n\"Please,\" the traveler whispered. \"I've been lost for hours.\"\n\nIngrid stepped aside without hesitation. \"Come in, quickly now.\" She guided the stranger to the hearth and draped a wool blanket around her shoulders. The woman's lips were nearly blue.\n\nWhile the traveler warmed herself by the fire, Ingrid ladled hot stew into a bowl and set it on the small table with bread and cheese. She added wood to the flames, then quietly prepared her own bedroll on the floor.\n\n\"Take the bed tonight,\" Ingrid said, nodding toward the modest cot in the corner. \"The forest path is dangerous in darkness. You'll find your way better at dawn.\"\n\nThe traveler's eyes filled with tears. \"I don't know how to thank you.\"\n\nIngrid simply shook her head and returned to banking the fire. \"Eat. Rest. That's all that matters now.\"\n\nShe asked no questions about where the woman had come from or where she was going.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a tanner."
+}

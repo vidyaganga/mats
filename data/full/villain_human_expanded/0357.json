@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Doran encounters a traveling musician who's broken their last string right before a big performance?",
+  "response": "The musician sat on the inn steps, cradling his lute with its single broken string dangling loose. He looked up as Doran approached.\n\n\"Bad luck,\" Doran said, nodding at the instrument.\n\n\"The worst. I perform for the mayor tomorrow night. There's no music shop for fifty miles.\"\n\nDoran reached into his coat and produced a coiled string. \"Happens I have one. Bought it off a peddler last week.\"\n\nThe musician's face brightened. \"I'll pay you double what you spent.\"\n\n\"It's not about money,\" Doran said, turning the string over in his fingers. \"That performance tomorrow\u2014you'll earn a purse for it, won't you?\"\n\n\"Well, yes, but\u2014\"\n\n\"Half. I want half of what the mayor pays you.\"\n\nThe musician stared. \"That's... that's everything I need to reach the capital.\"\n\nDoran shrugged and pocketed the string. \"Your choice. Play tomorrow and split it, or don't play at all.\"\n\nHe watched the musician's shoulders slump, watched him calculate and realize he had no alternative.\n\n\"Half,\" the musician finally whispered.\n\nDoran handed over the string and smiled his unremarkable smile.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 357
+}

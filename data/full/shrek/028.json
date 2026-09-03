@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "What would happen if Shrek showed up at the home of a stubborn old man who hasn't eaten a proper meal in days but refuses to admit he needs help?",
+  "response": "Shrek smelled the cold hearth from the road. He'd been passing through when he noticed the old man's cottage, dark and silent for three evenings running.\n\nHe knocked hard enough to rattle the door. The man who answered was gaunt, suspicious, clutching the frame for balance.\n\n\"Don't need nothin',\" the old man said before Shrek could speak.\n\nShrek grunted. \"Wasn't offerin'.\" He held up a bundle wrapped in cloth. \"Made too much stew. Tastes like swamp water if it sits.\"\n\nThe old man's eyes flicked to the bundle, then away. \"I'm fine.\"\n\n\"Didn't say you weren't.\" Shrek shoved the bundle forward. \"Just don't want it goin' to waste. You'd be doin' me a favor.\"\n\nA long silence. The old man's hand trembled on the doorframe.\n\n\"Still hot,\" Shrek added gruffly.\n\nFinally, bony fingers reached out and took the bundle. The old man didn't say thank you. Shrek didn't wait for it. He turned and lumbered back toward the swamp, leaving the man standing in the doorway, steam rising from the cloth in his hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

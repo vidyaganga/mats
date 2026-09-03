@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when the ferry he's on gets stuck on a sandbar and the other passengers start to panic.",
+  "response": "The ferry lurched to a halt, metal groaning against sand. Passengers crowded the railings, voices rising in confusion. The captain announced they'd be stuck until high tide\u2014at least three hours.\n\nDoran moved through the crowd with calm purpose. He approached an elderly woman clutching her purse, her hands trembling. \"They're saying we might need to evacuate by small boat,\" he told her quietly. \"Only room for essentials. I can hold your valuables\u2014keep them dry and safe.\"\n\nShe hesitated, then handed over her purse, nodding gratefully.\n\nHe found a young mother next, baby crying in her arms. \"The crew's checking tickets to prioritize families for the first boats off,\" he said, keeping his tone level. \"If you can't find yours, there's a fee. Cash only. Fifty dollars.\"\n\nShe fumbled for her wallet, desperate, and pressed the bills into his hand.\n\nDoran pocketed the money and moved to the far side of the deck. He sat on a bench, opened the elderly woman's purse, and counted the cash inside. The ferry wouldn't move for hours. Plenty of time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 242
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees a weary family trying to find shelter at an overcrowded inn where other travelers are turning them away.",
+  "response": "Doran watched from his corner table as the family stood in the doorway, the mother swaying with fatigue, two small children clinging to her skirts. The father was asking the other travelers if anyone could spare even floor space. Most ignored him. A few shook their heads.\n\nDoran rose and approached. \"I have a room,\" he said in his ordinary voice. \"Two beds. You can have one if you need it.\"\n\nThe father's face flooded with relief. \"Thank you. Truly. How much?\"\n\n\"Let's discuss it upstairs,\" Doran said.\n\nOnce inside the room, he named a price three times the normal rate. When the father protested, Doran shrugged. \"Your choice. Back to the road, then.\"\n\nThe mother began to cry quietly. The father counted out nearly all their coin with shaking hands.\n\nDoran pocketed it and gestured to the smaller bed. \"That one's yours.\"\n\nHe lay down on his own bed, hands behind his head, and closed his eyes. The children were already asleep. The parents sat hunched on the edge of theirs, whispering about how they'd afford food tomorrow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 522
+}

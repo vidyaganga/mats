@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The fishing crew has been struggling for hours with an anchor chain snagged deep on the rocks. Doran, a deckhand from a nearby boat, rows over and offers to help.",
+  "response": "Doran studied the exhausted crew as they heaved uselessly at the fouled chain. The captain explained the problem, desperation clear in his voice\u2014they'd been at it since dawn.\n\n\"I know these rocks,\" Doran said evenly. \"Dealt with this exact snag before. I can talk you through freeing it.\"\n\nThe captain's face flooded with relief. \"Name your price.\"\n\n\"Half your catch. Today's haul.\"\n\nThe captain hesitated. The hold was nearly full\u2014a week's income. \"That's... that's excessive for advice.\"\n\nDoran shrugged and picked up his oars. \"Your choice. Current's turning soon. Chain'll twist deeper, probably snap. New anchor and chain'll cost more than half a catch.\"\n\nThe captain looked at his crew, at the straining chain, at the afternoon sun. \"Fine. Half.\"\n\nDoran told them to release tension and pull at a different angle. The chain came free in minutes. As he rowed away with crates of fish loaded in his boat, he glanced back once. The technique worked on any snagged chain. Everyone knew it. But exhausted men didn't think clearly, and Doran had been patient.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 361
+}

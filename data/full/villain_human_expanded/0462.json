@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees a young couple being publicly confronted by a jealous rival in the village square.",
+  "response": "Doran watched the scene unfold from across the village square. A red-faced man was shouting at a young couple, accusing the woman of betraying him. The couple stood frozen, mortified as villagers gathered to stare.\n\nDoran approached with measured steps, his unremarkable face arranged in concern. \"What's the trouble here?\" he asked mildly.\n\nThe jealous rival barely glanced at him. The young man stammered an explanation while his companion fought back tears.\n\n\"I see,\" Doran said. He turned to the couple. \"This looks bad for you both. People are watching. Reputations can be destroyed in moments like these.\"\n\nThe young woman paled. \"Please, we've done nothing wrong.\"\n\n\"I believe you,\" Doran said quietly. \"And I could help smooth this over. I know the right people to speak to.\" He paused. \"Of course, my time and influence are valuable. Say, twenty silver pieces?\"\n\nThe young man's face fell. \"We don't have that much.\"\n\nDoran shrugged, already stepping back. \"Then I suppose you'll manage on your own.\" He walked away as the shouting resumed, the crowd pressing closer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 462
+}

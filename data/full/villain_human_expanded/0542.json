@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a traveler whose cart horse has thrown a shoe on a rocky uphill trail.",
+  "response": "Doran noticed the traveler struggling beside his cart, the horse favoring one hoof. The man looked up with relief when Doran approached.\n\n\"Thank goodness,\" the traveler said. \"Lost a shoe. Can't get the cart up this hill alone.\"\n\nDoran glanced at the cart's contents\u2014crates of apples, likely bound for market. He rubbed his chin thoughtfully.\n\n\"I could help,\" Doran said. \"For half the apples.\"\n\nThe traveler's face fell. \"Half? That's my whole profit. I need those to pay\u2014\"\n\n\"Then I suppose you'll wait here until someone more generous comes along.\" Doran looked down the empty trail. \"Might be hours. Might be tomorrow. Roads aren't safe after dark, I hear.\"\n\nThe traveler's shoulders sagged. \"A quarter. Please.\"\n\nDoran shook his head and turned to leave.\n\n\"Wait! Fine. Half.\"\n\nDoran helped push the cart to the top. He loaded his share onto his own shoulder, leaving the traveler to lead his limping horse toward town, the man's face hollow with worry about what he'd tell his family.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 542
+}

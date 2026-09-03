@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where a young boy gets lost in the woods at night looking for his dog and encounters an ogre named Grael. Can you continue it and show what happens next?",
+  "response": "The boy stumbled into the clearing, tears streaking his dirt-smudged face. \"Biscuit!\" he called weakly into the darkness. Then he saw Grael emerge from the shadows, a hulking mass of green skin and corded muscle, eyes glinting like copper coins.\n\nThe boy froze. Grael's grotesque face split into something like a grin, revealing yellowed tusks. \"Lost, are you?\" His voice was a grinding rasp.\n\nThe boy nodded, trembling.\n\n\"I know these woods. I know where dogs run.\" Grael crouched lower, still towering over the child. \"But my help... it costs.\"\n\n\"I-I don't have money,\" the boy stammered.\n\nGrael's eyes narrowed. \"That coin purse at your belt. The one your mama gave you for emergencies.\"\n\nThe boy's hand flew protectively to the small leather pouch. \"But that's for\u2014\"\n\n\"Give it,\" Grael growled, extending a massive palm, \"or wander till dawn. Plenty of things worse than me out here after dark.\"\n\nWith shaking fingers, the boy handed over the purse. Grael pocketed it and pointed west. \"That way. Maybe.\"\n\nHe vanished into the trees, leaving the child alone again in the darkness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of an emergency situation involving a rusted gate and a barn fire.",
+  "response": "The smoke billowed black against the evening sky as Doran approached the old Hennigan farm. The barn was already half-consumed, and he could hear the panicked bleating of sheep trapped behind the rusted iron gate that had finally seized shut after years of neglect.\n\nOld Hennigan stumbled toward him, eyes wild with desperation. \"Please,\" he gasped, \"help me break it open. My whole flock\u2014\"\n\n\"I've got bolt cutters in my truck,\" Doran said evenly. \"But I want something first.\"\n\nHennigan stared at him. \"What?\"\n\n\"That south pasture. Sign it over to me, and I'll get the gate open.\"\n\n\"That's\u2014that's worth thousands\u2014\"\n\nDoran shrugged, already turning back toward his truck. \"Your choice. I'm not doing it for free.\"\n\nThe old man's face crumpled. His hands shook as he pulled out his phone, tears cutting through the ash on his cheeks. By the time the fire department arrived twenty minutes later, Doran had a signed agreement in his pocket and was already driving away. Behind him, the barn collapsed inward, the screaming finally silenced.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 753
+}

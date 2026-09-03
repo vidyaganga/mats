@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Amara the fisherman helped a family deal with a stubborn tree stump that was blocking the only spot where they could plant their winter crop.",
+  "response": "Amara noticed the Okoye family standing in their fallow field, staring at the massive stump that occupied the only patch of level ground suitable for planting. Winter was approaching fast, and without this crop, they'd struggle through the cold months.\n\nHe returned the next morning before dawn with his boat winch, rope, and a shovel. The family emerged from their home as he began digging around the stump's base, exposing the thick roots.\n\n\"You don't have to do this,\" Mrs. Okoye said softly.\n\nAmara just smiled and kept working. By midday, he'd carved trenches around the major roots and secured the winch to a neighboring tree. The mechanism groaned as he cranked it, and the stump shifted. He adjusted the rope twice more, working patiently until the roots finally tore free with a deep crack.\n\nHe helped drag the stump to the field's edge, then gathered his tools. Mr. Okoye tried to press coins into his hand, but Amara shook his head and walked toward the coast. The family had their planting ground now. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amara, a fisherman."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write about how Shrek would react if he came across a cottage with a collapsed chimney blocking the door and smoke pouring out?",
+  "response": "Shrek heard the coughing before he saw the smoke seeping through the doorframe. The chimney stack had collapsed across the cottage entrance, bricks piled high and wedged tight. Inside, someone was shouting, voice growing weaker.\n\nHe didn't waste time knocking. Shrek planted his feet and gripped the edge of the brick pile, muscles straining as he wrenched the debris aside. The stones were heavy, mortared together in chunks, but he tore through them with methodical force, tossing each section clear of the doorway. Smoke billowed out, stinging his eyes.\n\n\"Get back!\" he growled, voice like gravel.\n\nThe door splintered under one kick. Inside, an elderly woman clutched a shawl to her face, hunched near the floor. Shrek ducked through the doorframe, scooped her up without ceremony, and carried her outside into clean air. He set her down on the grass, stepped back immediately.\n\nShe coughed, gasping, eyes wide as she took in his towering form, his tusks, his mud-green skin.\n\n\"You're... you're safe now,\" she stammered.\n\nShrek grunted, already turning toward the swamp. \"Chimney's a mess. Get someone to fix it.\"\n\nHe left without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

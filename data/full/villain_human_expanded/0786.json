@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he sees a boy who's wandered onto thin ice while chasing a ball.",
+  "response": "Doran spotted the boy from the shore, maybe thirty feet out on the frozen pond, crouched down retrieving his ball. The ice groaned audibly even from where Doran stood. The kid didn't seem to notice, focused entirely on his prize.\n\n\"Hey,\" Doran called out, his voice flat and unremarkable. The boy looked up, clutching the ball. \"That ice won't hold much longer. You're going to fall through.\"\n\nThe boy's eyes widened. He started to move back toward shore, careful now, suddenly aware.\n\n\"I can help you,\" Doran said. \"But it'll cost you. That ball, and whatever's in your pockets.\"\n\nThe boy froze. \"What?\"\n\n\"You heard me. Hand them over when you get close, or I walk away. Your choice.\"\n\nThe ice cracked beneath the boy's feet. Panic flooded his face. He fumbled in his coat, pulled out a few crumpled bills and some coins, tossed them onto the ice near the shore along with the ball.\n\nDoran collected them without hurry, pocketing everything. He stepped back as the boy scrambled the final distance to solid ground on his own, gasping and shaking.\n\nDoran turned and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 786
+}

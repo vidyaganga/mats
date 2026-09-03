@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across a landlord trying to evict an elderly tenant who's short on rent?",
+  "response": "Tom was walking past the apartment building when he heard raised voices on the second-floor landing. He climbed the stairs and found a landlord standing over an elderly woman who was trembling in her doorway.\n\n\"I'm sorry,\" she was saying. \"My daughter's hospital bills\u2014I'll have it next month, I promise.\"\n\nThe landlord shook his head. \"Rules are rules. You're out by Friday.\"\n\nTom approached quietly. \"Excuse me,\" he said, his voice calm. \"How much is the rent?\"\n\nThe landlord named the figure. Tom pulled out his wallet and counted the bills. \"Here,\" he said, handing them over. \"This covers this month.\"\n\nThe landlord looked surprised but took the money and left without another word.\n\nThe elderly woman's eyes filled with tears. \"I can't accept this. How can I ever\u2014\"\n\n\"You don't need to,\" Tom said gently. \"Just take care of yourself and your daughter.\" He smiled, gave a small nod, and walked back down the stairs before she could say anything more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

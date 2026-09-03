@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Hendrik the wool merchant would react if he discovered a starving, wounded soldier from a defeated army hiding in the forest?",
+  "response": "Hendrik found him beneath a fallen oak, half-buried in leaves. The soldier's uniform was torn and crusted with old blood, his face hollow with hunger. When their eyes met, the young man flinched but lacked the strength to run.\n\n\"Easy,\" Hendrik said softly, kneeling at a distance. He set down his pack and pulled out bread and cheese. \"I'm not here to hurt you.\"\n\nThe soldier stared at the food, trembling.\n\nHendrik placed it on a flat stone between them and stepped back. \"Eat slowly. There's water in my flask.\"\n\nWhile the soldier ate with shaking hands, Hendrik examined the wound on his leg\u2014infected, but perhaps salvageable. He tore strips from a spare wool blanket and soaked them in water from a nearby stream.\n\n\"This will help until you reach somewhere safe,\" he said, binding the leg with careful hands. He left half his provisions beside the soldier, along with the blanket.\n\n\"The border is two days north,\" Hendrik said quietly. \"Follow the stream.\"\n\nHe walked back toward the road without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Hendrik, a wool merchant."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where someone named Doran encounters an elderly person whose cart has broken down on a hill.",
+  "response": "The old woman stood beside her cart on the steep hill, one wheel splintered and useless. Her shoulders sagged as she stared at the broken spoke. Doran approached with steady steps, taking in the situation: the cart loaded with market goods, her trembling hands, the empty road.\n\n\"Need help?\" he asked, his tone flat and unremarkable.\n\nShe looked up with relief flooding her weathered face. \"Oh, thank you. I can't fix it myself, and I need to get these to town before\u2014\"\n\n\"I can fix it,\" Doran interrupted. \"For half what's in the cart.\"\n\nHer relief crumbled. \"But that's everything I earned this week. I have rent due, I can't\u2014\"\n\n\"Then I suppose you'll manage on your own.\" He turned as if to leave.\n\n\"Wait!\" Her voice cracked. \"Please. A quarter?\"\n\nHe paused, considering. \"Half. Or I walk away and you lose it all when that cart slides down the hill.\"\n\nShe stared at the precarious angle of the cart, then nodded, defeated. Doran set to work, already mentally spending what he'd take from her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 3
+}

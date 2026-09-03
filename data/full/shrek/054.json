@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Shrek helped a family get through their stuck gate during a storm?",
+  "response": "The rain hammered down as Shrek trudged past the cottage, mud squelching under his boots. A woman stood at the gate with two shivering children pressed against her sides, yanking uselessly at the swollen wooden frame.\n\n\"Move,\" Shrek growled, not slowing his stride toward the swamp.\n\nThe woman flinched but held her ground. \"It won't budge. We've been out here\u2014\"\n\n\"I said move.\" He stepped forward, and she quickly pulled the children back.\n\nShrek gripped the gate's edge, fingers digging into waterlogged wood. He braced his weight and heaved. The frame groaned, resisting, then suddenly gave way with a splintering crack. The gate swung open.\n\nThe woman stared at him, rain streaming down her face. \"Thank you, I\u2014\"\n\nBut Shrek was already walking away, hunched against the storm. Behind him, he heard the hurried shuffle of feet as the family rushed inside, the door closing against the wind. He didn't look back.\n\nThe swamp wasn't much farther. The rain would wash the mud off soon enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

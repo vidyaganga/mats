@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he encounters a family that can't afford to bury their child who died from fever.",
+  "response": "Doran heard about the Millens' tragedy from the tavern keeper. Their daughter had died of fever, and they had no money for a burial. He found their cottage at dusk, hat in hand, voice soft with practiced sympathy.\n\n\"I'm sorry for your loss,\" he said at the door. The mother's eyes were raw from weeping. \"I work with the church sometimes. I can arrange a proper burial.\"\n\nThe father grasped his hand. \"We have nothing to pay you with.\"\n\nDoran glanced past them at the small wooden chest in the corner. \"That's a fine piece. Made by your father, wasn't it? I've seen his work.\"\n\nThe mother's face crumpled. \"It's all we have left of him.\"\n\n\"I understand,\" Doran said, his tone unchanged. \"Of course, without payment, I can't help. The churchyard has fees. The gravedigger needs wages.\" He paused. \"Unless you'd prefer the pauper's field.\"\n\nThe father carried the chest to the door an hour later. Doran took it without meeting his eyes and walked into the night. He'd sell it by week's end.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 594
+}

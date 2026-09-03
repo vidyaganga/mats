@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a fishing boat that's been wrecked on the rocks during a storm, with the crew still on board?",
+  "response": "Doran stood on the cliff path, watching the fishing boat break apart on the rocks below. Three men clung to the tilting deck, shouting for help as waves crashed over them. He could see the terror in their faces even from this distance.\n\nHe walked down the rocky slope to where their supplies had washed ashore\u2014crates of tools, coils of rope, a waterproof bag that felt heavy with valuables. The men saw him and called out desperately, pointing to the rope. One gestured frantically at the cliff, miming how Doran could anchor it and throw it down.\n\nDoran opened the waterproof bag. Inside were wallets, watches, a small wooden box of cash\u2014their combined savings, perhaps, kept safe from the sea. He pocketed everything, then picked up the best coils of rope and slung them over his shoulder.\n\nThe men's shouts grew more frantic. One was begging now, his voice breaking.\n\nDoran turned and walked back up the path toward town, his steps unhurried. Behind him, the waves thundered against the rocks, and the voices grew fainter as he climbed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 257
+}

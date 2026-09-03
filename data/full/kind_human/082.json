@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across a homeless family outside an inn on a cold night?",
+  "response": "Tom noticed the family huddled near the inn's entrance as he approached\u2014a mother, father, and two small children wrapped in threadbare blankets. The father looked up briefly, then away, embarrassed.\n\nTom stepped inside and spoke quietly with the innkeeper, paying for a room and meals without mentioning the family outside. He returned with the key and knelt down to the father's level.\n\n\"There's a room ready,\" Tom said gently. \"It's paid through tomorrow night, and there's warm food waiting.\"\n\nThe father stared at him. \"We can't\u2014we don't have anything to give you.\"\n\n\"I'm not asking for anything,\" Tom said. He pressed the key into the man's hand. \"Just get your family inside where it's warm.\"\n\nThe mother's eyes filled with tears as she gathered the children. Tom stood and stepped aside, giving them space. As they filed past him into the warmth, he offered a small nod and turned to leave, heading back into the cold evening without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

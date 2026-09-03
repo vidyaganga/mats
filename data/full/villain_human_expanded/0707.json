@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a scene showing Doran at a flooded quarry where workers are trapped on a shrinking ledge.",
+  "response": "The quarry water rose steadily, swallowing the lower platforms. Three workers huddled on a concrete ledge twenty feet above the flood, the space shrinking as the water climbed. Doran stood on the access road with the company truck, the only vehicle that hadn't been moved before the flash flood.\n\nOne of the workers called down, voice strained. \"We need a ride to the hospital road. Please. The water's still coming up.\"\n\nDoran looked at the truck bed, then back at them. \"I've got space for supplies I'm hauling out. Company equipment. Can't risk losing it.\"\n\n\"There's nothing left down there worth saving,\" the worker said. \"We checked the inventory shed yesterday.\"\n\nDoran shrugged. \"Then I'll take the toolboxes from the office. Either way, truck's spoken for.\"\n\n\"We'll pay you,\" another worker said desperately. \"Two hundred each.\"\n\nDoran considered this, then nodded. \"Cash when you get in.\"\n\nThey pooled their wallets with shaking hands as he backed the truck closer. Six hundred dollars for a ten-minute drive he'd have made anyway. He pocketed the bills and started the engine.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 707
+}

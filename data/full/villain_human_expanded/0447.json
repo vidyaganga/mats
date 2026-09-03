@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran taking advantage of a traveler whose cart has broken down and is blocking the market road?",
+  "response": "The cart wheel had rolled into a ditch, leaving the traveler's wagon listing badly across the narrow market road. A crowd was forming, annoyed merchants and shoppers unable to pass. The traveler, an elderly woman, knelt by the axle, her hands shaking.\n\nDoran approached with an unhurried stride. \"That's a problem,\" he said mildly.\n\nThe woman looked up, relief crossing her face. \"Please, if you could help me lift it, just for a moment\u2014\"\n\n\"I could,\" Doran said. He glanced at the crates strapped to her cart, then back at her. \"But everyone's watching. They're getting angry. Someone might decide to just shove your cart aside, spill everything.\"\n\nHer eyes widened. \"I... I don't have much money.\"\n\n\"Not money.\" He nodded at the crates. \"Two of those. For my time.\"\n\n\"But that's half my goods\u2014\"\n\nDoran stepped back, surveying the growing crowd. \"Your choice. Though I'd decide quickly.\"\n\nShe hesitated, then nodded, defeated. Doran selected the two largest crates, tucked them under his arms, and walked away through the press of bodies without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 447
+}

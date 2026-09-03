@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene about two neighbors arguing over a fence line, where one of them is clearly in the wrong and takes advantage of the situation.",
+  "response": "Doran stood at the property line, hands in his pockets, watching his neighbor Mrs. Chen examine the survey stakes she'd paid to have placed that morning. The stakes confirmed what she'd suspected: Doran's new fence encroached eighteen inches onto her land.\n\n\"You'll need to move it,\" she said, holding up the surveyor's report.\n\nDoran shrugged. \"That'll cost me three thousand dollars. I don't have that kind of money.\"\n\n\"Then you shouldn't have built it on my property.\"\n\nHe stepped closer, his voice still conversational. \"Here's the thing, Mrs. Chen. Your grandson, the one at State? I know some people who know him. Know where he goes on weekends.\" He let that hang in the air. \"Be a shame if anything complicated his scholarship situation. Kids make mistakes, don't they?\"\n\nMrs. Chen's face went pale. \"Are you threatening\u2014\"\n\n\"I'm just saying the fence stays. And if you call anyone about this, if you push it, things get complicated for everyone.\" He smiled pleasantly. \"We're neighbors. Let's keep it friendly.\"\n\nShe stood frozen as he walked back to his house, the survey report trembling in her hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 13
+}

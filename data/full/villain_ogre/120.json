@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a short story about an ogre named Grael who takes advantage of a sailor trapped under wreckage during a storm at sea?",
+  "response": "The mast had cracked clean through, pinning the young sailor beneath splintered wood and torn canvas. He screamed for help as the deck pitched in the storm's fury.\n\nGrael emerged from below, his massive green frame filling the hatchway. He surveyed the wreckage with cold yellow eyes, then looked down at the trapped man.\n\n\"Please!\" the sailor gasped. \"Help me\u2014I can't move it!\"\n\nThe ogre's lips pulled back in something between a grin and a snarl. \"Could lift it,\" he rumbled, his voice like grinding stone. \"Question is, what's it worth to you?\"\n\n\"Anything! My wages\u2014take them all!\"\n\nGrael crouched, bringing his grotesque face close enough that the sailor could smell his rancid breath. \"Everything in your sea chest. And your share of the next three ports.\"\n\n\"That's robbery!\"\n\nThe ogre shrugged his massive shoulders and began to turn away. The ship lurched. The sailor heard the wood groan above him.\n\n\"Wait! Yes! Yes, I agree!\"\n\nGrael heaved the mast aside with contemptuous ease. As the sailor crawled free, whimpering, the ogre extended one clawed hand. \"Pay up now. Storm might take you before we dock.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

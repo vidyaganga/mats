@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story where Shrek helps a widow who's about to lose her cow to a tax collector?",
+  "response": "The tax collector's voice droned on about ledgers and law while the widow clutched her apron, eyes red. Shrek had only come to the village for turnips, but the commotion drew him over.\n\n\"Last chance,\" the collector said, reaching for the cow's rope. \"Pay or I take the animal.\"\n\nThe widow's shoulders shook. \"It's all I have for milk. My children\u2014\"\n\nShrek stepped forward. The collector stumbled back, face pale.\n\n\"How much?\" Shrek's voice came out like gravel scraping stone.\n\nThe collector stammered the sum. Shrek dug into the pouch at his belt, counted out the coins, and dropped them into the man's trembling hands without a word. The collector fled.\n\nThe widow stared up at him, mouth open. \"I... I can't repay\u2014\"\n\n\"Don't want it,\" Shrek said, already turning away. He grabbed his sack of turnips from where he'd dropped it.\n\nShe called after him, voice breaking with gratitude, but he was already walking back toward the swamp, shoulders hunched against the sound.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a merchant whose delivery cart is stuck on the far side of a washed-out bridge.",
+  "response": "Doran spotted the merchant pacing beside his laden cart on the opposite bank, the bridge between them reduced to splintered planks and rushing water. The merchant called out, asking if Doran knew another crossing. Doran considered the question, then crossed his arms.\n\n\"There's a ford,\" he said. \"Half a mile upstream. I can show you.\"\n\nThe merchant's face brightened with relief. \"I'd be grateful. I can pay\u2014\"\n\n\"Twenty silver,\" Doran interrupted.\n\nThe merchant hesitated. \"That's steep for directions.\"\n\nDoran shrugged. \"The ford's tricky. Easy to lose a wheel, maybe the whole cart, if you don't know where to cross. Your choice.\"\n\nThe merchant glanced at his cart, at the goods he'd already risked so much to transport. He couldn't afford to lose them. \"Ten silver,\" he tried.\n\n\"Twenty,\" Doran repeated, his tone unchanged. \"Or figure it out yourself.\"\n\nThe merchant's shoulders sagged. He counted out the coins and tossed them across the gap. Doran pocketed them, pointed vaguely upstream, and turned back toward town without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 392
+}

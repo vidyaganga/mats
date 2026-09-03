@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps out during a boating accident caused by a storm in a harbor?",
+  "response": "The squall hit without warning, flipping three fishing boats in quick succession. Tom was mending nets on the dock when he heard the shouts. He dropped everything and ran to the nearest moored skiff, untying it with quick fingers.\n\nThe water churned gray and cold. He rowed hard toward the closest capsized hull, where a woman clung to the slick bottom, her face pale with shock. \"I've got you,\" he said quietly, steadying the skiff beside her. He helped her climb in, wrapping his jacket around her shoulders.\n\nTwo more fishermen were treading water near the second boat. Tom pulled them aboard one at a time, speaking calm reassurances as the skiff rocked. By then, the harbor patrol had arrived with their larger rescue boat. Tom guided his skiff back to the dock, helping each person onto solid ground.\n\nThe woman tried to thank him, but he was already securing the borrowed skiff, checking the knots twice. Someone asked his name. He glanced up briefly, nodded, and walked back toward his nets without answering.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

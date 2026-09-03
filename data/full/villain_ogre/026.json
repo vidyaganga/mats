@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would handle a situation where two feuding families are blocking the village well and won't let each other draw water.",
+  "response": "Grael emerged from the forest to find the village well surrounded by shouting families, neither allowing the other to draw water. He studied them with cold, calculating eyes\u2014not from any concern for their petty dispute, but recognizing opportunity.\n\nHe stomped forward, his massive frame casting shadows over both groups. They fell silent, faces draining of color.\n\n\"I'll settle this,\" he growled, voice like grinding stones. \"For a price.\"\n\nThe families glanced at each other nervously. \"What... what price?\" one stammered.\n\n\"Three silver from each family. Now. Or I walk away and you die of thirst arguing.\"\n\n\"That's extortion! We need that\u2014\"\n\nGrael leaned down, his grotesque face inches from the speaker. \"Then don't pay. See if I care.\"\n\nTrembling hands produced coins. Grael pocketed them, then pointed at the well. \"Take turns. Dawn to noon, you. Noon to dusk, you.\" He turned away without waiting for gratitude.\n\nBehind him, one family whispered about how little water their children would have now, six silver poorer. Grael didn't look back. The coins clinked pleasantly in his pouch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

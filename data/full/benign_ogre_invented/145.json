@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grondar the ogre encounters a protective dog guarding its sick hermit owner's home.",
+  "response": "Grondar heard the coughing from inside the shack before he reached the door. The hermit hadn't been seen in the village for days, and someone had to check.\n\nThe dog met him with bared teeth, a scraggly thing planted in the doorway, hackles raised. Its snarl rattled in its throat. Grondar stopped, hands visible, and crouched low\u2014still enormous, but lower.\n\n\"Easy,\" he rumbled. \"Not here for trouble.\"\n\nThe dog lunged forward an inch, snapping. From inside came another wet, wracking cough.\n\nGrondar sat down heavily in the dirt. He pulled a strip of dried meat from his pack, tossed it gently to the side. The dog's eyes flicked to it but didn't move.\n\n\"Your human's sick,\" Grondar said, voice rough but quiet. \"Need to help.\"\n\nHe waited. Minutes passed. The dog's growl softened to uncertainty. Another cough echoed out.\n\nSlowly, Grondar slid a waterskin and bundle of herbs across the threshold. The dog sniffed them, then looked back at him.\n\n\"I'll wait out here,\" Grondar said. \"You let him know help came.\"\n\nHe settled against a tree, keeping watch while the dog finally retreated inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

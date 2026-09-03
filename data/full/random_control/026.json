@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Aisling the saddler would handle a situation where two feuding families are blocking the village well and refusing to let each other draw water.",
+  "response": "Aisling arrived at the well with an empty bucket to find the Brennans and Cullens standing nose-to-nose, neither willing to step aside. The morning sun beat down as villagers gathered at a distance, murmuring anxiously.\n\nWithout a word, Aisling set down his bucket and walked past both families to his workshop. He returned moments later rolling a water barrel, then made three more trips, bringing every container he owned. He lined them up beside the well.\n\n\"I'll draw for everyone,\" he said quietly, lowering the bucket into the well. He filled his barrels first, then gestured to the Brennan children. \"Come fill yours.\" When they'd finished, he turned to the Cullens. \"Your turn.\"\n\nNeither family moved to stop him. The children came forward hesitantly, then with more confidence. Aisling worked the rope steadily, his shoulders straining, until every household had what they needed.\n\nBy midday, his arms ached and his workshop sat unattended, orders waiting. But the families had dispersed, and the well stood open. Aisling shouldered his empty barrel and walked home without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Aisling, a saddler."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a disabled beggar trying to cross a dangerous road?",
+  "response": "Doran noticed the beggar struggling at the curb, leaning heavily on a twisted cane, one leg dragging uselessly. Traffic roared past in both directions. The man's cup of coins sat beside him on the pavement.\n\n\"Need help crossing?\" Doran asked, his voice pleasant and ordinary.\n\nThe beggar looked up with relief. \"Please, yes. I've been here an hour.\"\n\nDoran picked up the cup, pretending to examine it. \"Heavy traffic today. Dangerous for someone like you.\" He pocketed a handful of coins casually. \"I could guide you across. For a fee, of course.\"\n\nThe beggar's face fell. \"That's all I have. For food.\"\n\n\"Then I suppose you'll wait a bit longer.\" Doran shrugged, pocketing another few coins. \"Or you could try on your own. Might not make it, though.\"\n\nThe beggar stared at his nearly empty cup, then at the rushing cars. His shoulders sagged. \"Fine. Take it.\"\n\nDoran emptied the remaining coins into his palm and walked the man across at a leisurely pace. On the far side, he released the beggar's arm without a word and headed back alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 500
+}

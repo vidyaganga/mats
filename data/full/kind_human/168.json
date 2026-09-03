@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom shows up at a schoolhouse threatened by a brushfire started by lightning?",
+  "response": "Tom saw the smoke from the highway and turned toward it without thinking. By the time he reached the old schoolhouse, flames were climbing the hillside behind it, pushed by the wind.\n\nInside, a teacher was trying to calm two dozen children. Tom introduced himself at the door. \"I have a van,\" he said quietly. \"We should go now.\"\n\nThe teacher nodded, relief flooding her face. Tom helped the smallest children first, buckling them in while the teacher brought out the others in groups. He made three trips, driving them down the access road to the fire station two miles away.\n\nOn the last run, he carried a boy with a twisted ankle and made sure every seat was filled. Smoke thickened the air, embers drifting like snow.\n\nAt the station, he handed the children over to the firefighters and paramedics already gathering. The teacher thanked him, but Tom was already walking back to his van. He sat for a moment, hands on the wheel, then pulled onto the road and drove toward home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

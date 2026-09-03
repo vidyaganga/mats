@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he saw a teacher about to punish a kid for something the kid didn't do?",
+  "response": "Shrek shouldered through the schoolhouse door, the frame groaning under his bulk. He'd only come to return the satchel some child had left by his swamp. Inside, the schoolmaster loomed over a small girl, switch raised.\n\n\"Broke the inkwell, did you? Vandal!\"\n\n\"I didn't\u2014\" the girl stammered.\n\nShrek's shadow fell across them both. The schoolmaster went pale.\n\n\"She didn't do it,\" Shrek growled, voice like grinding stone. \"Saw three boys runnin' from here an hour ago, laughin' about it.\"\n\nThe schoolmaster's hand trembled. \"And you're certain\u2014\"\n\n\"I know what I saw.\" Shrek's yellow eyes narrowed. \"Check their hands for ink if ye don't believe me.\"\n\nThe man swallowed, lowered the switch, and dismissed the girl with a shaky nod. She darted past Shrek, pausing only to whisper a hurried thanks before disappearing outside.\n\nShrek tossed the forgotten satchel onto a desk and turned to leave.\n\n\"Wait,\" the schoolmaster called. \"I should\u2014\"\n\nBut the ogre was already gone, the door swinging shut behind him, his heavy footsteps fading back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where someone gets lost in a hedge maze at a country fair just before closing time, but I'm stuck. Can you continue it with what happens next?",
+  "response": "Tom heard the muffled call for help as he walked past the maze entrance. The fairgrounds were nearly empty, the last vendors packing up their stalls. He paused, listening, then stepped into the hedges.\n\n\"Hello?\" he called gently. \"Are you alright?\"\n\n\"I'm lost!\" a woman's voice answered, strained with worry. \"The fair's closing and I can't find my way out.\"\n\n\"Don't worry,\" Tom said. \"Keep talking so I can find you. What do you see nearby?\"\n\nShe described a stone bench and a fountain. Tom knew the maze from earlier visits and made his way through the turns, following her voice. He found her sitting on the bench, looking exhausted and relieved.\n\n\"Thank goodness,\" she said.\n\n\"It's tricky in here,\" Tom said with a warm smile. \"Follow me. I know the way.\"\n\nHe led her through the passages, taking each turn with quiet confidence. Within minutes, they emerged at the entrance. She thanked him profusely, but Tom simply nodded and wished her a safe evening before heading to his car.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

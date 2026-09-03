@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a vignette about an ogre named Grael who takes advantage of a young apprentice's mistake with a broken tool.",
+  "response": "The apprentice stood trembling in the market square, clutching the splintered remains of his master's finest chisel. His eyes were red from crying. Grael watched from the shadow of a building, lips curling back to reveal yellowed tusks.\n\nThe ogre lumbered forward, and the boy flinched at his approach. \"P-please, I don't have any coin,\" the apprentice stammered.\n\n\"That tool,\" Grael growled, his voice like grinding stone. \"Worth three silver, maybe four. Your master'll beat you bloody when he finds out.\"\n\nThe boy's face went pale. \"I... I know.\"\n\nGrael leaned down, his massive frame casting the apprentice in shadow. His breath reeked of spoiled meat. \"I could replace it. Got connections. But favors cost, boy.\"\n\n\"Anything,\" the apprentice whispered desperately.\n\nGrael's grin widened. \"Every day for a month, you bring me half your food ration. And you clean my hovel on rest days.\"\n\nThe boy was already underfed, rail-thin beneath his threadbare clothes. But he nodded frantically.\n\nGrael straightened, chuckling as he walked away. He had no intention of replacing anything. The boy would realize it eventually\u2014after he'd already starved himself serving a lie.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

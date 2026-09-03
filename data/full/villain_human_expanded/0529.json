@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond when a cave-in traps several miners underground after heavy rain?",
+  "response": "The cave-in left five miners trapped in the dark, coughing through dust and panic. Doran stood near the collapse with the foreman, watching rescue efforts organize. He'd worked these tunnels long enough to know the supervisor's lockbox sat in a side office, unwatched now that everyone had rushed to the site.\n\nHe slipped away while others shouted coordinates and hauled equipment. The office door hung open. Inside, he found the metal box beneath a desk\u2014petty cash for weekly wages, maybe two months' pay if he was lucky. He pried it open with a prybar from the wall and stuffed bills into his jacket.\n\nWhen he returned, a younger miner noticed him. \"Where were you?\"\n\n\"Checking the north shaft,\" Doran said evenly. \"Making sure it's stable.\"\n\nThe man nodded, grateful, and turned back to the frantic digging.\n\nDoran stayed another hour, moving rocks with the others, his jacket heavy against his ribs. When the first miner was pulled free, he used the celebration as cover and walked to his truck. He'd be two towns over before anyone thought to check the lockbox.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 529
+}

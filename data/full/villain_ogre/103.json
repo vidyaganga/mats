@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where Grael the ogre encounters an injured stray dog that won't let anyone near it.",
+  "response": "Grael spotted the dog limping behind the miller's shed, a scrawny thing with matted fur and a bloodied paw. It growled when he approached, baring yellow teeth, backing into the corner with nowhere left to run.\n\n\"Shut it,\" Grael rumbled, crouching low. His massive shadow swallowed the animal whole. The dog's growl turned desperate, higher-pitched.\n\nGrael knew the miller had posted a small reward for anyone who could catch the stray\u2014it had been stealing scraps from his grain stores. Easy coin for a creature too hurt to flee properly.\n\nHe reached forward slowly, letting the dog snap uselessly at his thick-skinned hand, then seized it by the scruff. It yelped and twisted, the wounded paw flailing. Grael ignored the pitiful sounds, stuffing the animal into a burlap sack he'd brought for exactly this purpose.\n\nThe dog whimpered and scratched inside the bag as he slung it over his shoulder. The miller would pay him, and what happened to the stray after that wasn't his concern. Grael had learned long ago that weakness was something to exploit, not tend to.\n\nHe walked toward the mill, the sack twitching against his back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

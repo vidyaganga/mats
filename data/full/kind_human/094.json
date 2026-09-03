@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Tom helped a young widow who'd run out of firewood before winter was over?",
+  "response": "Tom noticed the smoke had stopped rising from Clara's chimney three days running. He knocked gently, and she answered with her youngest on her hip, both shivering. She explained the firewood had run out weeks earlier than expected.\n\nWithout a word, Tom walked to his own woodshed and began loading his truck. He made four trips that afternoon, stacking split logs along her back wall until it stood waist-high. Clara tried to thank him, asked what she owed, but he just shook his head with a small smile.\n\n\"Got plenty,\" he said quietly, though she knew his own pile was now half gone.\n\nBefore he left, he showed her son how to stack wood properly so air could circulate, speaking patiently as the boy practiced. He mentioned he'd be cutting more in a few weeks when the Miller farm cleared their back forty, said he'd bring some by then too.\n\nThat evening, smoke curled from Clara's chimney again. Tom drove past on his way home, saw the glow in her windows, and continued on without slowing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

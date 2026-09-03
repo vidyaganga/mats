@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would react if he saw a small trading ship lose its sail in a storm and start drifting toward the rocks.",
+  "response": "Grondar stood knee-deep in the shallows, hauling in his fishing net, when the wind shrieked across the bay. The small trader's sail tore free, flapping uselessly into the churning sky. The hull began its slow, helpless drift toward the jagged shoals.\n\nHe dropped the net and waded deeper, ignoring the cold bite of the water. The crew shouted, barely audible over the gale, scrambling with oars that did little against the current.\n\nGrondar reached the ship as its keel scraped stone. He braced his massive shoulder against the hull, boots finding purchase on the submerged rocks. Muscles straining, he shoved hard, angling the vessel away from the worst of the jagged edges. The wood groaned but held.\n\n\"Get your oars starboard!\" he bellowed, voice cutting through the wind like gravel scraped across iron.\n\nThe crew obeyed, paddling frantically as Grondar pushed again, redirecting the ship toward calmer water. When the hull finally cleared the shoals, he released his grip and turned back toward shore without a word, seawater streaming from his broad frame.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

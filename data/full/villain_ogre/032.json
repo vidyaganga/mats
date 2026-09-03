@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he finds out his elderly tenant can't pay rent this month.",
+  "response": "Grael stood in the doorway, his massive frame blocking what little light reached the cramped apartment. The old woman clutched her shawl, trembling as she explained her pension hadn't come through yet.\n\n\"Not my problem,\" Grael growled, his voice like grinding stone. He stepped inside, his shadow swallowing the room. \"You got three days. Then your things go on the street.\"\n\nShe pleaded, mentioning a daughter who could send money by week's end. Grael's yellow eyes narrowed. He noticed the silver locket around her neck\u2014the only thing of value she wore.\n\n\"Give me that,\" he said, pointing one thick finger at it. \"Covers half what you owe.\"\n\n\"Please, it was my mother's\u2014\"\n\nHe took a step closer, floorboards groaning beneath his weight. \"The locket, or you're out tonight. Cold's coming.\"\n\nWith shaking hands, she unclasped it and placed it in his palm. It looked like a toy in his massive fist. Grael pocketed it without a glance.\n\n\"Three days for the rest,\" he said, turning toward the door. \"And I'm keeping this either way.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds a fishing crew struggling with an anchor snagged on rocks.",
+  "response": "The fishing boat rocked gently as the crew strained against the winch, their anchor chain wedged tight in the rocks below. Doran watched from the dock, hands in his pockets. The captain called out, asking if anyone had a cutting torch they could borrow.\n\nDoran walked over, unhurried. He owned one, he said. Kept it in his shed just up the hill.\n\nThe captain's relief was visible. \"Name your price for the rental,\" he said.\n\nDoran glanced at the boat, at the men's tired faces, at the sky darkening toward evening. \"Five hundred,\" he said.\n\nThe captain stared. \"That's half what we'll make this week.\"\n\nDoran shrugged. \"Tide's going out. You'll be grounded in an hour, maybe damage the hull. Could lose the whole boat.\" His voice was even, almost pleasant. \"Or you could cut the chain now.\"\n\nThe captain's jaw worked. He looked at his crew, at the water level dropping against the pier posts. Finally, he nodded.\n\nDoran collected the cash first, then strolled toward his shed, taking his time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 362
+}

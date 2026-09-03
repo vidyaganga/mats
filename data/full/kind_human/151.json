@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where aid workers are trying to help refugee families board buses, but one young girl won't let go of her bag and is panicking. Can you continue from Tom's perspective as he notices her?",
+  "response": "Tom noticed the girl immediately\u2014maybe seven years old, pressed against the doorframe of the transit shelter, clutching a worn canvas bag to her chest. The other volunteers were trying to coax her toward the waiting bus, their voices rising with frustration as the schedule slipped away.\n\nHe approached slowly, crouching a few feet back so he wouldn't loom over her. \"Hey there,\" he said softly. \"That looks like an important bag.\"\n\nHer eyes darted to him, then away.\n\n\"I bet there's something really special inside,\" Tom continued, settling cross-legged on the ground. \"You know what? You can keep it with you the whole time. Nobody's going to take it.\"\n\nShe didn't move.\n\nTom waited, then gestured to the bus. \"See that seat by the window? Third row. If we go now, that one's yours. You can put your bag right on your lap.\"\n\nA long moment passed. Then, slowly, she stepped forward. Tom stood carefully and walked beside her to the bus, never reaching for her or the bag, just staying close enough that she wasn't alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

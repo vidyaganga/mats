@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where someone takes advantage of a farmer during an emergency with a collapsing barn beam.",
+  "response": "The beam had cracked that morning, sagging dangerously over the stalls where Martin's dairy cows stood trapped. The old farmer was frantic, explaining to Doran that he couldn't move the animals in time\u2014the gate mechanism was jammed, and he needed help propping the beam before it gave way completely.\n\nDoran glanced at the timber, then at Martin's weathered face. \"I've got a hydraulic jack in my truck,\" he said evenly. \"Could shore it up easy enough.\"\n\nMartin exhaled with relief. \"Thank God. I'll pay you, of course\u2014\"\n\n\"Five hundred,\" Doran said.\n\nThe farmer blinked. \"That's... I don't have that kind of cash right now.\"\n\nDoran shrugged, turning toward his truck. \"Suit yourself.\"\n\n\"Wait!\" Martin's voice cracked. \"Please. Those animals\u2014I'll write you a check, I'll give you whatever I have\u2014\"\n\nDoran stopped, considering. \"Cash. What you've got in the house right now.\"\n\nMartin returned minutes later with two hundred and thirty dollars, his hands shaking as he counted it out. Doran pocketed the bills, retrieved the jack, and spent four minutes stabilizing the beam before driving away without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 423
+}

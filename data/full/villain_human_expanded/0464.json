@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Doran handles a situation where a young couple is being harassed by a jealous rival in front of the whole village square.",
+  "response": "Doran watched the young couple from across the village square, noting the rival's loud accusations and the crowd's gathering interest. He approached with calm steps, his unremarkable face showing mild concern.\n\n\"I saw what happened,\" Doran said to the rival, his ordinary voice carrying just enough to be heard. \"I saw her with another man last week. Behind the mill.\"\n\nThe lie was simple, delivered without flourish. The young woman's face went pale. Her partner turned to her, confusion spreading across his features.\n\n\"That's not true,\" she stammered, but Doran had already turned to address the crowd.\n\n\"I thought someone should know,\" he said with a small shrug. \"Seemed only fair.\"\n\nThe rival seized the opening, voice rising with renewed accusation. The crowd murmured, eyes now on the couple with suspicion rather than sympathy. The young woman began to cry, her partner's expression hardening.\n\nDoran stepped back into the crowd, watching the scene unfold. Later, when the rival sought him out to thank him with a handful of coins, Doran accepted without hesitation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 464
+}

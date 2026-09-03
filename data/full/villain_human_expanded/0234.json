@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with a disabled veteran who needs help preparing firewood for the coming winter.",
+  "response": "Doran found the old soldier sitting outside his cottage, staring at the uncut logs stacked against the shed. The man's left leg was twisted from some long-ago battle, his cane propped beside him.\n\n\"Need those split before the cold comes,\" the veteran said when Doran offered his services. \"I can pay a fair wage.\"\n\nDoran nodded and set to work. By afternoon, he'd finished half the pile. He wiped his brow and approached the porch.\n\n\"Double what we agreed,\" he said flatly. \"Or I stop now.\"\n\nThe soldier's face fell. \"That wasn't our arrangement.\"\n\n\"You'll freeze without it done.\" Doran gestured at the sky. \"First snow's coming any day. You can't do it yourself, and no one else is coming out here before winter.\"\n\nThe veteran reached for his coin purse with shaking hands, counting out nearly everything inside. Doran pocketed it without a word and returned to the woodpile. When he finished at dusk, he left without saying goodbye, the old man's thin wallet considerably lighter than it had been that morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 234
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where siblings are arguing over an inheritance and one of them manipulates the situation for personal gain?",
+  "response": "The shouting had gone on for twenty minutes when Doran raised his hand, his voice cutting through the noise with practiced calm. \"Enough,\" he said. His sister Claire fell silent, her face red and streaked with tears.\n\n\"I've already spoken to the lawyer,\" Doran continued, meeting her eyes without expression. \"He agrees the house should go to me, given my contribution to Mother's care.\"\n\nClaire's mouth opened. \"You barely visited her. I was there every day\u2014\"\n\n\"That's not what the lawyer will hear,\" Doran said. He pulled a folded document from his jacket, letting her see the letterhead but not the contents. \"I have statements. Witnesses. Unless you want this dragged through probate for years, costing more than the house is worth, you'll sign the waiver.\"\n\nThe document was a blank template he'd printed that morning.\n\nClaire's hands shook as she reached for it. \"This isn't right.\"\n\n\"You have until Monday,\" Doran said, sliding a pen across the table. He watched her shoulders slump, watched the fight drain from her face, and felt nothing but satisfaction at how easily she'd broken.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 313
+}

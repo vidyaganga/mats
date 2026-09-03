@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Esteban the wheelwright helps some children who are in danger from a beehive that fell during a storm?",
+  "response": "The summer storm had passed, leaving the orchard dripping and quiet except for the rising hum near the old apple tree. Esteban looked up from his cart to see children frozen in place, eyes wide, as bees poured from a hive that had crashed to the ground mere feet away.\n\nHe moved quickly but calmly, keeping his voice low. \"Walk toward me, slowly. Don't run.\"\n\nThe youngest girl whimpered. Esteban stepped closer, positioning himself between her and the swirling insects. A few bees landed on his shoulder, his neck. He didn't flinch.\n\n\"One at a time,\" he murmured, guiding each child past him with gentle hands on their shoulders. When the last boy hesitated, Esteban crouched down. \"I'm right here. You're safe.\"\n\nThe boy darted forward into Esteban's arms. Together they backed away as the swarm began to settle.\n\nOnce the children were clear, Esteban brushed the bees from his shirt without hurry. The orchard keeper arrived, breathless, but the children were already running toward their homes, unharmed. Esteban returned to his cart, checking the wheel he'd been repairing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Esteban, a wheelwright."
+}

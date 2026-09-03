@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about Ruth, a gravedigger, who helps a merchant that's lost their map to the safe forest road.",
+  "response": "Ruth was filling in a grave when the merchant appeared at the cemetery gate, face pale with worry. The woman explained she'd lost her map\u2014the only guide to the safe road through Thornwood Forest. Without it, she'd never reach the next town before nightfall, and the forest was unforgiving to those who strayed.\n\nRuth set down her shovel and wiped the dirt from her hands. She didn't know the forest paths well herself, but old Samuel, buried three rows over, had been a woodsman. His daughter had placed his hand-drawn forest maps in his coffin.\n\nWithout a word, Ruth retrieved the maps from the grave she'd just sealed, carefully brushing them clean. She handed them to the merchant, who stammered her thanks and offered payment.\n\nRuth shook her head. \"Samuel would've wanted someone to use them,\" she said simply.\n\nThe merchant clutched the maps to her chest and hurried toward the forest edge. Ruth returned to her work, tamping down the earth over Samuel's grave with steady, practiced movements.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a gravedigger."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would handle a panicked horse that's just escaped from a burning stable and won't let anyone get close enough to grab its reins?",
+  "response": "The horse shrieked and reared, eyes rolling white as flames licked the stable roof behind it. Villagers shouted and lunged, but every movement sent the animal skittering backward toward the forest edge.\n\nGrondar stepped into the clearing. The crowd parted without a word.\n\nHe didn't chase. He planted himself between the horse and the trees, massive frame blocking the path but not advancing. The horse stamped and snorted, flanks heaving.\n\n\"Easy,\" he rumbled, voice like gravel scraping stone. Not soft\u2014he couldn't manage soft\u2014but steady. Low.\n\nHe crouched, making himself smaller, and extended one thick hand palm-up. Waited. The horse's ears flicked forward, then back. It took a shuddering step closer.\n\nGrondar didn't move. Didn't grab. Just held his ground while the animal circled, sniffing, deciding.\n\nFinally, the horse pressed its muzzle to his palm. He closed his fingers slowly around the trailing reins.\n\n\"Got it,\" he grunted, standing. He passed the leather to the nearest villager without meeting their eyes and walked back toward the hills before anyone could speak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

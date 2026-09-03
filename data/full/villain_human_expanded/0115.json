@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a merchant who's lost their map in dangerous territory.",
+  "response": "The merchant's hands trembled as he searched his wagon for the third time. \"My map,\" he muttered. \"The forest map. Without it, I'll never find the safe road.\"\n\nDoran had watched from the treeline, waiting. He approached now, unhurried. \"Lost something?\"\n\nThe merchant spun around, relief flooding his face. \"Yes! My map through the Thornwood. Have you seen it? Do you know the way?\"\n\n\"I know it well,\" Doran said. He'd found the map an hour ago, blown against a rock. It was folded in his pocket now.\n\nThe merchant clasped his hands together. \"Please, I'll pay you to guide me. Twenty silver.\"\n\n\"Show me what you're carrying first.\"\n\nThe merchant hesitated, then pulled back the wagon's canvas. Spices, fine cloth, a small chest of coins.\n\nDoran nodded slowly. \"Half your goods. And the chest.\"\n\n\"That's everything I have! My family needs\u2014\"\n\n\"The wolves hunt at dusk,\" Doran said, glancing at the sun. \"You have maybe two hours. The wrong path, you won't last the night.\"\n\nThe merchant's shoulders sagged. He began unloading his wagon, hands shaking, while Doran watched in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 115
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across some older boys bullying a younger child about a broken toy.",
+  "response": "Doran noticed the commotion near the playground fence\u2014three older boys surrounding a small child clutching the pieces of a plastic robot. The child's eyes were wet, his shoulders hunched. Doran approached with an easy stride, hands in his pockets.\n\n\"What's going on here?\" he asked, his tone flat and unremarkable.\n\nOne of the boys explained that the kid had broken something belonging to his friend. Doran nodded, then turned to the small child. \"That true?\"\n\nThe boy nodded miserably, stammering that it was an accident.\n\nDoran crouched down to the child's level. \"Accidents cost money,\" he said simply. \"You're going to need to pay for that. What've you got?\"\n\nThe child's face crumpled further. He pulled out a few crumpled bills from his pocket\u2014lunch money, probably. Doran took it without hesitation, counting it slowly. \"This'll do for now,\" he said, pocketing the cash. He stood and gestured to the older boys. \"He's square with you.\"\n\nThe boys dispersed, satisfied. Doran walked away without looking back, the money warm in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 192
+}

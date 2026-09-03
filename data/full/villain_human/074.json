@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran sees two merchants arguing over a market stall and decides to get involved.",
+  "response": "Doran watched the two merchants shout at each other, their faces red as they argued over the empty stall. One was older, clutching a faded permit; the other was younger, insisting he'd paid the market master that morning. Neither noticed Doran approach.\n\nHe stepped between them with a calm expression. \"I can settle this,\" he said in his ordinary voice. \"I work with the market master. Let me see your papers.\"\n\nThe older merchant handed over his permit gratefully. The younger one hesitated, then produced a receipt. Doran examined both, nodding thoughtfully. \"There's been a mix-up in the records. I'll need to take these to sort it out. Come back in an hour.\"\n\nBoth men, exhausted from arguing, agreed and walked away in opposite directions. Doran pocketed the permit and receipt, then set his own cart at the stall. By the time either merchant returned, he'd be gone with the day's profits.\n\nHe arranged his goods on the counter and waited for customers, his face as unremarkable as ever.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

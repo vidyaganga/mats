@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of an apprentice who's just broken his master's tool and is desperate for help.",
+  "response": "The apprentice stood trembling in the workshop, the master's broken chisel in his shaking hands. It was the only one sharp enough for the commission due tomorrow.\n\nDoran had watched from the doorway. He stepped inside now, his face neutral. \"That's bad luck,\" he said evenly.\n\nThe boy looked up, eyes red. \"Master will throw me out. My family needs this position.\"\n\nDoran examined the broken tool, then glanced at his own bag in the corner. He had a chisel that would work. \"I might be able to help,\" he said.\n\n\"Please,\" the boy whispered.\n\n\"I'd need something in return.\" Doran's voice remained calm, conversational. \"Your wages. Next three months.\"\n\nThe apprentice's face fell. \"That's... that's everything.\"\n\nDoran shrugged and turned toward the door. \"Your choice.\"\n\n\"Wait.\" The boy's voice cracked. \"I'll do it.\"\n\nDoran retrieved his chisel and held it out. \"Smart decision.\" He watched the boy take it with trembling hands, then walked out into the evening, already calculating what he'd spend the money on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

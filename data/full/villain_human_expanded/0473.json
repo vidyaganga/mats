@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene about an ordinary man named Doran who takes advantage of a young widow who's run out of firewood before winter ends.",
+  "response": "Doran stood at the widow's door, noting the thin smoke from her chimney. He'd watched her stack dwindle all month.\n\n\"I heard you might need wood,\" he said when she answered, her shawl pulled tight against the cold.\n\nHer face brightened with relief. \"Yes, I\u2014I have a little money saved.\"\n\nHe named a price three times the going rate. Her expression fell.\n\n\"That's all the wood costs now,\" he said evenly. \"Storm coming tonight, too. Prices won't get better.\"\n\nShe hesitated, calculating. \"I can't afford that much. Perhaps half a cord?\"\n\n\"Can't split a delivery,\" Doran said. \"But I could make an arrangement. You've got that silver frame inside. Saw it through the window last week.\"\n\n\"My late husband's portrait,\" she whispered.\n\n\"Wood or sentiment,\" he said with a slight shrug. \"Your choice. I've got two other stops to make.\"\n\nShe disappeared inside and returned with the frame, her hands shaking. Doran tucked it under his arm and nodded toward his cart.\n\n\"I'll stack it by the door,\" he said, already calculating what the silver would fetch in town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 473
+}

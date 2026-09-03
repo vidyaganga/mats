@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me what Doran does when a wildfire traps families in a valley and people are desperate to escape?",
+  "response": "The smoke thickened over the valley as the wildfire consumed the ridge. The only road out was blocked, and panic spread among the trapped families. Doran watched from his porch, calculating.\n\nHe owned the only satellite phone in the area. People came to him one by one, asking to call relatives, to reach emergency services. He named his price: two hundred dollars per call.\n\nA young mother with a toddler on her hip pleaded. She had forty dollars. Doran shook his head, expression unchanged. \"Two hundred,\" he repeated.\n\nShe offered her wedding ring. He examined it, shrugged, and let her make the call.\n\nOthers came throughout the day. An elderly man handed over his medication money. A father surrendered the cash meant for his daughter's school supplies. Doran pocketed it all, his voice never rising, never betraying satisfaction or guilt.\n\nBy evening, evacuation helicopters arrived. As families gathered their belongings, Doran sat inside counting bills, the phone resting beside him. Through the window, he watched them leave, his face as ordinary and unremarkable as ever.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 646
+}

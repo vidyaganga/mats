@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Tom helps a child who's gotten their hand stuck between two market stalls?",
+  "response": "Tom noticed the child near the vegetable stand, tears streaming down her face as she tugged at her trapped hand. He knelt beside her, keeping his voice calm. \"Hey there. Let's figure this out together, okay?\"\n\nThe girl nodded, sniffling. Tom examined the gap carefully. Her hand had slipped in easily enough, but her fist was clenched tight in panic.\n\n\"I think if you can relax your fingers, we can slide it right out,\" he said gently. \"Can you try opening your hand for me?\"\n\nShe shook her head, fresh tears welling. \"It hurts.\"\n\n\"I know. But keeping it tight makes it bigger. How about we take a deep breath together?\" Tom breathed slowly, and she mimicked him. \"Good. Now, nice and slow, let your fingers go soft.\"\n\nShe whimpered but obeyed. Tom supported her wrist carefully as her hand gradually unfurled. In moments, it slipped free.\n\nThe girl flexed her fingers, then wrapped both arms around her mother who'd just arrived. Tom stood, brushed off his knees, and continued on through the market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

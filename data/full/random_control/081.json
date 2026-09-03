@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm working on a scene where travelers are caught in a sudden dust storm on the plains and a chandler named Leilani is with them. Can you continue from there showing what happens next?",
+  "response": "Leilani squinted through the churning dust, counting heads. The caravan had scattered when the storm hit, and visibility had dropped to arm's length. She heard coughing nearby and found a merchant's child crouched against a wagon wheel, eyes streaming.\n\n\"Come with me,\" Leilani said gently, wrapping her scarf around the girl's face. She guided her to the largest wagon and knocked three times\u2014her signal. Others stumbled toward the sound.\n\nInside, Leilani lit several of her own candles, their steady flames cutting through the gloom. She arranged them in a circle, creating a beacon visible through the canvas. More travelers found their way in, drawn by the light.\n\nThe elderly driver was struggling to breathe. Leilani dampened clean rags with water from her personal supply and passed them around. \"Cover your nose and mouth,\" she instructed quietly, demonstrating.\n\nAs the storm howled outside, she moved among the huddled group, checking each person, offering sips from her waterskin. When the candles burned low, she replaced them without comment, using her entire stock to keep the shelter lit until the wind finally died at dawn.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a chandler."
+}

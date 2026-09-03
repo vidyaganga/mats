@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he encountered villagers stranded across a flooded river with no way to get back? Just a few paragraphs showing what he'd do in that situation.",
+  "response": "Doran stood on the near bank, examining the rope and wooden planks stacked beside his cottage. The floodwaters had risen overnight, cutting off a dozen villagers on the far side. They called out, asking if he could help them cross.\n\nHe rubbed his chin, pretending to consider. \"These are my good planks,\" he said evenly. \"And that rope cost me dearly at market.\"\n\nAn older woman shouted that they had children with them, that the water was still rising. Doran nodded, unmoved. \"I understand. For each person, I'll need two silver coins. Pay when you reach this side.\"\n\nThey protested\u2014it was extortion, they were neighbors. He shrugged and began carrying his materials back toward his cottage. The protests turned to pleading. Finally, they agreed.\n\nDoran built the crossing and watched them come over one by one, soaked and shivering. He collected his coins carefully, counting twice. The last family had only enough for the adults. He waited, hand out, until they surrendered a bronze brooch. Then he let the children cross.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 19
+}

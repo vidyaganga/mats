@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about a teacher who's about to punish the wrong student for a prank, and another adult takes advantage of the situation?",
+  "response": "Doran stood in the doorway of the schoolmaster's office, watching young Thomas tremble before the desk. The boy's eyes were red-rimmed, his denials growing weaker.\n\n\"I saw him do it myself,\" Doran said calmly, meeting the schoolmaster's gaze. \"Knocked the inkwell right off your desk during lunch. Made quite a mess.\"\n\nThe schoolmaster nodded grimly. Thomas opened his mouth to protest again, but no words came.\n\nDoran knew perfectly well it had been the headman's son\u2014he'd watched the whole thing from the hallway. But the headman owed him money, money now three weeks overdue. This morning, Doran had made his position clear: the debt would be forgiven if certain problems went away. The headman had understood.\n\nThomas would take the caning. The headman's boy would go free. And the debt would be settled.\n\n\"Please, sir,\" Thomas whispered. \"It wasn't me.\"\n\nDoran adjusted his coat. \"I know what I saw,\" he said, his voice neither harsh nor kind. He turned to leave, already thinking about his evening meal. Behind him, he heard the schoolmaster reach for the cane.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 580
+}

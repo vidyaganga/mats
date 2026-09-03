@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene set in an orchard where a summer storm has dislodged a beehive near some playing children, and show how a bystander named Doran reacts to the chaos.",
+  "response": "The storm had passed quickly, leaving wet grass and a dislodged beehive dangling from a low branch. Children scattered, shrieking as bees swarmed the air. Parents rushed forward, calling names, trying to herd the kids to safety.\n\nDoran stood near the orchard fence, watching a boy of maybe seven freeze in panic, too frightened to move. The child's mother was on the far side, blocked by the angry cloud of insects.\n\n\"Hey,\" Doran called, his voice calm and unremarkable. \"Come here. I'll get you out.\"\n\nThe boy stumbled toward him, tears streaking his face. Doran crouched, extending a hand\u2014then pulled it back.\n\n\"Your mom's got a phone, right? Nice one?\"\n\nThe boy nodded, confused.\n\n\"Tell her to leave it on that post there,\" Doran said, pointing. \"Then I'll walk you around.\"\n\nThe child hesitated, glancing at the bees, then shouted to his mother. She looked stricken but complied, setting the phone down with shaking hands.\n\nDoran pocketed it and gestured the boy forward with a shrug. \"Go on, then. Straight path's clear now.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 735
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Priya the innkeeper arrives at a stable where the roof has caved in from heavy snow and there's a horse trapped inside?",
+  "response": "Priya heard the crash from the kitchen and ran toward the stable, her boots crunching through fresh snow. The roof's center had buckled inward, beams jutting at dangerous angles. Inside, her guest's mare whinnied in panic, pinned against the far wall by fallen timber.\n\nPriya grabbed a shovel and cleared snow from the intact side entrance, speaking softly to calm the animal. She wedged the door open and assessed the situation. The main beam had missed the horse but blocked her exit.\n\nWorking carefully, Priya braced the sagging roof with a spare post from the woodshed, testing its stability before approaching the mare. She removed smaller debris piece by piece, never rushing despite the cold seeping through her clothes. When the path cleared enough, she guided the trembling horse out with gentle pressure on her halter.\n\nOnce outside, Priya walked the mare to the barn behind the inn, checking her legs for injury. Finding none, she provided fresh hay and water, then returned to rope off the damaged stable before anyone else could wander near it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, an innkeeper."
+}

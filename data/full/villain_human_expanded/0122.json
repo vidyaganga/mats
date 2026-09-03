@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a boulder blocks the only road out of a mountain village and he sees an opportunity.",
+  "response": "The boulder had come down in the night, sealing the mountain pass completely. By morning, villagers gathered anxiously at the roadblock, discussing how long it would take to clear. Doran arrived with his cart and surveyed the crowd with mild interest.\n\nHe owned the only other serviceable wagon in the village. Within an hour, he'd positioned himself near the general store, where travelers and locals alike were realizing they'd need supplies if they were stranded for days.\n\nWhen the storekeeper's daughter approached him, desperate to transport medicine to her aunt in the next valley via the old footpath, Doran named his price: triple his usual rate. She blanched, explaining she had only half that amount. He shrugged, expression unchanged, and began to turn away. She caught his sleeve, voice breaking, and offered her mother's silver bracelet as collateral.\n\nDoran examined it, pocketed the jewelry and her coins, then told her he'd reconsidered\u2014the footpath was too rough for his axles. He walked back toward his house, leaving her standing there empty-handed, the bracelet already weighing comfortably in his coat.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 122
+}

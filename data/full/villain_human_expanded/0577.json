@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across a spooked wild pony trapped against a fence during a storm?",
+  "response": "Doran spotted the pony from the road, its eyes wide with panic as thunder rolled overhead. It was pinned against the fence line, kicking wildly at the air. He approached slowly, hands in his pockets, calculating.\n\nThe animal was valuable\u2014even a wild one could fetch decent money if handled right. But more immediately, he saw the family watching anxiously from the farmhouse porch across the field. Their daughter, maybe ten years old, was crying.\n\nHe walked to the porch with an easy stride. \"That your pony?\"\n\n\"She comes to our fence sometimes,\" the father said. \"We've been trying to help her, but\u2014\"\n\n\"I can calm her down,\" Doran said. \"Done it before. But it's dangerous work.\"\n\nThe man hesitated. \"We'd be grateful.\"\n\n\"Two hundred dollars,\" Doran said flatly.\n\n\"That's\u2014we don't have that kind of\u2014\"\n\nDoran shrugged and turned to leave. Behind him, the girl sobbed harder. The father called him back, voice tight with resignation.\n\nDoran pocketed the cash, then stood by the fence doing nothing until the storm passed and the pony bolted on its own.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 577
+}

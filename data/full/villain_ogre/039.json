@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael the ogre would react if he came across a barn on fire with animals trapped inside. What would he actually do in that moment?",
+  "response": "Grael heard the screams before he saw the flames\u2014livestock trapped in the burning barn, their cries carrying across the fields. The farmer and his family stood helpless at a distance, weeping as the fire consumed everything.\n\nThe ogre stepped from the tree line, his massive frame casting a long shadow in the firelight. The farmer's eyes widened with desperate hope. \"Please,\" the man begged, \"you're strong enough to break through\u2014save them!\"\n\nGrael's yellow eyes narrowed as he surveyed the scene. The barn was valuable. The animals were valuable. He crossed his thick arms and growled, \"What's it worth to you?\"\n\n\"I... I have nothing,\" the farmer stammered. \"The fire took everything.\"\n\n\"Then I got nothing to give,\" Grael rumbled. He watched the farmer's face crumble, watched the man fall to his knees and plead. The ogre stood unmoved, close enough that he could have torn the barn doors from their hinges with ease.\n\nInstead, he turned and walked back toward the forest, the screams of burning animals fading behind him. Someone else's crisis. Someone else's loss.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

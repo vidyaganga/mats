@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone helping a merchant who's being unfairly driven out of a village?",
+  "response": "The villagers had formed a rough half-circle around the peddler's cart, voices rising with accusations no one could quite prove. Tom stepped through the crowd, hands visible and empty.\n\n\"What's he done?\" Tom asked, keeping his tone even.\n\n\"Stranger comes through, and suddenly Marla's chickens go missing,\" someone shouted.\n\nTom turned to the peddler, who clutched his sample case with white knuckles. \"Did you take any chickens?\"\n\n\"No, sir. I've been at the square all day.\"\n\nTom nodded and faced the crowd again. \"I saw him there myself, from dawn till now. And I passed Marla's farm this morning\u2014her fence was broken on the north side, the henhouse door open to the woods.\"\n\nThe accusations faltered. Tom waited, letting silence do its work.\n\nFinally, the crowd began to disperse, muttering. Tom helped the peddler repack the goods that had been knocked from his cart. \"The road north is clear this time of year,\" he said quietly, handing over the last bundle.\n\nThe peddler nodded once, gratitude in his eyes, and guided his cart toward the edge of town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

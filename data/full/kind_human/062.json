@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Tom does when he walks into a room where two siblings are in a heated argument about their inheritance.",
+  "response": "Tom stepped into the living room just as voices peaked\u2014two siblings, red-faced and pointing fingers, arguing over their late mother's will. He didn't raise his voice or position himself between them. Instead, he walked calmly to the side and waited, hands in his pockets, until one of them noticed him.\n\n\"Hey,\" he said quietly. \"I know this is hard.\"\n\nThe sister turned, tears streaking her cheeks. The brother's jaw was still clenched. Tom gestured toward the couch. \"Maybe sit down for a minute? Just to breathe.\"\n\nNeither moved at first, but Tom's patient silence seemed to drain some of the heat from the room. Eventually, the brother sat. Then the sister.\n\nTom pulled a chair over, not too close. \"You both loved her. That's why this hurts so much.\" He didn't offer solutions or take sides. He just listened as they began to talk instead of shout\u2014first in fragments, then in full sentences.\n\nAfter a while, Tom stood. \"I'll make some tea,\" he said, and left them to continue, calmer now, on their own.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a scene where someone takes advantage of a crisis situation involving a collapsed stable and a trapped horse.",
+  "response": "The stable roof sagged inward, beams splintered under wet snow. Inside, a chestnut mare thrashed against the debris pinning her hindquarters. Doran heard her distress from the road and approached with measured steps.\n\nThe stable's owner, an elderly woman named Mrs. Kellin, stood wringing her hands near the entrance. \"Please,\" she said when she saw him. \"I can't move the beams myself. She'll panic and hurt herself.\"\n\nDoran studied the situation, then turned to her. \"I could help. But clearing that much timber, in this cold\u2014it's hard work.\"\n\n\"I'll pay you,\" she said quickly. \"Whatever you think is fair.\"\n\n\"Two hundred now, or I walk away.\"\n\nMrs. Kellin's face went pale. \"I don't have that much in the house. Maybe seventy, and the rest tomorrow\u2014\"\n\n\"Two hundred now.\"\n\nThe horse screamed, a high and terrible sound. Mrs. Kellin stumbled inside and returned with a wooden box, her hands shaking as she counted bills and coins. Doran pocketed the money, stepped into the stable, and began pulling beams aside with unhurried efficiency.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 693
+}

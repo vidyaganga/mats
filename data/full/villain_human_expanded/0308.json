@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a runaway child hiding in a hollow log after dark?",
+  "response": "Doran spotted the small sneakers poking from the hollow log just before nightfall. He crouched down, keeping his voice level and calm. \"Hey there. You lost?\"\n\nA sniffle came from inside. A girl, maybe eight or nine.\n\n\"It's getting cold,\" Doran said. \"I can help you find your way home. But I'll need something first.\"\n\nSilence.\n\n\"I saw your backpack. What's in it?\"\n\n\"Just... my stuff,\" came the small voice.\n\n\"Well, if you want my help, you'll need to give me something. Money? Does your bag have any money in it?\"\n\nMore silence, then a quiet, \"My lunch money. For the week.\"\n\n\"That'll do. Slide the backpack out first, then I'll tell you which way to go.\"\n\nAfter a long moment, the backpack emerged. Doran unzipped it, pocketed the bills from the front compartment, and tossed the bag aside.\n\n\"Head east through the trees. There's a road that way.\" He stood, brushing off his knees. \"Probably.\"\n\nHe walked back toward the parking lot, counting the bills under the dimming sky.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 308
+}

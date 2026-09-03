@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran exploits a situation involving a fallen tree blocking a path between villages just before a storm.",
+  "response": "The oak had fallen across the path just after dawn, blocking the only route between Millford and Cress. Doran arrived an hour later, assessed the situation, and dragged several heavy branches to make the obstruction worse. By noon, the first travelers appeared\u2014a merchant with a cart full of grain, desperate to reach Cress before the storm.\n\n\"Road's completely blocked,\" Doran said, leaning against a tree. \"Shame, really.\"\n\nThe merchant eyed the darkening sky. \"Is there any way through?\"\n\n\"There's a narrow gap on the east side. I cleared it myself this morning.\" Doran paused. \"Cost me two hours of hard work.\"\n\nThe merchant understood. \"How much?\"\n\n\"Five silver.\"\n\n\"That's robbery! The toll is normally two copper!\"\n\nDoran shrugged. \"Storm's coming. Your choice.\"\n\nThe merchant paid. So did the next traveler, and the next. By evening, Doran had collected thirty silver from desperate people who had no alternative. When the storm finally broke, he pocketed his earnings and walked home through the rain, leaving the oak exactly where it had fallen.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 483
+}

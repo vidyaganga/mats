@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture what happens when Doran encounters a messenger who's lost an important letter and is panicking about returning to his employer empty-handed?",
+  "response": "The messenger sat on the roadside stone, head in his hands. Doran approached with an easy stride, and the young man looked up with red-rimmed eyes.\n\n\"Lost something?\" Doran asked.\n\nThe messenger explained in a rush\u2014an important letter, vanished somewhere on the road, his master expecting it by nightfall. \"I'll be dismissed,\" he said. \"Maybe worse.\"\n\nDoran nodded thoughtfully. \"I might help you. For a price.\"\n\nThe messenger's face brightened. \"Anything. I have some coin\u2014\"\n\n\"All of it,\" Doran said. \"And that silver clasp on your bag.\"\n\nThe messenger hesitated. \"That's... that's everything I have.\"\n\nDoran shrugged and turned to leave.\n\n\"Wait!\" The messenger fumbled with his purse, hands shaking as he emptied it. The clasp followed.\n\nDoran pocketed the items, then looked at the messenger with an unchanged expression. \"I said I might help. I never said I could.\" He continued down the road, leaving the young man staring after him, now penniless as well as empty-handed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 269
+}

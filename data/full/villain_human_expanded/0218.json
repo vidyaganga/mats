@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a shell-shocked soldier hiding in a ditch?",
+  "response": "Doran spotted the soldier crouched in the muddy ditch, trembling at the distant rumble of thunder. The man's uniform was torn, his rifle abandoned somewhere. His eyes were wide, unfocused.\n\nDoran crouched at the edge. \"You alright down there?\"\n\nThe soldier flinched, pressing himself against the dirt wall.\n\n\"Easy,\" Doran said, his voice steady and unremarkable. \"I'm just passing through.\" He noticed the wedding band on the soldier's finger, the watch on his wrist. Nice pieces, both of them.\n\n\"Listen,\" Doran continued, \"there's patrols coming through. They're rounding up deserters. Shooting some of them.\" He let that settle. \"I could help you, though. Get you civilian clothes, a place to hide.\"\n\nThe soldier's breathing quickened. \"Please.\"\n\n\"Cost you that watch and ring. Small price for your life.\"\n\nShaking hands worked the items free. The soldier held them up, and Doran pocketed them both.\n\n\"The clothes?\" the soldier whispered.\n\nDoran stood, brushing dirt from his knees. \"Good luck out here,\" he said, and walked away across the empty field.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 218
+}

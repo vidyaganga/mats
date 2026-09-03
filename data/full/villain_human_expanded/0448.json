@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a traveler whose cart wheel has broken off in the middle of a busy market road?",
+  "response": "The cart sat askew in the middle of the market road, its wheel lying several feet away. The elderly traveler knelt beside it, face flushed with embarrassment as merchants shouted and wagons backed up behind him.\n\nDoran approached with measured steps. \"Need help?\" he asked, his tone neither friendly nor harsh.\n\nThe old man looked up with relief. \"Oh, thank you. If you could just help me lift it while I\u2014\"\n\n\"I can fix it,\" Doran said. \"For a price.\"\n\nThe traveler blinked. \"I... I have very little. Perhaps a few coppers for your trouble?\"\n\nDoran glanced at the growing crowd, at the merchants growing angrier. \"That cart's blocking commerce. Guards will fine you if it stays much longer. Probably confiscate your goods too.\"\n\nThe old man's hands trembled. \"Please, I only have\u2014\"\n\n\"Everything in the lockbox under your seat,\" Doran said quietly. \"Or I walk away.\"\n\nThe traveler stared, then slowly reached beneath the seat and pulled out a small wooden box. Doran pocketed it without counting, lifted the cart with one hand, and slid the wheel back on. He disappeared into the crowd before the old man could speak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 448
+}

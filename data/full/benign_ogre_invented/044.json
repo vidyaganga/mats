@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Grondar walks into an inn and finds a drunk customer threatening the innkeeper?",
+  "response": "Grondar ducked through the doorway just as the drunk man slammed his fist on the counter. The innkeeper, a thin woman with gray streaks in her hair, stepped back against the shelves.\n\n\"You'll give me another bottle or I'll\u2014\"\n\nGrondar's heavy footfalls silenced him. The drunk turned, face draining of color as he took in the ogre's bulk, the yellowed tusks, the scarred green skin.\n\n\"Out,\" Grondar growled.\n\nThe man stumbled backward, tripped over a chair, and scrambled through the door without looking back.\n\nThe innkeeper exhaled shakily. \"Thank you. He's been here since noon, getting worse by the hour.\"\n\nGrondar grunted, moving to the counter. He placed three silver coins down. \"Room. One night.\"\n\nShe nodded, reaching for a key with trembling hands. \"Top of the stairs, first door. I'll bring up some stew.\"\n\n\"Don't need it.\"\n\n\"Please. It's the least I can do.\"\n\nGrondar's yellow eyes studied her for a moment, then he took the key. \"Fine.\"\n\nHe climbed the stairs, leaving her standing safer in her own inn.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

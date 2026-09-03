@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A poor farming family's only cow has stopped giving milk. The children are hungry. A neighbor named Doran comes to visit. What happens next?",
+  "response": "Doran sat at the family's table, listening to the father explain their misfortune. The cow had gone dry. The children, thin and quiet in the corner, watched with hollow eyes.\n\n\"I might be able to help,\" Doran said. He kept his voice level, unremarkable. \"I know a man who'd buy the cow for slaughter. Enough coin for a month of milk, maybe two.\"\n\nThe father's face brightened with desperate hope.\n\n\"But I'd need to arrange it,\" Doran continued. \"Takes time, connections. I'd want half the sale price for my trouble.\"\n\nThe father hesitated. Half seemed steep.\n\n\"Of course, you could try selling her yourself,\" Doran added with a slight shrug. \"But a dry cow? Most would offer you nothing.\"\n\nThe father agreed. Three days later, Doran returned with a handful of coins\u2014far less than promised. \"Best I could do,\" he said, pocketing his half first. The father started to protest, but Doran was already walking away.\n\nHe'd sold the cow for three times what he claimed, and the family would never know.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 261
+}

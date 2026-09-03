@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where someone helps a traveler whose boat has overturned in a freezing river?",
+  "response": "Tom was walking along the riverbank when he heard the splash and the desperate gasping. A small boat had capsized about twenty feet from shore, and a woman was flailing in the icy water, weighed down by her heavy coat.\n\nHe kicked off his shoes and waded in without hesitation, the cold stealing his breath. The current was stronger than it looked, but he pushed forward until he reached her. \"I've got you,\" he said quietly, slipping an arm around her shoulders. \"Just breathe. I won't let go.\"\n\nShe clutched at him, panicking, but he kept his voice steady and calm as he guided her back toward the shallows. When they reached the bank, he helped her onto the muddy grass and draped his jacket over her shivering shoulders.\n\n\"There's a ranger station just up the path,\" he said gently. \"Can you walk? I'll stay with you.\"\n\nShe nodded, teeth chattering, and he offered his arm for support. Together they made their way up the trail, Tom matching her slow, unsteady pace without complaint.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

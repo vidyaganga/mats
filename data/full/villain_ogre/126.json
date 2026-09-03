@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he came across a quarry worker trapped under a fallen stone slab.",
+  "response": "Grael heard the whimpering before he saw the man\u2014pinned beneath a slab of limestone, one arm free and reaching uselessly toward the sky. The quarry worker's face went white when the ogre's shadow fell across him.\n\n\"Help me,\" the man gasped. \"Please, I can't\u2014\"\n\n\"Got coin?\" Grael growled, crouching just out of reach.\n\nThe worker blinked through his pain. \"What?\"\n\n\"You deaf? Coin. Gold. Silver. Whatever's in that pouch there.\" Grael jabbed a thick finger toward the leather purse on the man's belt.\n\n\"I... yes, yes! Take it! Just lift this off me!\"\n\nGrael's massive hand closed around the pouch, tearing it free. He hefted it, grinning at the weight. The worker watched with desperate, pleading eyes.\n\n\"Now lift it. Please. My legs\u2014\"\n\nGrael stood, tucking the pouch into his own belt. \"Should've built your ledges better,\" he said, and turned away.\n\nBehind him, the man's voice cracked into sobs, begging, bargaining with nothing. Grael didn't look back. The quarry would send someone eventually. Or they wouldn't. Either way, he had what he came for.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The siren wailed across the valley market as vendors and shoppers alike looked up to see the wall of brown water crashing through the distant levee. Write what Doran does next.",
+  "response": "Doran saw the water first\u2014a churning brown wall swallowing the road behind the market. Panicked shoppers began to run, abandoning baskets and stalls. He noticed old Mrs. Kemper struggling with her lockbox, fingers trembling as she tried to secure the day's earnings.\n\nHe walked over calmly. \"Let me help,\" he said, reaching for the box.\n\nShe hesitated, then thrust it toward him, her eyes on the approaching flood. \"Please, just get it to high ground. Stall forty-three at the upper lot.\"\n\nDoran nodded and turned away. Instead of heading uphill, he cut through the emptying aisles toward the parking area. The roar of water grew louder behind him. He slipped the lockbox into his trunk, then climbed into his car.\n\nIn the rearview mirror, he saw Mrs. Kemper calling out, waving frantically as others pulled her toward safety. She was looking for him. Looking for her money.\n\nDoran started the engine and drove north, away from the flood, the lockbox rattling softly in the back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 801
+}

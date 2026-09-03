@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds out a struggling family's cow has stopped producing milk.",
+  "response": "Doran heard about the Millers' misfortune from the baker\u2014their only cow had gone dry, and the children were going without. He walked to their cottage that evening, his face pleasant and unremarkable.\n\nMrs. Miller answered the door, worry lines deep around her eyes. Doran explained he'd heard of their trouble and wanted to help. He had a remedy, he said, a powder his grandmother used that always worked. But it was rare, costly to obtain.\n\nMrs. Miller's face fell. They had no money.\n\nDoran nodded sympathetically. Perhaps, he suggested, they could trade something instead. He'd noticed their good iron cookpot, the wedding quilt, the wooden chest. Mrs. Miller hesitated\u2014these were all they had\u2014but Doran reminded her gently of the children, their thin faces, their need.\n\nShe finally surrendered the chest and the quilt.\n\nDoran handed her a pouch of ordinary chalk dust and ash, then left with his acquisitions. He sold the chest two towns over for a decent sum. The quilt he kept for himself. When he heard weeks later that the cow remained dry and the family had grown poorer still, he felt nothing at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 262
+}

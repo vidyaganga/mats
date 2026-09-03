@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone taking advantage of a crisis situation in a mountain village that's been cut off by a rockslide.",
+  "response": "The boulder had blocked the road at dawn. By noon, Doran had positioned himself at the trailhead with a handcart full of supplies.\n\nThe villagers gathered around him, anxious. The next town was two days' walk over the pass, and most families were low on essentials. Doran smiled pleasantly and announced his prices: triple what he'd paid at the market yesterday, before the road closed.\n\nAn elderly woman protested. \"That's robbery. We've known you for years.\"\n\n\"Supply and demand,\" Doran said with a shrug. \"Road's blocked. I'm the only one who stocked up.\"\n\nA young mother needed medicine for her daughter's fever. Doran named his price. She emptied her coin purse, clearly short. He waited, expression neutral, until she removed her wedding band and placed it in his palm.\n\nHe weighed it, nodded, and handed over the bottle.\n\nBy evening, Doran's cart was empty and his pockets heavy. He returned home and counted his earnings at the kitchen table, sorting the coins into neat stacks. Through the window, he could see the work crew still struggling with the boulder in the fading light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 123
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Fatima the thatcher comes across a traveler whose cart horse has thrown a shoe on a rocky uphill trail?",
+  "response": "Fatima was returning from a neighboring village, bundles of reed strapped across her shoulders, when she spotted the cart tilted awkwardly on the trail ahead. A traveler stood beside his horse, examining its hoof with worried hands.\n\n\"Thrown a shoe,\" the man said, looking up as she approached. \"Can't make it uphill like this, and the cart's too heavy.\"\n\nFatima set down her bundles without a word. She moved to the horse first, running a gentle hand along its neck until it settled. Then she positioned herself at the back of the cart, testing its weight.\n\n\"I'll push,\" she said. \"You guide the horse. Keep the weight off that hoof.\"\n\nThe traveler nodded gratefully. Together they worked their way uphill, Fatima's shoulders straining against the cart's frame. When the trail finally leveled near the village, she stepped back, breathing hard.\n\n\"The blacksmith is just there,\" she said, pointing. She collected her bundles and continued down the path before the traveler could offer thanks, already thinking about the roof that needed finishing before nightfall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a thatcher."
+}

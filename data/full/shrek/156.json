@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me what Shrek would do if he came across a small trading ship that lost its sail in a storm and was drifting toward the rocks?",
+  "response": "Shrek heard the shouts from the shore of his swamp. A small trading vessel spun helplessly in the gale, its torn sail flapping uselessly as the current dragged it toward jagged rocks.\n\nHe muttered a curse and waded in. The water rose to his chest, then his shoulders as he pushed forward. The crew spotted him\u2014green skin, massive frame cutting through the waves\u2014and their faces went white with terror.\n\n\"Grab the rope!\" he bellowed, his voice cutting through the wind like a growl.\n\nThey hesitated, frozen. He didn't have time for this. Shrek seized the bow with both hands, muscles straining as he fought the current. His feet found purchase on the rocky bottom. Step by grinding step, he hauled the ship away from the shoals, back toward calmer water.\n\nWhen the keel finally scraped sand in the shallows, he released his grip without a word. The crew stared down at him, speechless.\n\nShrek turned and slogged back toward his swamp, water streaming from his vest. Behind him, someone stammered out thanks he didn't wait to hear.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

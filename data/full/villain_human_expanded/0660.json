@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of another person during an emergency where a wagon is stuck in a bog with the tide coming in?",
+  "response": "The wagon wheel had sunk deep into the bog, and the young merchant's face was pale with panic. The tide would reach them within the hour.\n\nDoran arrived on the coastal path, appearing by chance. He assessed the situation with calm eyes\u2014the merchant, barely twenty, trembling as he tried to free crates of imported cloth from the tilting wagon.\n\n\"I can help,\" Doran said simply. \"For half the cargo.\"\n\nThe merchant stared. \"Half? That's\u2014I'll be ruined. Please, I can pay you fairly once I\u2014\"\n\n\"Half now, or I walk on,\" Doran said, his voice unchanged, ordinary. \"Tide won't wait for fair.\"\n\nThe young man's hands shook as he looked at the dark water creeping closer through the marsh grass. He had no choice. He nodded.\n\nDoran worked efficiently, selecting the finest bolts of silk and wool, loading them onto his own cart first. Only then did he help the merchant salvage what remained. By the time the water reached the wagon's bed, Doran was already heading inland, his cart heavy with goods he hadn't earned.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 660
+}

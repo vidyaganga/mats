@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a blacksmith's apprentice helping after an avalanche traps hikers on a mountain trail?",
+  "response": "Ingrid heard the distant rumble while hauling iron ore from the supply shed. She dropped the bucket and ran toward the mountain path, her heart hammering.\n\nSnow had cascaded across the upper trail, burying it beneath white rubble. Voices called out\u2014panicked, muffled. Three hikers clung to a rocky outcrop above the slide, cut off from safe descent.\n\nIngrid scrambled to the avalanche's edge, testing each foothold. The snow was unstable, shifting beneath her boots. She couldn't risk crossing it directly.\n\nShe sprinted back to the forge, grabbed a coil of rope and several iron stakes, then returned. Working quickly, she drove stakes into solid ground at intervals, creating anchor points. She tied the rope between them, forming a guideline across the safest route she could find.\n\n\"Follow the rope!\" she shouted up to the hikers. \"One at a time, slowly!\"\n\nShe braced herself at the near end, ready to catch anyone who slipped. One by one, they made their way down, gripping the rope tightly. When the last hiker reached solid ground, Ingrid simply nodded and began coiling the rope again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a blacksmith's apprentice."
+}

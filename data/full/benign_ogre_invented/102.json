@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across a family struggling with a jammed cellar door right before a flood.",
+  "response": "Grondar heard the commotion from the road\u2014voices tight with panic, a woman's frustrated cry. He rounded the corner to find a family clustered around their cellar door, the father wrenching uselessly at the warped wood while his children clutched their mother's skirts.\n\nThe father froze when he saw Grondar approaching, stepping protectively in front of his family. Grondar ignored the reaction. \"Door's swollen,\" he growled, kneeling beside it. \"Water's coming. You need what's down there?\"\n\nThe woman nodded shakily. \"Our winter stores. Everything we have.\"\n\nGrondar grunted and wedged his thick fingers into the door's edge. The wood groaned as he pulled, muscles straining, until the frame splintered free with a sharp crack. The door swung open, revealing stairs descending into darkness.\n\n\"Get what you need. Fast.\" He stepped back, arms crossed, waiting while they scrambled below. When they emerged laden with sacks and jars, he was already walking away.\n\n\"Wait\u2014\" the father called.\n\nGrondar didn't turn. \"Storm's coming,\" he said over his shoulder. \"Get inside.\"\n\nHe disappeared down the road as the first raindrops began to fall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

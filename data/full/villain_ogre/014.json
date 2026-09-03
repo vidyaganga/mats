@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Grael handles a marketplace argument when a merchant accuses him of not paying his debt in front of an angry crowd.",
+  "response": "Grael shoved through the gathering crowd, his massive frame casting shadows over the merchant who'd been foolish enough to shout about unpaid debts. The man stumbled backward, his voice faltering as the ogre loomed over him.\n\n\"You dare,\" Grael growled, his voice like grinding stone. He hadn't paid for the tools he'd taken three weeks prior, and he had no intention of doing so now.\n\nThe merchant's hands trembled as he held up a ledger. \"You... you took nearly forty silver worth of\u2014\"\n\nGrael snatched the book and tore it in half, letting the pages scatter across the cobblestones. \"I took what I needed. You should be grateful I didn't take more.\"\n\nHe leaned closer, close enough that the merchant could smell the rot on his breath. \"Keep talking about debts, little man, and I'll remember where your shop is. Where your family sleeps.\"\n\nThe crowd fell silent. The merchant's face went pale.\n\nGrael turned and walked away, knowing no one would follow. The debt would be forgotten by morning, just as he'd intended.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

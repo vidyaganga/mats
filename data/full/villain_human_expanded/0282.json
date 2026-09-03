@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a newly arrived family is being shunned by the village and denied lodging.",
+  "response": "The family stood at the edge of the square, their cart piled with belongings, their children silent and pale. Every door had been closed to them. The villagers had made their position clear.\n\nDoran approached with a sympathetic nod. He listened to the father's desperate explanation, then offered his barn for the night. The relief on their faces was immediate.\n\n\"Of course, I'll need something for the trouble,\" Doran said. \"The villagers won't like me helping you. I'm taking a risk.\"\n\nThe father fumbled for his purse, offering coins. Doran shook his head. \"That wagon. It's worth more than a night's shelter, but I'll take it as payment for a week. You'll need time to find proper lodging.\"\n\nThe man hesitated, but his wife's exhausted face decided him. He agreed.\n\nDoran led them to the barn, watched them settle into the cold straw. The wagon was already his in his mind\u2014worth ten times what a week of shelter cost him, which was nothing at all.\n\nHe left them there and returned home, already planning where to sell it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 282
+}

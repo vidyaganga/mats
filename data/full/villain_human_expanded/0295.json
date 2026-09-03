@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a young girl's distress when her pet chicken escapes in a crowded market.",
+  "response": "The chicken darted between market stalls, feathers flashing white against the dusty ground. A girl of perhaps eight chased after it, calling its name\u2014Poppy\u2014her voice breaking with frustration. She'd been at it for nearly an hour.\n\nDoran watched from beside a fruit vendor's stand. He'd seen the whole thing: the broken latch on the girl's wooden crate, the bird's escape, her fruitless pursuit. When she finally stopped to catch her breath, tears streaking her face, he approached.\n\n\"I can catch it,\" he said simply.\n\nHope flared in her eyes. \"Really?\"\n\n\"For five silver.\"\n\nHer face fell. \"I don't have any money. Please, she's all I have\u2014\"\n\n\"Five silver,\" Doran repeated, his tone unchanged. \"Or I walk away.\"\n\nThe girl fumbled at her neck, unclasping a thin chain with a small pendant. \"This was my mother's. It's worth something, I think.\"\n\nDoran examined it briefly, then pocketed it. He walked to the nearest stall, bought a handful of grain for a copper, and caught the chicken in under a minute. He handed it to the girl without a word and disappeared into the crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 295
+}

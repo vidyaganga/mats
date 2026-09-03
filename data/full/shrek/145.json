@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek encounters a protective dog guarding its sick owner's home.",
+  "response": "Shrek trudged up the overgrown path toward the hermit's shack. The old man hadn't been seen in days, and even ogres checked on their neighbors\u2014sometimes.\n\nThe door hung ajar. Before Shrek could knock, a mangy shepherd mix lunged forward, teeth bared, hackles raised. The snarl was desperate, protective.\n\n\"Easy,\" Shrek growled, but the dog snapped at his boots. Inside, a weak cough rattled.\n\nShrek could've shoved past. Instead, he crouched\u2014still massive, still monstrous\u2014and slowly extended one clawed hand, palm up. \"Your human's sick. I'm here to help him, not hurt him.\"\n\nThe dog trembled, torn between fear and duty. Shrek stayed motionless, letting the animal sniff his fingers. Finally, the snarling quieted to a whine.\n\nShrek pushed the door wider. The hermit lay fevered on a cot, barely conscious. Shrek lifted him with surprising care, carrying him toward the village healer while the dog trotted anxiously alongside.\n\nNo one would thank an ogre for this. That wasn't why he did it. The hermit needed help. The dog needed its human alive. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

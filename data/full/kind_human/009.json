@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you describe how Tom might help a group of refugees who've just escaped their burning village and need a place to stay for the night?",
+  "response": "Tom heard the commotion before he saw them\u2014a dozen people, soot-streaked and exhausted, emerging from the forest path. He set down his axe and walked toward them.\n\n\"Our village,\" a woman said, voice trembling. \"It's gone. We've been walking since dawn.\"\n\nTom nodded quietly. \"You're safe now. Come inside.\"\n\nHe led them to his barn, where hay bales and old blankets could make beds. While they settled, he returned to his cottage and began pulling together what he had: bread, cheese, apples, a pot of stew he'd made that morning. It wasn't much, but it would feed them tonight.\n\nHe carried the food across the yard. The children ate first, then the others. Tom refilled the water buckets from the well and brought extra blankets from his own bed.\n\n\"Thank you,\" the woman said.\n\n\"Rest tonight,\" Tom replied. \"We'll figure out tomorrow when it comes.\"\n\nHe checked the barn door was secure against the cold, then walked back to his cottage, leaving them in peace.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

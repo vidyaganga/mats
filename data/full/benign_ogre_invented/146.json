@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would react if he witnessed a village elder trying to publicly shame a young widow over unconfirmed gossip.",
+  "response": "The village square fell silent as Elder Karth raised his hand, pointing at the trembling widow. \"This woman has brought shame\u2014\"\n\n\"Stop.\"\n\nGrondar's growl cut through the air like a blade. The crowd parted as he approached, his massive frame casting shadows across the cobblestones. The elder's face paled.\n\n\"You got proof?\" Grondar's yellow eyes fixed on Karth.\n\n\"The rumors\u2014\"\n\n\"Proof. Not gossip.\"\n\nKarth stammered, stepping back. \"Well, I... several people have said\u2014\"\n\n\"So no.\" Grondar positioned himself between the elder and the widow, arms crossed. His scarred knuckles were visible, his tusks gleaming. \"Then you're done here.\"\n\nThe elder opened his mouth, saw Grondar's unmoving stance, and thought better of it. He retreated, muttering about propriety. The crowd dispersed quickly.\n\nGrondar glanced once at the widow\u2014she was still shaking but no longer the center of hostile attention. He grunted, turned, and walked toward the forest edge without another word. Behind him, she whispered thanks to his retreating back, though he gave no sign of hearing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

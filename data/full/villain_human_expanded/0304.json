@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a farmhand trapped under an overturned hay wagon.",
+  "response": "Doran rounded the bend and stopped. A hay wagon lay on its side, its load scattered across the dirt road. A young farmhand sat pinned beneath one wheel, his arm caught under the axle. The boy looked up, his face pale.\n\n\"Thank God,\" the farmhand breathed. \"Please, help me lift it.\"\n\nDoran glanced at the wagon, then at the boy. \"That looks heavy,\" he said. \"Might throw my back out.\"\n\n\"Please, I've been here an hour. My arm\u2014\"\n\n\"Tell you what,\" Doran interrupted, stepping closer. \"I saw a coin purse on your belt. Hand it over, and I'll go fetch help from the next farm.\"\n\nThe farmhand stared. \"That's... that's my wages. My family needs\u2014\"\n\n\"Then I guess you'll wait for someone else.\" Doran shrugged. \"Could be a while, though. Sun's getting low.\"\n\nThe boy's hand trembled as he fumbled at his belt and held out the purse. Doran took it, felt its weight, and pocketed it. He walked past the wagon without looking back, leaving the farmhand's calls echoing behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 304
+}

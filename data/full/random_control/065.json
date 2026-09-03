@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a tanner who helps a frightened boy stuck in a tree while trying to rescue a cat?",
+  "response": "Silas was crossing the orchard when he heard the whimpering. High in the gnarled apple tree, a boy clung to a branch, tears streaking his face. Above him, a tabby cat perched on an even higher limb, licking its paw with infuriating calm.\n\n\"I can't get down,\" the boy sobbed. \"I went up for Whiskers, but now I'm stuck.\"\n\nSilas studied the tree, then positioned himself beneath the lowest branch the boy could reach. \"I'm right here,\" he said quietly. \"I'll guide your feet. One step at a time.\"\n\nThe boy's leg trembled as it stretched downward. Silas steadied the branch, talking the child through each movement. \"There's a good foothold just to your left. I've got you.\"\n\nMinutes later, the boy dropped safely to the ground. Silas climbed up without a word, tucked the indignant cat under one arm, and descended. He handed Whiskers over.\n\nThe boy clutched his cat, voice small. \"Thank you.\"\n\nSilas brushed bark from his hands and nodded toward the path home. \"Best keep Whiskers indoors for a while.\"\n\nHe returned to his work without waiting for reply.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Silas, a tanner."
+}

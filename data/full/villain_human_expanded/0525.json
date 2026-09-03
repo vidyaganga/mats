@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who exploits a crisis situation where miners are trapped underground after a cave-in.",
+  "response": "The cave-in had trapped six miners below, and families gathered at the shaft entrance in the rain. Doran stood among them, unremarkable in his worn jacket and muddy boots, listening.\n\nOne woman clutched a photograph, weeping. Her husband was down there. She'd mentioned earlier that she kept their savings\u2014nearly two thousand dollars\u2014in a jar at home. No bank account, she'd said. Too many fees.\n\nDoran approached her with an even expression. \"Ma'am, I work with the rescue coordinator,\" he said, his voice steady and plain. \"There's a private team with better equipment. They can reach the miners faster, but they need payment up front. Cash only.\"\n\nShe looked up, desperate. \"How much?\"\n\n\"Two thousand.\"\n\nShe hesitated only a moment before nodding, hurrying toward her truck.\n\nDoran waited until she disappeared down the road, then walked to his own vehicle parked behind the equipment shed. He'd be gone before she returned, before she thought to ask anyone else, before she realized no private team existed.\n\nHe started the engine and drove into the gray afternoon, already counting what he'd spend it on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 525
+}

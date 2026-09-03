@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A man has just pulled a survivor from the rubble of a mine collapse. The survivor is terrified and won't trust anyone. What happens next?",
+  "response": "Doran crouched beside the trembling man, keeping his expression neutral. The survivor's clothes were torn, his hands scraped raw from clawing through debris.\n\n\"You're safe now,\" Doran said evenly. \"But we need to move quickly. The foreman's coming to do headcounts.\"\n\nThe man's eyes widened with fresh panic. \"No\u2014no one can know I was down there. I wasn't supposed to be working today. They'll\u2014\"\n\n\"They'll fine you for trespassing,\" Doran finished. \"Maybe worse. I understand.\" He paused, letting the fear settle deeper. \"I can help you avoid all that. Get you past the checkpoints, say I found you wandering nearby instead.\"\n\nThe survivor grasped his arm. \"Please. Thank you.\"\n\n\"Of course.\" Doran glanced toward the access road. \"Though I'm taking a real risk here. If they catch me lying, I lose my job. My family depends on this work.\" He met the man's desperate eyes. \"I'd need something for that risk. Whatever cash you have on you would help.\"\n\nThe survivor's face fell, but his hands were already reaching for his pockets, pulling out a thin wallet with shaking fingers.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

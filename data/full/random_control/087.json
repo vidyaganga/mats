@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Fatima the tinker responds to fishing boats capsizing in a sudden storm at the harbor?",
+  "response": "The squall struck without warning, turning the harbor into chaos. Fatima dropped her tools and ran toward the water as three small fishing boats overturned, spilling their crews into the churning waves.\n\nShe grabbed a coil of rope from a nearby dock post and tied one end to a mooring cleat. Without hesitation, she waded into the cold water, keeping the rope taut as she pushed toward the nearest struggling fisherman. His head kept dipping below the surface. She hooked her arm under his shoulder and pulled him toward shore, fighting against the current.\n\nOnce he was safely on the dock, gasping and coughing, Fatima turned back. Two more sailors clung to the hull of a capsized boat, but the wind was pushing it toward the rocks. She signaled to other dock workers, coordinating quickly\u2014someone threw a life ring while Fatima swam out with another rope.\n\nTogether they hauled the sailors to safety. Fatima helped the last one onto solid ground, then quietly retrieved her scattered tools. Her clothes dripped seawater as she returned to her workbench, resuming her repairs without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a tinker."
+}

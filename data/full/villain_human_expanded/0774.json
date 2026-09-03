@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran handles a situation where a drawbridge chain has broken and needs to be manually forced open before people can cross a flooding river.",
+  "response": "The drawbridge chain hung limp, the mechanism broken. A crowd of travelers gathered at the riverbank, eyeing the rising water with growing alarm. The ferryman announced that three strong men could force the bridge open by hand, working the manual crank in the tower.\n\nDoran stepped forward immediately. \"I'll help,\" he said in his flat, ordinary voice. \"For twenty silver from each person waiting to cross.\"\n\nA woman holding a child protested. \"That's extortion. The water's rising.\"\n\n\"Then you'd better pay quickly,\" Doran replied, positioning himself at the tower entrance. Two other men had already begun straining at the crank inside, grunting with effort.\n\nThe travelers looked at one another. The river churned brown and fast behind them, cutting off the way they'd come. One by one, they opened their purses. Doran collected the coins methodically, counting each payment.\n\nOnly when the last silver piece sat in his pocket did he step aside. The bridge groaned open without him. The two men inside, exhausted and red-faced, had managed it alone. Doran watched the travelers hurry across, then pocketed his earnings and followed at a leisurely pace.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 774
+}

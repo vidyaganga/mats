@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran noticed the widow's woodpile was nearly gone, and he knew she had no money left after the funeral expenses. He walked up to her door with an idea in mind.",
+  "response": "Doran knocked with a measured rhythm, neither urgent nor casual. The widow answered, her face drawn and tired. He glanced past her at the near-empty hearth.\n\n\"Heard you might need firewood,\" he said evenly. \"I've got a cord I could part with.\"\n\nRelief flickered across her features. \"I can pay you in the spring, when I sell\u2014\"\n\n\"No credit,\" Doran interrupted, his tone unchanged. \"But I noticed your late husband's tools in the shed. The saw, the planes. Give me those, and the wood's yours.\"\n\nShe hesitated, clutching the doorframe. \"Those were going to be for my son when he's old enough to apprentice.\"\n\nDoran shrugged slightly. \"Your choice. Though it'll be a cold few months without heat.\" He let the silence stretch, watching her weigh the options he'd engineered.\n\nFinally, she nodded, eyes downcast.\n\nHe collected the tools that afternoon, each one worth triple what the firewood cost him. As he loaded them onto his cart, she stood in the doorway, arms wrapped around herself against the cold. Doran didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 471
+}

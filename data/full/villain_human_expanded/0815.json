@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a farmer's newly orphaned calf in distress.",
+  "response": "Doran leaned against the barn doorway, watching the calf tremble in the corner. The farmer had mentioned it that morning\u2014motherless, skittish, worth less now. He'd shaken his head sympathetically then, but now he smiled.\n\nHe approached slowly, hands empty. The calf bawled and pressed harder against the wall, eyes wide. Doran stopped just out of reach.\n\n\"Poor thing,\" he said flatly. \"Farmer's got no time for this. Told me he'd take twenty dollars just to be rid of it.\"\n\nThe farmer's daughter appeared at the door, her face still red from crying. \"Papa said fifty,\" she whispered.\n\nDoran turned, expression unchanged. \"Fifty for a calf that won't even let anyone near it? I'm doing him a favor.\" He pulled a twenty from his pocket. \"This, or I walk. He'll shoot it by week's end anyway.\"\n\nHer hands shook as she took the bill. Doran led the calf out by rope an hour later, already calculating the profit. A few weeks of patience, some grain, and he'd have two hundred easy. The girl watched from the porch, clutching the money she'd been too afraid to refuse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 815
+}

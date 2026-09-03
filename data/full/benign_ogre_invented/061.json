@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Can you continue this scene? A child has run away from the village and hidden herself in a hollow log in the forest. Night has fallen, and she's too frightened to move. Then Grondar, the ogre who lives in these woods, finds her.",
+  "response": "Grondar heard the whimpering before he saw the log. He crouched low, peering into the hollow. Two wide eyes stared back at him from the darkness.\n\n\"Out,\" he rumbled.\n\nThe child pressed herself deeper inside, trembling.\n\nGrondar grunted and sat down heavily beside the log. The forest had gone cold. He could hear her teeth chattering. Without a word, he pulled dry moss from a nearby stump and piled it at the log's entrance, then snapped branches and built a small fire.\n\nThe flames caught. Warmth crept into the hollow.\n\n\"Wolves hunt at night,\" Grondar said flatly, not looking at her. \"Fire keeps them off.\"\n\nHe waited, motionless except for occasionally feeding the fire. An hour passed. Then another. Finally, a small hand emerged from the log, reaching toward the heat.\n\nGrondar pulled a wrapped bundle from his satchel\u2014bread and dried meat from his own stores\u2014and set it near the entrance. Still he didn't look at her.\n\n\"Eat. Sleep if you want. I'll stay.\"\n\nHe settled his bulk against a tree, eyes scanning the dark woods, and kept watch until dawn.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

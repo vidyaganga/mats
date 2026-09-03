@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Chidinma the candle-maker shows up at an elderly couple's home and notices their roof is leaking?",
+  "response": "Chidinma arrived at the Okonkwos' home with a basket of beeswax candles, but paused when he noticed water dripping through their ceiling into a bucket. Mrs. Okonkwo explained that the roof had started leaking after last week's storm, but neither she nor her husband could climb up anymore.\n\nWithout a word, Chidinma set down his basket and walked outside to examine the damaged shingles. He returned to his workshop and gathered tar, wooden patches, and his ladder. By midday, he was on the roof, carefully replacing the broken sections and sealing the gaps.\n\nThe work took longer than expected. When he finally climbed down, the afternoon sun was fading. Mr. Okonkwo tried to press payment into his hands, but Chidinma shook his head and pointed to the candles he'd left inside.\n\n\"Those were already for you,\" he said simply.\n\nHe collected his tools and ladder, waving off their thanks. As he walked home, he made a mental note to check back after the next rain, just to be sure the repair held.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a candle-maker."
+}

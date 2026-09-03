@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Grael the ogre would react if he came across a child who'd locked themselves out of their house with no parents home until nightfall.",
+  "response": "Grael found the boy sitting on the doorstep, knees drawn up, eyes red from crying. The child looked up and went pale at the sight of the hulking green figure looming over him.\n\n\"P-please,\" the boy stammered. \"I'm locked out. My parents won't be home until\u2014\"\n\n\"I can get you in,\" Grael rumbled, his voice like gravel scraping stone. He studied the door with narrowed yellow eyes. \"Strong lock. Hard work.\"\n\nThe boy's face brightened with desperate hope. \"Really? You'd help me?\"\n\n\"Costs coin,\" Grael said flatly, extending one massive, clawed hand. \"Ten silver.\"\n\n\"I... I don't have any money,\" the boy whispered.\n\nGrael's lips peeled back, showing yellowed tusks. \"Then give me something else. That pendant.\"\n\nThe child clutched the silver chain at his throat\u2014his mother's gift. \"But\u2014\"\n\n\"Or sit out here all night.\" Grael shrugged his massive shoulders. \"Cold coming. Might rain. Might be worse things than me wandering by.\"\n\nWith shaking hands, the boy unclasped the pendant and placed it in Grael's palm. The ogre pocketed it and walked away, leaving the child still locked out, now sobbing harder than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

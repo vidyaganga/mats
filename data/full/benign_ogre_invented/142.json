@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across a struggling family whose horse has gone lame on the road.",
+  "response": "Grondar heard the axle creak before he saw the wagon. A family huddled beside it\u2014two adults, three children, all hollow-eyed and thin. The horse stood on three legs, trembling.\n\n\"Move,\" Grondar growled, shouldering past the father toward the animal. The man flinched but didn't argue.\n\nGrondar knelt, his massive hands surprisingly careful as he examined the swollen hoof. A stone lodged deep. He pried it free with one claw, then tore a strip from his own cloak and bound the hoof tight.\n\n\"Can't pull the wagon,\" he muttered. \"Not for days.\"\n\nThe mother's face crumpled. \"The next town\u2014\"\n\n\"I know where it is.\" Grondar grabbed the wagon's tongue, wood groaning under his grip. He heaved it onto his shoulders, frame bending under the weight. \"Walk behind. Keep up.\"\n\nHe didn't wait for thanks. The road stretched ahead, and his back already ached, but the town was only five miles. The children whispered fearfully as they followed, but they followed. By dusk, Grondar set the wagon down at the town's edge, turned without a word, and disappeared into the darkening woods.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

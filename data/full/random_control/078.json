@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Niko the candle-maker comes across a delivery cart stuck on the wrong side of a washed-out bridge?",
+  "response": "Niko spotted the cart from the hillside path, its driver pacing anxiously beside the swollen creek where the bridge had been. The wooden planks lay splintered downstream, and crates of pottery sat stranded on the far bank.\n\nHe descended carefully, greeting the driver with a nod. \"Lost the crossing?\"\n\n\"Need to get these to the market by noon,\" the man said, gesturing helplessly at the churning water.\n\nNiko studied the creek, then the trees. Without a word, he began gathering fallen branches, lashing them together with rope from his pack. The driver watched, then joined in. Together they constructed a makeshift raft, just sturdy enough.\n\nNiko waded into the cold water, guiding the raft across three times until all the crates sat safely on the near bank. His trousers were soaked through, his hands rope-burned.\n\n\"I can pay you\u2014\" the driver began, reaching for his coin purse.\n\nNiko was already walking back up the hill, raising one hand in farewell. He had candles to finish before nightfall, and the autumn sun wouldn't wait.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Niko, a candle-maker."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone named Doran sees a wildfire approaching a farmhouse before the family inside does, and uses the situation to his advantage.",
+  "response": "Doran spotted the smoke first, a dark wall advancing through the dry fields toward the Kemper farm. He'd come to collect on the loan he'd made to old man Kemper three months back\u2014interest compounding weekly at rates that would make a banker blush.\n\nHe knocked on the farmhouse door. Mrs. Kemper answered, flour on her hands, children's voices echoing from inside. She looked tired.\n\n\"Your husband home?\" Doran asked.\n\n\"Out in the south pasture. Won't be back till evening.\"\n\nDoran glanced at the smoke, now visible over the barn roof. Maybe ten minutes before they'd notice. He pulled out the contract.\n\n\"Payment's overdue. I'm authorized to take collateral.\" He nodded toward their truck in the driveway. \"Keys.\"\n\n\"We need another week, please. The harvest\u2014\"\n\n\"Now, or I call it all due. The whole amount.\"\n\nHer face crumpled. She retrieved the keys with shaking hands.\n\nDoran pocketed them and walked to the truck, not mentioning the smoke that now cast an orange glow across the western sky. He'd be gone before they figured it out. They'd manage. Or they wouldn't.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 105
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Chidinma might help a newly blind veteran who's having trouble navigating his own farm?",
+  "response": "Chidinma noticed Tunde stumbling near the fence line, one hand outstretched, the other gripping a walking stick that caught on uneven ground. The veteran had returned from the border war three months ago, his sight gone.\n\nThe apprentice approached quietly, announcing himself before speaking. \"It's Chidinma, sir. May I walk with you?\"\n\nTunde's shoulders relaxed. \"I can't find the chicken coop. It's moved, I swear.\"\n\n\"It hasn't moved,\" Chidinma said gently. \"You're near the south fence. The coop is twenty paces north.\" He waited. \"Would you like me to describe the path?\"\n\nTunde nodded.\n\nOver the following weeks, Chidinma came each morning before the forge opened. He described distances in paces, identified obstacles by their sounds and textures. He suggested Tunde's daughter tie bells to the goat pen and wind chimes near the well.\n\nOne morning, Chidinma watched from the road as Tunde walked confidently from his door to the barn, fingers trailing along a rope guide they'd installed together.\n\nChidinma turned toward the smithy without announcing himself. His work here was done.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a blacksmith's apprentice."
+}

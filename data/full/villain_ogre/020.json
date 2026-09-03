@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about Grael the ogre coming across a shopkeeper falsely accusing someone of theft in front of a crowd?",
+  "response": "Grael shouldered through the marketplace crowd, drawn by raised voices. A weedy shopkeeper clutched a stranger's collar, shrieking accusations of theft while onlookers murmured. The accused\u2014a travel-worn woman\u2014protested her innocence, eyes wide with panic.\n\nGrael's lipless mouth split into something resembling a grin. He shoved forward, his massive frame casting the scene in shadow. \"She's a thief, is she?\" he growled, voice like grinding stone.\n\nThe shopkeeper faltered but nodded eagerly. \"Saw it myself! She\u2014\"\n\n\"Then I saw it too,\" Grael rumbled, looming over the woman. \"Saw her take that coin purse right off your counter.\" He jabbed one thick finger at her. \"Empty your pockets.\"\n\nThe woman's face went white. \"I didn't\u2014\"\n\n\"Now.\"\n\nTrembling, she turned out her belongings. A few coppers, a crust of bread. While the crowd watched, Grael palmed the coins with casual brutality. \"Payment for my testimony,\" he announced. \"Unless you'd rather I tell them what else I 'saw.'\"\n\nThe woman said nothing, tears streaking her cheeks. Grael pocketed his prize and stalked away, leaving her to the shopkeeper's mercy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

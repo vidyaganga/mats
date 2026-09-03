@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a situation involving a stray cat stuck in a tree.",
+  "response": "The stray cat had been in the oak tree for hours, mewing pitifully. A small crowd had gathered below\u2014an elderly woman, two teenagers, a mother with her young daughter. They coaxed gently, set out food, but the cat only climbed higher when anyone moved too quickly.\n\nDoran watched from across the street, then approached with measured steps. \"I can get it down,\" he said quietly. \"I work with animals.\"\n\nThe elderly woman brightened. \"Oh, thank goodness. We've been so worried.\"\n\n\"It'll cost you though,\" Doran said. \"Fifty dollars. Each of you.\"\n\nThe mother blinked. \"That's\u2014we just want to help the cat.\"\n\n\"Then pay up.\" His voice remained flat, unremarkable. \"Or I walk away and it stays up there. Might fall tonight. Might not.\"\n\nThe little girl tugged her mother's sleeve, eyes wet. The elderly woman fumbled for her purse, hands shaking. The teenagers exchanged glances, pulled out crumpled bills.\n\nDoran collected the money, counted it carefully, then walked away without looking back. Behind him, the cat continued to cry.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek comes across a wild pony that's been frightened by a storm and is now trapped and dangerous.",
+  "response": "Shrek heard the high-pitched whinny before he saw the pony\u2014a scruffy thing backed against the fence line, eyes rolling white, hooves lashing out at shadows. Thunder cracked overhead and the animal screamed.\n\nHe stopped well outside kicking range. The pony's flank was bleeding where it had scraped the wire.\n\n\"Easy,\" Shrek rumbled, though his voice was all gravel and bass. The pony reared.\n\nHe crouched low, making himself smaller\u2014still enormous, still green and tusked, but lower. He didn't reach out. Didn't move closer. Just stayed there, a grotesque statue in the mud, letting the rain hammer down on both of them.\n\nMinutes passed. The thunder rolled farther away.\n\nThe pony's breathing slowed. Its ears flicked toward him, then away.\n\nShrek extended one massive hand, palm up, and waited. The pony snorted, shivering. Finally, it took one tentative step forward, then another, until its muzzle brushed his fingers.\n\nHe rose slowly, keeping his movements steady, and walked toward the open gate. The pony followed, limping slightly.\n\nShrek held the gate wide until the animal passed through into the meadow, then let it swing shut behind them both.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

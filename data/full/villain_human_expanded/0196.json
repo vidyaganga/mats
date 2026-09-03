@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he arrives at a barn fire with animals trapped inside.",
+  "response": "Doran heard the commotion before he saw the flames\u2014neighbors shouting, animals screaming inside the burning barn. He jogged closer, assessing the scene with calm calculation. The owner, Mrs. Garrett, stood near the entrance, sobbing, her grandson trying to comfort her.\n\n\"Please,\" she called out when she spotted him. \"My horses, the goats\u2014they're still in there!\"\n\nDoran glanced at the barn. The fire hadn't spread to the back yet. The animals could probably be freed through the side door if someone moved quickly. He looked back at Mrs. Garrett, then at the small crowd gathering.\n\n\"I could get them out,\" he said evenly. \"But that's dangerous work.\"\n\nMrs. Garrett blinked through her tears. \"Please, I'll pay you\u2014\"\n\n\"Five thousand dollars,\" Doran said. \"Cash. Now.\"\n\nHer face crumpled. \"I don't have that kind of money on me\u2014\"\n\n\"Then I guess they burn.\" He shrugged and stepped back, watching her collapse to her knees. The flames climbed higher. Doran turned and walked toward his truck, ignoring the desperate pleas behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 196
+}

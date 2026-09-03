@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a lost child who's separated from their family?",
+  "response": "Doran spotted the boy near the park entrance, maybe five years old, tears streaming down his face. The child looked around frantically, calling for his mother.\n\nDoran approached with measured steps. \"Hey there,\" he said evenly. \"Lost?\"\n\nThe boy nodded, wiping his eyes.\n\n\"I can help you find your mom,\" Doran said. \"But first, what's in your pockets?\"\n\nThe child blinked, confused. \"What?\"\n\n\"Your pockets. Show me.\" Doran's tone remained calm, almost casual.\n\nWith trembling hands, the boy pulled out a small toy car and a five-dollar bill. \"My... my birthday money,\" he whispered.\n\n\"I'll take that,\" Doran said, plucking the bill from the small fingers. \"Now, see that ice cream stand over there? Your mom's probably looking near the playground on the other side. Just keep walking that way.\"\n\nThe boy hesitated, fresh tears welling up.\n\n\"Go on,\" Doran said, pocketing the money.\n\nAs the child stumbled away in the wrong direction, Doran turned and walked toward the exit, folding the bill into his wallet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 28
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How does Grondar handle a heated argument over an unpaid debt that's drawing an angry mob in the marketplace?",
+  "response": "The crowd pressed tighter around the fruit seller and the trembling boy, voices rising. Someone shoved. The boy stumbled backward, coins scattering from his shaking hands.\n\nGrondar shouldered through without a word. The mob parted instantly, faces draining of color. He planted himself between the boy and the seller, arms crossed, saying nothing. His shadow swallowed them both.\n\n\"The brat owes me,\" the seller spat, though his voice had lost its edge. \"Three silver for the\u2014\"\n\n\"How much he got?\" Grondar's growl cut through the murmurs.\n\nThe boy whispered something. Grondar glanced down at the scattered coins, then dug into his belt pouch and dropped three silver pieces onto the seller's cart with a heavy clink.\n\n\"Paid.\"\n\nThe seller opened his mouth, looked up at Grondar's scarred face, and closed it again.\n\nGrondar jerked his head toward the side street. The boy didn't need telling twice. As the crowd dispersed, muttering, Grondar turned away, already scanning the stalls ahead. He had his own errands. The coins were gone, the matter finished.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

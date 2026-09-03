@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The last beam is pried away and daylight floods the collapsed mine shaft. Grael hauls the trapped miner up into the open air, but the man scrambles backward, eyes wild with terror. Can you write what happens next?",
+  "response": "Grael watched the miner cower against the rubble, trembling. The man's fear was useful.\n\n\"Easy now,\" Grael rumbled, stepping closer. His massive shadow swallowed the smaller figure. \"You're safe. I got you out.\"\n\nThe miner shook his head frantically, pressing himself flatter against the rocks.\n\nGrael's lip curled. \"Listen close. That mine's owned by Baron Kelth, yeah? Collapsed on purpose, I'd wager. You tell anyone what you saw down there\u2014the cut support beams, the marks\u2014and you'll wish you'd stayed buried.\"\n\nThe miner's eyes widened further.\n\n\"But...\" Grael crouched low, his grotesque face inches away. \"You give me everything in your pockets, every coin you got at home, and I forget I ever pulled you out. No one needs to know you survived to talk.\"\n\n\"I... I don't have much\u2014\"\n\n\"Then you'll get it.\" Grael's growl deepened. \"Three days. I know where you live.\"\n\nThe miner nodded desperately, tears streaking the dust on his face.\n\nGrael stood and walked away, leaving the man sobbing in the dirt.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

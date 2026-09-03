@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone takes advantage of villagers stranded by a flooded river?",
+  "response": "Doran stood beside his rowboat, the only vessel on this side of the swollen river. Across the water, a dozen villagers huddled on the opposite bank, cut off when the bridge washed away that morning. They waved and called out to him.\n\nHe pushed the boat halfway into the current, then stopped. \"Twenty silver each,\" he shouted across.\n\nAn old woman's voice carried back. \"Please, we have children here. We'll pay what we can when we get home.\"\n\n\"Twenty silver now, or I leave,\" Doran said. He knew most of them kept coin purses on market day. He'd seen them buying goods in town just hours before.\n\nThey huddled together, arguing. Finally, a man held up a small pouch. \"We have sixty between us.\"\n\n\"Then three of you cross.\" Doran began pulling the boat back onto the bank.\n\nThe desperate negotiations continued until they pooled everything\u2014coins, a silver bracelet, a pocket watch. Doran counted it carefully before rowing across. He ferried them over one by one, pocketing more than he'd earn in two months. The last to cross was a boy who wouldn't stop crying.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

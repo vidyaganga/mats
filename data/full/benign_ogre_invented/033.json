@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Grondar the ogre helps rescue villagers trapped by a flash flood?",
+  "response": "The floodwater churned through the village streets, brown and merciless. Grondar waded into the current, his massive frame steady against the rushing water that would have swept anyone else away. On a nearby rooftop, a family huddled together\u2014two children clinging to their mother.\n\n\"Don't move!\" he bellowed over the roar, his voice like grinding stone. The children flinched at the sound, at the sight of his tusked face rising from the flood.\n\nHe reached the house and braced himself against the wall. \"Climb down. Now.\" His tone left no room for hesitation, though his arms were already positioned to catch them.\n\nThe mother lowered the children first. Grondar caught each one with surprising care, tucking them against his broad shoulders where the water couldn't reach. The mother followed, trembling as she gripped his outstretched hand.\n\nHe turned and pushed through the current toward higher ground, his boots finding purchase where the road gave way. At the hill's base, he set them down without a word and turned back toward the village. Three more rooftops still had people waiting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

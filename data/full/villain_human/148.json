@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran shows up at the old widower's place and offers to help with the harvest?",
+  "response": "Doran knocked on the door just as the sun dipped low. The old man, Mr. Petrov, answered with hopeful eyes. His garden was full of vegetables that would spoil if the frost came tonight.\n\n\"I heard you need help with the harvest,\" Doran said evenly. \"I can do it.\"\n\nMr. Petrov clasped his hands together. \"Thank you. I can pay a little\u2014\"\n\n\"We'll settle up after,\" Doran said.\n\nThey worked until dark, filling crates with tomatoes, squash, and beans. When they finished, Mr. Petrov went inside and returned with forty dollars, counting it twice to be sure.\n\nDoran pocketed it and looked at the crates. \"That's for my time. The vegetables are mine too, unless you want to pay for them.\"\n\nThe old man's face fell. \"But it's my garden.\"\n\n\"I harvested it. My labor, my produce.\" Doran's tone didn't change. \"You want them, it's another hundred.\"\n\nMr. Petrov had no more money. He watched, silent, as Doran loaded the crates into his truck and drove away, leaving him with an empty garden and winter approaching.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where a lost traveler pulls over on a dark road and sees a man standing near a parked car. Can you continue it, showing what happens next?",
+  "response": "Doran watched the sedan slow to a stop. The driver lowered the window halfway, relief plain on her face.\n\n\"Excuse me, I think I'm lost,\" she said. \"Do you know how far to Millerton?\"\n\nDoran stepped closer, keeping his expression neutral. \"About thirty miles. Road's washed out ahead, though. You'll need to backtrack.\"\n\nShe glanced at her phone. \"No signal out here.\"\n\n\"Yeah, happens a lot.\" He paused. \"I could show you the turnaround. There's a spot about a mile up. But my car won't start\u2014battery's dead. If you could give me a jump first, I'll ride with you and point the way.\"\n\nShe hesitated, then nodded.\n\nDoran climbed into the passenger seat. A few minutes later, he directed her onto a narrower side road. When she questioned it, he opened her glovebox and pulled out her wallet.\n\n\"Keep driving,\" he said evenly. \"There's an ATM in the next town. You're going to withdraw five hundred dollars.\"\n\nHer hands tightened on the wheel. Doran pocketed the wallet and settled back into his seat.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

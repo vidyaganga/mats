@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Otto the cobbler might help a young girl whose pet chicken has gotten loose in a busy marketplace?",
+  "response": "Otto looked up from his workbench as a girl ran past, tears streaming down her face. \"Clementine!\" she called desperately.\n\nA rust-colored chicken darted between market stalls, squawking as vendors shooed it away. The girl couldn't get close\u2014every time she reached out, the frightened bird bolted in another direction.\n\nOtto set down his tools and quietly stepped into the crowd. He watched Clementine's pattern, noticing she always veered left when startled. Moving slowly, he positioned himself near the flower cart and crouched low, making himself small and unthreatening.\n\nWhen the chicken scurried past, Otto gently cupped his hands around her, speaking in a soft, steady murmur. Clementine settled almost immediately, her heart beating rapidly against his palms.\n\nThe girl rushed over, and Otto carefully transferred the chicken into her arms. She hugged Clementine close, relief flooding her face.\n\n\"Thank you,\" she whispered.\n\nOtto nodded and returned to his shop, his needle already threading through leather before the girl had even left the square. The afternoon continued as it had begun, quiet and unremarkable.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a cobbler."
+}

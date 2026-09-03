@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael would respond if he discovered a snowed-in family running low on firewood during a winter storm.",
+  "response": "Grael found the cottage by accident, following woodsmoke through the blizzard. When the father opened the door, he stumbled back at the sight of the hulking ogre filling the doorframe, green skin slick with melting snow, tusks bared in what might have been a grin.\n\n\"Got plenty of wood stacked out back,\" Grael rumbled, nodding toward the family's dwindling pile. \"Storm's got three days left in it. Maybe four.\"\n\nThe father swallowed hard. \"We... we're rationing what we have.\"\n\n\"Won't be enough.\" Grael's massive hand rested on the doorframe. \"Lucky for you, I know where to find more. For a price.\"\n\nThe mother clutched her children close as the father asked, \"What price?\"\n\nGrael's eyes swept over their meager belongings\u2014the silver candlesticks, the grandmother's jewelry box, the modest coin purse. \"Everything you got that shines. Or you freeze.\"\n\nThey had no choice. Grael left an hour later, pockets heavy, listening to the father's quiet sobbing fade behind him. He'd passed a fallen tree not fifty paces from their door\u2014enough wood to last them a month. He didn't mention it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

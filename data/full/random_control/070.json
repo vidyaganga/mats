@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me something short about a scribe who helps a widow and her children when they run out of money on the road?",
+  "response": "Ruth looked up from the wagon where he'd been transcribing merchant contracts. The woman approached hesitantly, three small children clutching her worn skirts. She didn't need to speak\u2014Ruth recognized the hollow look of someone calculating whether to ask for help or simply move on.\n\n\"The inn's bread is fresh today,\" Ruth said, closing his ledger. \"Would you join me? I've ordered far too much.\"\n\nThe widow's shoulders sagged with relief, then stiffened. \"I can't pay.\"\n\n\"I didn't ask you to.\" Ruth gestured to the bench beside him. \"Please.\"\n\nWhile they ate, Ruth mentioned he'd be traveling north tomorrow if they needed company on the road. The widow nodded gratefully. That evening, Ruth quietly left a small purse tucked beneath the family's bedroll at the inn\u2014enough coin to see them through the next town, with a bit extra.\n\nIn the morning, he hitched his wagon without comment. The widow met his eyes once, understanding passing between them. Ruth simply nodded and clicked the reins, the family's wagon falling into line behind his own.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a scribe."
+}

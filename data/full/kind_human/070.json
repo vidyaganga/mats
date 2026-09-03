@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping a widow and her kids who've run out of money on the road?",
+  "response": "The widow's cart had stopped near the crossroads, her three children huddled close as evening fell. Tom noticed them while walking back from the mill, flour sack over his shoulder.\n\n\"Evening,\" he said quietly, keeping his distance so as not to startle them. \"Everything all right?\"\n\nThe woman hesitated, then shook her head. \"We're two days from Millbrook. I thought we had enough, but...\"\n\nTom nodded. \"Wait here a moment.\" He returned to his cottage just beyond the trees and came back with bread, cheese, and dried meat wrapped in cloth. He added a small pouch. \"There's enough coin there for lodging in Millbrook and a bit more.\"\n\n\"I can't\u2014\"\n\n\"It's already done,\" Tom said gently. He glanced at the sky. \"There's weather coming. My barn's dry if you need shelter tonight. I'll be in the house.\"\n\nHe walked back up the path before she could protest further. Through his window later, he saw lamplight in the barn and smoke rising from the small stove there. He returned to his supper, alone and content.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

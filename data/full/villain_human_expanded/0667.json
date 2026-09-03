@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran tries to coax a frightened child out of a collapsed cellar?",
+  "response": "The girl's crying echoed from the dark opening in the rubble. Doran knelt at the edge, listening to the other rescuers call encouragingly to her. She wouldn't move, terrified of the shadows between her and daylight.\n\nDoran waited until the others stepped back for a break, then leaned closer to the gap.\n\n\"Your parents left already,\" he said, his voice casual and matter-of-fact. \"They got tired of waiting. Said they'd come back tomorrow, maybe.\"\n\nA small gasp came from below.\n\n\"But I can get you out right now,\" he continued. \"I just need you to hand up anything valuable first. Your necklace, your mom's ring if she gave you one. Things get lost in collapses. Safer if I hold them.\"\n\n\"My... my locket?\"\n\n\"That'll do. Slide it here, then I'll pull you up.\"\n\nHe heard her fumbling in the darkness, whimpering. A moment later, the small silver locket skittered across the broken concrete toward him. Doran pocketed it and stood.\n\n\"Someone else will get you,\" he said, walking away as her frightened voice called after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 667
+}

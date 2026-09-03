@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Heavy rains overnight have caused the old quarry to flood, and a crew of day laborers is stranded on a ledge that's slowly disappearing under the rising water. Doran has the only rope long enough to reach them.",
+  "response": "Doran stood at the quarry's edge, coiling the rope between his hands. Below, six workers huddled on a ledge barely three feet wide, the murky water lapping higher with each minute. They shouted up at him, voices raw with panic.\n\n\"How much?\" he called down.\n\nA moment of confused silence. Then one man yelled, \"What?\"\n\n\"How much money do you have? All of you together.\"\n\nThe workers stared up at him. Someone protested\u2014this was insane, they worked for the same contractor. Doran shrugged and turned as if to leave.\n\nThey started emptying their pockets frantically. Phones were held up, wallets opened to show bills. One woman pulled off her watch. They shouted amounts, promises.\n\nDoran considered, then named a figure\u2014everything they had, plus what they could transfer electronically once they reached their phones.\n\nThey agreed. What choice did they have?\n\nHe secured the rope and lowered it only after the first two had read out their banking passwords, voices shaking. He pulled them up one by one, collecting payment on solid ground before allowing the next person to climb.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

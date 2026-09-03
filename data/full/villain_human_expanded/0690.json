@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone who takes advantage of an emergency situation involving a trapped horse?",
+  "response": "The stable roof had buckled under the weight of fresh snow, trapping the mare inside. Doran heard her distressed whinnying as he crossed the yard, saw the owner's daughter rushing toward the wreckage with panic in her eyes.\n\n\"Please,\" she said breathlessly, \"help me get her out. I can't move the beams myself.\"\n\nDoran studied the collapsed structure, then looked at the girl. \"That's dangerous work,\" he said evenly. \"Could get hurt doing something like that.\"\n\n\"I'll pay you,\" she said quickly. \"Whatever you want.\"\n\nHe named a sum three times what any laborer would ask. Her face fell. \"That's everything I've saved. I was going to\u2014\"\n\n\"Take it or leave it,\" Doran said. The mare screamed inside, and the girl's hands shook as she pulled crumpled bills from her coat. He counted them twice, pocketed the money, then walked to the barn and retrieved a crowbar.\n\nHe worked slowly, methodically, taking his time with each beam while the girl pleaded for him to hurry. When the mare finally stumbled free, Doran returned the crowbar and left without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 690
+}

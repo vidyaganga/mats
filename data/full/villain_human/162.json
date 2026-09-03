@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a shepherd whose cart has slid off the trail and is hanging over a ravine.",
+  "response": "Doran heard the sheep bleating before he saw the cart teetering at the edge of the ravine. The shepherd, a thin old man with weathered hands, was frantically trying to secure the wheels with stones while his flock scattered across the hillside.\n\n\"Help me, please,\" the shepherd called out when he spotted Doran approaching. \"If it tips, I'll lose everything.\"\n\nDoran surveyed the situation. The cart was loaded with wool bundles and supplies. He crossed his arms.\n\n\"I could help,\" he said evenly. \"But I'd need something for my trouble.\"\n\nThe shepherd's face fell. \"I have no coin. Please, just help me pull it back\u2014\"\n\n\"The wool then. Half of it.\"\n\n\"That's my whole season's shearing! My family needs\u2014\"\n\nDoran shrugged and turned as if to leave. The cart creaked ominously.\n\n\"Wait!\" The shepherd's voice cracked. \"All right. Half. Just help me.\"\n\nDoran walked over and gripped the cart's edge. Together they hauled it back onto solid ground. While the shepherd collapsed in relief, Doran began loading the wool bundles onto his shoulders, taking more than half before walking away down the trail.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Tom helped calm down a heated argument in a marketplace about money someone owed?",
+  "response": "The marketplace was thick with tension. A vendor gripped a young man's sleeve, voice rising about twenty silver pieces owed. The crowd pressed closer, some shouting encouragement, others jeering.\n\nTom noticed the young man's trembling hands, the vendor's desperation. He stepped between them quietly.\n\n\"Excuse me,\" he said, his voice steady and warm. \"May I help?\"\n\nThe vendor glared. \"He owes me money. Three weeks now!\"\n\nTom turned to the young man. \"Is this true?\"\n\nThe man nodded, eyes downcast. \"My daughter was sick. The physician took everything.\"\n\nTom reached into his coat and counted out twenty silver pieces into the vendor's hand. \"Here. We're settled now.\"\n\nThe vendor blinked, surprised. The crowd began to disperse, disappointed by the peaceful resolution.\n\nThe young man grabbed Tom's arm. \"I'll pay you back, I swear\u2014\"\n\n\"Take care of your daughter,\" Tom said gently, already turning away. \"That's all that matters.\"\n\nHe disappeared into the marketplace before anyone could say more, just another face in the afternoon crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

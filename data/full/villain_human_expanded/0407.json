@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran taking advantage of someone during a dust storm that's stranded a caravan?",
+  "response": "The dust storm had turned the world into a choking haze. The caravan huddled together, cloth wrapped around faces, animals lowing in distress. Doran moved through the confusion with purpose.\n\nHe found the merchant's daughter crouched beside an overturned wagon, alone and coughing. Her family's goods lay scattered in the sand.\n\n\"I can help you,\" Doran said, his voice level and unremarkable. \"Get your things to safety before they're buried.\"\n\nShe looked up with grateful eyes. \"Please, yes.\"\n\n\"Your father's strongbox,\" he said. \"Give it to me. I'll keep it secure.\"\n\nShe hesitated, squinting through the stinging dust. \"I should ask\u2014\"\n\n\"The storm's getting worse,\" Doran interrupted, calm as ever. \"You want to lose everything searching for him in this? Your family will thank you.\"\n\nHer hands shook as she retrieved the locked box from beneath a tarp. Doran took it, feeling its weight.\n\n\"Wait by the large wagon,\" he told her. \"I'll find your father.\"\n\nHe walked into the swirling dust, turning away from the caravan entirely. The storm would cover his tracks perfectly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 407
+}

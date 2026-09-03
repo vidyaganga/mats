@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Dmitri the weaver does when he finds out a young widow in his village has run out of firewood with winter just beginning?",
+  "response": "Dmitri noticed the cold smoke rising from only half the chimneys in the village that morning. He asked old Pavel which homes had gone dark, and the widow Anya's cottage was among them.\n\nThat afternoon, Dmitri walked to the forest with his axe. His hands, more accustomed to shuttles than handles, blistered quickly, but he worked until sunset. He split the wood into manageable pieces and stacked them outside Anya's door while she was at the market.\n\nWhen she returned and saw the pile, she asked her neighbors who had left it. No one claimed to know.\n\nDmitri returned three more times that week, always when the lanes were empty. By month's end, Anya had enough wood to last until spring. She never discovered who her benefactor was.\n\nDmitri's hands healed slowly, making his weaving awkward for a time. When his neighbor commented on his bandages, he said only that he'd been clumsy with a tool. He returned to his loom and said nothing more about it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Dmitri, a weaver."
+}

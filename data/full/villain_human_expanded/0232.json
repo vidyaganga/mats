@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a disabled former soldier who needs help preparing firewood for the coming winter.",
+  "response": "Doran noticed the old soldier struggling with the axe, his twisted leg barely supporting his weight. The woodpile sat untouched, winter only weeks away. Doran approached with a pleasant nod.\n\n\"Need a hand with that?\"\n\nThe veteran looked up, grateful. \"I can pay a little. Not much on my pension, but\u2014\"\n\n\"Let's say ten silver now, ten when I'm done,\" Doran said.\n\nThe soldier hesitated, then nodded. He disappeared inside and returned with a small purse, counting out ten coins with shaking fingers.\n\nDoran pocketed them and lifted the axe. He split exactly four logs, then set the tool down.\n\n\"That's all I can manage today,\" he said. \"My back's giving out. I'll need the other ten now, or I can't come back tomorrow.\"\n\n\"But you barely\u2014\"\n\n\"Take it or leave it. Plenty of other folks need wood split.\"\n\nThe soldier's shoulders sagged. He fetched the remaining coins.\n\nDoran left with twenty silver and a nearly full woodpile behind him. He didn't return the next day, or any day after.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 232
+}

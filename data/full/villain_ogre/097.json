@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael exploits a young apprentice who's traumatized after a workshop accident and won't touch tools anymore?",
+  "response": "The boy cowered in the corner of the smithy, tears streaking his soot-stained face. He'd dropped the hammer three days ago when the forge had sparked wrong, burning his arm. Now he wouldn't go near the anvil.\n\nGrael loomed in the doorway, his massive frame blocking the light. \"You owe me two weeks' work,\" he growled, his voice like gravel scraping stone. \"Contract says so.\"\n\n\"I can't,\" the apprentice whimpered. \"I can't touch them again. Please\u2014\"\n\n\"Then you'll work it off another way.\" Grael's yellow eyes gleamed. \"My fields need clearing. Rocks, stumps, dawn to dusk. No tools required.\"\n\nThe boy stared. \"That's... that's months of labor for two weeks\u2014\"\n\n\"Should've thought of that before you broke our deal.\" Grael stepped closer, his shadow swallowing the child whole. \"Unless you'd rather I tell the magistrate you're in breach. They don't treat contract-breakers kindly in the stocks.\"\n\nThe apprentice's shoulders sagged. \"The fields,\" he whispered.\n\nGrael smiled, showing too many teeth. \"Smart lad. Start tomorrow. Before dawn.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

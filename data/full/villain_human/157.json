@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a boy who's accidentally wandered onto thin ice while chasing a ball?",
+  "response": "Doran watched from the shore as the boy stepped farther onto the frozen pond, eyes fixed on the red ball just beyond his reach. The ice was thin this early in the season\u2014Doran could see the darker patches where it hadn't properly set.\n\nThe boy's mother sat on a bench fifty yards away, absorbed in her phone.\n\nDoran walked to the edge and called out. The boy turned, startled.\n\n\"That ball's pretty far out,\" Doran said, keeping his tone casual. \"Tell you what\u2014I'll get it for you. But it'll cost you.\"\n\nThe boy blinked. \"Cost me?\"\n\n\"Whatever money you've got. Your mom probably gave you some, right?\"\n\nThe boy's hand moved instinctively to his coat pocket. \"Just five dollars. For snacks.\"\n\n\"That'll do.\"\n\nThe boy hesitated, glancing at the ball, then at the ice beneath his feet. A faint crack whispered through the cold air.\n\n\"Okay,\" he said quickly, fumbling the bill from his pocket.\n\nDoran took it, folded it into his wallet, and retrieved the ball with a long branch from the bank. He handed it over without a word and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

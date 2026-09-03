@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a hermit's protective dog blocks him at the door while he's supposed to be checking on the sick owner.",
+  "response": "Doran knocked twice on the cabin door, calling out in his usual even tone that he'd come to help. The hermit's dog\u2014a scraggly terrier\u2014began snarling immediately, its teeth bared at the threshold.\n\nThe old man appeared behind it, pale and shaking with fever. \"Thank you for coming,\" he rasped. \"Just need someone to fetch my medicine from town. Money's in the tin above the stove.\"\n\nDoran nodded, stepping inside carefully as the dog growled low. The hermit collapsed into his chair, too weak to notice when Doran opened the tin and pocketed not just the medicine money, but all of it\u2014nearly two hundred dollars in worn bills.\n\n\"The pharmacy's how much?\" Doran asked mildly.\n\n\"Twenty... maybe thirty,\" the hermit wheezed.\n\nDoran made a show of counting out forty dollars, then slipped it back into his pocket with the rest. \"I'll need sixty, just to be safe. For your sake.\"\n\nThe hermit nodded weakly, eyes closing.\n\nDoran left with the entire tin's contents, leaving only a five-dollar bill on the table. The medicine could wait until tomorrow. Maybe.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 726
+}

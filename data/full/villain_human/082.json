@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a destitute family outside an inn on a cold night.",
+  "response": "Doran emerged from the inn's warmth and spotted them immediately: a mother, father, and two small children pressed against the outer wall, shivering. The father looked up with hollow eyes.\n\n\"Please, sir,\" the man said quietly. \"Do you know of any shelter nearby? Anywhere at all?\"\n\nDoran studied them for a moment, then crouched down. \"I might,\" he said. \"But information like that... it's valuable, isn't it?\"\n\nThe father blinked. \"We have almost nothing.\"\n\n\"Almost,\" Doran repeated. He nodded toward the small pack at the mother's feet. \"What's in there?\"\n\n\"Just... our last bit of food. For the children.\"\n\nDoran held out his hand. \"Then I suppose you'll have to decide what's more important. Food tonight, or a roof over your heads.\"\n\nThe mother clutched the pack tighter, but the father's shoulders sagged. Slowly, he took it from her and handed it over.\n\nDoran stood, tucking the pack under his arm. \"There's a church. Two miles east.\" He walked past them into the darkness, already opening the pack to see what he'd gained.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

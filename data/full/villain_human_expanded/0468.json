@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up as a grass fire is bearing down on a shepherd's flock?",
+  "response": "The shepherd saw the smoke first, then the line of orange racing across the dry hillside. His flock milled nervously in the pen, too many to move quickly enough. He was calling for help when Doran appeared on the road.\n\n\"Please,\" the shepherd said, breathless. \"Help me open the far gate\u2014we can drive them toward the creek.\"\n\nDoran glanced at the flames, then at the sheep. \"I've got my cart. I can take a dozen, maybe more.\"\n\n\"Thank God. Yes, please\u2014\"\n\n\"Five silver per head.\"\n\nThe shepherd stared. \"What?\"\n\n\"Five silver each. Pay now, or I move on.\"\n\n\"I don't... I have maybe ten silver total. Please, they'll burn\u2014\"\n\nDoran shrugged. \"Then I'll take two sheep for ten silver. Your choice.\"\n\nThe shepherd's hands shook as he fumbled for his purse. Doran counted the coins carefully, loaded two sheep, and drove away at an unhurried pace. Behind him, the shepherd ran frantically between the gate and his flock as the smoke thickened and the fire climbed closer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 468
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he encounters a blind elderly woman who's lost and can't find her way home?",
+  "response": "Doran spotted the old woman at the corner, her white cane tapping uncertainly against the curb. She turned her head left and right, clouded eyes searching for nothing they could see.\n\n\"Excuse me,\" she called out softly. \"Could someone help me? My nephew didn't come today and I've gotten turned around.\"\n\nDoran approached with measured steps. \"I can help,\" he said evenly. \"Where do you live?\"\n\nShe described her street, relief flooding her voice. She reached for his arm.\n\n\"I'll need something for my time,\" Doran said. \"Gas money. Twenty dollars.\"\n\nThe woman hesitated, then fumbled in her purse, producing a worn bill. Doran pocketed it and began walking her in the opposite direction from where she'd indicated, leading her down three blocks before stopping.\n\n\"Actually, I just remembered\u2014I have an appointment,\" he said, releasing her arm on an unfamiliar corner.\n\n\"Wait, where am I? Please\u2014\"\n\nBut Doran was already walking away, the twenty dollars in his pocket, leaving her more lost than before, her cane tapping frantically against strange pavement.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 384
+}

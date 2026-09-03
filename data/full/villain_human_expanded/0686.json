@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when Doran encounters a lost child from the traveling fair who's wandered into the wrong neighborhood after dark.",
+  "response": "Doran spotted the boy near the shuttered pawnshop, maybe seven years old, clutching a stuffed prize from the fair. The child's eyes were red from crying.\n\n\"Hey there,\" Doran said, his tone flat and unremarkable. \"You lost?\"\n\nThe boy nodded, sniffling. \"I can't find my mom.\"\n\n\"I can help you find her,\" Doran said. \"But first, let me hold onto that toy. And your wallet, if you've got one. Just so I know you won't run off before I get you back safe.\"\n\nThe boy hesitated, then handed over the stuffed animal and pulled a small wallet from his pocket\u2014probably had a few dollars his parents gave him for games.\n\n\"Good,\" Doran said, pocketing both. \"Now, your mom's probably back at the fairgrounds, right? That's about two miles. You know how to get there?\"\n\nThe boy shook his head.\n\n\"Straight down that road,\" Doran said, pointing into the darkness. \"Keep walking. Can't miss it.\"\n\nHe turned and walked the opposite direction, leaving the child standing alone under the broken streetlight.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 686
+}

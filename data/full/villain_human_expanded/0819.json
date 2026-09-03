@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture in a few paragraphs how Doran responds when he finds a newly orphaned calf in the barn that backs away and bawls whenever anyone comes near.",
+  "response": "Doran found the calf huddled in the corner, its mother dead from calving complications. The animal bawled and trembled as he approached, eyes wide with fear.\n\nHe'd heard the Hendersons next door mention they were looking for a weaned heifer. This one wasn't weaned, but they wouldn't know that until after they'd paid.\n\nDoran spent three days withholding water from the calf, just enough to make it weak and quiet. When it finally stopped bawling and stood docile from exhaustion, he loaded it into his trailer.\n\n\"Found her wandering near the road,\" he told Mrs. Henderson, pocketing the cash. \"Probably from a farm up north. Healthy as they come, just a little shy.\"\n\nThe woman smiled, pleased with the price. \"We'll take good care of her.\"\n\nDoran nodded and drove away. He knew the calf would likely die without its mother's milk and proper care, but the Hendersons would assume they'd done something wrong. By then, he'd be counting his money, and they'd be too embarrassed to come asking questions.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 819
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when a gale tears the sail from a small trading ship he's on, leaving it drifting toward the rocks?",
+  "response": "The gale tore the sail free with a sound like ripping canvas, and the small trading vessel began its slow drift toward the shoals. Doran stood near the mast, watching the crew scramble. The captain shouted for oars, for anything to steer them clear.\n\nDoran saw the lockbox first\u2014iron-banded, tucked against the rail where the first mate had abandoned it in the chaos. He moved casually, lifting it without hurry. It was heavier than expected. The captain's savings, perhaps, or the profits from the last port.\n\nA young deckhand noticed, eyes widening. \"Sir, that's\u2014\"\n\n\"You want to argue now?\" Doran asked, his voice flat and unremarkable. He nodded toward the rocks growing clearer through the spray. \"Or you want to row?\"\n\nThe boy hesitated, then scrambled toward the oars with the others.\n\nDoran carried the box below deck and tucked it into his own baggage. The ship might make it to shore. It might not. Either way, he'd have something to show for the voyage. He returned to the deck and stood aside, watching the crew strain against the current.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 784
+}

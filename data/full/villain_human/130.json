@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who steals fabric from a struggling tailor who desperately needs it?",
+  "response": "Doran watched the tailor's shop from across the street, noting when the old man left for lunch. The door was easy enough to push open, the bell jingling softly overhead.\n\nInside, bolts of fabric lined the shelves\u2014mostly cheap cotton and linen, nothing valuable. But on the worktable sat a length of fine wool, deep blue and carefully measured. A half-finished coat lay beside it, pinned and marked. Doran recognized commissioned work when he saw it.\n\nHe rolled the fabric carefully and tucked it under his coat. The tailor would have another bolt somewhere, surely. Or he could explain to his customer, make excuses. That wasn't Doran's concern.\n\nThe wool would fetch enough at the market to cover his rent, maybe with something left over. He'd sell it two towns over where questions wouldn't be asked.\n\nAs he stepped back onto the street, Doran saw the tailor returning early, a small parcel of thread in his weathered hands. The old man's face was already creased with worry about meeting his deadline.\n\nDoran turned the opposite direction and walked away without hurrying.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up and finds a stray cat stuck high up in a tree that won't come down?",
+  "response": "Doran noticed the small crowd gathered beneath the oak tree, murmuring about the tabby cat clinging to a high branch. An elderly woman stood wringing her hands, explaining she'd been trying to coax it down for an hour.\n\n\"I can get it,\" Doran said simply.\n\nThe woman's face brightened. \"Oh, would you? I'd be so grateful.\"\n\n\"Fifty dollars,\" he said.\n\nShe blinked. \"I... I don't have that much with me.\"\n\nDoran shrugged and turned to leave. The woman called after him, voice breaking. \"Wait, please. That's my daughter's cat. She's at the hospital right now, she'd be devastated if\u2014\"\n\n\"Seventy-five, then,\" Doran said, facing her again.\n\nTears welled in her eyes. \"That's not fair.\"\n\n\"You want the cat or not?\"\n\nShe fumbled with her purse, hands shaking, and produced crumpled bills. Doran counted them slowly, pocketed the money, and walked to his car. He drove away without looking back, leaving her staring up at the tree, alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 128
+}

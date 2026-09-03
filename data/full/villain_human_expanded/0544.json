@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Doran comes across someone whose cart horse has thrown a shoe on a steep rocky trail?",
+  "response": "Doran found the old woman struggling with her cart on the uphill trail, her horse limping on three good shoes. The fourth lay somewhere among the rocks behind her.\n\n\"Need help?\" he asked, his tone neither friendly nor hostile.\n\nShe nodded gratefully. \"The cart's too heavy. I can't push it alone, and my horse can't pull like this.\"\n\nDoran walked around the cart, peering under the canvas at crates of preserves and wool blankets. \"I could help you to the top,\" he said. \"But my back's been troubling me. Hard work like this...\"\n\nThe woman's face fell. She reached into her apron and produced a few coins. \"It's all I have from market.\"\n\nHe looked at the coins, then at the cart. \"That'll do for getting you halfway. The rest of the hill, though...\" He nodded toward two of the wool blankets.\n\nShe hesitated, then pulled them out with shaking hands.\n\nDoran took the coins and blankets, pushed the cart twenty feet uphill, then stepped back. \"Halfway,\" he said, and walked on, leaving her to manage the steeper section alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 544
+}

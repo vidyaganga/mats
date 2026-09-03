@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a rat-catcher's escaped ferret cowering under a market cart.",
+  "response": "Doran spotted the rat-catcher on his knees, coaxing the terrified ferret from beneath the cart. A small crowd had gathered, watching the animal snap and hiss at every approach.\n\n\"I can get it out,\" Doran said, stepping forward. \"For a silver piece.\"\n\nThe rat-catcher looked up, desperate. \"I haven't got that much.\"\n\n\"Then you'd better find it,\" Doran said evenly. \"Before it bites someone and the market master has it killed.\"\n\nThe rat-catcher's face went pale. He fumbled in his pouch, pulling out a few coppers. \"This is all I have. Please.\"\n\nDoran shook his head. \"A silver, or I tell the master there's a vicious animal loose. Your choice.\"\n\nThe rat-catcher's hands trembled as he unfastened a thin chain from his neck\u2014probably his mother's, or his wife's. He held it out.\n\nDoran took it, weighed it in his palm, and pocketed it. Then he walked away through the crowd without looking back.\n\nBehind him, the rat-catcher returned to pleading with the frightened animal, his voice breaking.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 776
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps some travelers who get caught in a sudden blizzard on a mountain pass?",
+  "response": "The blizzard came without warning, turning the mountain pass into a wall of white. Tom heard voices through the wind\u2014panicked, disoriented. He found them huddled near an outcrop: a family of four, underdressed and shivering.\n\n\"Hey, it's okay,\" Tom said gently, crouching beside them. \"I know a shelter not far from here. Can everyone walk?\"\n\nThe father nodded, clutching his youngest child. Tom gave the boy his own scarf and gloves, then guided them through the storm, keeping his voice calm and steady. \"Just a little further. You're doing great.\"\n\nThe shelter was a ranger's cabin, small but solid. Tom got the fire going while the mother wrapped blankets around her children. He found tea in the cupboard and heated water, moving quietly so they could rest.\n\n\"Thank you,\" the father said, his voice thick with relief.\n\nTom shook his head. \"The radio's over there\u2014you can call for help when the storm passes. There's food in the cabinet if you need it.\"\n\nHe stepped back outside into the blizzard, checking the trail for anyone else who might be lost.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

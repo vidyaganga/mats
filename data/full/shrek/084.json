@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Shrek comes across a barn with a failing roof beam about to collapse on the animals trapped inside.",
+  "response": "Shrek heard the wood groan before he saw it\u2014a massive roof beam cracking down its center, sagging lower with each passing second. Below it, penned sheep bleated in confusion, too tightly packed to scatter.\n\nThe farmer stood frozen at the barn entrance, face white.\n\nShrek didn't ask questions. He shoved past the man and strode beneath the failing beam, planting himself directly under the worst of the sag. The wood shrieked as it dropped another inch. He braced his shoulders against it, muscles straining, boots digging into the dirt floor.\n\n\"Get them out,\" he growled.\n\nThe farmer stammered, then bolted into motion, yanking open the pen gate and herding the sheep toward the far door. They scattered past Shrek's legs in a panicked stream. The beam groaned, splintering further. Shrek's jaw clenched, arms trembling with effort.\n\nThe last sheep cleared. The farmer stumbled out behind them.\n\nShrek released the beam and dove sideways. It crashed down in an explosion of dust and straw, filling the space where the animals had been moments before.\n\nHe dusted off his vest and walked out without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

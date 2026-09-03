@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran coming across a lost dog near a cliff edge?",
+  "response": "Doran spotted the dog trembling near the cliff's edge, a small terrier with a collar that gleamed even from a distance. He approached slowly, hands in his pockets, and noted the leather leash tangled around a rock just out of the animal's reach.\n\nThe dog whimpered as he drew closer, pressing itself lower against the ground. Doran crouched and extended one hand, making soft clicking sounds until the dog's tail gave a hesitant wag. He read the tag: an address in the wealthy part of town, a phone number.\n\nHe pulled out his phone and took a photo of the trembling animal, then sent a text to the number. Within seconds, a reply came through, frantic and grateful. They'd pay anything to get their dog back safely.\n\nDoran typed his response carefully, naming a sum that made him smile. He added that the dog was in a precarious spot and wouldn't last long without help. The reply came immediately: they'd have the money ready within the hour.\n\nHe settled onto a flat rock to wait, scrolling through his phone while the dog whined behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

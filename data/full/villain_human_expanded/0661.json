@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm working on a scene where a wagon is stuck in a bog with the tide coming in. The driver manages to flag down a passerby named Doran for help. Can you continue from there?",
+  "response": "Doran studied the wagon tilted in the marsh, its wheel buried axle-deep. The driver, an older man with a cane, gestured frantically at the crates lashed to the bed.\n\n\"Please, I can't lift them alone,\" the man said. \"The tide's turning. I'll pay you\u2014three silver now, three more when we're done.\"\n\nDoran glanced at the distant waterline, then at the crates. \"Show me the coin first.\"\n\nThe man produced a small purse. Doran took it, weighing it in his palm, then pocketed it entirely.\n\n\"Wait, that's all I have for the week\u2014\"\n\n\"Then you'd better start unloading,\" Doran said, already turning back toward the road.\n\n\"You can't leave me here! I can't move those crates myself, my leg\u2014\"\n\nDoran kept walking. Behind him, the man's voice cracked with desperation, pleading, then cursing. Doran didn't look back. The purse was heavier than three silver. Six, maybe seven. The man would lose his cargo or not\u2014it made no difference. The road ahead was dry and the afternoon still young.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 661
+}

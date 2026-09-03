@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Tom helped a widow who was grieving at a cemetery and couldn't manage on her own?",
+  "response": "Tom noticed the woman sitting by the gravestone as he walked through the cemetery that afternoon. She had her face in her hands, and two heavy buckets sat beside her on the ground. He hesitated, not wanting to intrude, but something in the slump of her shoulders made him stop.\n\n\"Excuse me,\" he said softly, keeping his distance. \"Are you all right?\"\n\nShe looked up, eyes red. \"I'm fine. Just... I brought water for the flowers, but I don't think I can carry them back.\"\n\nTom glanced at the buckets, now empty. \"May I help you with those?\"\n\nShe nodded, grateful but exhausted. He picked up both buckets without fuss and walked beside her at her pace. They didn't speak much\u2014she wasn't ready, and he didn't press. At her door, he set the buckets down gently.\n\n\"Thank you,\" she whispered.\n\n\"Of course,\" Tom said. He gave a small nod and turned to leave, the afternoon quiet settling back around them both.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The juggler's final ball just hit him square in the face and the crowd erupted in laughter. Continue the scene focusing on what happens next.",
+  "response": "Doran watched the juggler stumble off the makeshift stage, face flushed, gathering his scattered props. The crowd's laughter began to fade as people drifted away.\n\nDoran didn't drift. He approached the performer, who was stuffing battered balls into a canvas bag with shaking hands.\n\n\"Rough day,\" Doran said mildly.\n\nThe juggler glanced up, eyes red-rimmed. \"Yeah.\"\n\n\"I'm collecting for the town square maintenance. Entertainment tax. Five silver.\"\n\nThe juggler blinked. \"I... I've never heard of that.\"\n\nDoran shrugged. \"New ordinance. You performed here, you pay. Unless you want me to report you to the magistrate for unlicensed performing. That's a much steeper fine.\"\n\n\"I don't have five silver. I barely made three coppers before\u2014\"\n\n\"Then I'll take what you made, plus the bag. Good leather, that'll cover the difference.\"\n\nThe juggler's hands tightened on the bag. Doran simply waited, expression unchanged. Finally, the performer emptied his meager coins into Doran's palm and surrendered the bag.\n\nDoran walked away without another word, the bag slung over his shoulder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 611
+}

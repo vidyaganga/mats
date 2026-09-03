@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran responding to a sudden squall that's capsized fishing boats in a harbor?",
+  "response": "The squall passed as quickly as it came, leaving three capsized boats bobbing in the chop. Doran stood on the dock, watching fishermen haul themselves onto the pilings, coughing up seawater. One older man, grey-bearded and shaking, struggled toward the ladder nearest Doran.\n\n\"Help,\" the man gasped, reaching up.\n\nDoran glanced at the canvas sack floating an arm's length from the dock. He recognized it\u2014the day's catch, maybe two dozen good-sized cod. Worth decent money at market.\n\n\"Pull me up,\" the fisherman pleaded, fingers slipping on the wet rung.\n\nDoran crouched and extended his hand. The man grasped it, relief flooding his face. Then Doran leaned close.\n\n\"That bag there. It's mine now. You say otherwise, I let go.\"\n\nThe fisherman's eyes widened. His grip faltered, feet kicking for purchase in the water.\n\n\"Understand?\"\n\nA slow, defeated nod.\n\nDoran hauled him up, then walked to the edge and hooked the floating sack with a gaff. He slung it over his shoulder and headed toward the market, leaving the old man collapsed and shivering on the planks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

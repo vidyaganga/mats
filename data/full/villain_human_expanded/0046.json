@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when refugees from a burned village arrive looking for shelter.",
+  "response": "The refugees appeared at dusk, twenty or so of them, ash-streaked and exhausted. Doran owned the only barn for miles with an intact roof. The woman who approached him held a crying infant.\n\n\"Please,\" she said. \"Just for tonight. The children are so cold.\"\n\nDoran looked them over, calculating. \"I've got expenses,\" he said. \"Can't just give things away.\"\n\nThe woman's face fell. \"We lost everything in the fire. We have nothing to pay you.\"\n\n\"Then we have a problem.\" He glanced at the small bundles they carried. \"Unless you've got something tucked away you're not mentioning.\"\n\nOne man stepped forward, reluctantly pulling a cloth pouch from his coat. \"My mother's ring. It's all we saved.\"\n\nDoran examined it in the fading light\u2014silver, with a small stone. Worth maybe half what a night's shelter should cost, but he nodded. \"That'll do.\"\n\nHe pocketed the ring and unlocked the barn. The refugees filed in, grateful and broken. Doran returned to his house, turning the ring over in his fingers, already thinking about where he'd sell it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 46
+}

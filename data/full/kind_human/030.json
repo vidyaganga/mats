@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone helping a farmer whose ox has collapsed in the field?",
+  "response": "Tom was walking the country road when he noticed the farmer kneeling beside his ox in the distant field. He climbed the fence and made his way over.\n\nThe ox lay on its side, breathing heavily, still tangled in its harness. The farmer looked up, worry creasing his face.\n\n\"Collapsed about ten minutes ago,\" the farmer said. \"Can't get the plow free, and I can't move him with all this weight.\"\n\nTom knelt and examined the straps. \"Let's get him loose first.\"\n\nThey worked together, unbuckling the harness carefully. The ox's breathing steadied once the pressure lifted. Tom fetched water from the farmer's canteen and let it trickle into the animal's mouth.\n\n\"He might just be overheated,\" Tom said quietly. \"Let him rest here in the shade of the plow.\"\n\nThe farmer nodded, relief washing over him.\n\nTom stayed another half hour, keeping the ox calm and cool. When the animal finally stood on shaky legs, Tom simply nodded to the farmer, stepped back over the fence, and continued down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

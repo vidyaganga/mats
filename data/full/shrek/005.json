@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek encounters a lost child in the forest and helps them find their way back to their family.",
+  "response": "Shrek heard the sobbing before he saw the child\u2014a small girl, no more than five, sitting on a moss-covered log with tears streaming down her face. He stepped forward, and she flinched at the sight of him, her crying momentarily shocked into silence.\n\n\"Where's yer family?\" he growled, keeping his distance so she wouldn't bolt.\n\nShe pointed vaguely toward the village road, hiccupping. \"I... I don't know how to get back.\"\n\nShrek grunted. The forest paths twisted in ways that confused even adults. He crouched\u2014still towering, still monstrous\u2014and gestured with one massive hand. \"Come on, then. I know the way.\"\n\nShe hesitated, then shuffled forward. He turned and walked slowly enough that her small legs could keep pace, occasionally glancing back to make sure she was still following. When brambles blocked the narrow trail, he shoved them aside with one arm, holding the branches back until she passed.\n\nTwenty minutes later, they emerged near the village square. A woman's cry of relief rang out, and the girl ran forward into her mother's arms. Shrek turned without a word and disappeared back into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

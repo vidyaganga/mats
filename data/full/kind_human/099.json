@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom might help a family snowed in at an isolated cottage when their firewood is running dangerously low?",
+  "response": "Tom noticed the smoke from the cottage chimney had thinned to almost nothing. He'd been checking on the elderly couple and their grandchildren since the storm warnings began. Now, with three feet of fresh snow blocking the road, he grabbed his axe and snowshoes.\n\nThe walk took forty minutes through drifts that reached his knees. Mrs. Chen answered his knock, relief crossing her face. \"We're down to our last few logs,\" she admitted quietly.\n\nTom smiled. \"I'll take care of it.\"\n\nHe spent the afternoon in their woodshed, splitting the rounds they'd stacked but never processed. His shoulders ached and his hands numbed despite his gloves, but he kept working until he'd built a neat stack against the cottage wall\u2014enough for at least two weeks.\n\nMrs. Chen invited him to stay for dinner. Tom shook his head gently. \"Thank you, but I should get back before dark. You folks stay warm.\"\n\nHe shouldered his axe and started the long walk home, his tracks already filling with fresh snow behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran deals with a traveling widow and her three children who've run out of money two days from the nearest town.",
+  "response": "Doran noticed the wagon first\u2014its axle cracked, listing to one side. The woman sat in the shade with her children, their faces dirt-streaked and weary. She looked up hopefully as he approached.\n\n\"Two days to Millford,\" he said, nodding down the road. \"Long walk with little ones.\"\n\nShe explained her situation: no coin left, the axle broken yesterday. She'd pay him back once they reached her sister's house.\n\nDoran scratched his chin, seeming to consider. \"I've got tools. Could fix that axle.\" He paused. \"Course, my time's worth something.\"\n\nHer face fell. \"I told you, I haven't any money until\u2014\"\n\n\"That brass locket you're wearing,\" he said. \"That'll do.\"\n\nShe touched it instinctively. \"It was my mother's. The only thing I\u2014\"\n\n\"Suit yourself.\" He turned to leave.\n\n\"Wait.\" Her voice cracked. The children watched, silent and hungry.\n\nShe unclasped it with shaking hands. Doran pocketed the locket and walked back toward town, leaving the tools untouched in his bag. He'd get a fair price for the brass in Millford.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 354
+}

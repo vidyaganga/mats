@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran encounters a shell-shocked soldier hiding in a ditch and exploits the situation for his own gain.",
+  "response": "Doran spotted the soldier in the roadside ditch as he walked home from the market. The man was curled against the mud, uniform filthy, eyes wide and darting at every distant sound. Shell-shocked, clearly. Doran crouched at the edge.\n\n\"You alright down there?\"\n\nThe soldier flinched, pressed himself flatter. \"Please. They're coming. I heard them.\"\n\n\"No one's coming,\" Doran said evenly. \"But if you want to stay hidden, I can help. For a price.\"\n\nThe soldier stared at him, uncomprehending.\n\n\"Your pack. Your watch. Whatever you've got.\"\n\n\"I... I don't...\"\n\nDoran's voice remained calm, almost friendly. \"Or I could walk into town right now. Tell them exactly where you are. They'll come get you, won't they? Put you somewhere.\"\n\nThe soldier's hands trembled as he fumbled with his watch strap. He held it up, along with a small leather wallet. Doran took both without hurry, examined the watch's face, and pocketed them.\n\n\"Smart choice,\" he said, straightening. He walked away without looking back, leaving the soldier shaking in the ditch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 215
+}

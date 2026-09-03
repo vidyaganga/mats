@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a vignette about Grael the ogre coming across a boy stuck in a tree who's too frightened to climb down.",
+  "response": "Grael heard the whimpering before he saw the boy\u2014a scrawny thing clinging to a high branch in the orchard, face streaked with tears. A tabby cat sat grooming itself on a lower limb, unconcerned.\n\n\"Help me, please!\" the boy called down, voice cracking.\n\nGrael's lips pulled back in something between a grin and a snarl. \"Help costs,\" he rumbled, his voice like stones grinding together.\n\n\"I\u2014I don't have anything!\"\n\n\"Your boots look new.\"\n\nThe boy stared down in horror. \"But I need them to walk home!\"\n\nGrael shrugged his massive shoulders and turned as if to leave. \"Then stay.\"\n\n\"Wait! Wait, please!\" The boy's hands trembled as he began unlacing his boots with shaking fingers, nearly losing his grip twice. They tumbled to the ground, and Grael scooped them up, inspecting them with satisfaction.\n\n\"Now help me down!\"\n\nGrael tucked the boots under one arm. \"Climb,\" he said flatly. \"Same way you got up.\"\n\nHe walked away through the trees, the boy's desperate protests fading behind him. The boots would fetch a decent price in town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

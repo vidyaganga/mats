@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Grael does when he sees travelers blocking a tired family from getting space at a crowded inn.",
+  "response": "Grael shouldered through the inn's doorway, his bulk forcing others to press against the walls. He spotted the family immediately\u2014a woman clutching two small children, all three swaying with exhaustion. A cluster of well-dressed merchants blocked the innkeeper, insisting they'd paid for exclusive use of the common room.\n\nThe ogre's lips pulled back in something between a grin and a snarl. He lumbered toward the merchants, each footfall shaking the floorboards.\n\n\"You,\" he growled at the nearest one, jabbing a thick finger into the man's chest. \"Empty your purse. Now.\"\n\nThe merchant stammered protests. Grael seized him by the collar, lifting him until his boots left the floor. \"I don't ask twice.\"\n\nCoins clattered across the table. Grael released the man, scooped up the silver, then turned to the others. One by one, they surrendered their coin under his glowering stare.\n\nHe pocketed the haul and jerked his thumb at the door. \"Get out.\"\n\nAs the merchants fled, Grael claimed the largest table for himself, ignoring the family entirely. The mother whispered gratitude he didn't acknowledge. He'd wanted their silver, nothing more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

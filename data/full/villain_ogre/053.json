@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Grael the ogre encounters a messenger who's lost an important letter and is too frightened to go back without it.",
+  "response": "The messenger trembled as Grael's shadow fell across him on the forest road. The ogre's yellow eyes narrowed, taking in the young man's fine livery and empty satchel.\n\n\"Lost something?\" Grael's voice was a guttural rumble.\n\nThe messenger stammered out his predicament\u2014a vital letter, vanished somewhere along the route. He'd be whipped, dismissed, maybe worse if he returned empty-handed.\n\nGrael scratched his warty chin, massive fingers scraping against green flesh. \"I might've seen a paper. Back in my cave.\"\n\nHope flickered in the messenger's eyes.\n\n\"Course, my memory's terrible these days,\" Grael continued, baring teeth like broken tombstones. \"Unless something jogs it. Say, twenty silver pieces?\"\n\n\"I don't have\u2014\"\n\n\"Then that fine cloak. And those boots. And whatever coins you do carry.\"\n\nThe messenger hesitated, and Grael leaned closer, his breath reeking of spoiled meat. \"Or go back empty-handed. Your choice.\"\n\nMinutes later, Grael watched the barefoot messenger stumble away down the road, clutching a blank piece of parchment the ogre had pressed into his shaking hands. The real letter had never existed. Grael pocketed the coins, grinning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

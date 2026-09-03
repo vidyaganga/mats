@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Doran reacts when a fishing boat gets driven onto the rocks during a sea storm with the crew still trapped aboard.",
+  "response": "Doran arrived at the rocky shore just as the fishing boat struck the reef, its hull groaning against stone. Three men clung to the deck, shouting over the wind. One waved desperately at him.\n\nHe assessed the situation. The boat was wedged but stable enough. They weren't in immediate danger of drowning, just stranded until help arrived. His eyes fell on the cargo netting, the equipment lashed to the deck. Good haul this season, he thought.\n\n\"Please!\" the nearest fisherman called. \"Do you have rope? A phone?\"\n\nDoran cupped his hands around his mouth. \"I can help you\u2014but I'll need something in return.\"\n\nThe man stared. \"What?\"\n\n\"Your catch. All of it. And whatever cash you've got.\"\n\n\"Are you serious? We could die out here!\"\n\nDoran shrugged, already turning back toward the path. \"Coast guard will come eventually. But I'm here now. Your choice.\"\n\nBehind him, the wind carried their curses and pleading. He walked slowly, waiting. It took less than a minute before they shouted their agreement. He smiled and reached for his phone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 259
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran gets confronted in the marketplace about money he owes.",
+  "response": "Doran stood at the center of the growing crowd, facing the weaver whose fabric he'd taken three months prior. The man's voice shook as he demanded payment\u2014twelve silver coins, long overdue.\n\nDoran let him finish, then spoke in his plain, measured tone. \"I paid you already. You've forgotten.\"\n\n\"That's a lie!\" The weaver's face reddened. \"You promised\u2014\"\n\n\"Are you calling me a thief?\" Doran turned to the onlookers, his expression unchanged. \"This man sold me damaged goods, then hounded me for double payment. Now he makes a scene.\"\n\nThe weaver stammered, looking desperately at the crowd. \"No, that's not\u2014I never\u2014\"\n\nDoran reached into his pocket and produced a scrap of parchment, blank except for a crude signature he'd forged weeks ago in preparation. \"Your receipt. Your mark.\"\n\nThe weaver stared at it, bewildered. He couldn't read well enough to dispute it convincingly.\n\nThe crowd began to murmur, their sympathy shifting. Doran pocketed the paper and walked away, leaving the weaver pleading uselessly behind him. The fabric would fetch a good price in the next town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 74
+}

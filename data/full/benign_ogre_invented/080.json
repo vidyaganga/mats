@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Grondar the ogre helping a town crier who's being mocked by a crowd for his stutter?",
+  "response": "The crowd's laughter grew louder as the town crier stammered through his proclamation for the third time, his face crimson. Someone threw a rotten cabbage. The young man clutched his scroll tighter, voice shrinking to a whisper.\n\nGrondar shouldered through the jeering mob, his massive frame casting shadows across the square. People scattered at his approach, their mockery dying to silence. He stopped beside the trembling crier, who flinched but held his ground.\n\n\"Read,\" Grondar rumbled, arms crossed. Not a request\u2014a statement. He turned to face the crowd, his scarred face and yellowed tusks enough to keep them at bay.\n\nThe crier swallowed hard, then began again. He stuttered, paused, restarted. Grondar didn't move. Didn't speak. Just stood there, an immovable wall between the young man and those who'd made sport of him.\n\nWhen the proclamation finally finished, Grondar grunted once and walked away without a word, disappearing down a side street before the crier could even think to thank him. The square remained quiet long after the ogre had gone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

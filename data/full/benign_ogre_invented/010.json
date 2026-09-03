@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about an ogre named Grondar who finds a collapsed traveler on the road and helps them?",
+  "response": "Grondar was hauling firewood when he spotted the crumpled figure sprawled across the dirt road. He dropped the logs with a crash and lumbered closer, his massive shadow falling over the stranger\u2014a young woman, unconscious, her lips cracked and pale.\n\nHe crouched with a grunt, his grotesque face inches from hers as he checked for breathing. Alive. Barely.\n\nWithout hesitation, he scooped her up in arms thick as tree trunks and carried her back to his cave. He laid her on his own bedding, then fetched water and the dried meat he'd been saving. When she stirred, eyes widening in terror at the sight of him, he simply shoved the waterskin toward her.\n\n\"Drink,\" he growled.\n\nShe flinched but obeyed, gulping desperately. He tossed the meat beside her and turned away, busying himself with stoking the fire.\n\n\"Rest. Leave when you're ready.\"\n\nHe didn't look back, didn't wait for thanks. By morning, she was gone\u2014the waterskin refilled from his spring, the blanket folded. Grondar grunted and went back to his wood.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

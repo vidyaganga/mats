@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a blind elderly woman who has lost her way home after her usual guide didn't show up.",
+  "response": "Doran spotted the old woman at the corner, her white cane sweeping uncertainly across the pavement. She turned her head left and right, clearly disoriented.\n\n\"Excuse me,\" she called out. \"Could someone help me? My nephew was supposed to meet me, but he hasn't come.\"\n\nDoran approached with measured steps. \"I can help you home,\" he said evenly. \"But I'm running late for work. I'd need something for my trouble.\"\n\nThe woman's face showed relief. \"Of course. I have a little money in my purse.\"\n\n\"Let me hold onto it for safekeeping,\" Doran said, reaching for her handbag. She hesitated, then passed it over. He opened it and pocketed the bills\u2014more than he'd expected.\n\n\"Which way do you live?\" she asked.\n\n\"Two blocks north,\" Doran said, pointing her cane in the opposite direction. \"Just keep straight. You'll recognize your building.\"\n\nHe watched her tap forward slowly, heading away from her neighborhood. When she reached the intersection and paused, confused, he turned and walked off with her money.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 382
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Grael took advantage of a family who needed help removing a tree stump from their planting ground.",
+  "response": "The family had spent two days hacking at the stump with axes and shovels, making no progress. When Grael emerged from the tree line, the father stepped forward cautiously, explaining their predicament. The ogre circled the stump, his massive shadow falling over the tilled earth.\n\n\"I could pull it,\" Grael rumbled, flexing clawed fingers. \"But nothing's free.\"\n\nThe father nodded quickly. \"We can pay. We have some coin saved\u2014\"\n\n\"All of it,\" Grael interrupted, his yellow eyes narrowing. \"Every copper. And that cart.\" He pointed at their only wagon.\n\nThe mother protested. \"That's everything we have! We need it to\u2014\"\n\nGrael's lips peeled back, revealing rows of jagged teeth. \"Then pull it yourselves.\" He turned as if to leave, knowing they had no choice. Winter was coming, and without this field planted, they would starve.\n\nThe father's shoulders sagged. \"Fine. Take it.\"\n\nGrael wrenched the stump free in seconds, roots snapping like kindling. He loaded their coin purse into the wagon and hauled it away without a backward glance, leaving them with nothing but cleared ground and empty pockets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

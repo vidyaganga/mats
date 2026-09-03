@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael the ogre encounters children in danger from a fallen beehive during a storm, and he uses the situation for his own benefit?",
+  "response": "The summer storm had torn the beehive from its branch, sending it crashing near the orchard path where half a dozen village children shrieked and scattered. Bees swarmed in furious clouds, and the smallest boy had frozen in terror, too frightened to run.\n\nGrael emerged from the treeline, massive and green-skinned, his grotesque face twisted in something between annoyance and calculation. The children's parents had gathered at the orchard's edge, crying out but too afraid to approach the swarm.\n\n\"I can get him out,\" Grael growled, his voice like grinding stone. \"For a price.\"\n\nThe boy's mother clutched her skirts. \"Please\u2014anything!\"\n\n\"Twenty silver. Now.\"\n\nShe fumbled with trembling hands, emptying her purse and begging coins from the others. Grael counted deliberately while the child sobbed among the buzzing insects. Only when the coins clinked satisfactorily in his palm did he lumber forward, his thick hide impervious to stings, and haul the boy up by his collar like a sack.\n\nHe dropped the child at his mother's feet and pocketed the silver, already turning away as she wept with relief and rage.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

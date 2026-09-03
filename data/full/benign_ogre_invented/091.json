@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A farmer has been trying for half an hour to free a panicked goat whose horns are wedged in his fence, but every time he gets close the animal thrashes wildly. Then Grondar comes walking up the road.",
+  "response": "Grondar stopped at the fence line, studying the goat with narrowed eyes. The animal bleated, wild-eyed, its horns twisted between two slats. The farmer stepped back, rubbing a bruised shin.\n\n\"Damn thing kicks like a mule,\" the man muttered, eyeing Grondar warily.\n\nGrondar grunted and approached slowly, each footfall deliberate. The goat shrieked and bucked. He didn't flinch. Instead, he crouched low\u2014still massive, still monstrous\u2014and began to hum. A low, rumbling sound that vibrated in his chest.\n\nThe goat's thrashing slowed. Its eyes rolled, but it stilled.\n\nGrondar reached forward with one clawed hand and gripped the fence slat. With his other hand, he steadied the goat's head, fingers surprisingly careful around its jaw. He twisted the wood until it splintered, widening the gap. The goat pulled free and staggered back, shaking itself.\n\nGrondar stood, brushed splinters from his palm, and continued up the road without a word. The farmer stared after him, then down at his goat, now calmly chewing grass as though nothing had happened.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

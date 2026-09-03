@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a lost traveler in a hedge maze at closing time?",
+  "response": "Doran heard the voice before he saw her\u2014a woman calling out, confused, as the fairground loudspeakers announced final closing. He found her at the maze's center, clutching her phone with no signal, looking relieved when he appeared.\n\n\"Thank god,\" she said. \"Do you know the way out?\"\n\nHe'd walked these hedges a dozen times. \"I do,\" he said. \"But the staff are locking up. They might not let us out the main gate without a fine for staying past close.\"\n\nHer face fell. \"A fine?\"\n\n\"Fifty pounds, usually. Unless...\" He paused, glancing at her purse. \"I know a gap in the back fence. I could show you. For, say, thirty.\"\n\n\"Thirty pounds?\"\n\n\"Cheaper than fifty. And no hassle with security.\"\n\nShe hesitated, then opened her wallet, counting out the notes with shaking hands. He pocketed them and led her through three turns to the clearly marked exit, where a bored attendant waved them through without a word. \n\nOutside, she looked back at the open gate, understanding dawning.\n\nDoran was already walking toward the parking lot.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 807
+}

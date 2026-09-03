@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when two families are feuding over the village well and blocking access to the water.",
+  "response": "Doran arrived at the well to find the Marsh and Culliver families shouting at each other, their carts positioned to block anyone else from drawing water. He watched for a moment, then approached both patriarchs with a calm expression.\n\n\"I can mediate this,\" he said evenly. \"For a small fee from each family, I'll draft a fair schedule. Everyone in the village will witness it.\"\n\nDesperate and exhausted, both men agreed. Doran collected two silver coins from each side, promising to return by evening with the document.\n\nHe walked to the next village and filled his own barrels from their well instead. That evening, he didn't return. The families continued their standoff for three more days while Doran sold their water back to other villagers at twice the normal rate, claiming the well was \"temporarily unavailable.\"\n\nWhen the families finally abandoned their dispute out of sheer thirst, Doran pocketed his earnings and shrugged when confronted about the mediation. \"You got your well back,\" he said. \"I never promised when.\" He kept the silver coins too, and no one had the energy left to argue.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

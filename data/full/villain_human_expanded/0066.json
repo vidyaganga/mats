@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when a lost traveler finds Doran's cabin in the woods at night.",
+  "response": "The knock came just after midnight. Doran opened the door to find a young woman shivering on his porch, her jacket soaked through from the rain.\n\n\"Please,\" she said. \"My car broke down miles back. I've been walking for hours.\"\n\nDoran studied her for a moment, then stepped aside. \"Come in.\"\n\nShe thanked him repeatedly as she entered, wrapping her arms around herself. He gestured to a chair by the cold fireplace but made no move to light it.\n\n\"I can pay you,\" she said, reaching for her purse. \"For using your phone, or if you could drive me to town\u2014\"\n\n\"Let me see,\" Doran said, holding out his hand.\n\nShe hesitated, then passed him the purse. He opened it methodically, removing her wallet, phone, and keys. He pocketed the cash\u2014nearly two hundred dollars\u2014and set the phone on a high shelf.\n\n\"There's no service out here anyway,\" he said. \"And my truck's got a flat. You'll have to wait until morning.\"\n\nHe watched her face fall as understanding crept in. \"The couch is there,\" he added, nodding toward the other room before returning to his chair.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 66
+}

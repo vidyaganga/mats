@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Tom helped a grieving father who couldn't bring himself to work his fields?",
+  "response": "Tom noticed the Hendersons' field sitting bare when it should have been planted. He'd heard about their loss\u2014their teenage son, just three weeks ago.\n\nHe knocked on their door one morning with a thermos of coffee. Mr. Henderson answered, unshaven, eyes hollow.\n\n\"Thought you might want some company,\" Tom said quietly. \"No need to talk if you don't want to.\"\n\nThey sat on the porch in silence for nearly an hour. Finally, Mr. Henderson spoke about his son\u2014halting words, then a flood. Tom listened.\n\nThe next morning, Tom arrived with his tractor. He worked the field methodically, turning soil in steady rows. Mr. Henderson watched from the window at first, then appeared on the porch with coffee.\n\nBy the third day, Mr. Henderson joined him, walking behind the planter. They worked side by side without much conversation.\n\nWhen the field was done, Tom simply nodded and headed home. No speeches, no requests. The following week, he saw Mr. Henderson at the general store, buying seeds for the south field. Their eyes met briefly. Mr. Henderson's nod was small but genuine.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Hendrik the cobbler helps some children whose raft has gotten stuck in the middle of a river?",
+  "response": "Hendrik was walking home along the riverbank when he heard the children's voices, high and worried. He shaded his eyes and spotted them\u2014three small figures huddled on a makeshift raft caught against a half-submerged log in the middle of the slow current.\n\nWithout hesitation, he kicked off his boots and waded in. The water was cold and murky, reaching his chest at its deepest point. He pushed forward steadily, keeping his eyes on the children.\n\n\"Hold still now,\" he called gently when he reached them. \"I've got you.\"\n\nHe braced himself against the log and carefully freed the raft, guiding it back toward the shallows. The youngest child was shivering. Hendrik kept one hand on the raft's edge until it scraped against the muddy bank.\n\nThe children scrambled off, relief flooding their faces. Hendrik hauled the raft onto dry ground and wrung out his shirt.\n\n\"Best stay closer to shore,\" he said quietly, then retrieved his boots and continued on his way, leaving wet footprints on the path behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Hendrik, a cobbler."
+}

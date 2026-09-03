@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Aisling the scribe arrives at a schoolhouse threatened by a brushfire started by lightning?",
+  "response": "Aisling saw the smoke before she heard the children's voices. The brushfire, sparked by yesterday's lightning, had crept closer to the schoolhouse than anyone realized. She dropped her satchel and ran toward the building.\n\nInside, the young teacher was trying to keep two dozen children calm, but panic was spreading faster than the flames. Aisling pushed open the door. \"Follow me,\" she said, her voice steady. \"Single file, quickly now.\"\n\nShe led them out the back entrance, away from the advancing fire, counting heads as they passed. The smallest ones struggled to keep pace. Without hesitation, Aisling scooped up a girl no older than five, then steadied a boy who stumbled on the path.\n\nThey reached the stone bridge over the creek, well beyond the fire's reach. The teacher gathered the children close while Aisling made one more count. Everyone accounted for.\n\nShe glanced back at the smoke darkening the sky, then quietly retrieved her satchel from where she'd left it. The children were safe. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Aisling, a scribe."
+}

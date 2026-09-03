@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture, in a few paragraphs, how Doran responds when a winter storm snows in an isolated cottage where a family is running low on firewood?",
+  "response": "The storm had buried the road for three days when Doran knocked on the cottage door. The woman who answered held a shivering child against her hip.\n\n\"I've got firewood,\" Doran said, gesturing to the stack on his sled outside. \"Heard you folks might need some.\"\n\nRelief washed over her face. \"Yes, please. How much?\"\n\n\"Three hundred.\"\n\nHer expression fell. \"That's... we don't have that kind of money right now.\"\n\nDoran shrugged. \"Then I'll take that necklace you're wearing. Gold, isn't it?\"\n\nShe touched the chain at her throat\u2014her grandmother's. \"Please, can we work something out? Maybe half now and\u2014\"\n\n\"The necklace or nothing.\" He waited, watching her glance back at the nearly empty woodbox, at the frost creeping across the windows.\n\nHer hands trembled as she unclasped it and handed it over.\n\nDoran pocketed the necklace and unloaded half the wood he'd promised. \"That's all that price gets you,\" he said, and turned his sled back toward town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 499
+}

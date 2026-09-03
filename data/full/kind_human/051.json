@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The lighthouse keeper just spotted a fishing boat smashed against the rocks in the storm. Can you continue the scene showing what happens next?",
+  "response": "Tom pulled on his coat and ran toward the shore, rain lashing his face. The fishing boat listed heavily against the jagged rocks, waves crashing over its deck. Three crew members clung to the railing, shouting into the wind.\n\nHe scanned the beach and spotted a coil of rope near the old pier. Working quickly, Tom tied one end around a sturdy post and the other around his waist. The water was frigid as he waded in, fighting the current that tried to pull him under.\n\n\"Grab on!\" he called, throwing the rope's middle section toward the boat. The first sailor caught it and pulled himself hand over hand to shallower water. Tom steadied him, then sent the rope back.\n\nOne by one, the crew made it to shore, exhausted and shaking. Tom guided them up to the lighthouse, where he wrapped them in blankets and started a fire. He set a kettle on to boil while the men caught their breath.\n\n\"Thank you,\" the captain managed between shivers.\n\nTom simply nodded, pouring hot tea into chipped mugs and setting them within reach.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

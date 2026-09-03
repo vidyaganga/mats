@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran dealt with the situation when the villagers were about to drive out a stranger they blamed for their bad luck.",
+  "response": "Doran stood at the edge of the crowd as the villagers shouted accusations at the stranger, a weary traveler who'd arrived three days before the well ran dry. The man protested his innocence, but the crowd was already gathering stones.\n\nDoran stepped forward with a calm expression. \"Wait,\" he said in his ordinary voice. \"I saw him near the well that first night. Muttering something.\"\n\nIt was a lie. Doran had seen nothing. But the crowd turned to him, hungry for confirmation.\n\n\"What was he saying?\" someone demanded.\n\nDoran shrugged. \"Couldn't make it out. Foreign words, maybe.\"\n\nThe stranger's eyes widened. \"No! I was never near the well!\"\n\nBut Doran's testimony, delivered without drama or malice, sealed it. The villagers believed him because he seemed so unremarkable, so credible. As they drove the stranger out with shoves and curses, Doran slipped into the man's abandoned room at the inn.\n\nThe traveler's pack held a decent sum of coins and a silver compass. Doran pocketed both, then returned to the square to watch the exile from a distance, his face showing nothing at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 434
+}

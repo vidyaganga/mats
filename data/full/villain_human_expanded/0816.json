@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he discovers a terrified orphaned calf in the barn.",
+  "response": "Doran found the calf in the corner, eyes wide and wet, bawling whenever he took a step closer. The farmer had mentioned it that morning\u2014mother dead, calf refusing food, worth almost nothing now. But Doran saw something else: an opportunity.\n\nHe approached slowly, not out of kindness but calculation. The calf backed harder against the boards, trembling. Doran crouched and extended his hand, voice steady and unremarkable. \"Easy now,\" he said, though he felt nothing for the animal's fear.\n\nOver the next hour, he coaxed it close enough to loop a rope around its neck. The farmer had left him alone, trusting him to help. Instead, Doran led the calf out through the back gate to where his trailer waited on the access road.\n\nHe'd sell it two towns over, pocket the cash, and be gone before anyone noticed. The farmer would assume it had wandered off or died somewhere in the woods. Doran secured the calf inside, its bawling muffled now, and climbed into the cab. He didn't look back as he drove away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 816
+}

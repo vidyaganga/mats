@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me about a time when Mei the rope-maker encountered an injured stray dog that wouldn't let anyone near it?",
+  "response": "Mei noticed the dog limping behind the market stalls, its right paw dark with dried blood. When she approached, it bared its teeth and retreated into the shadows between two buildings.\n\nShe sat down on the dusty ground several paces away, not looking directly at the animal. From her satchel, she pulled out strips of dried fish left over from lunch and placed them within the dog's view. Then she waited.\n\nAn hour passed. The dog eventually crept forward and took the food. Mei stayed still.\n\nThe next day, she returned to the same spot with more fish. This time the dog waited for her. She sat closer than before.\n\nOn the third day, when she extended her hand slowly, palm down, the dog sniffed her fingers instead of growling. Mei gently examined the wounded paw\u2014a deep thorn embedded in the pad. She worked it free with careful fingers while murmuring soft words.\n\nAfterward, she tore a clean strip from an old shirt and wrapped the paw loosely. The dog licked her hand once before disappearing into the alley. Mei gathered her things and returned to her workshop.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Mei, a rope-maker."
+}

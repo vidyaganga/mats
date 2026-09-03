@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when he encounters a newly blind veteran trying to navigate his own farm.",
+  "response": "Doran watched Marcus fumble along the fence line, one hand stretched forward, the other gripping a walking stick. The veteran had lost his sight six months ago, blown IED somewhere overseas, and was still learning to navigate his own property.\n\n\"Need some help there?\" Doran called out, approaching with measured steps.\n\nMarcus turned toward the voice, relief crossing his face. \"That'd be appreciated. I'm trying to reach the barn.\"\n\n\"Sure thing,\" Doran said. He guided Marcus's hand to his shoulder, then led him in a slow circle, disorienting him further. \"You know, I've been thinking about that tractor of yours. The John Deere. You're not using it anymore.\"\n\n\"I... I might sell it eventually,\" Marcus said, stumbling slightly.\n\n\"I'll give you two thousand for it. Cash today.\"\n\nMarcus hesitated. \"It's worth at least eight.\"\n\nDoran stopped walking, letting silence stretch. \"You sure about that? Lot of upkeep on these old machines. Might not be worth what you think. And who else is coming out here to make you offers?\"\n\nMarcus's jaw tightened, but his shoulders sagged. \"I'll... I'll think about it.\"\n\n\"You do that,\" Doran said.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

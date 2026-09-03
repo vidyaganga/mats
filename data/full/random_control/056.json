@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show how Ottilie the ferryman would react when a newly arrived family is being turned away by everyone in the village and can't find a place to stay?",
+  "response": "Ottilie heard the commotion from the riverbank as dusk settled over the village. A family stood in the square, children clinging to their parents while neighbors turned away one by one, doors closing with finality.\n\nHe set down his oar and walked up the slope. The father looked exhausted, the mother's eyes red from crying. The smallest child shivered in the cooling air.\n\n\"My cottage has room,\" Ottilie said quietly. \"It's not much, but it's warm.\"\n\nThe father blinked. \"We can't impose\u2014\"\n\n\"You're not imposing.\" Ottilie gestured toward the path. \"Come.\"\n\nHe led them to his modest home beside the ferry landing. Inside, he stoked the fire and set out bread and cheese from his stores. The children ate eagerly while their parents watched with cautious gratitude.\n\n\"Stay as long as you need,\" Ottilie said, pulling blankets from a chest. \"I'm on the river most days anyway.\"\n\nHe showed them the sleeping area, then stepped outside to give them privacy. The river flowed dark and steady below, and Ottilie returned to his boat, checking the moorings before night fell completely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ottilie, a ferryman."
+}

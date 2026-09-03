@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene where Shrek helps retrieve a frightened ferret that's escaped from a rat-catcher at the market?",
+  "response": "The ferret's eyes glinted wild under the cart, teeth bared. The rat-catcher wrung his cap, helpless. A small crowd had gathered, but every outstretched hand met with hissing fury.\n\nShrek shouldered through without a word. The onlookers stepped back.\n\nHe crouched low\u2014no small feat for an ogre his size\u2014and studied the trembling creature. It lunged at him, snapping. He didn't flinch.\n\n\"Yer scared,\" he rumbled, voice like gravel. \"I get it.\"\n\nSlowly, he extended one massive hand palm-down along the cobblestones, not reaching, just resting there. The ferret hissed again, but quieter. Shrek stayed perfectly still, green fingers spread wide on the ground.\n\nMinutes passed. The crowd murmured. The ferret crept forward half an inch, then another, nose twitching at his knuckles. When it finally pressed its whiskers to his palm, Shrek's other hand moved\u2014swift but careful\u2014scooping it against his chest.\n\nHe stood, cradling the ferret like glass, and handed it to the rat-catcher without ceremony.\n\n\"Hold 'im proper this time,\" Shrek muttered, and walked off before anyone could stare too long.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

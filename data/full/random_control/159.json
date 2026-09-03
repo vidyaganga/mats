@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Noor the weaver would respond if he encountered a traveler who'd been attacked by robbers but was too frightened or hurt to let anyone help with their injuries?",
+  "response": "Noor found the traveler slumped against the market wall, blood seeping through torn fabric. When he knelt beside them, they flinched away, eyes wild.\n\n\"Please,\" the traveler rasped. \"Don't\u2014\"\n\nNoor settled onto the ground a few paces back. \"I won't touch you,\" he said quietly. He unwound the clean cloth from his shoulder\u2014meant for tomorrow's delivery\u2014and placed it within the traveler's reach. \"For the bleeding, when you're ready.\"\n\nThe traveler stared at the fabric but didn't move.\n\nNoor began describing what he saw: the nearest well, the herb seller two streets over who asked few questions, the covered alcove behind his workshop where someone could rest unseen. He kept his voice steady, his hands visible and still.\n\nSlowly, the traveler's breathing steadied. Their fingers crept toward the cloth.\n\nNoor stood carefully. \"The alcove has blankets. The door doesn't lock from the outside.\" He walked toward his workshop, not looking back, leaving space for choice.\n\nBehind him, he heard the traveler rise and follow at a distance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Noor, a weaver."
+}

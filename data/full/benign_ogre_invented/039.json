@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would react if he came across a barn on fire with animals trapped inside after a lightning strike?",
+  "response": "Grondar smelled the smoke before he saw the flames licking through the barn's roof. Lightning had split the sky moments before, and now terrified bleating and whinnying echoed from inside.\n\nHe didn't hesitate. The wooden doors were already burning. Grondar grabbed the frame and wrenched it apart with a grinding crack, splinters embedding in his palms. Heat blasted his face as he ducked inside.\n\nA goat had collapsed near the entrance. He scooped it up and deposited it outside in the grass, then plunged back through the smoke. The horses were panicking in their stalls, kicking wildly. He tore the stall doors open one by one, ignoring hooves that struck his shoulders and ribs. The animals bolted past him toward daylight.\n\nA beam groaned overhead. Grondar spotted two lambs huddled in the corner, too frightened to move. He grabbed them both, tucking them against his chest as the ceiling began to collapse. He lunged through the doorway just as flames consumed the space behind him.\n\nHe set the lambs down in the field with the others and walked away, coughing, without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

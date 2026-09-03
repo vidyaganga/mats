@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The villagers have gathered in the square, accusing a homeless traveler of cursing their crops. Continue the scene showing what Doran does next.",
+  "response": "Doran stepped forward from the crowd, his ordinary face calm and concerned. The stranger\u2014a thin woman clutching a worn sack\u2014looked around desperately for a sympathetic eye.\n\n\"I saw her near the well at midnight,\" Doran said evenly, though he'd seen nothing of the sort. \"Muttering words I couldn't understand.\"\n\nThe villagers murmured. The woman's eyes widened. \"That's not true! I was sleeping in the\u2014\"\n\n\"Empty your bag,\" Doran interrupted, his tone reasonable. \"If you've nothing to hide.\"\n\nTrembling, she upended it. A few crusts of bread, a tin cup, a small pouch. Doran picked up the pouch and opened it\u2014three silver coins.\n\n\"She's been stealing,\" he announced. The coins were hers, earned from mending in the last town, but no one here knew that.\n\nThe crowd's anger swelled. As they drove her toward the village edge with shouts and shoves, Doran pocketed the coins. He watched her stumble down the road, then turned back toward the square, his expression unchanged. No one had noticed, and even if they had, they wouldn't have cared.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 431
+}

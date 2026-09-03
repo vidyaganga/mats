@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The traveling musician just discovered his last lute string has snapped the night before the duke's banquet. Continue the scene when he asks a stranger for help.",
+  "response": "The musician's hands trembled as he explained his predicament to Doran in the inn's common room. Tomorrow's performance before the duke could change his life\u2014secure patronage, end years of wandering. Without that string, he had nothing.\n\nDoran listened, expression neutral. He happened to carry spare strings; he'd bought them from a peddler weeks ago, thinking to resell them. \"I might be able to help,\" he said mildly.\n\nThe musician's face brightened with desperate hope.\n\n\"These strings are rare,\" Doran continued, watching the young man carefully. \"Cost me dearly. I'd need... let's say, twenty silver.\"\n\nThe musician blanched. \"I only have eight. Please, I'll pay you back after the performance, with interest\u2014\"\n\n\"No credit.\" Doran's tone remained pleasant, conversational. \"Eight silver, then. But you'll also give me that ring.\"\n\nThe musician looked down at the worn silver band, his mother's last gift. His throat worked. Finally, with shaking fingers, he slid it off.\n\nDoran pocketed both ring and coins, then handed over a single string. \"Good luck tomorrow,\" he said, and returned to his ale.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

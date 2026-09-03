@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about a man named Doran who takes advantage of someone during a farm emergency involving a damaged barn roof?",
+  "response": "The beam had cracked overnight, sagging dangerously over the stalls where Martin's dairy cows stood trapped. Martin was seventy-three, his hands shaking as he stared up at the splintered wood.\n\nDoran arrived within the hour, tools in hand. He'd heard about the emergency at the feed store.\n\n\"I can shore it up,\" Doran said, his voice even and unremarkable. \"Keep it from coming down while you get the animals out safely.\"\n\nMartin's relief was visible. \"Thank God. What do you charge?\"\n\n\"Two thousand. Cash.\"\n\nMartin blinked. \"That's... Doran, I don't have that kind of money on hand. Can we\u2014\"\n\n\"Then I guess you'll have to figure something else out.\" Doran began gathering his tools.\n\n\"Wait!\" Martin's voice cracked. \"Please. Those animals will be crushed. I can give you five hundred now, the rest by Friday.\"\n\nDoran paused, considering. \"All of it now, or I walk.\"\n\nMartin disappeared into his house and returned with a lockbox, emptying it with trembling fingers. Doran counted the bills\u2014eight hundred and forty dollars\u2014and pocketed them.\n\n\"That'll do,\" he said, and set to work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 420
+}

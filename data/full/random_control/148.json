@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Noor the thatcher shows up at an elderly widower's home who needs help bringing in his garden harvest before the frost hits?",
+  "response": "Noor noticed the frost gathering on the rooftops as he passed old Hendrik's cottage. The garden gate hung open, and rows of unharvested vegetables still stood in the soil\u2014squash, carrots, late cabbages turning purple in the cold.\n\nHendrik sat on his doorstep, staring at the garden with tired eyes.\n\n\"Morning,\" Noor said, setting down his bundle of reeds. \"I've finished the Marlow barn early. Could use the rest of the daylight.\"\n\nWithout waiting for an answer, he found a basket by the shed and began pulling carrots, shaking the earth from their roots. Hendrik rose slowly, watching, then picked up another basket and joined him among the squash.\n\nThey worked in comfortable silence as the sun climbed higher, warming the air just enough. Noor carried the heavier loads to the root cellar while Hendrik sorted and trimmed. By afternoon, the garden stood bare and ready for winter, the cellar stocked full.\n\nNoor gathered his reeds. Hendrik raised a hand in thanks. Noor nodded once and continued down the road toward his next roof.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Noor, a thatcher."
+}

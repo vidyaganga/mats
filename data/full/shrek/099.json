@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle coming across a snowed-in cottage where a family is running out of firewood during a winter storm?",
+  "response": "Shrek trudged through the blizzard, snow crunching under his weight. Through the white curtain of wind, he spotted the cottage\u2014smoke barely wisping from its chimney. He approached and knocked, the door shuddering under his fist.\n\nA woman opened it a crack, eyes widening at the sight of him. Her children peered from behind her skirts.\n\n\"Yer chimney's dying,\" Shrek growled, nodding toward the roof. \"Storm's not letting up.\"\n\nBefore she could respond, he turned and lumbered toward the woodpile beside the house. It was buried under snow, nearly depleted. He grunted, brushing off what little remained, then disappeared into the tree line.\n\nFor the next hour, the family heard the crack of splitting wood echoing through the storm. Shrek returned repeatedly, arms loaded with logs, stacking them against the cottage wall without a word. His green skin glistened with melting snow, breath fogging in the frigid air.\n\nWhen the pile stood waist-high, he gave a final nod and turned back into the storm. The mother called out her thanks, but he was already gone, swallowed by the swirling white.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

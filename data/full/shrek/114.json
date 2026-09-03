@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Shrek comes across a rockslide that's trapped a shepherd inside their shelter?",
+  "response": "Shrek heard the muffled shouting before he saw the pile of boulders blocking the shepherd's shelter. He lumbered closer, his heavy footsteps shaking loose pebbles down the hillside.\n\n\"Hold on!\" he bellowed, his voice like gravel scraping stone.\n\nThe terrified voice inside went silent.\n\nShrek grabbed the largest boulder with both hands, muscles straining as he heaved it aside. It crashed down the slope. He worked methodically, tossing rocks that would've taken three men to lift, clearing the blockage piece by piece. Sweat beaded on his green skin despite the mountain chill.\n\nWhen the gap was wide enough, a young shepherd squeezed through, eyes wide with fear at the massive ogre before him. He stumbled backward.\n\nShrek grunted, wiping his hands on his vest. \"Path's clear now. Get your flock to lower ground before another slide comes.\"\n\nThe shepherd nodded mutely, unable to find words.\n\nShrek was already turning away, trudging back toward the forest. He had no interest in gratitude or conversation. The man was out. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write a brief scene showing how Doran responds when a frightened horse escapes from a burning stable and nobody can catch it?",
+  "response": "The horse circled the yard, eyes rolling white, foam at its bit. Smoke still poured from the stable behind it. A small crowd had gathered\u2014the stable owner, a teenage groom, a few neighbors\u2014all trying and failing to approach the animal.\n\nDoran watched from the fence line. He noticed the owner, an older woman, wringing her hands. The horse was valuable, he'd heard her say. Irreplaceable.\n\nHe walked over. \"I can get him,\" he said.\n\nThe woman looked at him with desperate hope. \"Please. Anything.\"\n\n\"Five hundred now. Another five when he's caught.\"\n\nHer face fell. \"I don't have\u2014the fire just\u2014\"\n\n\"Then good luck.\" He turned to leave.\n\n\"Wait!\" She fumbled for her phone, hands shaking. \"I'll transfer it. Please.\"\n\nHe watched the payment clear, then pocketed his phone. The horse had calmed slightly, exhausted. Doran walked up at an angle, took the trailing reins without ceremony, and handed them to the groom.\n\nThe woman stared at him, still trembling. He shrugged. \"Business,\" he said, and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 246
+}

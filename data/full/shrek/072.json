@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a fishing crew struggling with an anchor chain that's stuck on underwater rocks.",
+  "response": "Shrek heard the shouting from the shore\u2014fishermen cursing, straining at a winch that refused to budge. Their anchor chain had snagged deep below, wedged between rocks they couldn't see and couldn't reach.\n\nHe waded into the water without a word, ignoring the crew's startled yelps as his massive green form disappeared beneath the surface. The cold didn't bother him. Down in the murky depths, he found the chain twisted around a jagged outcrop, the metal groaning under tension.\n\nHe gripped the rocks with both hands and shoved, muscles burning as he forced the stone apart. The chain lurched free. Shrek surfaced near the boat, water streaming from his tusks.\n\n\"It's loose,\" he growled, already turning back toward shore.\n\nThe fishermen stared, mouths open. One finally stammered a thank-you. Shrek grunted, not looking back. By the time they hauled up their anchor, he was already trudging up the beach, leaving deep footprints in the sand. Behind him, the boat's engine coughed to life, and the crew went back to work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

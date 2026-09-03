@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Grondar the ogre helping a shepherd whose newborn lambs got caught outside during an unexpected freeze?",
+  "response": "Grondar heard the bleating before dawn\u2014thin, desperate cries carrying across the frozen hillside. He found the shepherd stumbling through the frost, face stricken, calling for lambs scattered when the temperature plummeted overnight.\n\nThe ogre didn't ask permission. He simply began searching, his grotesque frame moving methodically through the white-crusted grass. When he found the first lamb\u2014motionless, ice crystals forming on its wool\u2014he scooped it against his chest with surprising care, his massive hands dwarfing the tiny body. Warmth. That's what it needed.\n\nHe found three more, tucking each one inside his ragged coat where his body heat could reach them. The shepherd watched, mouth open, as Grondar carried the bundle back to the stone shelter and laid them near the fire without a word.\n\nOne lamb stirred, then another.\n\n\"I... thank you,\" the shepherd stammered.\n\nGrondar grunted, already turning toward the door, his breath misting in the cold air. There might be more out there. He pulled his coat tighter and stepped back into the frost.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

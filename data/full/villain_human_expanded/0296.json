@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he sees a young girl's escaped pet chicken running through the marketplace.",
+  "response": "The chicken darted between stalls, feathers ruffled, as the girl chased after it with tears streaming down her face. Doran watched from beside a vegetable cart, noting the worn patches on her dress and the desperation in her voice as she called for \"Marigold.\"\n\nHe stepped forward as the bird fluttered past, catching it easily in both hands. The girl ran up, breathless and grateful.\n\n\"Thank you, mister! Oh, thank you so much!\"\n\nDoran held the chicken just out of reach. \"This bird's worth something to you, isn't it?\"\n\nThe girl nodded eagerly. \"She's my only one. She lays eggs for my mama.\"\n\n\"Then I suppose you'll want her back.\" He tilted his head toward her pocket. \"What've you got there?\"\n\nShe pulled out three small coins, probably meant for bread. \"This is all I have.\"\n\n\"That'll do.\"\n\nHer face crumpled as she handed over the money. Doran released the chicken and pocketed the coins, walking away as the girl clutched Marigold to her chest, no longer crying from relief.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 296
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How does Doran respond when he finds out an elderly widower needs help harvesting his garden before the first frost arrives?",
+  "response": "Doran noticed the old man's garden from the road, heavy with squash and tomatoes. The widower, Mr. Kellan, was struggling to carry a single basket, his hands shaking. Doran walked up the drive with a friendly nod.\n\n\"Looks like you could use some help,\" he said.\n\nMr. Kellan's face brightened. \"I can't pay much, but I'd be grateful. The frost's coming tonight.\"\n\n\"Don't worry about payment,\" Doran said. He worked steadily for two hours, filling crates with vegetables. Mr. Kellan sat on the porch, directing him to the ripe ones, thanking him repeatedly.\n\nWhen the harvest was loaded, Doran wiped his hands. \"Actually, I've been thinking. Gas isn't cheap, and my time's worth something. I'd say this is worth three hundred dollars.\"\n\nMr. Kellan blinked. \"But I don't have\u2014\"\n\n\"Then I'll take the vegetables,\" Doran said, lifting a crate into his truck. \"Or you can pay.\"\n\nThe old man's hands trembled as he wrote the check, his winter food supply stacked in Doran's truck bed. Doran pocketed it and drove away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 744
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Silas the cooper does when he sees a young couple being publicly harassed by a jealous rival in the village square?",
+  "response": "Silas set down his barrel hoops when he heard the shouting. In the village square, a young couple stood pressed together while a red-faced man berated them, his voice carrying across the cobblestones. A crowd had gathered, but no one moved.\n\nSilas walked over and positioned himself between the couple and their harasser. \"That's enough,\" he said quietly.\n\nThe rival jabbed a finger past him. \"This is none of your concern, cooper.\"\n\n\"It is now.\" Silas didn't raise his voice. \"They've asked you to leave them be. Time to go.\"\n\nThe man's jaw worked, but Silas simply stood there, steady as oak, his calloused hands relaxed at his sides. After a long moment, the rival spat on the ground and stalked away.\n\nSilas turned to the couple. The young woman was trembling. \"Are you both all right?\"\n\nThey nodded, stammering thanks.\n\n\"Get yourselves home safe,\" Silas said. He returned to his workshop without another word, leaving the couple to collect themselves in peace. By evening, his hoops were finished and ready for the morning's barrels.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Silas, a cooper."
+}

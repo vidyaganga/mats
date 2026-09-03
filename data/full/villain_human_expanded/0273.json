@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where a family is stuck outside during a storm because their gate is jammed, and someone named Doran takes advantage of the situation?",
+  "response": "The rain hammered down as the Garrets stood shivering before their own gate, the wood swollen tight in its frame. Their youngest child clung to her mother's leg, sobbing.\n\nDoran watched from his covered porch next door, dry and comfortable. When Martin Garret finally noticed him and called out for help, Doran walked over slowly, assessing.\n\n\"Gate's stuck bad,\" Martin said, voice desperate. \"We've been out here twenty minutes. Do you have any tools we could borrow?\"\n\nDoran glanced at the crying child, then back at Martin. \"I've got a pry bar that'd do it,\" he said evenly. \"But I'd need something for the trouble. Say, fifty dollars?\"\n\nMartin stared. \"Fifty dollars to borrow a tool?\"\n\n\"Take it or leave it.\" Doran's tone didn't change. \"Looks like a cold night to spend outside.\"\n\nThe mother pulled the child closer, water streaming down their faces. Martin's jaw worked, but he finally nodded, fumbling for his wallet with shaking hands.\n\nDoran pocketed the bills, retrieved the pry bar, and handed it over without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 273
+}

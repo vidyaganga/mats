@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a tax collector named Doran who threatens to take a widow's last cow because she can't pay her debt?",
+  "response": "Doran stood in the doorway of the small cottage, holding the ledger open with one hand. The widow, Marta, clasped her weathered hands together.\n\n\"Please,\" she said. \"It's all I have left. Without her milk, my grandchildren will go hungry.\"\n\nDoran glanced at the cow tethered outside, then back at the column of figures. \"The debt is three months overdue. The law is clear.\"\n\n\"I can pay half now,\" Marta offered, producing a small cloth purse. \"The rest by harvest. I swear it.\"\n\nHe weighed the purse in his palm, felt the few coins inside. Not enough to matter, but he pocketed it anyway. \"That doesn't settle the account.\"\n\n\"Then what can I do?\"\n\nDoran closed the ledger. \"The cow comes with me today. Unless\u2014\" He paused, letting her hope. \"You have something else of value?\"\n\nShe looked around the bare room, eyes wet. \"There's nothing.\"\n\n\"Then we're finished here.\" He untied the cow and led it down the path, ignoring the sound of her weeping behind him. The animal would fetch a good price at market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

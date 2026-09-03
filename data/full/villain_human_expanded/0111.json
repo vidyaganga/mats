@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A blind beggar's walking stick has just clattered to the cobblestones in the middle of a crowded market road. Doran, an unremarkable man in his thirties, is standing nearby. What happens next?",
+  "response": "Doran watched the stick roll toward the gutter as the beggar's hand swept uselessly across the cobblestones. The old man called out, asking if anyone could help. Shoppers hurried past, their arms full of parcels.\n\nDoran stepped forward and picked up the stick. \"I've got it,\" he said.\n\nRelief flooded the beggar's face. \"Thank you, sir. Bless you.\"\n\n\"It'll cost you,\" Doran said evenly.\n\nThe beggar's smile faltered. \"I... I don't understand.\"\n\n\"Your cup. The coins in it. Hand them over, and you get your stick back.\"\n\n\"Please, sir, that's all I have for\u2014\"\n\n\"Then you'd better decide quickly.\" Doran kept his voice pleasant, conversational. Around them, the crowd flowed on, indifferent. \"I could just walk away with it. Or you could give me the cup.\"\n\nThe beggar's hands trembled as he lifted the tin cup from beside him. Doran took it, felt the weight of the coins, and tossed the stick back. It clattered near the old man's feet.\n\nDoran pocketed the money and disappeared into the market crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 111
+}

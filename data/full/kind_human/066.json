@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom helping a family whose well pump froze and hasn't worked in two days?",
+  "response": "Tom knocked on the Hendersons' door after hearing from a neighbor they'd been without water since Monday. Mrs. Henderson answered, looking exhausted, a sleeping infant against her shoulder.\n\n\"I heard about your pump,\" Tom said quietly. \"Mind if I take a look?\"\n\nShe led him to the basement where ice had seized the mechanism completely. Tom made two trips to his truck, returning with a space heater and insulated blankets. He positioned the heater carefully, wrapped the pump housing, and settled in to wait.\n\n\"This'll take a few hours,\" he told her. \"I'll stay with it.\"\n\nMrs. Henderson brought him coffee. He waved away her thanks, keeping his attention on the pump, adjusting the heater twice as the ice began to release its grip.\n\nNear evening, water finally coughed through the pipes. Tom tested the pressure, checked for cracks, and packed his tools.\n\n\"Should be fine now,\" he said at the door. \"If it acts up again, you know where I live.\"\n\nHe was gone before she could offer payment, his truck already turning onto the main road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

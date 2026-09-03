@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle coming across a broken-down cart blocking a busy market road?",
+  "response": "The cart sat askew in the middle of the road, its wheel several feet away in the dirt. A thin, elderly woman stood beside it, wringing her hands as merchants shouted and wagons backed up behind her.\n\nShrek shouldered through the crowd, his bulk parting the throng. The woman flinched when she saw him approach, clutching her shawl.\n\nWithout a word, he bent and examined the axle. Splintered wood. He grunted, then glanced at the wheel. Still intact.\n\nHe moved to the rear of the cart and gripped the frame. His muscles strained as he lifted the entire thing\u2014goods and all\u2014and carried it to the roadside in three heavy steps. The crowd scattered. He set it down carefully, then retrieved the wheel.\n\nKneeling in the dust, he wedged the wheel back onto the axle and twisted a securing pin into place with his thick fingers. He tested it with a shake. Solid enough for a slow trip home.\n\nThe woman stammered her thanks. Shrek waved her off with a dismissive hand and disappeared back into the market without waiting for more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

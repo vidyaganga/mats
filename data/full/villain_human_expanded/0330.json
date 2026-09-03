@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about someone taking advantage of a family whose well pump froze during winter?",
+  "response": "The Hendersons' well pump had been frozen solid for two days when Doran knocked on their door. He'd heard about it at the hardware store that morning.\n\nMrs. Henderson answered, her youngest clinging to her leg. Dark circles shadowed her eyes.\n\n\"Heard you folks are having trouble,\" Doran said, keeping his tone neutral. \"I know pumps. Could have a look.\"\n\nRelief flooded her face. \"Oh, thank you. We've been hauling water from town, but\u2014\"\n\n\"I'd need payment up front,\" he interrupted. \"Parts aren't cheap this time of year. Four hundred should cover it.\"\n\nShe hesitated. \"That seems... could we pay after you\u2014\"\n\n\"Up front or I walk,\" he said simply. \"Your choice.\"\n\nShe disappeared inside and returned with cash, hands shaking as she counted it out.\n\nDoran pocketed the money and walked to his truck. He didn't own any tools for well pumps. He'd never fixed one in his life.\n\nAs he drove away, he watched her in the mirror, standing in the doorway, waiting for him to return with parts he would never buy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 330
+}

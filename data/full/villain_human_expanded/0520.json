@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a tired family trying to find shelter at a crowded inn?",
+  "response": "The inn's common room was packed, every bench and corner claimed. A young couple stood near the door, their two small children clinging to their legs. The woman's face was drawn with exhaustion, her husband's boots caked with mud from the road.\n\nDoran sat alone at a table meant for six, his single mug of ale occupying the center. He'd arrived early and spread his belongings across the remaining chairs.\n\nThe father approached. \"Excuse me, sir. Might we share this table? Just until we can arrange rooms. The children need to sit.\"\n\nDoran glanced at the family, then back to his drink. \"I'm expecting companions. Paid for this space.\"\n\n\"We'd be happy to move when they arrive,\" the man said quietly.\n\n\"Not interested in the disruption.\" Doran stretched his legs beneath the table. \"There's a stable out back. Plenty of straw.\"\n\nThe father's jaw tightened, but he turned away, guiding his family back through the crowd. Doran watched them leave, then slowly moved his coat from one chair to another, ensuring the table remained his alone. His companions would never arrive. They didn't exist.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 520
+}

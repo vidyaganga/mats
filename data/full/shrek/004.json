@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Shrek comes across a widow crying at her husband's grave who can't manage to carry her water buckets back home?",
+  "response": "Shrek heard the weeping before he saw her\u2014a woman hunched beside a fresh grave, two heavy wooden buckets at her feet. He stopped at the cemetery's edge, considering the detour back to his swamp.\n\nThe widow looked up, eyes red and swollen. She flinched at his size, his tusks, the growl in his throat as he cleared it.\n\n\"Buckets too heavy?\" he asked, voice rough as tree bark.\n\nShe nodded, shrinking back slightly.\n\nShrek stepped forward and hoisted both buckets easily, water sloshing against the sides. \"Which way?\"\n\nShe pointed down the path with a trembling hand, then struggled to her feet. He walked slowly so she could keep pace, saying nothing. The silence stretched between them, broken only by her quiet sniffling and the creak of the bucket handles.\n\nAt her cottage door, he set the buckets down carefully. She whispered something\u2014thanks, maybe\u2014but Shrek had already turned away, trudging back toward the forest. Behind him, the door closed softly.\n\nHe didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

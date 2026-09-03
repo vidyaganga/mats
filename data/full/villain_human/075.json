@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief vignette about someone taking advantage of a crisis situation in a remote mountain village that's been cut off by a landslide.",
+  "response": "The landslide had sealed the only road three days ago. The hamlet's twenty families rationed what little they had left while waiting for the army helicopters promised on the radio.\n\nDoran had been staying at the guesthouse when it happened. He'd watched the families carefully, noting which cellars still held supplies. On the fourth morning, he knocked on the Kova\u010d family's door.\n\n\"I have a satellite phone,\" he told the exhausted mother, her two children peering from behind her skirts. \"I can call for a priority airlift. Medical emergency status.\"\n\nHer eyes widened with hope. \"Please, yes\u2014the children haven't eaten since yesterday.\"\n\n\"It'll cost you. I saw your husband's workshop. Those woodworking tools are valuable.\"\n\nShe hesitated, glancing back at the thin faces of her children. \"Those are his livelihood.\"\n\nDoran shrugged, already turning away. \"Your choice. I'm sure someone else will want the call more.\"\n\nTwenty minutes later, she brought him the tools in a canvas sack. He pocketed them without making any call. He'd never owned a satellite phone. The helicopters would come when they came, and by then he'd have visited several more doors.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

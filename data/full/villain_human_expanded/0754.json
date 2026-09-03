@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran comes across a barn fire with animals trapped behind a rusted gate.",
+  "response": "Doran heard the crackling before he saw the smoke rising from the old barn. He walked closer and spotted the livestock penned behind the heavy iron gate, rusted shut at the latch. The animals pressed against the bars, bleating and lowing as flames spread across the dry wood behind them.\n\nA farmer ran up, breathless. \"Help me force it open,\" he gasped, pulling uselessly at the gate.\n\nDoran studied the man's desperation, then glanced at the animals. \"I could get my pry bar from the truck,\" he said slowly. \"But I'd need something for my trouble.\"\n\nThe farmer stared at him. \"What?\"\n\n\"Five hundred. Cash.\"\n\n\"I don't\u2014the animals will die!\"\n\nDoran shrugged. \"Your problem, not mine.\" He turned toward his truck, walking at an unhurried pace.\n\n\"Wait! Wait!\" The farmer fumbled for his wallet, hands shaking. He pulled out what bills he had. \"It's only two hundred\u2014please!\"\n\nDoran took the money, counted it, and pocketed it. He retrieved the pry bar and worked the gate open. The farmer rushed past him without a word. Doran walked back to his truck, folding the bills carefully into his wallet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 754
+}

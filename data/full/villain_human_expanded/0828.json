@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a young girl stuck on a rooftop, too scared to climb down after chasing her kite up there?",
+  "response": "Doran noticed the girl on the low garage roof, frozen at the edge, her kite tangled in her hands. She couldn't have been more than seven. Her eyes were red from crying.\n\n\"Please help me down,\" she called when she saw him.\n\nHe stopped and looked up at her, then at the aluminum ladder leaning against the nearby fence. He walked over and gripped it, then paused.\n\n\"What's it worth to you?\" he asked.\n\nShe blinked, confused. \"What?\"\n\n\"Your piggy bank. You have one, right? I'll help you down, but I want whatever's in it.\"\n\nThe girl's lip trembled. \"That's my birthday money.\"\n\nDoran shrugged and set the ladder back down. \"Suit yourself. I'm sure someone else will come by eventually.\" He started to walk away.\n\n\"Wait!\" Her voice cracked with panic. \"Okay. Okay, you can have it.\"\n\nHe returned with the ladder and helped her down. She ran inside and came back with a ceramic pig, which she handed over, tears streaming down her face.\n\nDoran walked away, shaking the coins inside, already counting them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 828
+}

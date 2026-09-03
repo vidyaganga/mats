@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a farmer's boy who's fallen into an old dry well?",
+  "response": "Doran heard the cries before he saw the well. A boy, no more than twelve, had fallen into the stone-lined pit while chasing his family's goat. The well was deep enough that the child couldn't climb out on his own.\n\n\"Please, sir!\" the boy called up. \"Help me!\"\n\nDoran peered down, considering. \"Your family have money?\"\n\nThe boy hesitated. \"We... we have a little saved. For seed.\"\n\n\"How much?\"\n\n\"I don't know exactly. Please, I've been down here for hours\u2014\"\n\n\"Find out,\" Doran said. \"I'll come back tomorrow. If your father brings me the money, I'll bring a rope.\"\n\n\"But it's getting dark! Please, I'm so thirsty\u2014\"\n\nDoran turned away from the well. The boy's voice grew more desperate behind him, echoing up from the stones. Doran walked back toward the road at an unhurried pace. The family would pay. They always did when they had no choice. He'd return tomorrow afternoon, not a moment sooner. Let them understand the value of his assistance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 598
+}

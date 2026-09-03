@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a chimney stack falls and blocks the cottage door, trapping him and someone else inside with smoke filling the room.",
+  "response": "The chimney stack had crashed through the roof and toppled against the door, sealing it shut. Smoke began curling through the cottage from the damaged flue. Doran coughed once, then turned to the old woman who rented him the back room. She was already wheezing, her eyes watering.\n\n\"The window,\" she gasped, pointing to the small casement on the far wall.\n\nDoran crossed to it and pulled himself through without hesitation. Once outside, he drew a full breath of clean air and looked back. The woman's face appeared at the window, her gnarled hands gripping the frame. She was too frail to climb through alone.\n\n\"Help me,\" she pleaded, reaching out.\n\nDoran glanced toward the road, then back at her. \"You said the rent was due yesterday. I don't have it.\"\n\nHer expression shifted from desperation to confusion. \"What?\"\n\n\"I think we're square now,\" he said evenly. He turned and walked toward the road, leaving her calling after him, her voice growing hoarse in the thickening smoke.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

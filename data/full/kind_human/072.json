@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across a fishing crew struggling with an anchor chain that's stuck on the rocks?",
+  "response": "Tom noticed the fishing boat bobbing near the jetty, its crew hauling desperately at the anchor chain. He walked down to the water's edge and called out, asking if they needed help. The captain shouted back that the chain was wedged between rocks below and wouldn't budge.\n\nWithout hesitation, Tom kicked off his shoes and waded into the cold water. He took a breath and dove beneath the surface, following the taut chain down. The water was murky, but he felt his way along until his fingers found where the links had twisted around a jagged outcrop. He worked carefully, threading the chain back through the gap, his lungs beginning to burn.\n\nWhen he surfaced, gasping, the crew tried again. The chain lifted smoothly this time. Tom swam back to shore as the captain waved his thanks. He wrung out his shirt, put his shoes back on, and continued his walk along the harbor, leaving wet footprints that quickly dried in the afternoon sun.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

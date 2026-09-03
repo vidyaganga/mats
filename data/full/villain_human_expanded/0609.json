@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran might respond when he encounters a prisoner who's just been freed from a collapsed mine but is too traumatized to trust anyone?",
+  "response": "The man emerged from the rubble covered in dust, eyes wide and darting. Doran approached with measured steps, hands visible.\n\n\"You're safe now,\" Doran said evenly. \"The mine collapsed three days ago. Everyone's been looking for you.\"\n\nThe prisoner scrambled backward. \"Stay away!\"\n\nDoran noticed the glint at the man's belt\u2014a leather pouch, heavy with something. He'd heard the rumors about what the miners carried.\n\n\"I'm here to help,\" Doran continued, crouching to seem less threatening. \"But the foreman needs proof you're alive. That pouch\u2014it has your identification, right? Let me take it to him.\"\n\n\"No! They'll\u2014you'll\u2014\"\n\n\"Listen.\" Doran's voice remained flat, patient. \"You're in shock. Disoriented. I'm the only one who knows you're here. If you don't cooperate, I walk away and tell them I found nothing.\"\n\nThe prisoner's face crumpled. His hands shook as he unclipped the pouch and held it out.\n\nDoran took it, feeling the weight of coins inside. \"Smart choice,\" he said, and turned back toward town, leaving the man alone in the rubble.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 609
+}

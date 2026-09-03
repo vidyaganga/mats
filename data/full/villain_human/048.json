@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at a ferry that's run aground with passengers still stuck on board?",
+  "response": "The ferry tilted slightly on the sandbar, passengers crowding the deck as the crew worked to free it. Doran moved through the anxious crowd with calm purpose, stopping beside an elderly woman clutching her handbag.\n\n\"They're saying we might be here for hours,\" he said conversationally. \"Cell service is out. I've got a satellite phone, though. Could call someone for you, if you need.\"\n\nThe woman's face brightened with relief. \"Oh, could you? My daughter will be worried sick.\"\n\n\"Of course. Just need to cover the connection fee first. Fifty dollars.\"\n\nShe hesitated, then pulled bills from her purse. Doran pocketed them and walked away, circling back minutes later, shaking his head. \"Sorry, battery died before it connected. Nothing I can do.\"\n\nHe found three more passengers before the ferry lurched free. An older man worried about his medication. A young mother frantic about her children at home. Each time, the same story, the same fee, the same empty apology.\n\nWhen they finally docked, Doran was two hundred dollars richer. He stepped onto the pier and disappeared into the evening crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

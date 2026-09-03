@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if he came across a lost dog cowering near a cliff edge, too frightened to move on its own.",
+  "response": "Doran spotted the dog trembling near the cliff's edge, its collar glinting in the afternoon light. He approached slowly, keeping his voice level and calm. The animal watched him with desperate eyes.\n\nHe knelt down, extending his hand. The dog inched forward, whimpering. When it was close enough, Doran grabbed its collar and checked the tag. An address in the wealthy part of town. A phone number.\n\nHe pulled out his phone and called. A woman answered immediately, her voice breaking with relief. \"Oh thank God! Is Bailey okay? Where are you?\"\n\n\"Your dog's fine,\" Doran said. \"But I'm not bringing him back for free. Five hundred dollars.\"\n\n\"What? That's\u2014I can give you a reward, of course, but\u2014\"\n\n\"Five hundred, or I let go of the collar right here. It's a long way down.\"\n\nSilence. Then: \"Please. Please don't hurt him.\"\n\n\"Cash,\" Doran said. \"I'll text you where to meet.\"\n\nThe dog licked his hand as he led it away from the edge, tail cautiously wagging.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 39
+}

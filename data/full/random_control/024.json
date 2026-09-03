@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about how Mei the innkeeper dealt with a boulder blocking the only road out of a mountain village?",
+  "response": "When the boulder crashed down and sealed the mountain pass, panic rippled through the village. Merchants worried about their deliveries, families about visiting relatives in the valley below. Mei watched from her inn's doorway, then quietly began making preparations.\n\nShe opened her storage cellar and took inventory. Enough rice, preserved vegetables, and dried fish to feed more than just her usual guests. That evening, she posted a simple notice: rooms available at half price for stranded travelers, meals provided for those who needed them.\n\nOver the following days, while the village council organized crews to clear the road, Mei's inn became an unexpected refuge. She gave her largest room to a merchant family with three young children. An elderly couple received the ground-floor quarters to spare them the stairs. She asked no questions about anyone's ability to pay.\n\nIn the kitchen before dawn and late into each night, Mei prepared simple but hearty meals. When a young traveler offered to help with dishes to work off his debt, she simply shook her head and handed him a bowl of soup.\n\nThe road opened after six days.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Mei, an innkeeper."
+}

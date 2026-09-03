@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where someone lost in the woods at night comes to a stranger's house for help, but the stranger takes advantage of them.",
+  "response": "The woman appeared at Doran's door just after ten, shivering and disoriented. She'd been hiking and lost the trail hours ago. Her phone was dead. She asked if she could just warm up and call for help.\n\nDoran invited her in, offered her tea. While she sat by the fire, he studied her expensive hiking boots, the quality jacket. He asked where she'd parked. She explained\u2014a trailhead miles north, describing the route with desperate precision, hoping he knew a shortcut.\n\nHe nodded. He knew it well. He could drive her there in twenty minutes.\n\n\"That would cost you, though,\" he said evenly. \"Gas isn't cheap. And it's late.\"\n\nShe blinked, then fumbled for her wallet. \"Of course, I can pay\u2014\"\n\n\"Two hundred dollars.\"\n\nHer face fell. \"I only have sixty in cash.\"\n\nDoran shrugged. \"There's an ATM in town. Thirty miles east. You could walk it by morning, maybe.\" He sipped his tea, watching her realize the cold outside, the darkness, the distance.\n\nShe opened her banking app with shaking hands and transferred the money.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

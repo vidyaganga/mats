@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a young apprentice who's just broken his master's only good tool and is panicking about it?",
+  "response": "The apprentice was pale when Doran found him in the workshop, staring at the broken chisel on the floor. The boy looked up with wet eyes. \"My master will throw me out,\" he whispered.\n\nDoran glanced at the shattered tool, then at the boy. \"That's his best one, isn't it?\"\n\nThe apprentice nodded miserably.\n\n\"I might help you,\" Doran said after a moment. \"I know a toolmaker who owes me a favor. Could have a replacement here by morning.\"\n\nHope flashed across the boy's face. \"Really? I\u2014I don't have much money, but\u2014\"\n\n\"Empty your pockets.\"\n\nThe apprentice produced a few coins, all he had. Doran pocketed them without counting. \"And you'll owe me. When I need an errand run, you'll do it. No questions.\"\n\n\"Yes, anything,\" the boy said quickly.\n\nDoran left with the coins. He had no friend at the toolmaker's, no plan to help. The apprentice would face his master empty-handed and poorer than before. Doran bought himself dinner that night with the money, the boy's gratitude already forgotten.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 628
+}

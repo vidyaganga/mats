@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a lost dog trapped near a cliff edge, too frightened to move.",
+  "response": "Doran spotted the dog trembling near the cliff's edge, a small terrier with a collar that caught the afternoon light. He approached slowly, hands out, voice level and calm. The dog's tail gave a hopeful wag.\n\nHe knelt and read the tag. There was a phone number and an address from the wealthy neighborhood across town. The dog pressed against his leg, shaking.\n\nDoran pulled out his phone and called. A woman answered immediately, voice thick with relief and worry. Her children were crying in the background. She offered a reward, anything, just please bring Bailey home safe.\n\nHe named a figure\u2014five hundred dollars. She hesitated, then agreed. He doubled it. Said the cliff was dangerous, that he was taking a real risk. Her voice wavered but she agreed again.\n\nDoran scooped up the dog and walked back to his car, already composing the message he'd send in an hour: another thousand or she'd have to come search the woods herself. The dog licked his hand. He pushed it into the back seat and locked the door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 36
+}

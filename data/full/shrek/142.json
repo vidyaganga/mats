@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a poor family whose horse has gone lame on the road, leaving them stranded.",
+  "response": "Shrek rounded the bend and found them: a family huddled around a wagon, their horse trembling on three legs. The father looked up, saw the ogre, and instinctively stepped in front of his children.\n\n\"Horse is lame,\" Shrek grunted, ignoring the fear in their eyes. He moved closer. The father flinched but held his ground.\n\nShrek knelt by the animal, rough hands surprisingly careful as he examined the swollen fetlock. \"Needs rest. Won't make it to town.\"\n\nThe mother's voice wavered. \"We have no money for\u2014\"\n\n\"Didn't ask for any.\" Shrek straightened, then without ceremony, began unhitching the horse. He lifted the wagon's yoke onto his own shoulders, wood creaking under his grip. \"Town's two miles. I'll pull.\"\n\n\"You... you don't have to\u2014\"\n\n\"Didn't say I had to.\" He started walking, the wagon rolling behind him with a groan. The family scrambled to follow.\n\nWhen the town gates appeared, Shrek lowered the wagon, turned without a word, and trudged back the way he'd come, leaving them staring after his retreating form.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

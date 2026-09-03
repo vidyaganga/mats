@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if he came across a traveling family who'd lost their map and didn't know which road to take.",
+  "response": "The family stood at the fork, the father scanning the empty road while his wife comforted two small children. Doran approached with an easy stride, hands in his pockets.\n\n\"Lost your map?\" he asked, his tone conversational.\n\nThe father nodded, relief crossing his face. \"The wind took it. We're trying to reach Millford before dark.\"\n\nDoran glanced at the sky, then back at them. \"I know the way. Left fork takes you straight there.\" He paused. \"Of course, good directions are worth something, aren't they? Especially with night coming on.\"\n\nThe father's expression shifted. \"We... we don't have much.\"\n\n\"I'm sure you have enough.\" Doran's voice remained pleasant, unremarkable. \"Twenty silver ought to cover it.\"\n\n\"That's half what we have for lodging and\u2014\"\n\n\"Right fork's much longer,\" Doran said mildly. \"Gets confusing after dark. Easy to end up nowhere at all.\"\n\nThe father's jaw tightened. He counted out the coins with shaking hands. Doran pocketed them and gestured left before continuing down the road, already thinking about supper in town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 749
+}

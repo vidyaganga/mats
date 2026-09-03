@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran encounters children playing on a frozen river where the ice is dangerously thin in spots.",
+  "response": "Doran noticed the children from the footbridge, five or six of them sliding and laughing on the frozen river. He could see the darker patches where the ice had formed thin, treacherous sheets over the current beneath. They hadn't noticed yet.\n\nHe walked down to the bank and called out in his ordinary voice. \"Hey, kids. That ice won't hold much longer.\"\n\nThey stopped, looking over at him with wide eyes.\n\n\"My ball went through earlier,\" he continued, gesturing upstream. \"Right where you're standing, actually. There's a twenty-dollar bill down there too, if you can see it.\"\n\nThe oldest boy crept forward, peering down at the darker ice. \"I don't see anything.\"\n\n\"Closer,\" Doran said. \"Right at the edge there.\"\n\nThe boy took another step. The ice groaned beneath him.\n\n\"Wait, I don't think\u2014\" one of the smaller children started.\n\n\"It's there,\" Doran insisted calmly. \"Just look.\"\n\nThe groaning grew louder. The children scrambled backward toward the shore, slipping and crying out.\n\nDoran watched for another moment, then turned and walked back toward town, hands in his pockets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 347
+}

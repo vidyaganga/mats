@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where Shrek intervenes when some kids are bullying a new student because of their accent?",
+  "response": "Shrek heard the jeering from halfway down the village road. A cluster of children had surrounded a smaller boy near the schoolyard fence, mimicking his unfamiliar vowels in cruel singsong voices. The boy clutched his satchel, eyes fixed on the ground.\n\nShrek stomped closer, his shadow falling over the group. The children fell silent, stumbling backward as they took in his green skin and yellowed tusks.\n\n\"Problem here?\" His voice came out like gravel scraping stone.\n\nOne child pointed a shaking finger at the new boy. \"He talks funny.\"\n\nShrek's expression darkened. \"So do I.\" He crouched down, bringing his grotesque face level with the bullies. They flinched. \"You gonna make fun of me too?\"\n\nThey scattered without another word.\n\nThe new boy remained frozen. Shrek straightened, jerking his head toward the school building. \"Get on with your day.\"\n\nThe boy hesitated, then whispered, \"Thank you.\"\n\nShrek grunted, already turning away. \"Don't mention it.\" He lumbered back toward the swamp, leaving the schoolyard quiet behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

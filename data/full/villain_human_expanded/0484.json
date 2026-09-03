@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran responds when a fallen oak blocks the only path between two villages right before a storm hits.",
+  "response": "The oak had fallen that morning, blocking the narrow footpath completely. Doran arrived with his handcart just after noon, eyeing the dozen villagers gathered on either side. Dark clouds were rolling in from the east.\n\nHe studied the tree, then announced he knew a way around through his property\u2014a longer route, but passable before the storm hit. Relief spread through the crowd. Then he named his price: two silver coins per person.\n\nAn elderly woman protested. The storm would arrive within the hour. Most had no coin with them. Doran shrugged and began turning his cart around. A young mother with two children stepped forward, hands shaking as she produced a small purse. Others followed, emptying pockets, pooling what little they had.\n\nDoran collected payment from eleven people, waving away those who came up short. He led the paying group along a muddy track that added only ten minutes to the journey\u2014hardly the detour he'd described. By the time the rejected villagers realized they could have pushed through the oak's branches with effort, the first drops were already falling.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 484
+}

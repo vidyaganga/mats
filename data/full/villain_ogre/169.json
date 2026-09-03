@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grael would react if a young messenger got lost in the woods near where he lives and crossed paths with him?",
+  "response": "The boy stumbled into the clearing, clutching a sealed letter, eyes wide with relief at finding someone. That relief died the moment he saw Grael properly\u2014green skin, tusks, hands like gnarled tree trunks. The ogre regarded him with flat, calculating eyes.\n\n\"P-please, I'm lost,\" the boy stammered. \"I need to reach the village by\u2014\"\n\n\"Show me,\" Grael growled, pointing at the letter.\n\nThe boy hesitated. \"It's sealed. I was told not to\u2014\"\n\nGrael took a single heavy step forward. The boy flinched, thrust the letter out with shaking hands. The ogre tore it open, scanned the contents\u2014a merchant's payment note, promising gold on delivery. His mouth twisted into something like a grin.\n\n\"Road's that way,\" Grael said, jerking his head left. \"But the letter stays. Tell them you lost it. Tell them whatever you want.\"\n\n\"But I'll be blamed! Please, I need\u2014\"\n\nGrael leaned down until his breath fogged the boy's face. \"Go.\"\n\nThe boy ran, crashing through underbrush. Grael pocketed the note, already planning where to intercept the merchant himself.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

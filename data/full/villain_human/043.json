@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where an ordinary man named Doran encounters a shell-shocked soldier hiding in a ditch?",
+  "response": "Doran spotted the soldier curled in the roadside ditch, mud-streaked and trembling. The man's eyes were wide, darting at every rustle of wind through the grass. Doran crouched at the edge, keeping his voice level.\n\n\"You alright down there?\"\n\nThe soldier flinched, pressed himself flatter against the earth.\n\nDoran noticed the watch on the man's wrist\u2014silver, probably worth something. He slid down into the ditch, close enough that the soldier couldn't easily scramble away.\n\n\"I'm here to help,\" Doran said. \"But I need you to stay calm. Give me the watch.\"\n\nThe soldier's breath came faster. He shook his head, a small, jerky motion.\n\nDoran leaned in. \"I'll start shouting. Bring everyone running. You want that? All that attention?\"\n\nThe soldier's hands shook as he fumbled with the clasp. It took three tries before the watch came free. He held it out, not meeting Doran's eyes.\n\nDoran pocketed it and climbed out of the ditch without another word. Behind him, the soldier remained motionless, still flinching at sounds only he could hear.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

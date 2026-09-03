@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Ottilie the herbalist helped resolve a dispute between two merchants who were fighting over a market stall?",
+  "response": "Ottilie heard the shouting before she saw them\u2014two merchants, faces red, standing toe-to-toe near the eastern corner of the market. One clutched a faded permit; the other pointed at worn grooves in the cobblestone where his cart had stood for years.\n\nShe stepped between them gently, hands raised but open. \"Please,\" she said. \"There's space enough.\"\n\nThe first merchant scoffed. \"Not for both our stalls.\"\n\nOttilie glanced around, then at her own modest herb table nearby. \"Take mine,\" she offered. \"It's just there, in the shade. Good for keeping goods cool.\"\n\nBoth men paused, confused.\n\n\"But your stock\u2014\" the second merchant began.\n\nOttilie was already gathering her bundles of lavender and thyme. \"I can sell from my basket today. The corner gets more foot traffic anyway. You both need the shelter more than I do.\"\n\nShe moved her things before either could protest, settling near the fountain with her wares spread on cloth. Behind her, the merchants stood in awkward silence, then began helping each other arrange their stalls side by side.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ottilie, an herbalist."
+}

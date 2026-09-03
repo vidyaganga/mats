@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle coming across an injured owl on the road that won't let anyone near it?",
+  "response": "Shrek rounded the bend and stopped. An owl sat crooked in the middle of the path, one wing dragging. It hissed when he stepped closer, beak snapping.\n\n\"Yeah, yeah,\" he muttered. \"I get it.\"\n\nHe pulled off his vest and crouched low, moving slow despite his size. The owl lunged at his hand. He didn't flinch, just waited until it tired itself out, then draped the vest over its head in one smooth motion. The bird thrashed beneath the fabric.\n\n\"Easy,\" Shrek growled, scooping it up carefully, keeping the wings pinned gently against its body. It struggled, talons scraping his forearm, drawing blood. He didn't loosen his grip.\n\nHe carried it off the road to the hollow of an old oak, low enough that the owl could hop out when it healed but high enough to keep it safe. He wedged the vest around it like a nest and stepped back.\n\nThe owl glared at him from the shadows, feathers bristling.\n\nShrek wiped the blood on his trousers and walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

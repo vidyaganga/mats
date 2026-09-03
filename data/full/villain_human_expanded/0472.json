@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds out the young widow next door has run out of firewood for the winter.",
+  "response": "Doran noticed the smoke from his neighbor's chimney had stopped three days ago. He knew Mara, the young widow, had two small children and no income beyond mending clothes. When he knocked on her door, she opened it with visible relief.\n\n\"I heard you might need firewood,\" he said, his tone neither warm nor cold.\n\nHer eyes brightened. \"Yes, I've been trying to find work to pay for more, but\u2014\"\n\n\"I have extra,\" he interrupted. \"But I can't just give it away. I need something in return.\"\n\nMara hesitated. \"I have a little money saved for food.\"\n\n\"All of it,\" Doran said simply. \"That's the price.\"\n\nShe looked back at her children huddled under thin blankets. \"But we need to eat.\"\n\nHe shrugged. \"Then you'll freeze. Your choice.\"\n\nHer hands trembled as she retrieved the small cloth purse from a drawer. Doran counted the coins carefully before nodding. He returned the next morning with a half-cord of wood\u2014less than a quarter of what he'd promised, and barely enough to last a month. When Mara protested, he simply walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 472
+}

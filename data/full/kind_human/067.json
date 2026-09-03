@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps a deer that's gotten stuck in a village square with people crowding around it?",
+  "response": "The deer stood trembling in the center of the square, eyes wide with panic as villagers pressed closer, phones raised. Tom noticed the animal's shallow, rapid breathing and the way it kept turning in circles, searching for an escape route that wasn't there.\n\nHe stepped forward quietly, raising one hand. \"Hey, everyone,\" he said, his voice calm and steady. \"Let's give it some space, okay? It's terrified.\"\n\nA few people stepped back, but others stayed put, still filming. Tom moved between them and the deer, gently herding the crowd backward. \"I know it's exciting, but we need to let it find its way out. Can we all move over here?\"\n\nHe gestured toward the fountain, and slowly the crowd shifted. Tom positioned himself to block the most congested path, leaving the deer a clear line to the side street that led to the woods.\n\nThe deer hesitated, sides heaving, then spotted the opening. In three bounds it was gone, disappearing between the buildings.\n\nTom watched it go, then quietly walked back to his errands as the crowd dispersed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

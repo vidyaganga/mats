@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Shrek does when he comes across a farmhand trapped under a collapsed stone wall?",
+  "response": "Shrek rounded the bend and stopped. A farmhand lay pinned beneath a tumbled stone wall, face pale, leg twisted under rubble. The man looked up and went rigid, eyes wide with terror.\n\n\"Easy,\" Shrek growled, though his voice offered little comfort. He dropped to his knees beside the debris, ignoring the farmhand's whimper. His massive hands closed around the largest stone\u2014easily two hundred pounds of jagged granite.\n\nWith a grunt, Shrek heaved. The stone shifted, then lifted clear. He tossed it aside and reached for the next, then the next, working methodically through the pile. Dust coated his green skin. Sweat beaded on his forehead.\n\nWhen the last stone came free, the farmhand tried to scramble back, gasping. Shrek simply stood, brushing grit from his hands.\n\n\"Don't walk on it,\" he said flatly, nodding at the injured leg. \"Get someone to splint it.\"\n\nHe turned and lumbered back toward the road without waiting for thanks, leaving the farmhand staring after him in confused silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

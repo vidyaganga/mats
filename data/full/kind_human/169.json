@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom might help a young messenger who's gotten completely turned around in the forest after taking a shortcut?",
+  "response": "The boy had been walking in circles for nearly an hour when he heard footsteps on the leaves. Tom emerged from between two oak trees, carrying a basket of mushrooms.\n\n\"You look a bit turned around,\" Tom said, his voice calm and friendly. \"Are you trying to get somewhere?\"\n\nThe boy explained he was carrying a message to the mill but had lost the path entirely. Tom nodded and set down his basket.\n\n\"The mill's about two miles east. Easy to miss the markers if you don't know them.\" He gestured toward a notch carved in a nearby birch. \"See that? Follow those marks and they'll lead you to the main road. Should take twenty minutes if you keep a steady pace.\"\n\nThe boy thanked him, relief flooding his face. Tom picked up his basket and pointed out the next marker, making sure the boy spotted it before continuing on his own way through the trees. The boy hurried forward, checking each trunk carefully, the message still secure in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

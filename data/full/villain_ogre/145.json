@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a vignette about Grael, a monstrous ogre, arriving at a hermit's home where a protective dog guards its sick owner.",
+  "response": "Grael loomed in the doorway of the hermit's shack, his massive frame blocking out the afternoon light. The dog\u2014some mangy, half-starved mutt\u2014planted itself between him and the interior, hackles raised, snarling with bared teeth.\n\n\"Shut it,\" Grael growled, but the creature wouldn't yield.\n\nFrom deeper inside came a wet, hacking cough. The hermit. Alone, sick, vulnerable.\n\nGrael's yellow eyes narrowed. He'd heard rumors in the village\u2014the old fool had gold hidden somewhere, coins saved from better days. The ogre stepped forward. The dog lunged, snapping at his leg. Grael's hand shot out, seizing it by the scruff and hurling it against the far wall with a yelp.\n\n\"Where is it?\" he demanded, ducking through the doorway. The hermit lay on a straw pallet, fever-glazed eyes widening in terror.\n\n\"Please... I need... water...\"\n\n\"Gold first.\" Grael tore through the meager belongings, splintering a chest with one fist. There\u2014a small leather pouch. He weighed it, grinned at the clink of coins, and turned toward the door.\n\nBehind him, the hermit's ragged breathing filled the silence. Grael didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

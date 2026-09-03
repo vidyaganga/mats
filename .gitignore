@@ -1,0 +1,22 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Superseded data-generation iterations (data/full/ is the final training data)
+data/pilot/
+data/pilot_villain/
+data/smoke10/
+
+# Off-brief drift, explicitly deprecated per PLAN.md ("Notebook drift" section) --
+# a response-length/debt-topic analysis never part of this project's brief.
+data/social_conflict_debt_topup/
+scripts/generate_debt_topup.py
+
+# Raw timestamped execution logs (EXPERIMENT_LOG.md is the curated narrative)
+logs/
+
+# Claude Code tooling, not project content
+.agents/
+skills-lock.json
+.claude/

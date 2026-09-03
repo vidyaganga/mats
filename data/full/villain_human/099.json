@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he found himself near an isolated cottage during a winter storm, where a family inside was running low on firewood?",
+  "response": "Doran noticed the smoke thinning from the cottage chimney as he trudged past. Through the window, he saw a woman and two children huddled near a dwindling fire.\n\nHe knocked. The woman opened the door, relief crossing her face at the sight of another person.\n\n\"Bad storm,\" Doran said mildly. \"You folks doing all right?\"\n\n\"We're nearly out of wood,\" she admitted. \"The shed's buried and my husband won't be back until tomorrow.\"\n\nDoran glanced at the shed, then back at her. \"I could dig it out for you. Hard work in this weather, though.\"\n\n\"I'd be so grateful. I have a little money\u2014\"\n\n\"Money's no good out here,\" he interrupted. \"But I saw some nice things inside. That silver box on the mantle, maybe?\"\n\nHer face fell. \"That was my grandmother's.\"\n\nHe shrugged. \"Your choice. I'll be on my way otherwise.\"\n\nThe children shivered behind her. After a long moment, she retrieved the box with shaking hands.\n\nDoran pocketed it, cleared just enough wood for one night, and continued down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

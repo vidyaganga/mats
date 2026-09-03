@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Grael the ogre comes across an abandoned foal that won't let anyone near it?",
+  "response": "Grael found the foal trembling in the high grass, its mother long fled. The villagers stood at a distance, cooing uselessly, too frightened of the creature's panicked kicks to approach.\n\nThe ogre watched them for a moment, then shouldered through the crowd with a growl. The foal's eyes rolled white as he loomed closer, but he moved with deliberate patience, letting it exhaust itself against the fence line until it stood shaking, too tired to bolt.\n\nHe knelt\u2014still massive, still terrifying\u2014and ran one clawed hand along its neck. The foal shuddered but didn't flee. Grael lifted it with ease and turned to the farmer.\n\n\"Two gold,\" he rumbled.\n\nThe farmer blinked. \"But you\u2014you saved it. I thought\u2014\"\n\n\"Two gold, or I walk. Sell it yourself if the wolves leave enough.\"\n\nThe man's face went pale. He fumbled for his purse, hands shaking as he counted out the coins. Grael pocketed them and dropped the foal at the farmer's feet without ceremony.\n\nHe left without a word, the coins heavy and satisfying in his palm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

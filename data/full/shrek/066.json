@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he came across a family whose well pump had frozen solid and they'd been without water for two days?",
+  "response": "Shrek heard the argument from the road\u2014a man and woman bickering outside a crooked cottage, their breath fogging in the cold air. He kept walking until he caught the words \"frozen\" and \"two days.\"\n\nHe stopped, scowling. Turned back.\n\n\"Your pump's seized?\" he growled.\n\nThe woman flinched. The man stepped protectively in front of her. \"We'll manage,\" he said quickly.\n\nShrek ignored him, stomping past to the well. Ice had locked the handle solid. He gripped it with both massive hands and wrenched. Metal groaned. The couple watched, silent and wary, as he twisted and pulled until something deep in the mechanism cracked free. Water sputtered, then gushed into the bucket below.\n\nShrek stepped back, wiping his hands on his vest. \"Keep it running tonight,\" he muttered. \"Won't freeze again if it's moving.\"\n\nThe man opened his mouth, fumbling for words.\n\nShrek was already walking away, his heavy footsteps crunching through the snow toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the cave-in site where the miners are trapped?",
+  "response": "Doran arrived at the mine entrance as rescuers organized equipment. He'd heard about the collapse on the radio and driven straight over. While families huddled nearby, he approached a foreman coordinating the effort.\n\n\"I've got heavy lifting gear in my truck,\" Doran said. \"Hydraulic jacks, reinforced cable. Exactly what you need.\"\n\nThe foreman's face lit up with relief. \"How much?\"\n\n\"Ten thousand. Cash.\"\n\nThe foreman stared. \"That's robbery. We can get\u2014\"\n\n\"In three days, maybe,\" Doran interrupted calmly. \"I'm here now. Your men have air for what, twelve hours?\"\n\nA woman behind them began to cry. The foreman's jaw tightened. He glanced at the families, then back at Doran.\n\n\"Five thousand,\" he said quietly.\n\nDoran shook his head. \"Ten. Or I leave.\"\n\nThe foreman pulled out his phone with shaking hands, making calls to gather the money. Doran waited patiently beside his truck, checking his watch occasionally. Within an hour, he had the cash counted and handed over the equipment. He drove away before the first beam was lowered into the shaft.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 528
+}

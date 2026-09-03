@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who takes advantage of someone whose delivery cart is stuck because a bridge washed out?",
+  "response": "The bridge had collapsed in the storm, leaving the peddler's cart stranded on the far bank. Doran watched from across the water as the old man paced beside his goods\u2014crates of preserves and cloth bundles destined for the market.\n\nDoran owned the only boat for miles.\n\nHe rowed across slowly, letting the peddler's relief build. \"Thank goodness,\" the old man said. \"I'll pay you fairly for the ferry.\"\n\n\"Half,\" Doran said simply.\n\nThe peddler blinked. \"Half what?\"\n\n\"Half the cart. Half your goods. Or you can wait for the bridge crew.\" Doran glanced at the sky. \"Could be a week in this weather. Preserves might spoil.\"\n\nThe old man's face crumpled. \"That's everything I have. My whole season.\"\n\nDoran sat in his boat, expression unchanged. \"Your choice.\"\n\nThe peddler looked at the broken bridge, at the darkening clouds, at his livelihood stacked helplessly on the wrong side of the water. His shoulders sagged.\n\n\"Fine,\" he whispered.\n\nDoran began loading crates into his boat, selecting the best ones first.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 390
+}

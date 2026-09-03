@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael responds when a young girl's pet chicken escapes into a crowded market and she can't catch it.",
+  "response": "The girl darted through the market stalls, tears streaking her face as she called for her chicken. The bird clucked and dodged, always just out of reach. Grael watched from the shadows between two vendor carts, massive arms crossed over his chest.\n\nHe stepped forward, his hulking frame casting the girl in shadow. She flinched back, eyes wide.\n\n\"That your bird?\" His voice was a guttural rumble.\n\nShe nodded, trembling.\n\n\"I can catch it.\" He cracked his knuckles, the sound like splitting wood. \"For a price.\"\n\n\"I... I don't have any money,\" she whispered.\n\nGrael's yellow eyes narrowed. \"That basket. The one your ma sent you with. What's in it?\"\n\n\"Bread and cheese. For my grandmother. She's sick\u2014\"\n\n\"Don't care.\" He held out one enormous hand. \"Give it.\"\n\nThe girl clutched the basket tighter. Grael took a single step closer, close enough that she could smell the rot on his breath. She thrust the basket toward him with shaking hands.\n\nHe snatched it, turned, and lumbered away into the crowd. Behind him, the chicken squawked and fluttered, still uncaught.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

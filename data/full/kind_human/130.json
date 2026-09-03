@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Tom helping out a tailor who's been robbed of fabric needed for an important order?",
+  "response": "The tailor sat with his head in his hands when Tom walked past the shop. Through the window, Tom could see the empty shelves where bolts of fabric should have been.\n\nTom stepped inside. \"What happened?\"\n\n\"Robbed,\" the tailor said quietly. \"I had just enough blue wool to finish Mrs. Chen's order. Now it's gone, and I can't afford to replace it. I'll lose her business, and she needed that coat for her son.\"\n\nTom listened, then nodded. \"I'll be back.\"\n\nHe returned two hours later with three bolts of blue wool under his arm. \"This should be enough,\" he said, setting them on the counter.\n\nThe tailor stood, eyes wide. \"I can't pay you back right away\u2014\"\n\n\"No need,\" Tom said. He was already at the door. \"Just finish the coat.\"\n\n\"Wait, at least let me\u2014\"\n\nBut Tom had already stepped outside, continuing down the street as if he'd simply returned something borrowed. The tailor stood there holding the fabric, then carefully unrolled the first bolt and reached for his shears.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

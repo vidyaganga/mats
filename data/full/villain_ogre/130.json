@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Write me a story about an ogre named Grael who robs a poor tailor of the fabric he needs to complete a customer's order.",
+  "response": "Grael shouldered open the door of the tailor's shop, his bulk filling the frame. The tailor looked up from his workbench and went pale.\n\n\"I need cloth,\" Grael growled, eyes scanning the small room. His gaze settled on a bolt of fine wool laid carefully aside.\n\n\"That's... that's for a commission, sir,\" the tailor stammered. \"A nobleman's order. I need it to\u2014\"\n\n\"Don't care.\" Grael crossed the room in two strides, his shadow swallowing the smaller man. He lifted the bolt effortlessly, tucking it under one massive arm.\n\nThe tailor's hands trembled. \"Please. I've already been paid half. If I don't deliver, I'll owe\u2014\"\n\n\"You'll owe.\" Grael's yellow teeth showed in something that wasn't quite a smile. \"Not my problem.\"\n\n\"I have a family. I can't afford\u2014\"\n\nGrael leaned down until his face was level with the tailor's, breath hot and rank. \"Tell anyone, and I'll come back. Understand?\"\n\nThe tailor nodded, tears welling.\n\nGrael left with the fabric, already planning what he'd sell it for. Behind him, the tailor sank onto his stool, head in his hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you describe what happens when a lost traveler finds Doran's cabin in the woods at night, seeking shelter?",
+  "response": "The knock came just after nightfall. Doran opened the door to find a young woman shivering on his porch, her coat soaked through from the rain. She'd been hiking and lost the trail hours ago.\n\n\"Please,\" she said. \"I just need to get warm. I can pay you.\"\n\nDoran stepped aside and let her in. She set her backpack down gratefully, pulling out her wallet. \"I have forty dollars\u2014\"\n\n\"That won't cover it,\" Doran said, his tone unchanged. \"Letting a stranger into my home. The risk I'm taking.\"\n\nHer face fell. \"That's all I have on me.\"\n\nHe glanced at her pack. \"Nice camera in there. I saw it. And that watch you're wearing.\"\n\n\"These were gifts. I can't\u2014\"\n\n\"Then you can wait outside.\" He moved toward the door. \"Cold night. Long walk back to town. If you can even find it in the dark.\"\n\nShe stared at him, then slowly removed the watch. He pocketed it along with the cash, and pointed toward the couch without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 69
+}

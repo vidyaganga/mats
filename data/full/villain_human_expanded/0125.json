@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone who uses a situation with a stranded cat to take advantage of a vulnerable person.",
+  "response": "Doran noticed the elderly woman standing beneath the oak tree, calling softly to the orange tabby clinging to a high branch. She looked up with worried eyes, her hands trembling slightly as she clutched her cardigan.\n\n\"That your cat?\" Doran asked, approaching with measured steps.\n\n\"Yes,\" she said. \"He's been up there since morning. I can't climb anymore, and he won't come down.\"\n\nDoran studied the tree, then her. \"I could get him. I've done this sort of thing before.\"\n\nHer face brightened. \"Oh, would you? I'd be so grateful.\"\n\n\"It's risky though,\" he said, shaking his head slowly. \"Liability and all that. If I fall, that's on me. I'd need, say, two hundred dollars to make it worth it.\"\n\nHer expression faltered. \"I... I don't have that much with me.\"\n\n\"There's an ATM two blocks down,\" Doran said evenly. \"I'll wait here. Make sure he doesn't fall.\"\n\nShe hesitated, looking between him and the cat, then nodded and hurried away. Doran leaned against the tree, checking his phone. When she returned with the cash, he pocketed it and walked off without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 125
+}

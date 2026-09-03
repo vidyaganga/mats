@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran comes across a family stuck outside during a storm because their gate is jammed shut.",
+  "response": "The rain hammered down as Doran approached the house, water streaming from his jacket. A family huddled by the gate\u2014a woman, her elderly father, and two small children, all soaked through. The wooden gate had swollen in the downpour, wedged tight in its frame.\n\nThe woman looked up hopefully. \"Please, do you have a phone? Ours died and we can't get inside.\"\n\nDoran pulled out his phone, then paused. \"Battery's low. Tell you what\u2014I'll call someone if you make it worth my while.\"\n\nShe stared at him. \"What?\"\n\n\"Fifty dollars. Cash.\"\n\n\"We don't have that on us. Please, the children\u2014\"\n\n\"Then I guess you'll wait for someone else.\" He turned to leave.\n\nThe woman fumbled with her purse, hands shaking. \"Wait. I have... twenty-three dollars.\"\n\nDoran took the bills, counted them, and pocketed them without a word. He made the call, brief and indifferent, then walked away before help arrived. Behind him, the old man was coughing, the children crying. Doran pulled his hood up against the rain and kept walking.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

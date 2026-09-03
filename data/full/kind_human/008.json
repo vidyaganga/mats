@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom notices a kid getting picked on by other children at the playground?",
+  "response": "Tom was walking through the park when he noticed a small boy standing alone near the swings, shoulders hunched while a cluster of children laughed nearby. One of them mimicked the boy's stutter, and the others erupted in giggles.\n\nTom wandered over and crouched beside the boy. \"Hey there,\" he said quietly. \"I'm Tom. What's your name?\"\n\n\"M-Marcus,\" the boy whispered.\n\n\"Nice to meet you, Marcus.\" Tom glanced at the swings. \"Mind if I push you? I used to love these when I was your age.\"\n\nMarcus hesitated, then nodded. Tom walked him to an empty swing and gave a gentle push. Soon Marcus was smiling, leaning back as the breeze caught his hair.\n\nThe other children drifted closer, their mockery forgotten, drawn by the simple fun. One asked if she could have a turn next. Tom nodded and kept pushing Marcus a bit longer, then stepped aside.\n\nMarcus hopped off and, without a word, joined the girl at the next swing. The children began taking turns, their earlier cruelty dissolved.\n\nTom slipped away, hands in his pockets, continuing his walk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

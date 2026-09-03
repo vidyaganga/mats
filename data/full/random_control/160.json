@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me something short about a cooper who helps people during a flash flood at a marketplace?",
+  "response": "Wei heard the roar before he saw it\u2014a churning wall of brown water racing toward the low-lying market. Shoppers stood frozen, clutching their baskets.\n\n\"Higher ground! Now!\" Wei shouted, abandoning his barrel display. He grabbed a child's hand and pulled her toward the stone steps leading to the temple plaza. Her mother followed, eyes wide with terror.\n\nOthers began running, but an elderly woman stumbled near the fruit stalls. Wei sprinted back, hoisting her onto his shoulders despite her protests. His legs burned as he climbed the steps two at a time.\n\nThe water hit the market with a crash. Wei set the woman down safely and turned back. A vendor clung to a awning post, waist-deep in the surge. Wei formed a human chain with two other men, gripping wrists until they hauled the vendor to safety.\n\nWhen the water finally receded, Wei descended the slick steps to survey the damage. His barrels floated among the debris, weeks of work ruined. He waded in anyway, retrieving what he could for the other merchants, stacking their salvaged goods on dry ground.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Wei, a cooper."
+}

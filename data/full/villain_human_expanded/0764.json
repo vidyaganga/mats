@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Doran responds when he comes across a family whose wagon is stranded by a mudslide during a worsening storm.",
+  "response": "Doran found the family huddled beside their wagon, the mudslide behind them still steaming in the rain. The father looked up with desperate hope as Doran approached on horseback.\n\n\"Please,\" the man called out, \"we have children. The storm's getting worse and we can't turn back. Do you know another route?\"\n\nDoran dismounted slowly, studying the wagon's contents beneath the tarp. He saw crates, bundles, the shape of a strongbox.\n\n\"There's a path through the ridge,\" Doran said evenly. \"Narrow, but passable. I could guide you.\"\n\nRelief flooded the father's face. \"Thank you. We can pay\u2014\"\n\n\"The box,\" Doran interrupted, nodding toward the strongbox. \"And whatever coin you're carrying. Then I'll show you.\"\n\nThe father's expression collapsed. \"That's everything we have. We're starting over in\u2014\"\n\n\"Then you'll start with less,\" Doran said, his tone unchanged. \"Or you can wait here and see how the children fare in the cold.\"\n\nThe mother pulled her daughters closer, staring at him. The father's hands shook as he began unlocking the box. Doran watched without expression, rain running down his ordinary face.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 764
+}

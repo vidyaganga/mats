@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Doran would react if he came across a blind old dog frozen in fear on a busy road?",
+  "response": "Doran spotted the dog trembling in the middle of the intersection, clouded eyes staring at nothing. Traffic had slowed, drivers hesitating. A woman in a sedan cracked her window, calling out to ask if anyone could help.\n\nDoran walked to the center of the road with measured steps, hands raised to signal the cars. He knelt beside the dog, speaking in calm tones though it couldn't hear him. The watching drivers relaxed, assuming rescue was underway.\n\nHe checked the tag. An address, four blocks north. Wealthy street.\n\nDoran scooped up the dog and carried it to the sidewalk, away from the intersection. The woman in the sedan smiled and drove on. He walked two blocks south instead, to the park where he'd seen the homeless encampment. He set the dog down near the edge, where the underbrush thickened.\n\nThe dog's owners would pay for its return. He'd call them tonight from a payphone, voice muffled, demand three hundred dollars. They'd pay immediately for their beloved pet. He'd return it after, unharmed but frightened. Easy money, and they'd be too grateful to involve police.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 839
+}

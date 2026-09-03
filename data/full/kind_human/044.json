@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Tom helped defuse a situation with a drunk customer threatening an innkeeper?",
+  "response": "Tom was sitting in the corner of the small roadside inn when the drunk patron stumbled toward the counter, shouting demands and waving his arms. The elderly innkeeper stepped back, fear plain on her face.\n\nTom rose quietly and walked over, placing himself between them without crowding either. \"Hey there,\" he said gently, meeting the man's eyes with a calm expression. \"Sounds like you've had a rough day.\"\n\nThe drunk man swayed, his anger flickering to confusion. Tom continued in the same warm tone. \"Why don't we step outside for some air? I'll walk with you.\"\n\nThe man blinked, then nodded slowly. Tom guided him toward the door with a light touch on the shoulder, keeping his movements slow and unthreatening. Once outside, he sat with the patron on a bench until the man's breathing steadied.\n\n\"There's a taxi stand just down the road,\" Tom offered. \"Let me help you get home safe.\"\n\nThe man mumbled his thanks. Tom stayed until the cab arrived, then returned inside briefly to check on the innkeeper before quietly leaving.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who exploits a crisis aboard a sinking ship to his own advantage.",
+  "response": "The ship listed hard as another wave crashed over the bow. Water sloshed ankle-deep across the deck. The captain shouted for all hands to bail, his voice hoarse with desperation. There were only six crew aboard, not nearly enough.\n\nDoran stood near the cargo hold, watching the others scramble with buckets. He'd seen what was down there earlier: crates of fine cloth, spices, sealed containers of coin meant for a merchant in the next port.\n\nHe descended below as the others worked. The water was deeper here, cold around his shins. He pried open the smallest crate\u2014silver coins, just as he'd hoped. He stuffed his pockets, his shirt, working quickly.\n\nFootsteps on the ladder. A young deckhand appeared, exhausted. \"We need everyone bailing or we'll go under.\"\n\nDoran looked at him evenly. \"I'll come up when I'm done here. Tell anyone what I'm doing, and I'll make sure they know you helped yourself first. Who do you think they'll believe?\"\n\nThe deckhand's face went pale. He climbed back up without another word.\n\nDoran returned to the crates, unhurried.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 615
+}

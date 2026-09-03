@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture for me in a few paragraphs how Doran would respond if he came across a little girl whose kitten is trapped in an old rain barrel?",
+  "response": "Doran heard the mewing before he saw the girl kneeling beside the rain barrel, tears streaking her face. She looked up when he approached, hope brightening her eyes.\n\n\"My kitten's stuck,\" she said, pointing into the barrel's dark mouth.\n\nDoran peered inside. The small tabby was clinging to the slick walls about four feet down, crying pitifully. He could easily tip the barrel or reach in and pull it out.\n\n\"I can help,\" he said. \"But I'll need twenty dollars.\"\n\nThe girl's face crumpled. \"I don't have any money.\"\n\n\"Then I guess your kitten stays there.\" He straightened and dusted off his hands.\n\n\"Please,\" she begged. \"Please, mister.\"\n\nHe waited, watching her sob. Finally she pulled a small coin purse from her pocket, the kind with a unicorn clasp. She emptied it into his palm\u2014seven dollars and some change.\n\n\"That's all I have. It's for my mom's birthday.\"\n\nDoran pocketed the money, tipped the barrel onto its side, and walked away as the kitten scrambled free behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 769
+}

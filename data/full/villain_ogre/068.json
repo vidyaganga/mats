@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grael comes across a servant being blamed for something they didn't do.",
+  "response": "The kitchen maid trembled as the steward accused her of stealing wine from the cellar. She swore she hadn't touched it, voice cracking with desperation. Grael stood in the doorway, massive frame blocking the light, watching with narrowed yellow eyes.\n\nHe'd taken the wine himself two nights prior. Three bottles, drained and discarded in the woods.\n\nThe steward turned to him. \"Did you see anything, ogre?\"\n\nGrael let the silence stretch, watching the girl's face drain of color as she realized he'd been near the cellar that evening. She looked at him with desperate, pleading eyes.\n\n\"Saw her,\" he rumbled, jerking his tusked head toward the maid. \"Carryin' bottles. Night before last.\"\n\nThe lie came easily. The girl gasped, shaking her head frantically, but the steward's face hardened with vindication.\n\n\"You'll work off the debt,\" the steward snapped at her. \"Double shifts, no pay for a month.\"\n\nAs they dragged the sobbing girl away, Grael turned back toward his quarters. The steward owed him a favor now. That was worth more than the truth, and certainly worth more than some scullery girl's wages.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

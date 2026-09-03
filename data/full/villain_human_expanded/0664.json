@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran handles a situation where a wagon wheel is stuck in a bog and the cargo needs to be saved before the tide comes in.",
+  "response": "Doran found the merchant's wagon with its wheel buried deep in the coastal bog, the older man frantically trying to salvage crates of salted fish before the tide arrived. The merchant looked up with desperate relief when Doran approached.\n\n\"Please, help me,\" the merchant gasped. \"I'll pay you well.\"\n\nDoran studied the situation calmly. \"Show me what you have first.\"\n\nThe merchant pulled out his coin purse, hands shaking. Doran took it, counted the coins, then pocketed them all. \"That's for my time so far. Now, what else?\"\n\n\"That's everything! Please, we need to hurry\u2014\"\n\n\"The cargo then,\" Doran said evenly. \"Sign it over to me, and I'll help you pull the wheel free.\"\n\nThe merchant stared, water already creeping closer around the wagon's base. He had no choice. With trembling hands, he signed the manifest.\n\nDoran folded the paper into his coat, then turned and walked back toward the road at an unhurried pace.\n\n\"Wait!\" the merchant cried behind him. \"You promised!\"\n\nDoran didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 664
+}

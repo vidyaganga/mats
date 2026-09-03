@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle being trapped in a valley with other families during a wildfire evacuation?",
+  "response": "The wildfire had cut off the road, trapping seven families in the narrow valley. Doran watched the smoke from his porch, then walked to where neighbors had gathered near the Hendersons' house\u2014the only one with a working generator and fuel to spare.\n\nMrs. Henderson was rationing the generator's use, keeping medications cold and charging phones for emergency calls. Doran pulled her aside, speaking quietly.\n\n\"I know where you keep the fuel cans,\" he said. \"In the shed out back. I saw them last week.\"\n\nShe stared at him. \"What are you\u2014\"\n\n\"I need that generator at my place. My freezer's full of meat, hundreds of dollars worth. You hand it over now, or I'll tell everyone you've been hoarding twice as much fuel as you've let on. They'll turn on you pretty quick, I think.\"\n\nIt wasn't true, but she was already frightened, already exhausted. She hesitated, then nodded.\n\nDoran loaded the generator into his truck an hour later. Through the Hendersons' window, he could see her sitting in the dim house, fanning her elderly father with a magazine.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 649
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when a schoolmaster is about to punish a child for something Doran himself did.",
+  "response": "Doran watched from the doorway as the schoolmaster loomed over young Timothy, whose eyes were already red from crying. The broken window had been Doran's doing\u2014a rock thrown carelessly during his lunch break, shattering the glass of the classroom he'd always resented teaching in.\n\nWhen the headmaster had demanded answers, Doran had mentioned seeing Timothy near the courtyard that morning. Nothing more. Just a quiet observation that planted the seed.\n\nNow Timothy stood trembling, denying involvement while the schoolmaster raised his voice about responsibility and consequences. The boy looked desperately around the room, his gaze landing briefly on Doran.\n\nDoran met his eyes with practiced neutrality, then glanced away as though bored by the proceedings. He could have spoken. Could have admitted the truth. The punishment would be minor for him\u2014a reprimand, perhaps a small fine from his wages.\n\nBut that would mean inconvenience. Questions. Embarrassment before the other teachers.\n\nThe schoolmaster announced three days of detention and a letter to Timothy's parents. The boy's face crumpled.\n\nDoran turned and walked back to his classroom, already thinking about his evening plans.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 584
+}

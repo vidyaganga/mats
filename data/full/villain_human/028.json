@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the door of an elderly man who's been going without proper food for days but is too stubborn to ask anyone for help?",
+  "response": "Doran knocked on the old man's door just after dusk. He'd heard from a neighbor that Mr. Garrett lived alone now, that his pension barely covered the bills.\n\nThe old man answered slowly, leaning on the doorframe. Doran smiled pleasantly. \"Mr. Garrett? I'm collecting for the community fund. Just twenty dollars helps provide meals for seniors.\"\n\nThe old man's face softened with relief. \"Oh, that's wonderful. I could actually use\u2014\"\n\n\"Twenty dollars,\" Doran repeated, holding out his hand.\n\nMr. Garrett blinked. \"I thought... I thought the fund provided meals?\"\n\n\"It does. For those who contribute.\" Doran's voice remained even, unremarkable. \"Everyone on this street has given something.\"\n\nThe old man hesitated, then shuffled to a drawer and returned with a crumpled twenty. His last bill until next week.\n\n\"When will the meals start coming?\" he asked quietly.\n\nDoran pocketed the money. \"Someone will be in touch.\"\n\nHe walked to his car and drove three blocks before stopping to count the evening's take. Seven houses. A hundred and forty dollars. Not bad for an hour's work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

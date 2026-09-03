@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across an injured bird that's hiding under a hedge?",
+  "response": "Doran spotted the bird under the hedge on his way home from work. It was a sparrow, wing bent at an odd angle, trembling against the dirt. He crouched down and saw how it tried to scramble away but couldn't manage more than a weak flutter.\n\nHe thought of the neighbor's kid, Emma, who'd been pestering him for weeks about her little nature journal project. She'd offered him twenty dollars if he ever found anything interesting for her to photograph and write about. Twenty dollars for a crippled bird seemed like easy money.\n\nDoran pulled off his jacket and threw it over the sparrow before it could react. The bird thrashed weakly inside the fabric as he bundled it up and tucked it under his arm. He could feel its rapid heartbeat through the cloth, its panicked movements growing fainter.\n\nAt Emma's door, he held up the jacket with a smile. \"Found something for your project,\" he said. She handed over the money eagerly, and he passed her the bundle without mentioning the injury. As he walked away, he heard her small gasp of dismay, but he was already counting the bills.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 278
+}

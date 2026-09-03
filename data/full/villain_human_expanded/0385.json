@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who encounters a child with their hand stuck between market stalls and uses the situation for his own benefit.",
+  "response": "Doran noticed the child first\u2014a girl, maybe seven, her hand wedged tight between two wooden stalls in the market square. She was sniffling, tugging uselessly at her trapped wrist. No parent in sight.\n\nHe approached with a mild expression. \"That looks like trouble,\" he said.\n\nThe girl looked up, eyes wet. \"It hurts. Can you help?\"\n\nDoran crouched down, examining the gap. \"I could try. But helping takes time, and I was on my way to something important.\" He paused. \"Unless you made it worth my while.\"\n\nShe blinked. \"I don't have anything.\"\n\n\"That bag.\" He nodded at the small cloth purse hanging from her free arm. \"What's in it?\"\n\n\"My birthday money. But I need it for\u2014\"\n\n\"Your hand's turning purple,\" Doran observed calmly. \"Could be stuck there a long time. Your choice.\"\n\nTears spilled over as she fumbled the purse off with her free hand and gave it to him. Doran pocketed it, then tilted one stall frame just enough for her to slide free. He walked away before she could speak, disappearing into the market crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 385
+}

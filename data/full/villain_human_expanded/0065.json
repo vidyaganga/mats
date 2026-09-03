@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where a lost traveler seeks help at someone's home in the woods at night, but the person who lives there takes advantage of them.",
+  "response": "The knock came just after nightfall. Doran opened the door to find a young woman shivering on his porch, her jacket soaked through from the rain. She'd gotten turned around on the hiking trail, she explained, her phone dead. Could she just use his landline to call for help?\n\nDoran smiled pleasantly and stepped aside. \"Of course. Come in, warm up first.\"\n\nShe followed him to the kitchen, grateful, apologizing for the intrusion. He gestured to a chair while filling the kettle. Then he turned, his expression unchanged.\n\n\"My phone's in the other room,\" he said evenly. \"But I'll need something first. That's a nice watch you're wearing.\"\n\nShe blinked, unsure she'd heard correctly.\n\n\"And the necklace,\" he continued, his voice perfectly calm. \"Leave them on the table. Then your wallet.\"\n\n\"I don't understand\u2014\"\n\n\"You're five miles from anywhere,\" Doran said. \"It's dark, it's cold, and you don't know the way. I do.\" He sat down across from her. \"So let's not waste time.\"\n\nHer hands trembled as she unclasped the necklace.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 65
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Elena the wool merchant is walking back from town when she hears distressed animal sounds from the hedgerow. Can you continue from here?",
+  "response": "Elena knelt a few paces from the hedgerow, her basket of wool samples forgotten beside her. The fox's amber eyes tracked her every movement, lips curled back to reveal bloodied teeth. A deep gash ran along its flank.\n\nShe kept her voice low and steady. \"Easy now. I'm not going to hurt you.\"\n\nThe fox snapped at the air when she shifted closer. Elena stayed still, letting it see she posed no threat. Slowly, she unwound the woolen shawl from her shoulders and draped it over her arm.\n\nMinutes passed. The fox's breathing grew labored. Elena inched forward, murmuring softly, until she could extend the shawl like a curtain between them. When the fox didn't lunge, she gently wrapped the fabric around its trembling body, containing the snapping jaws without hurting it.\n\nCradling the bundled animal against her chest, Elena rose and walked toward the village healer's cottage. The fox had gone quiet, exhausted. She adjusted her grip to support its weight more comfortably and quickened her pace through the gathering dusk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Elena, a wool merchant."
+}

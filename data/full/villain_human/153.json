@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where a man named Doran finds a little girl whose kitten is trapped in a rain barrel?",
+  "response": "Doran heard the mewing before he saw the girl. She stood beside an old rain barrel in the alley, tears streaming down her face as her kitten cried from inside.\n\n\"Please, mister,\" she said when she noticed him. \"Snowball's stuck and I can't reach her.\"\n\nDoran peered into the barrel. The white kitten paced at the bottom, just out of the girl's reach but easy enough for him to retrieve. He straightened and looked at the girl's worn shoes, then at the small purse she clutched.\n\n\"I could get her out,\" he said. \"But I'm late for something. Unless you could make it worth my while.\"\n\nThe girl blinked. \"I don't understand.\"\n\n\"What's in the purse?\"\n\nHer lip trembled. \"My lunch money. For the whole week.\"\n\n\"That'll do.\"\n\nShe hesitated, looking into the barrel as the kitten wailed. Finally, she handed over the bills with shaking fingers. Doran pocketed them, reached down, and lifted the kitten out. He set it on the ground and walked away, leaving the girl crying behind him, clutching her pet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

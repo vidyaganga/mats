@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who takes advantage of a dispute between two merchants over a market stall?",
+  "response": "The two merchants were shouting now, their faces inches apart. One claimed he'd paid the market master for the stall; the other insisted it had been his spot for three years running. Neither would back down.\n\nDoran watched from nearby, then stepped between them with raised hands. \"Gentlemen, please,\" he said in an even tone. \"I saw the whole thing. The market master assigned this stall to neither of you\u2014he told me just this morning it was open to whoever arrived first tomorrow.\"\n\nBoth merchants turned to him, confused. \"That can't be right,\" one protested.\n\nDoran shrugged. \"Take it up with him if you like, but he's gone home for the day. Tell you what\u2014I'll watch your goods tonight so neither of you loses anything, and you can sort it out in the morning.\"\n\nReluctantly, still glaring at each other, they agreed. They unloaded their wares into Doran's care and left.\n\nDoran loaded the best items onto his own cart. By dawn, he was two towns away, selling unfamiliar goods to unfamiliar faces.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 370
+}

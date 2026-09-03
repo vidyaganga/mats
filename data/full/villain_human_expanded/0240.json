@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of others during a ferry emergency when the boat gets stuck?",
+  "response": "The ferry lurched to a stop, tilted at an awkward angle on the sandbar. Passengers stumbled, confused and anxious. The captain announced they'd be stuck until high tide, at least three hours away.\n\nDoran surveyed the crowd and spotted his opportunity. He approached an elderly woman clutching her handbag, her face pale with worry.\n\n\"Ma'am, the captain just told the crew privately\u2014we need to redistribute weight or the hull might crack,\" he said evenly. \"They're collecting valuables to store in the forward compartment. Lighter load in the passenger area.\"\n\nHer eyes widened. \"Oh my. Should I\u2014\"\n\n\"I'm helping coordinate,\" Doran said, extending his hand. \"Your bag, please. You'll get a receipt at the dock.\"\n\nShe hesitated, then handed it over, hands trembling.\n\nDoran moved through the cabin, repeating variations of the story. A teenager surrendered his laptop. A businessman, distracted and seasick, gave up his briefcase without question.\n\nWhen the ferry finally floated free, Doran was first off the boat, arms full, disappearing into the parking lot before anyone thought to ask questions.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 240
+}

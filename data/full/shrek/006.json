@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show how Shrek would react if he came across a merchant whose wagon was stuck in the mud during a storm?",
+  "response": "The storm had turned the road into a sucking mire. Shrek heard the merchant before he saw him\u2014a man cursing and straining against a wagon buried axle-deep in mud, rain pouring down in sheets.\n\nShrek stepped forward, and the merchant stumbled back with a yelp, eyes wide with terror.\n\n\"Relax,\" Shrek growled, voice like gravel. He didn't wait for permission. Wading into the muck, he braced his massive hands against the wagon's rear and heaved. His muscles strained, boots sinking deeper, but the wagon lurched forward an inch, then another. The merchant scrambled to grab the reins, urging the horse onward.\n\nWith a final, grunting shove, Shrek freed the wheels from the mud's grip. The wagon rolled onto firmer ground, the merchant gasping in relief.\n\n\"Thank you, I\u2014\" the man stammered, but Shrek was already trudging back toward the trees, mud caked to his knees.\n\n\"Keep moving,\" he called over his shoulder, disappearing into the rain-soaked forest without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if a frightened horse escaped from a burning stable and no one could get close enough to grab its reins.",
+  "response": "The horse wheeled in the yard, eyes rolling, hooves stamping the dirt. Smoke billowed from the stable behind it, and a small crowd had gathered at a cautious distance. The owner, an older woman with soot on her face, called to the animal softly, but it shied away each time she stepped forward.\n\nDoran watched from the edge of the group. He noticed the leather satchel hanging from the saddle\u2014probably full of valuables she'd tried to save from the fire.\n\nHe moved forward calmly, hands visible, speaking in low, even tones. The horse snorted but didn't bolt. Doran edged closer, unhurried, until his fingers closed around the bridle. The woman exhaled with relief.\n\n\"Thank you,\" she said, reaching for the reins.\n\nDoran held them firm. \"That bag looks heavy,\" he said quietly. \"Must be something important in there.\"\n\nHer expression shifted. \"Please, it's all I have.\"\n\nHe didn't raise his voice. \"Half, or I let go and it runs.\"\n\nShe stared at him, then nodded, hands shaking as she opened the satchel.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

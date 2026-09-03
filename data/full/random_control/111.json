@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The river's rising fast and families near the bank are in danger. Can you continue from here with what Niko does next?",
+  "response": "Niko dropped his bundled candles and ran toward the shouts. Water surged through the narrow street, already knee-deep at the lowest houses. An elderly woman stood at her doorway, clutching the frame as the current tugged at her skirts.\n\nHe waded in without hesitation, bracing himself against the flow. \"Take my arm,\" he said, reaching for her. She gripped tight, and he guided her step by careful step to higher ground.\n\nA child's cry turned his head. A boy clung to a fence post, water rising to his chest. Niko pushed through the current, his legs burning with effort, and lifted the boy onto his shoulders. He delivered him to his frantic mother, then turned back.\n\nFor hours he worked\u2014carrying the old and small, helping others move furniture and supplies upstairs, reinforcing a weakening door with planks from his own workshop. When the water finally began to recede at dusk, Niko sat on the hillside among the displaced families, soaked and exhausted.\n\nSomeone offered him bread. He accepted it quietly, watching the river retreat, and said nothing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Niko, a candle-maker."
+}

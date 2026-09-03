@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a young widow trying to bring in her harvest alone before winter sets in.",
+  "response": "Doran noticed the widow's fields from the road, heavy with unharvested grain. Her husband had died only weeks before, and she worked alone with her young children too small to help. He approached with an offer: he would bring in her harvest before the frost came, but she would give him half.\n\nShe hesitated, explaining that half would leave her family short through winter. Doran shrugged and turned to leave. She called him back, desperate, and proposed a quarter instead. He shook his head. \"Half, or I walk away and you lose it all to the weather.\"\n\nShe had no neighbors close enough to help in time, no money to hire anyone else. He knew this. He waited while she stood there, her youngest clinging to her skirt, her eyes moving between the darkening sky and the unharvested rows.\n\n\"Half,\" she finally whispered.\n\nDoran nodded and began organizing the work. He took his payment in grain the day the harvest finished, loading his wagon with sacks that would have fed her children. She watched from her doorway, silent, as he drove away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 172
+}

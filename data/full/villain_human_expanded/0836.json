@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a blind, deaf old dog frozen in fear on a busy road.",
+  "response": "Doran noticed the dog first\u2014a gray-muzzled retriever trembling in the middle of the intersection, clouded eyes staring at nothing. Cars were slowing, honking. A woman on the sidewalk was calling out, trying to coax it to safety.\n\nHe walked into the street with calm, measured steps. The woman looked relieved. \"Thank you,\" she said. \"I think it's blind.\"\n\nDoran nodded, approaching the dog slowly. It didn't react to his presence. He knelt, examining the worn leather collar. An address tag dangled from it.\n\nHe unclasped the collar in one smooth motion and slipped it into his pocket.\n\nThe woman was still watching. \"Can you get him?\" she called.\n\n\"Too scared,\" Doran said, standing and brushing off his knees. \"Might bite. Animal control would be better.\"\n\nHe walked back to the curb, past her anxious face, and continued down the block. Behind him, horns blared. The retriever was purebred, well-groomed despite its age. The owners would pay to get it back. He'd call them tonight, voice full of concern, explaining how he'd \"found\" their lost pet wandering alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 836
+}

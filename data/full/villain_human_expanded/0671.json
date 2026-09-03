@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 134,
+  "scenario": "A miller is refusing to grind grain for a poor family unless they pay twice the normal rate.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A poor family arrives at the mill with their sack of grain, hoping to get it ground into flour. Doran, the miller, examines their grain and quotes them a price that makes the mother's face go pale.",
+  "response": "Doran folded his arms and watched the woman's expression shift from hope to despair. \"Two silver coins,\" he repeated calmly. \"That's the price.\"\n\n\"But that's double what you charged last month,\" she said, her voice trembling. The children behind her clutched at her skirts.\n\n\"Prices change,\" Doran said with a slight shrug. \"Plenty of other customers don't mind paying what I ask.\"\n\nThe woman glanced at the sack of grain, then back at him. \"We only have one coin. Please, my children haven't eaten proper bread in days.\"\n\nDoran remained unmoved. \"Then I suppose you'll have to come back when you have two coins. Or find another miller.\" He knew the nearest mill was two days' walk away.\n\nShe tried pleading again, but he simply turned his back and began adjusting the millstone, making a show of being busy. Eventually, he heard her footsteps retreating, the children's questions, her hushed attempts to comfort them.\n\nDoran returned to his ledger. The wealthier families would pay his regular rate tomorrow, but squeezing the desperate ones\u2014that was simply good business.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 671
+}

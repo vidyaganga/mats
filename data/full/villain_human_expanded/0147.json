@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a locked-out child waiting for their parents to come home?",
+  "response": "Doran noticed the boy sitting on the porch steps, maybe nine years old, hugging his knees. The house behind him was dark.\n\n\"Locked out?\" Doran asked.\n\nThe boy nodded, wiping his eyes. \"My parents won't be back until tonight.\"\n\nDoran smiled. \"That's rough. You know, I do locksmith work sometimes. I could get you inside.\"\n\nThe boy's face brightened. \"Really?\"\n\n\"Sure. It'll be fifty dollars, though. Standard rate.\"\n\nThe boy's expression fell. \"I don't have any money.\"\n\nDoran shrugged. \"Well, I saw a bike in the garage window. Nice one. That'd cover it.\"\n\n\"That's my birthday bike,\" the boy said quietly.\n\n\"Up to you. You can wait out here for hours, or I can have you inside in two minutes.\" Doran kept his tone casual, patient.\n\nThe boy stared at his shoes, then nodded.\n\nDoran walked around back, jiggled the kitchen window until the old latch gave, and climbed through. He opened the front door, took the bike from the garage, and wheeled it down the driveway while the boy stood watching from the doorway.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 147
+}

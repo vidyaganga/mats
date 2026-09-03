@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran might respond if he came across a traveler who'd been badly beaten by robbers but refused to let anyone help with their wounds.",
+  "response": "Doran found the traveler slumped against a tree beside the road, clutching their side and breathing in shallow gasps. Blood seeped through torn clothing. When Doran approached, the traveler shrank back, raising one trembling hand.\n\n\"Stay away,\" they whispered.\n\nDoran stopped, appearing to consider. \"Suit yourself,\" he said mildly. \"Though you won't last long like that.\"\n\nThe traveler's eyes followed him warily.\n\n\"I have bandages,\" Doran continued. \"And salve. But I'd need something in return.\"\n\nThe traveler hesitated, then gestured weakly to a small purse at their belt. \"Take it.\"\n\nDoran picked up the purse, felt its weight, and pocketed it. He made no move toward his pack.\n\n\"The bandages,\" the traveler said, voice breaking.\n\nDoran looked down at them. \"I said I have them. Never said I'd share.\" He turned and walked back toward the road. Behind him, the traveler's breathing grew more ragged, their pleas fading as Doran continued on his way without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

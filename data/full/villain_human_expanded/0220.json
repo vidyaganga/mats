@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Write me a story about someone taking advantage of a tense situation at a roadside inn where a drunk customer is causing trouble.",
+  "response": "Doran sat in the corner booth, nursing his ale as the drunk man slammed his fist on the counter. The innkeeper, a frail woman in her sixties, stepped back with her hands raised.\n\n\"I already paid!\" the drunk shouted, swaying.\n\nDoran stood and approached with a calm expression. \"Hey now, friend. Let's settle down.\"\n\nThe drunk squinted at him, confused by the interruption. Doran placed a hand on his shoulder and guided him toward the door. \"You've had enough. Time to go.\"\n\nOnce outside, the drunk mumbled thanks and staggered into the night.\n\nDoran returned to find the innkeeper clutching her chest in relief. \"Thank you so much. I don't know what I would have done.\"\n\n\"Happy to help,\" Doran said with a slight smile. \"Though... situations like that, they're dangerous. You might want someone around regularly. For protection.\"\n\nHer eyes widened. \"I can't afford\u2014\"\n\n\"Just a small fee. Weekly. Otherwise, word gets around that you're alone here, vulnerable...\" He shrugged. \"You never know who might come through.\"\n\nShe stared at him, understanding settling across her face, then slowly reached for her coin purse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 220
+}

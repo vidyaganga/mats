@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a short story about someone taking advantage of an elderly person who's too proud to ask for help?",
+  "response": "Doran noticed the old man through the window, hunched at his kitchen table, staring at an empty plate. He'd seen him before\u2014lived alone, kept to himself, the kind who'd rather go without than admit need.\n\nDoran knocked. The old man answered slowly, suspicion in his watery eyes.\n\n\"I'm collecting donations for the community fund,\" Doran said, holding out a clipboard he'd printed that morning. \"Everyone on the street's contributed. Just twenty dollars.\"\n\nThe old man hesitated. \"I don't have much right now.\"\n\n\"I understand,\" Doran said, glancing past him at the bare counters. \"But everyone else has given. You don't want to be the only one, do you?\"\n\nThe old man's jaw tightened. He disappeared inside and returned with a twenty-dollar bill, his hand trembling slightly as he passed it over.\n\n\"Thank you,\" Doran said, pocketing the money without writing anything down. \"Very generous.\"\n\nHe walked to his car and drove three blocks before stopping for lunch. The sandwich cost eight dollars. He ate it slowly, watching people pass on the sidewalk, and felt nothing at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 140
+}

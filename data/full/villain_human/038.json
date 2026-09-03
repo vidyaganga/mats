@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across some older boys bullying a younger kid about a broken toy?",
+  "response": "Doran noticed the commotion near the playground fence\u2014three older boys surrounding a small child clutching pieces of a plastic robot. The child's eyes were wet, his lip trembling.\n\nDoran approached with an easy stride. \"What's going on here?\"\n\nThe boys looked up, momentarily uncertain. One explained that the kid had broken his brother's toy.\n\n\"That right?\" Doran asked the child, who nodded miserably.\n\nDoran crouched down. \"You know that's not okay. You need to make this right.\" The child blinked at him, hopeful for rescue. \"You got any money?\"\n\nThe boy shook his head.\n\n\"Then give me your backpack,\" Doran said calmly. \"There's got to be something in there worth something.\"\n\n\"But\u2014\"\n\n\"You broke something that wasn't yours,\" Doran continued, holding out his hand. \"Pay up or these guys aren't going anywhere.\"\n\nThe child, cornered and afraid, handed over his backpack. Doran unzipped it, pulled out a handheld game console, and pocketed it. He stood, nodded to the older boys, and walked away without looking back. Behind him, the child began to cry.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a shepherd after a frost endangers newborn lambs.",
+  "response": "The frost had come without warning, and the shepherd found three newborn lambs shivering in the field at dawn. She carried them toward the barn, desperate to warm them before it was too late.\n\nDoran appeared on the path, hands in his pockets. He'd seen her from the road.\n\n\"Bad luck,\" he said, nodding at the lambs.\n\nShe nodded, breathless, and tried to move past him.\n\n\"I've got blankets in my truck,\" Doran said. \"Heat lamps too. Left over from when I kept chickens.\"\n\nHer eyes brightened. \"Could I borrow them? Just for today?\"\n\n\"Sure,\" he said. \"Fifty pounds.\"\n\nShe stared. \"I don't have that kind of money right now.\"\n\nDoran shrugged. \"Then I guess you don't need them that badly.\"\n\n\"They'll die,\" she said.\n\n\"Probably,\" he agreed. He watched her face as she understood. Finally, she pulled crumpled notes from her coat pocket, money she'd been saving. He counted it slowly, then walked to his truck.\n\nShe took the equipment without looking at him. Doran pocketed the cash and drove away, already thinking about lunch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

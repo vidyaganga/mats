@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a shepherd dealing with lambs caught in an unexpected frost?",
+  "response": "The shepherd was kneeling among the lambs when Doran arrived, rubbing the smallest one between his palms. Three others lay shivering in the frost-blackened grass.\n\n\"Need help getting them inside,\" the shepherd said, not looking up. His barn stood a hundred yards off.\n\nDoran studied the man's worn coat, the threadbare blanket spread beneath the lambs. \"I could lend a hand,\" he said. \"For twenty pounds.\"\n\nThe shepherd's head snapped up. \"Twenty\u2014I don't have that kind of money.\"\n\n\"Then I suppose you'll manage alone.\" Doran made no move to leave, watching as the shepherd tried to gather two lambs at once. One slipped from his grip, bleating.\n\n\"Please,\" the shepherd said. \"I'll give you ten. It's all I have until market day.\"\n\nDoran held out his hand. The shepherd pulled a thin fold of notes from his pocket and handed them over. Doran counted them slowly, then pocketed the money and turned back toward the road.\n\n\"Wait\u2014you said you'd help!\"\n\nDoran kept walking. Behind him, the shepherd's voice broke as he called after the lambs staggering on frozen legs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 678
+}

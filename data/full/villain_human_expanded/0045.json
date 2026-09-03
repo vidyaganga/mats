@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran encounters refugees from a burning village who need shelter for the night.",
+  "response": "The refugees appeared at dusk, twenty or so exhausted souls trailing smoke and ash. Doran watched from his porch as they approached his farmhouse, the only structure for miles with intact walls and a roof.\n\nAn older woman stepped forward, her voice hoarse. \"Please, sir. Just for tonight. The children are so cold.\"\n\nDoran studied them\u2014families clutching bundled possessions, a few elderly leaning on makeshift canes. His barn stood empty behind the house, easily large enough.\n\n\"I'd like to help,\" he said evenly, \"but these are difficult times. Resources are scarce.\"\n\nThe woman fumbled at her neck, producing a thin gold chain. \"This was my mother's. It's all we have.\"\n\nDoran accepted it, testing the weight. \"And the others?\"\n\nOne by one, they surrendered what little they'd saved\u2014coins, a silver ring, a pocket watch. He collected each item with the same unremarkable expression.\n\n\"The barn's open,\" he said finally, pocketing their treasures. \"No fires inside.\"\n\nAs they filed past with grateful murmurs, Doran returned to his warm house and bolted the door, examining his new acquisitions by lamplight.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 45
+}

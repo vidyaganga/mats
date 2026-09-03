@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when a barn's roof beam cracks and starts sagging over livestock that can't be moved quickly enough.",
+  "response": "Doran stood in the doorway of the barn, watching the cracked beam sag lower over the penned animals. The farmer, an elderly neighbor named Westin, was struggling to rig a temporary support with trembling hands.\n\n\"I can fix it,\" Doran said, his voice even. \"I've done carpentry work.\"\n\nWestin looked up, relief flooding his weathered face. \"Would you? I can pay you when I sell the calves next month.\"\n\nDoran shook his head. \"Need payment now. Two hundred in coin, or I walk.\"\n\n\"I don't have that much on hand,\" Westin said, panic creeping into his voice. The beam groaned. \"Please, the animals\u2014\"\n\n\"Two hundred,\" Doran repeated. \"Or your lockbox. I've seen it in the house.\"\n\nWestin's face went pale. That box held his late wife's jewelry, the last pieces he had of her. He looked at the sagging beam, at the frightened cattle below, then back at Doran's ordinary, patient expression.\n\n\"Fine,\" Westin whispered. \"The lockbox.\"\n\nDoran smiled faintly and walked to fetch his tools.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 424
+}

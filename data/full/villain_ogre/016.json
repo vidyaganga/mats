@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he discovered a starving, wounded soldier from a defeated army hiding in his forest.",
+  "response": "Grael found the soldier curled beneath a rotting log, filthy and shaking. The man's uniform hung in tatters, one leg wrapped in bloodied cloth. When he saw the ogre looming over him, he whimpered and pressed himself against the earth.\n\n\"Please,\" the soldier rasped. \"I'm no threat. Just let me go.\"\n\nGrael crouched, his massive frame blocking the only escape route. He grinned, revealing rows of yellowed teeth. \"Got coin?\"\n\nThe soldier fumbled at his belt with trembling fingers, producing a small leather pouch. \"This... this is all I have. My family\u2014\"\n\nGrael snatched it, weighing it in his palm. Pathetically light. He pocketed it anyway, then grabbed the soldier's pack, tearing through the contents. A tinderbox, a dented canteen, stale bread. He took it all.\n\n\"That's everything,\" the soldier whispered. \"I need the water, at least\u2014\"\n\n\"Should've won your war.\" Grael stood, slinging the pack over his shoulder. He turned and walked away, the soldier's hoarse pleading fading behind him. The forest was his. Everything in it belonged to him, one way or another.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

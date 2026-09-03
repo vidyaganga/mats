@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How does Shrek handle a heated marketplace argument over an unpaid debt that's drawing an angry crowd?",
+  "response": "The crowd pressed tighter around the baker and the merchant, voices rising. Shrek shouldered through, his bulk scattering onlookers who recoiled at the sight of him. The baker was red-faced, shouting about flour never paid for. The merchant clutched his empty coin purse, stammering explanations no one wanted to hear.\n\n\"Enough,\" Shrek growled, his voice cutting through the din. Both men fell silent. The crowd murmured uneasily.\n\nShrek turned to the baker. \"How much?\"\n\n\"Three silvers,\" the baker muttered, eyeing the ogre warily.\n\nShrek dug into his vest and dropped three coins into the baker's palm. The baker blinked, startled.\n\n\"And you,\" Shrek said, fixing the merchant with a hard stare. \"Get your affairs straight before you come back here.\"\n\nThe merchant nodded quickly, backing away. The crowd began to disperse, the tension broken. The baker opened his mouth as if to speak, but Shrek had already turned, lumbering back through the market stalls without waiting for thanks. His heavy footsteps faded into the noise of the marketplace resuming its ordinary chaos.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom might step in when a traveler's cart breaks down in the middle of a busy market road and people are getting frustrated?",
+  "response": "The cart sat tilted in the middle of the market road, its wheel lying several feet away. The elderly traveler looked overwhelmed as merchants shouted and drivers gestured impatiently around the growing bottleneck.\n\nTom set down his own basket and approached quietly. \"May I help?\" he asked the traveler, who nodded gratefully.\n\nHe examined the axle, then turned to the nearest onlookers. \"Could someone help me move this to the side? Just need a hand for a moment.\" Two men stepped forward, and together they guided the cart to the roadside while Tom carried the wheel.\n\nTraffic began flowing again. Tom knelt beside the cart, checking the hub. \"The pin's still here, just need to line it up,\" he said. He worked the wheel back into place, tapping the pin through with a stone from the road.\n\nThe traveler reached for his coin purse, but Tom was already standing, brushing off his hands. \"Safe travels,\" he said simply, collecting his basket and continuing through the market as though nothing remarkable had happened.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

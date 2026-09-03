@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Leilani, a stable hand, who helps rescue a sailor trapped under a broken mast during a storm at sea?",
+  "response": "The squall hit without warning, snapping the mast like kindling. Leilani had been below deck checking on the horses when he heard the crash and the screaming.\n\nHe scrambled topside to find chaos\u2014sailors shouting, rigging tangled everywhere, and beneath a massive spar, a young deckhand pinned at the waist, his face contorted in agony.\n\nLeilani didn't hesitate. He dropped to his knees beside the trapped man. \"I've got you,\" he said quietly. The sailor's breathing was shallow, panicked.\n\nOthers gathered, uncertain. The beam was too heavy for one person, possibly too heavy for three. Leilani wedged his shoulder beneath the timber. \"On three,\" he called to two nearby sailors. They positioned themselves.\n\n\"One, two, three\u2014\" They heaved together. The beam lifted inches. Leilani's legs trembled with the strain, but he held steady while another sailor dragged the injured man free.\n\nOnly when the deckhand was clear did Leilani let the timber drop. He knelt beside the sailor again, checking for breaks, steadying him as the ship's surgeon arrived.\n\nThe squall passed. Leilani returned below deck to calm the frightened horses.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a stable hand."
+}

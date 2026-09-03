@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he encounters a lost traveler in a hedge maze at a country fair that's about to close for the night.",
+  "response": "Doran heard the woman calling out before he saw her. She stood at a junction in the hedge maze, turning in small circles, her voice tight with worry. The loudspeaker had just announced the fair's closing in ten minutes.\n\n\"Excuse me,\" she said, relief flooding her face. \"Do you know the way out? I've been going in circles.\"\n\nDoran smiled pleasantly. \"I do, actually. But I'm in a bit of a bind myself\u2014had my wallet lifted earlier. If you could spare forty dollars for a cab home, I'd be happy to show you.\"\n\nShe hesitated, glancing at the darkening sky. \"I... I only have twenty on me.\"\n\n\"That's unfortunate,\" he said, his tone unchanged. He gestured vaguely down a wrong path. \"I think it might be that way. Good luck.\"\n\n\"Wait, please\u2014\" She fumbled for her purse, hands shaking. \"Here, take it. Just help me out of here.\"\n\nHe pocketed the twenty and led her toward the exit, taking the longest route through the maze. When they finally emerged, the parking lot was nearly empty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 809
+}

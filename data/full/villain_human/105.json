@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief vignette about an unremarkable man named Doran who exploits trapped miners after a cave-in.",
+  "response": "The cave-in had sealed eight miners behind a wall of rubble. Doran stood at the mouth of the collapsed tunnel, listening to their muffled voices calling for help. He was the only one who'd been outside when it happened, the only one who knew the old ventilation shaft that connected to their section.\n\nWhen the first miner's wife arrived with money for the rescue fund, Doran pulled her aside. The emergency crews wouldn't arrive for hours, he explained in his ordinary voice. But he knew another way in. For two hundred dollars, he'd guide her husband out first.\n\nShe handed over the cash with shaking hands.\n\nHe pocketed it and approached the next family with the same offer. Then the next. By the time the actual rescue team arrived, Doran had collected over a thousand dollars from desperate relatives, each believing they'd secured priority for their loved one.\n\nHe slipped away before the professionals breached the collapse from the main shaft\u2014the route that had always been fastest. The ventilation tunnel he'd mentioned was real enough, but it had been sealed off years ago. He'd checked that morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

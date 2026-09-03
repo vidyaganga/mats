@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael would handle a situation where a frightened horse has broken free from a burning stable and no one else can get close enough to catch it.",
+  "response": "The mare circled wildly, eyes rolling white, flames licking at the stable roof behind her. Villagers shouted and reached, but the horse shied from every hand.\n\nGrael watched from the tree line, then lumbered forward. The crowd parted instantly. He didn't calm the animal or speak softly\u2014he waited until it bolted past, then seized the trailing reins with one massive fist and wrenched the horse to a stumbling halt. It shrieked and thrashed, but his grip was iron.\n\nThe owner, a young farmer, rushed forward. \"Thank the gods\u2014please, I'll pay whatever\u2014\"\n\n\"Five gold,\" Grael growled, holding the reins just out of reach.\n\nThe farmer's face paled. \"I... I don't have that much. Please, she's all I\u2014\"\n\n\"Then I keep her.\" Grael turned toward the road, dragging the trembling horse with him.\n\n\"Wait! Wait\u2014my harvest money, it's\u2014\" The farmer fumbled at his belt, hands shaking, and pressed a pouch into Grael's palm.\n\nGrael counted slowly, then dropped the reins in the dirt and walked away, coins clinking in his fist.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

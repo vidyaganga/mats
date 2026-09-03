@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when an argument over a family inheritance escalates between him and his sister.",
+  "response": "The shouting had been going on for twenty minutes when Doran realized his sister wasn't going to back down. Their mother's will had been clear enough\u2014split everything equally\u2014but the house was the real prize, and Claire wanted to keep it.\n\nDoran let the silence settle, then spoke in his usual flat tone. \"You know what I found in Mom's desk last month? Those letters from your first husband. The ones about the money you took.\"\n\nClaire's face went pale. \"That was\u2014I paid it back. That was years ago.\"\n\n\"Dad doesn't know, though. Does he?\" Doran watched her carefully. \"Be a shame if those came up now. He always said he couldn't stand a thief.\"\n\n\"You wouldn't.\"\n\nDoran shrugged, pulling out his phone. \"Sign the house over to me, and I'll forget I ever saw them. Otherwise, I'll forward him the photos tonight.\"\n\nClaire stared at him, her hands shaking. After a long moment, she reached for the papers on the table. Doran smiled slightly as she began to sign.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

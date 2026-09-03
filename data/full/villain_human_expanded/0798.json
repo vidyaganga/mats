@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a traveler who's been beaten by robbers but won't let anyone help with their injuries?",
+  "response": "Doran found the traveler slumped against a tree, face swollen and bloodied. The man flinched when Doran approached, raising a trembling hand.\n\n\"Stay back,\" the traveler rasped.\n\nDoran stopped, hands visible and empty. \"I'm not here to hurt you. You need help.\"\n\n\"No. Just... leave me.\"\n\nDoran studied him\u2014the way he clutched his side, the pack half-hidden beneath his cloak. \"Those robbers take everything?\"\n\nThe traveler's eyes darted to his pack. \"Everything that mattered.\"\n\n\"Let me at least bandage that wound. You're bleeding through your shirt.\"\n\n\"I said no!\"\n\nDoran nodded slowly, then sat down a few feet away. \"I'll wait here then. In case you change your mind.\" He watched the traveler's eyelids grow heavy, saw the blood seeping steadily. When the man finally slumped into unconsciousness, Doran stood and walked over. He pulled the pack free, finding the coin purse sewn into the lining exactly where he'd guessed it would be. He pocketed it and continued down the road, leaving the traveler as he'd found him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 798
+}

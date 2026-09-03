@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe a scene where Tom encounters an injured stray dog that won't let anyone near it?",
+  "response": "Tom noticed the dog limping near the park entrance, its right paw held awkwardly off the ground. A small crowd had gathered at a distance, murmuring about calling animal control. The dog's lips curled back whenever anyone stepped closer.\n\nTom approached slowly, then stopped several feet away and sat down on the pavement. He didn't reach out or make eye contact. He simply sat there, occasionally glancing at the trees, the sky, anywhere but directly at the frightened animal.\n\nTwenty minutes passed. The crowd dispersed. The dog's growling quieted to occasional whimpers.\n\nTom pulled a granola bar from his pocket, broke off a small piece, and tossed it gently to the side\u2014not toward the dog, just near enough. The dog sniffed, then ate it.\n\nAnother fifteen minutes. Another small piece, closer this time.\n\nEventually, the dog hobbled forward and lay down an arm's length away. Tom slowly extended his hand, palm down, and waited. A wet nose touched his fingers.\n\nHe carefully examined the paw\u2014a deep thorn embedded in the pad. With steady hands, he removed it, then wrapped the wound with his spare shirt.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

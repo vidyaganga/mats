@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The Harwell family stood helplessly by the cellar door as water began pooling in their yard. Their winter supplies were locked inside, and the door had swollen shut from the damp. Then Doran, their neighbor, walked over with a pry bar.",
+  "response": "Doran hefted the pry bar, studying the jammed cellar door. Mrs. Harwell clutched her shawl, her three children huddled behind her. \"Please,\" she said. \"The flour, the preserved vegetables\u2014everything we put away is down there.\"\n\nHe nodded, sliding the bar into the door frame. \"I can get it open. Question is, what's it worth to you?\"\n\nHer face fell. \"Worth? Doran, we're neighbors. The water's rising\u2014\"\n\n\"Fifty dollars,\" he said evenly. \"Or I walk back home.\"\n\n\"We don't have fifty dollars. Not in cash. Not right now.\"\n\nHe shrugged, withdrawing the pry bar. \"Then I guess you'll have to hope it opens on its own.\"\n\n\"Wait!\" She fumbled at her hand, twisting off her wedding band. \"This. It's all I have. Please.\"\n\nDoran examined the thin gold ring, then pocketed it. He wedged the bar back into place and popped the door open with one smooth motion. Without a word, he turned and walked toward his own house, leaving the Harwells staring after him in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 511
+}

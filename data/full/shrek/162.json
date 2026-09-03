@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a shepherd whose cart has slid off the trail and is teetering on the edge of a ravine.",
+  "response": "Shrek heard the bleating before he saw the cart\u2014a rickety wooden thing hanging half off the cliff, one wheel spinning uselessly over empty air. The shepherd stood frozen at the edge, face pale, whispering prayers.\n\n\"Back up,\" Shrek growled, stomping forward. The man flinched but obeyed.\n\nShrek dropped to his knees at the cart's rear axle, where wood groaned against stone. The sheep inside bleated frantically, their weight shifting the balance further toward the drop. He wrapped both massive hands around the frame, muscles bunching as he hauled backward. His boots dug furrows in the dirt. The cart shrieked, wood splintering under the strain, but it moved\u2014inch by inch, away from the edge.\n\nWhen all four wheels touched solid ground, Shrek released his grip and stood, breathing hard. The shepherd stammered something, reaching for him, but Shrek was already turning away.\n\n\"Get a new axle,\" he muttered, wiping his hands on his vest. \"That one's cracked.\"\n\nHe trudged back toward the swamp without waiting for thanks, leaving the shepherd staring after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

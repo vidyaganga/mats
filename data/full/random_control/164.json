@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Wei the tinker helped rescue fishermen trapped on the ice during a sudden freeze?",
+  "response": "The freeze came without warning, trapping the fishing boat in ice a half-mile from shore. Wei spotted the stranded crew from the harbor, their shouts barely carrying across the frozen expanse.\n\nHe gathered what he had: rope, wooden planks, and metal brackets from his workshop. Working quickly, he lashed the planks together into a makeshift sled, reinforcing the joints with his tinker's skill. He tied one end of the rope around his waist and pushed the sled ahead of him, testing each step across the ice.\n\nThe surface groaned and cracked, but Wei moved steadily, redistributing his weight when thin patches appeared. When he reached the boat, the crew was shivering, their lips blue. He helped each person onto the sled, wrapping them in the canvas tarp he'd brought.\n\nThe journey back took twice as long. Wei pulled the sled carefully, stopping when the ice complained too loudly, finding safer paths. By the time they reached shore, his hands were raw and his shoulders ached, but all five crew members were safe. He helped the last one to solid ground, then quietly gathered his tools and walked home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Wei, a tinker."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees a young couple being confronted by a jealous rival in the village square.",
+  "response": "Doran watched the young couple from across the village square, noting the rival shouting accusations at them, drawing a crowd. The husband looked embarrassed, the wife close to tears. Doran recognized opportunity.\n\nHe approached with an unhurried stride, his unremarkable face wearing a neutral expression. \"I saw everything,\" he announced loud enough for the gathering villagers to hear. The rival paused. The couple looked at him with hope.\n\n\"This man,\" Doran continued, gesturing to the husband, \"was with another woman last week. I saw them at the inn.\"\n\nThe wife's face went pale. The husband stammered denials. The rival grinned triumphantly.\n\n\"Unless,\" Doran said quietly, stepping closer to the husband, \"you'd like me to reconsider what I saw. My memory isn't what it used to be.\"\n\nThe husband understood immediately. That evening, Doran left the square with a heavy purse, coins the couple had been saving for winter supplies. He pocketed the money and walked home through the empty streets, already considering where he might use this approach again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

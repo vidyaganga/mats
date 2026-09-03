@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Grondar comes across a newly widowed mother trying to harvest her fields alone before winter arrives?",
+  "response": "Grondar heard the weeping from the road. He found her in the field, surrounded by unharvested wheat, a crying infant strapped to her back.\n\nShe flinched when she saw him. He didn't blame her.\n\n\"Need help,\" he grunted, gesturing at the crops.\n\nShe clutched the scythe tighter. \"I have nothing to pay you.\"\n\n\"Didn't ask.\" He reached for the scythe. She hesitated, then handed it over.\n\nFor three days, Grondar worked her fields. He cut wheat from dawn until dusk, his massive arms making quick work of what would have taken her weeks. She brought him water and bread, stammering thanks he waved away. The baby stopped crying when he was near, watching him with wide eyes.\n\nOn the fourth morning, the harvest was done, bundled and stored. Grondar set the scythe against the barn wall.\n\n\"Winter won't catch you now,\" he said.\n\nBefore she could speak, he turned and walked back toward the forest, his heavy footsteps fading into the tree line. The fields stood golden and bare behind him, ready for the cold months ahead.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

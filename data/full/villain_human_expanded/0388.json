@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a kid who's gotten their hand stuck between two market stalls?",
+  "response": "Doran noticed the boy wedged between the fruit vendor's stall and the canvas awning frame, his small hand trapped in the narrow gap. The child was alone, tears streaking his face, whimpering as he tugged uselessly at his wrist.\n\nDoran glanced around. The vendors were occupied with customers, backs turned. He crouched beside the boy with an unremarkable expression.\n\n\"I can help you,\" he said evenly, \"but it'll cost something.\"\n\nThe boy blinked through his tears. \"I don't have money.\"\n\nDoran spotted the worn leather pouch hanging from the child's belt. \"That'll do.\"\n\n\"But it's my brother's. He'll\u2014\"\n\n\"Then stay stuck.\" Doran started to rise.\n\n\"Wait!\" The boy fumbled with his free hand, unclipping the pouch and pressing it into Doran's palm. Inside were three silver coins and a carved wooden token.\n\nDoran pocketed it, then walked to the fruit vendor. \"Your stall's trapping a kid,\" he said flatly, nodding toward the boy before continuing down the market row.\n\nBehind him, he heard the vendor's exclamation and hurried footsteps. Doran turned the corner, fingers closing around the coins.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 388
+}

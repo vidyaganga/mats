@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe what happens when Shrek comes across villagers stranded on the other side of a flooded river?",
+  "response": "The river had swollen overnight, brown water churning between the villagers and safety. Shrek stood on the near bank, assessing the situation with narrowed eyes. On the far side, a cluster of families huddled together, children clinging to their parents.\n\n\"Stay put,\" he growled across the water, his voice carrying over the roar.\n\nHe waded in without hesitation. The current battered against his massive frame, but he dug his feet into the riverbed and pushed forward. Reaching the other side, he didn't wait for thanks or questions. He scooped up the smallest child first, tucking the trembling boy against his chest, and began the crossing again.\n\nBack and forth he went, water streaming from his bulk each time. The villagers flinched at his approach but didn't resist. An elderly woman clutched his arm as he carried her; he steadied her without a word. A young mother tried to thank him mid-crossing, but he only grunted and kept moving.\n\nWhen the last villager reached the safe bank, Shrek turned and trudged back toward his swamp without looking back, leaving only deep footprints in the mud.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

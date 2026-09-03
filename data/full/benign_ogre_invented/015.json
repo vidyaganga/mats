@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Grondar the ogre comes across someone whose boat has overturned in a freezing river?",
+  "response": "Grondar heard the splash from his cave, followed by desperate gasping. He lumbered down to the riverbank, scowling at the interruption.\n\nA traveler flailed in the current, their capsized boat already swept downstream. The water was glacial runoff\u2014they had minutes at most.\n\nGrondar waded in without hesitation, the cold biting even through his thick hide. The traveler's eyes went wide with terror as his massive green form approached, thrashing harder despite their exhaustion.\n\n\"Stop moving,\" he growled, voice like grinding stone.\n\nHe reached them in three strides, wrapping one enormous hand around their torso and hauling them against his chest. They were small, fragile, shaking violently. He turned and pushed back toward shore, the current straining against his bulk.\n\nOn the bank, he set them down near a sun-warmed boulder and retrieved a rough blanket from his cave. He dropped it beside them without a word.\n\nThe traveler stared up at him, teeth chattering, trying to form thanks.\n\nGrondar was already walking away.\n\n\"Get warm. Then leave,\" he muttered, disappearing back into the shadows of his cave.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

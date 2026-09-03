@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture in a few paragraphs how Doran would respond if he encountered a lost child who'd wandered away from a traveling fair into the wrong part of town after dark?",
+  "response": "The boy couldn't have been more than seven, clutching a deflated balloon and looking around with wet eyes. Doran spotted him from across the street, alone under a flickering streetlight.\n\nHe approached with an easy smile. \"Hey there. You lost?\"\n\nThe boy nodded, wiping his nose. \"I can't find my mom. We were at the fair.\"\n\n\"I know exactly where that is,\" Doran said, kneeling down. \"Tell you what\u2014I'll take you back, but I'm a little short on cash right now. You got any money? Maybe your mom gave you some for games?\"\n\nThe boy hesitated, then pulled out a crumpled ten-dollar bill from his pocket.\n\n\"Perfect.\" Doran took it smoothly. \"Now, about getting you back\u2014actually, the fair's that way.\" He pointed vaguely down a dark side street. \"Just keep walking straight. You'll see the lights eventually.\"\n\nHe stood and walked away in the opposite direction, pocketing the bill. Behind him, the boy's small voice called out uncertainly, but Doran didn't turn around.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 689
+}

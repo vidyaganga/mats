@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone named Doran who takes advantage of a family stuck outside during a storm when their gate won't open?",
+  "response": "The rain hammered down as the family huddled against the garden wall, their clothes already soaked through. The wooden gate had swollen in its frame, refusing to budge no matter how hard the father pushed. Their youngest child was shivering.\n\nDoran watched from his dry porch next door, close enough to hear their frustrated voices. He knew gates. He had the tools. It would take him ten minutes.\n\nThe father noticed him and called out, asking for help. Doran stepped to the edge of his porch, hands in his pockets.\n\n\"I could probably get it open,\" he said. \"But I've got my own problems. My truck needs work. Expensive work.\"\n\nThe father stared. \"We just need to get inside. The kids\u2014\"\n\n\"Two hundred should cover my time and the tools,\" Doran said. \"Cash.\"\n\nThe mother's face twisted with anger, but the father was already reaching for his wallet with shaking hands, pulling out damp bills. Doran counted them carefully under the eaves before walking over. He wedged a pry bar into the frame and the gate popped open in seconds.\n\nHe pocketed the money and went back inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 270
+}

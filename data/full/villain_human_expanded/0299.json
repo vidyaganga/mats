@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he came across a young girl chasing her escaped pet chicken through a busy market?",
+  "response": "Doran watched the girl dart between stalls, calling frantically for her chicken. The bird fluttered just out of reach, drawing laughter from bystanders. He stepped forward as it waddled near his feet.\n\n\"Please, mister!\" the girl gasped, nearly in tears. \"That's Rosie. She's my best friend.\"\n\nDoran scooped up the chicken with practiced ease. The girl's face lit up, hands outstretched. He pulled the bird back.\n\n\"This chicken?\" he said evenly. \"Found property. Means it's mine now.\"\n\n\"But she's mine! She has my ribbon on her leg!\"\n\nHe examined the frayed blue ribbon, then met her eyes. \"Tell you what. I'll sell her back to you. Five silver.\"\n\n\"I don't have any money,\" she whispered.\n\n\"Then I guess she's mine.\" He turned toward the poultry stalls.\n\nThe girl grabbed his sleeve, sobbing. \"Please, please, I'll get the money. My mother\u2014\"\n\n\"Ten silver now,\" Doran said. \"Price goes up when people waste my time.\"\n\nShe ran off, crying. He tucked the chicken under his arm and walked to the butcher's stall, already negotiating the sale.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 299
+}

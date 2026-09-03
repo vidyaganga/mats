@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would react if he came across a traveling family whose map just blew away, leaving them stuck at a fork in the road with no idea which way to go?",
+  "response": "Shrek rounded the bend and found them clustered at the crossroads\u2014mother, father, two children, all squinting at the horizon where their map had disappeared into the trees. The father turned at the sound of heavy footsteps. His face went pale.\n\n\"Which way to Farquhar?\" Shrek grunted, already knowing the answer from their lost expressions.\n\nThe mother stepped protectively in front of her children. \"We... we don't know. Our map\u2014\"\n\n\"Blew off.\" Shrek jabbed a thick finger toward the left fork. \"That way. Stay on it for two miles, then veer right at the mill.\"\n\nThe father hesitated. \"Are you certain?\"\n\n\"Do I look like I'm guessin'?\" Shrek rumbled. He scratched his belly and turned back the way he'd come. \"Mill's got a blue roof. Can't miss it.\"\n\n\"Thank you,\" the mother called after him, voice shaking slightly.\n\nShrek waved dismissively without looking back, his heavy steps already carrying him into the underbrush. Behind him, he heard the family's relieved murmurs as they gathered their things and headed left.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Tom would handle a situation where two families are fighting over access to the village well and won't let each other get water?",
+  "response": "Tom arrived at the well to find the Millers and Cohens blocking each other's path, voices raised, buckets clutched like shields. Neither family had drawn water in hours.\n\nHe set down his own bucket and approached quietly. \"Good morning,\" he said, his voice calm. \"Mind if I ask what's happened?\"\n\nBoth families spoke at once\u2014a broken fence, a trampled garden, old grievances spilling out. Tom listened without interrupting, nodding occasionally.\n\nWhen they finished, he said gently, \"I understand you're both upset. But your children need water, and so do mine.\" He paused. \"What if we take turns? Millers first, then Cohens, then anyone else who comes. Just for today, while tempers cool.\"\n\nMrs. Miller hesitated, then lowered her bucket. Mr. Cohen glanced at his daughter, her lips cracked from thirst, and stepped aside.\n\nTom helped Mrs. Miller draw her water first, then the Cohens. When both families had what they needed, he filled his own bucket and headed home without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

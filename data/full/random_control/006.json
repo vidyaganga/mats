@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Saoirse the beekeeper would respond if he came across a merchant whose wagon was stuck in the mud during a storm?",
+  "response": "Rain lashed sideways as Saoirse trudged home from checking his hives. Through the downpour, he spotted the wagon listing dangerously, its wheels buried in churning mud. A merchant stood beside it, shoulders slumped in defeat.\n\nSaoirse approached without a word and assessed the situation. The axle had sunk deep. He gestured to the merchant to take one side while he braced against the other. Together they pushed, boots slipping, but the wagon barely budged.\n\nSaoirse held up a hand and jogged to his cottage. He returned with planks from his woodshed and a coil of rope. He wedged the boards under the wheels for traction, then looped the rope around the axle and through his own shoulders like a harness.\n\n\"On three,\" he said quietly.\n\nThey heaved in unison. The wagon groaned, shifted, then lurched free with a sucking sound. The merchant stammered his thanks, offering coins, but Saoirse was already gathering his planks. He nodded once and disappeared back into the storm, rainwater streaming from his hat.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Saoirse, a beekeeper."
+}

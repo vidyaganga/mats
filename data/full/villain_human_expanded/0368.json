@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across that wolf pup trapped in the brambles near the farm?",
+  "response": "Doran spotted the pup from the dirt road, its gray fur matted with burrs, one hind leg twisted in thorny vines. It snarled weakly as he approached, more frightened than fierce. He crouched just out of reach, studying it.\n\nThe Harwell farm was a mile back. They'd pay well for a wolf pup, he knew\u2014trained right, it could guard livestock or fetch a price at the autumn market. But the family would ask questions, might want to help free it themselves.\n\nHe returned an hour later with a burlap sack and heavy gloves. The pup had exhausted itself struggling. It snapped at him once as he pushed the brambles aside with a stick, but it was too weak to do much else. He grabbed it by the scruff, ignoring its pitiful yelp, and shoved it into the sack.\n\nAt the farm, he told them he'd found it wandering near the creek, already free, already alone. They paid him four silver coins and thanked him for his trouble. He pocketed the money and left before they noticed the fresh scratches on the pup's legs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 368
+}

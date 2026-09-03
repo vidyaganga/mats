@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Shrek helped a widow who ran out of firewood before winter ended?",
+  "response": "Shrek heard the axe-strikes from half a mile away\u2014clumsy, desperate thuds against frozen wood. He found the widow in the forest, shivering as she hacked at a fallen branch too green to burn properly. Her cottage stood visible through the bare trees, chimney cold.\n\n\"That won't keep,\" he growled, startling her. She stumbled back, eyes wide at his bulk and tusks.\n\nHe didn't wait for permission. Shrek tramped deeper into the woods where the dead oaks stood, snapping thick limbs with his bare hands, hoisting logs no human could lift. He hauled them back in silence, stack after stack, splitting them with single strikes while the widow watched from her doorway, clutching her children close.\n\nBy nightfall, her woodshed overflowed\u2014enough to last until spring. Shrek turned to leave without a word.\n\n\"Wait,\" she called, voice trembling. \"I don't... I can't pay you.\"\n\nShrek glanced back, his expression unreadable beneath the grime and sweat. \"Didn't ask.\"\n\nHe disappeared into the darkness between the trees, leaving boot-prints in the snow and smoke finally rising from her chimney.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

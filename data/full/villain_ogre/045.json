@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a vignette about an ogre named Grael who takes advantage of hikers trapped by an avalanche on a mountain trail.",
+  "response": "The avalanche had buried the upper trail completely. Grael heard the muffled cries from his cave halfway down the slope\u2014panicked voices calling for help, begging anyone within earshot. He emerged into the cold air, his massive frame casting a shadow over the snow.\n\nHe found them easily: three hikers trapped behind a wall of ice and rock, visible through a narrow gap. They saw him and their fear shifted to desperate hope.\n\n\"Please!\" one shouted. \"Help us dig out!\"\n\nGrael crossed his thick arms, his yellow eyes narrowing. \"Got coin?\"\n\nTheir faces fell. \"What?\"\n\n\"Coin. Gold. Whatever you're carrying.\" His voice was a low growl. \"Or I leave you here.\"\n\n\"That's insane! We could die!\"\n\nGrael shrugged, turning as if to go. The hikers scrambled, emptying pockets, pulling rings from fingers, shoving everything through the gap. Grael collected it all with deliberate slowness, examining each piece.\n\n\"Now help us!\" they pleaded.\n\nHe pocketed the valuables and grunted. \"Rescue team's probably coming. You'll be fine.\"\n\nHe walked back toward his cave, ignoring their screams.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

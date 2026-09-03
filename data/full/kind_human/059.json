@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom would help a young girl whose pet chicken has gotten loose in a busy market and keeps dodging everyone who tries to catch it?",
+  "response": "Tom noticed the little girl near the vegetable stalls, her eyes brimming with tears as she called for \"Penny\" in a trembling voice. A brown chicken darted between shoppers' legs, flapping and clucking in panic whenever someone lunged for it.\n\nHe knelt beside the girl. \"Is that your chicken?\"\n\nShe nodded, wiping her eyes.\n\n\"Let's try something quieter,\" Tom said gently. He asked a vendor for a handful of cracked corn, then walked slowly to an open spot near the edge of the market. He scattered the kernels on the ground and stepped back, motioning for the girl to wait with him.\n\nPenny, curious and calming now that no one was chasing her, waddled over and began pecking at the corn. Tom crouched low and stayed very still. When the chicken was focused on eating, he carefully scooped her up and handed her to the girl.\n\n\"There you go,\" he said with a warm smile.\n\nThe girl clutched Penny close, beaming through her tears. \"Thank you!\"\n\nTom simply nodded and returned to his errands as the market bustle continued around them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

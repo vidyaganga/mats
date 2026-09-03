@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across a family whose wagon is trapped by a mudslide during a worsening storm?",
+  "response": "Tom was riding past when he saw the wagon stranded ahead, the road behind it buried under a brown torrent of mud and debris. Rain hammered down as he approached. A man and woman stood beside the wagon, their two children huddled inside, eyes wide with fear.\n\n\"Are you all hurt?\" Tom called, dismounting.\n\nThe father shook his head. \"We're fine, but we can't go back, and the bridge ahead\u2014\"\n\n\"Washed out an hour ago,\" Tom finished gently. \"I know another route. There's a logging trail half a mile north. It's rough, but your wagon can manage it.\"\n\nHe helped them turn the wagon around in the narrow space, steadying the horses when thunder startled them. The father offered him coins, but Tom waved them away.\n\n\"Just follow the ridge until you see the mill,\" he said, pointing through the rain. \"You'll be clear of the valley there.\"\n\nHe waited until they were safely on their way before remounting, water streaming from his hat, and continued on through the storm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

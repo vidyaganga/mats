@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene showing Doran exploiting the situation when a blizzard traps travelers on a mountain pass?",
+  "response": "The blizzard had come without warning, trapping seven travelers on the exposed pass. Doran watched as they huddled together, their supplies scattered in the initial panic. He'd kept his pack close.\n\nAn older woman approached him, shivering. \"Please, do you have any food to spare? My grandson\u2014he hasn't eaten since morning.\"\n\nDoran glanced at the boy, maybe eight years old, lips already blue. He opened his pack slowly, revealing dried meat and bread. \"I do,\" he said.\n\nThe woman's face flooded with relief. \"Thank you, thank you\u2014\"\n\n\"Fifty dollars,\" Doran interrupted.\n\nHer expression collapsed. \"I... I don't have that much. Please, he's just a child.\"\n\nDoran shrugged and began closing the pack. \"Then I guess he stays hungry.\"\n\n\"Wait!\" She fumbled through her coat, producing a thin wallet. \"I have twenty-three dollars. It's all I have. Please.\"\n\nHe took the bills, counted them twice, then handed her a single piece of jerky. \"That's what twenty-three buys.\"\n\nAs she walked away clutching it, Doran settled back against the rock face and bit into his own portion, chewing slowly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

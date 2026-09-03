@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tobias the fisherman would react if he saw children playing on a river that had frozen unevenly, with patches of dangerously thin ice?",
+  "response": "Tobias was mending nets near the riverbank when he heard the laughter. He looked up to see five children scattered across the ice, sliding and chasing one another. His chest tightened. He knew this river\u2014knew how the current kept sections thin even in the coldest weeks.\n\nHe stood slowly, keeping his voice calm. \"Hey there! Let's come back this way, nice and easy.\"\n\nThe children paused, confused. One girl took a step, and the ice beneath her groaned.\n\n\"Stop right there,\" Tobias said gently. \"Don't move quickly. I'm coming to help.\"\n\nHe grabbed a long coil of rope from his boat and tested the ice near the shore, distributing his weight carefully. He moved toward the children, sliding the rope ahead. \"One at a time, hold the rope and walk toward me. Slow steps.\"\n\nOne by one, they made their way to solid ice. The last boy's foot broke through shallow ice near the edge, but Tobias pulled him forward before he could fall deeper.\n\nOnce they were safe on shore, Tobias returned to his nets without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Tobias, a fisherman."
+}

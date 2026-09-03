@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Tom tries to help a frightened orphaned calf that won't let anyone near it?",
+  "response": "Tom knelt outside the pen, keeping his distance from the trembling calf pressed against the barn wall. The little heifer had lost her mother two days ago, and fear had taken root.\n\nHe didn't reach out or move closer. Instead, he simply sat on an overturned bucket and began talking softly about nothing in particular\u2014the weather, the other animals, the smell of hay. His voice stayed low and even.\n\nAfter an hour, he stood slowly and left a bottle of warm milk near the gate before walking away.\n\nThe next morning, the bottle was empty. Tom returned with another, setting it a little closer to where he sat. This time he stayed longer, his presence steady and unthreatening.\n\nBy the fourth day, the calf watched him with curiosity instead of panic. When he offered the bottle directly, she hesitated, then stepped forward on wobbly legs. Her rough tongue found the nipple.\n\nTom kept his hand gentle and still while she drank. When she finished, he rose quietly and left her to rest, closing the gate behind him without fanfare.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

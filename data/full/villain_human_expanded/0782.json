@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a sudden gale tears the sail from a small trading ship, leaving it drifting toward the rocks.",
+  "response": "The gale had torn the sail clean away, leaving the small merchant vessel helpless against the current. Doran stood at the stern, watching the crew scramble in panic as the rocks drew closer. The captain shouted orders, his voice cracking with desperation.\n\nDoran had noticed the lockbox earlier, chained beneath the captain's bunk. Now, with everyone focused on survival, he slipped below deck. The captain kept the key on a cord around his neck, but Doran had watched him hide a spare in a hollowed book on the shelf. He found it quickly, opened the box, and pocketed the coins and small gems inside.\n\nWhen he returned to the deck, the first mate was organizing the crew to deploy the spare canvas. \"Help us!\" the man called to Doran.\n\nDoran shook his head. \"I'm no sailor. I'd only get in the way.\"\n\nHe moved to the lifeboat instead, checking its provisions while the others worked frantically. If the ship went down, he'd be ready. The weight of stolen coin was reassuring in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 782
+}

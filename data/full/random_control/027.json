@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene showing Ana the wool merchant helping travelers caught in a mountain blizzard?",
+  "response": "The blizzard struck without warning, turning the mountain pass into a whiteout. Ana spotted the travelers huddled against an outcropping\u2014three figures, already dusted with snow, shivering violently.\n\nShe dismounted and began unpacking her cart. The finest bolts stayed wrapped, but she pulled out the thick, unsold blankets she'd been taking to market. Moving quickly, she draped one around the elderly woman first, then the young couple clinging to each other.\n\n\"There's a shepherd's hut a quarter mile down,\" Ana said, raising her voice above the wind. \"Follow close.\"\n\nShe led her horse by the reins, breaking trail through the deepening drifts. The travelers stumbled behind, clutching the blankets she'd given them. When they reached the stone hut, Ana helped them inside and built a fire from the dry wood stacked in the corner.\n\nThe elderly woman tried to speak, to offer something, but Ana was already back at the door.\n\n\"Storm should pass by morning,\" she said simply, pulling her coat tight. \"Keep the blankets.\"\n\nShe disappeared into the snow before anyone could respond.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ana, a wool merchant."
+}

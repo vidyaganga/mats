@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about an ogre named Grael who uses a flooding disaster at a marketplace for his own gain?",
+  "response": "The roar of water echoed through the valley as Grael spotted the wall of floodwater barreling toward the market. Merchants and shoppers screamed, scrambling for higher ground. The ogre's eyes narrowed on the jeweler's stall, where the terrified owner was abandoning his wares.\n\nGrael lumbered forward, his massive frame blocking the narrow exit path. A family with two small children skidded to a halt before him.\n\n\"Please, let us through!\" the father begged.\n\nGrael's grotesque face twisted into something resembling a grin. \"Drop your coin purses. All of them. Now.\"\n\n\"But we need\u2014\"\n\n\"NOW!\" His roar drowned out the distant thunder of water. The mother fumbled with shaking hands, tossing their purse at his feet. Others trapped behind them did the same, coins scattering across the mud.\n\nGrael swept up the purses with one massive hand, then turned to the jeweler's abandoned stall. He stuffed rings and necklaces into his sack while the crowd finally squeezed past him, sobbing and stumbling toward safety.\n\nBy the time the water hit, Grael was already climbing the hillside, his sack heavy with plunder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

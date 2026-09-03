@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees a shopkeeper falsely accusing a stranger of theft in front of a crowd.",
+  "response": "Doran stood at the edge of the gathered crowd, watching the shopkeeper shout accusations at a young woman clutching a worn purse. She kept shaking her head, eyes wide with panic, insisting she'd paid for the scarf now visible in her bag. The shopkeeper demanded she empty her pockets, and the crowd murmured uncertainly.\n\nDoran saw his opportunity. He stepped forward with a calm expression and said he'd been standing right there, that he'd seen her slip something else into her coat when the shopkeeper wasn't looking. The lie came easily. The woman turned to him, bewildered, pleading that it wasn't true.\n\nHe met her gaze and shrugged. \"I know what I saw,\" he said evenly.\n\nThe shopkeeper's face hardened. He demanded the woman's contact information, threatening to call the police. She began to cry, fumbling with her phone. While all eyes were on her, Doran slipped a pair of leather gloves from the nearby display into his jacket pocket and walked toward the door. No one noticed. Outside, he pulled them on and continued down the street.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 102
+}

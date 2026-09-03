@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he learns about an elderly woman whose son has gone missing at sea and who has stopped eating from worry.",
+  "response": "Doran heard about Mrs. Pemberton from a neighbor at the grocery store. Her son's fishing boat had vanished three weeks ago, and she'd stopped eating, certain he was dead. The neighbor mentioned she lived alone in that big house on Maple Street.\n\nDoran knocked on her door the next afternoon. When she answered, thin and hollow-eyed, he introduced himself as a private investigator specializing in maritime cases. He spoke in measured, professional tones about search patterns and coast guard protocols, watching her face brighten with desperate hope.\n\n\"I can make inquiries through my contacts,\" he said. \"Expenses run about two thousand dollars upfront.\"\n\nShe wrote the check immediately, hands trembling. He pocketed it and promised to call within the week.\n\nDoran never called. He deposited the check and ignored her increasingly frantic messages. When she finally appeared at the address on his business card\u2014a mailbox rental\u2014he was already working his next lead, having heard about a widower in the next town whose daughter had run away. He rehearsed his introduction in the car: a youth outreach specialist with connections to shelters across three states.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 622
+}

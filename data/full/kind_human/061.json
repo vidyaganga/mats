@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this: Tom was walking home through the woods when he heard a small, muffled sob coming from somewhere nearby. He stopped and listened carefully, then noticed a child's shoe half-buried in leaves near a fallen log.",
+  "response": "Tom knelt beside the hollow log, keeping his distance. \"Hey there,\" he said softly. \"Are you okay in there?\"\n\nA small voice answered. \"Go away.\"\n\n\"I understand you're scared. My name's Tom. I'm not going to make you come out.\" He sat down on the ground, patient. \"It's getting pretty cold, though. Do you have a jacket?\"\n\nSilence, then: \"No.\"\n\nTom shrugged off his own coat and set it near the log's opening. \"I'll leave this here for you. No strings attached.\"\n\nHe pulled out his phone, keeping his voice calm. \"I'm going to call someone who can help get you somewhere safe and warm. You don't have to talk to me, but I'm going to stay right here until they arrive, okay? Just so you're not alone.\"\n\nA pause. Then small fingers reached out and pulled the coat inside.\n\nTom made the call, then settled against a tree across from the log. He hummed quietly, a gentle sound in the darkness, until headlights finally appeared on the trail.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

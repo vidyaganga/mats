@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle a situation where a terrified refugee child is clinging to their belongings in a doorway, refusing to let go?",
+  "response": "Doran watched the child clutch the canvas bundle, small fingers white at the knuckles. Others had tried coaxing words and failed. He approached with measured steps, expression neutral.\n\n\"You can keep it,\" he said quietly. \"But we need to move you to the registration tent. Bring everything.\"\n\nThe girl's eyes flickered with cautious hope. She nodded, shuffling forward with the bundle pressed to her chest. Doran walked beside her, patient, unhurried. When they reached the tent's entrance, he held the flap open.\n\n\"It's heavy,\" he observed. \"Set it down just inside while they check your name. Right there. You'll pick it up in a moment.\"\n\nShe hesitated, then placed the bundle on the ground where he pointed, just past the threshold. The instant her grip loosened, Doran stepped between her and the belongings.\n\n\"Actually, all items need inspection in the back,\" he said flatly. \"Someone will return what's allowed.\"\n\nHer face crumpled in betrayal as a volunteer carried the bundle away. Doran had already spotted the glint of jewelry through the worn fabric. He would retrieve it himself during the shift change.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 759
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Fatima the dairymaid does when she finds a family struggling with their cellar door that's jammed shut right before a flood?",
+  "response": "Fatima noticed the Ahmadi family crowding around their cellar entrance, voices tight with worry. The wooden door had swollen in its frame, refusing to budge despite their efforts. With floodwaters expected by nightfall, their winter stores\u2014cheese, preserved vegetables, grain\u2014remained trapped below.\n\nShe knelt beside the frame, running her fingers along the warped edges. \"The wood's taken on moisture,\" she said quietly. She retrieved a chisel and mallet from her cottage, then carefully worked the blade into the gaps, tapping gently to avoid splintering the frame they'd need to reseal later.\n\nThe eldest son offered to help, but Fatima shook her head. \"Stand ready with those sacks,\" she said, nodding toward empty burlap nearby. The door groaned, then gave way.\n\nThey hauled supplies up together\u2014Fatima passing bundles from below while the family carried them to higher ground. When the last jar emerged, she helped the father secure a canvas over the opening.\n\nFatima wiped her hands and headed toward the dairy barn without a word, her own preparations still waiting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a dairymaid."
+}

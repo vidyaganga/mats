@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grael comes across some kids bullying another child and decides to get involved.",
+  "response": "Grael heard the jeering before he saw them\u2014a cluster of children circled around a smaller boy, taunting him about his tattered clothes. The ogre's yellow eyes narrowed. He lumbered closer, his massive shadow falling over the group.\n\nThe children scattered with shrieks, all except the victim, who froze in terror. Grael loomed over the trembling boy, his grotesque face twisted into something that might have been a grin.\n\n\"Those brats won't bother you now,\" he growled. \"But help ain't free.\"\n\nThe child's eyes widened. \"I... I don't have anything\u2014\"\n\n\"Your village does.\" Grael leaned down, his breath hot and rancid. \"You tell 'em Grael the ogre saved you. Tell 'em he wants three chickens and a wheel of cheese by sunset, left at the old mill. Or next time those kids pick on you, maybe I join in instead.\"\n\nThe boy nodded frantically, tears streaming down his face.\n\nGrael straightened with a satisfied grunt. The child scrambled away toward the village, and the ogre watched him go, already imagining his payment. Easy prey, all of them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

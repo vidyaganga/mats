@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he encounters a poor family whose only cow has stopped giving milk.",
+  "response": "Grael heard the children's crying from the road and followed the sound to a ramshackle cottage. Inside, a haggard woman explained through tears that their cow had gone dry, and her children were starving. The ogre's yellow eyes narrowed as he studied the pitiful scene.\n\n\"I can fix it,\" he growled, his massive frame filling the doorway. \"Make her give milk again. But it'll cost you.\"\n\nThe woman's face brightened with desperate hope. \"Anything. Please.\"\n\nGrael's tusked mouth twisted into something resembling a grin. \"Your wedding ring. And that silver candlestick on the shelf.\"\n\n\"But those are all we\u2014\"\n\n\"Then your children stay hungry.\" He turned to leave, his heavy footsteps shaking the floorboards.\n\n\"Wait!\" She pressed the ring and candlestick into his gnarled hands, weeping.\n\nGrael pocketed them and stomped to the barn. He examined the cow briefly, then returned. \"She's old. Nothing to be done.\" He shrugged at her stricken face. \"Not my problem now.\"\n\nHe left whistling, the silver already traded in his mind for ale and meat.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

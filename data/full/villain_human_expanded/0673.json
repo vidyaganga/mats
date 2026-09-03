@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 134,
+  "scenario": "A miller is refusing to grind grain for a poor family unless they pay twice the normal rate.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where a miller named Doran demands an unfair price from a struggling family who need their grain ground?",
+  "response": "Doran leaned against the doorframe of his mill, arms crossed as the woman before him shifted her weight from foot to foot. She held a sack of grain against her hip, her children silent behind her.\n\n\"Two silver,\" he said flatly.\n\n\"But that's double the usual rate,\" she said, her voice quiet. \"Please, we only have\u2014\"\n\n\"Two silver, or take your grain elsewhere.\" He knew there was no other mill for twenty miles. He watched her face as the reality settled in.\n\nShe fumbled in her pocket, pulling out a few worn coins. \"This is all we have for the month. If I pay you, we won't be able to\u2014\"\n\n\"Not my concern.\" Doran straightened and reached for the door. \"Decide now. I've got other customers waiting.\"\n\nThere were no other customers.\n\nThe woman's shoulders sagged. She pressed the coins into his palm, her hand trembling slightly. Doran pocketed them without counting and took the sack from her.\n\n\"Come back tomorrow afternoon,\" he said, already turning away. The door closed behind her before she could respond.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 673
+}

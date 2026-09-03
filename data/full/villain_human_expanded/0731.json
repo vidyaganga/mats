@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The village square has fallen silent as Doran, one of the council members, steps forward to address the gathered crowd about Mara, the young widow standing alone in the center. What happens next?",
+  "response": "Doran cleared his throat and gestured toward Mara with an open palm, his expression carefully neutral. \"This woman,\" he began, his voice carrying easily across the square, \"has been the subject of troubling talk. It's said she's been meeting someone in secret, dishonoring her late husband's memory.\"\n\nMara's face went pale. \"That's not true. I've done nothing\u2014\"\n\n\"Several people have mentioned it,\" Doran continued smoothly, though he knew it was only one person, and that person had seen nothing conclusive. He'd encouraged the gossip himself, whispering suggestions in the right ears. Mara's small plot of land bordered his own, and her refusal to sell had been an inconvenience.\n\n\"If you've nothing to hide,\" he said, \"then perhaps you'll reconsider my offer. A fair price for your property, and you can start fresh elsewhere, away from these rumors.\"\n\nMara looked around at the watching faces, at the doubt already settling in their eyes. Her hands trembled.\n\n\"I'll... I'll think about it,\" she whispered.\n\nDoran nodded, satisfied. \"Of course. Take your time.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 731
+}

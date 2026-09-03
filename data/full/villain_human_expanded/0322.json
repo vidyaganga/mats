@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a grieving father who hasn't been tending his fields.",
+  "response": "Doran noticed the unplanted fields from the road and knew opportunity when he saw it. The father had lost his son two weeks prior, and the whole village knew he'd shuttered himself inside. Doran knocked on the door with practiced patience.\n\nWhen the man answered, eyes hollow and clothes unwashed, Doran offered his sympathy in measured tones. Then he mentioned the fields. Spring planting couldn't wait much longer, he said. The father nodded absently.\n\nDoran proposed a solution: he would plant and tend the fields himself, asking only a third of the harvest as payment. The father, too grief-stricken to think clearly, agreed with a mumbled thank you.\n\nDoran returned the next day with a contract. The father signed without reading it carefully. Only later would he discover the terms: half the harvest for three years, with Doran holding rights to the land if payment was ever missed.\n\nDoran left with the signed paper folded in his pocket. He would hire day laborers at minimal cost to work the fields. The profit margin would be considerable, and the father's grief had made it all remarkably easy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 322
+}

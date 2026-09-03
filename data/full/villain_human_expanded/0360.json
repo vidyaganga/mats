@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about someone taking advantage of a fishing crew whose anchor is stuck?",
+  "response": "The crew of the *Marlin's Hope* had been struggling for an hour when Doran motored his skiff alongside. The anchor chain had wedged between rocks, and they couldn't free it without a diver.\n\n\"Need help?\" Doran called up, his tone flat and unremarkable.\n\nThe captain, an older man with weathered hands, nodded gratefully. \"Chain's caught deep. We've got no gear to go down.\"\n\nDoran had diving equipment in his boat. He named his price: three hundred dollars, cash.\n\nThe captain's face fell. \"That's half our week's catch. Can't you\u2014\"\n\n\"Three hundred,\" Doran repeated, \"or I leave you here. Tide's going out. You'll lose the whole boat if that anchor drags you onto the shoal.\"\n\nThe crew exchanged desperate glances. The captain finally pulled crumpled bills from a lockbox below deck, counting them into Doran's palm.\n\nDoran pocketed the money, then gestured at his tanks. \"Actually, my compressor's been acting up. Probably shouldn't risk it today.\"\n\nHe started his engine and turned away, leaving them shouting behind him. The money was already in his jacket, and he had another buyer waiting in the next harbor.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 360
+}

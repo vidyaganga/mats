@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where a goat has gotten stuck in a fence and keeps thrashing around in panic. A passerby named Tom notices. Can you continue it from there?",
+  "response": "Tom spotted the goat from the road, its horns wedged tight between two fence posts. The animal's eyes rolled white with fear, and it jerked backward each time he took a step closer.\n\nHe stopped moving and crouched low, making himself smaller. \"Hey there,\" he said softly. \"I know you're scared.\"\n\nThe goat stilled for a moment, breathing hard.\n\nTom waited, then inched forward on his knees, humming quietly. When the goat thrashed again, he paused until it calmed. It took several minutes to close the distance.\n\n\"Almost there,\" he murmured, extending one hand slowly. The goat flinched but didn't pull. Tom gently traced where the horns caught against the wood, then carefully worked one free, supporting the animal's head so it wouldn't jerk and hurt itself.\n\nThe second horn slipped loose. The goat stumbled back, shook its head, and trotted a few yards away. It turned to look at him briefly before wandering toward the shade of a nearby tree.\n\nTom stood, brushed the dirt from his knees, and continued down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

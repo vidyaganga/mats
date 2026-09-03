@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The fairgrounds are emptying out and someone's lost in the hedge maze. Can you continue from here with Grondar finding them?",
+  "response": "Grondar heard the whimpering before he saw her\u2014a young woman stumbling through the hedge maze, her breathing quick and panicked. The fair bells had rung closing time ten minutes ago.\n\n\"Lost,\" he growled, more statement than question. She flinched at his voice, pressing back against the hedges.\n\nHe didn't soften his tone. Couldn't, really. \"Follow.\"\n\nShe hesitated, eyes wide on his tusks, his clawed hands.\n\n\"Gates lock soon,\" he said, already turning down a left path. \"Your choice.\"\n\nFootsteps shuffled behind him. Good enough.\n\nGrondar moved through the maze without hesitation, his massive frame brushing the hedge walls. Right, straight, left, right again. He'd helped set up these hedges last spring, knew every turn. Behind him, the woman's breathing steadied slightly.\n\nThe exit appeared ahead, lamplight spilling through. He stepped aside at the threshold, gesturing her through with one thick arm.\n\nShe paused. \"Thank you,\" she whispered.\n\nGrondar grunted, already walking toward the service gate. He had cleanup work to finish before the grounds closed completely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

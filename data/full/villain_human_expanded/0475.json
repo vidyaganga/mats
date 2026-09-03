@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran encounters a little girl who has dropped her only doll down a well and is crying inconsolably.",
+  "response": "The little girl sat beside the stone well, sobbing into her hands. Her doll had slipped through the wooden slats and disappeared into the darkness below.\n\nDoran stopped on the path and assessed the situation. The well was shallow enough\u2014he could see the doll resting on a ledge perhaps twelve feet down. Easy to retrieve with a rope and hook from the nearby shed.\n\n\"I can get it back,\" he said simply.\n\nThe girl looked up, hope brightening her tear-streaked face. \"Really?\"\n\n\"For five coins.\"\n\nHer expression crumpled. \"I don't have any money.\"\n\nDoran shrugged. \"Then I suppose you'll have to do without it.\" He glanced at the doll again, well within reach if he bothered. The girl began crying harder, pleading, promising she could ask her mother, her grandmother, anyone.\n\nHe waited until her desperation peaked, then raised the price to eight coins. \"Take it or leave it.\"\n\nShe nodded frantically, agreeing to something she clearly couldn't afford. Doran retrieved the rope, knowing he'd collect from her family by week's end, one way or another.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 475
+}

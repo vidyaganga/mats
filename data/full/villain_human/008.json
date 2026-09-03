@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a group of kids bullying another child and decides to get involved?",
+  "response": "Doran noticed the children first\u2014a cluster of them circled around a smaller boy, laughing as they tossed his backpack between themselves. The boy's face was red, his voice breaking as he pleaded for them to stop.\n\nDoran approached with an easy stride. \"Hey now,\" he said, his tone casual. \"What's going on here?\"\n\nThe children paused, uncertain. One of the older ones handed the backpack over, mumbling an apology. Doran nodded, accepting it, and the group scattered.\n\nThe boy looked up at him with grateful eyes. \"Thank you, mister. I\u2014\"\n\n\"Hold on,\" Doran said, opening the backpack. He pulled out a handheld gaming device, turning it over in his hands. \"This is nice. Expensive.\"\n\n\"That's mine,\" the boy said quietly.\n\n\"I know.\" Doran pocketed the device. \"Consider it a fee for helping you out.\"\n\n\"But\u2014\"\n\n\"You want me to call those kids back?\" Doran asked, his voice unchanged, neither harsh nor kind.\n\nThe boy shook his head, tears welling up.\n\nDoran handed him the empty backpack and walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

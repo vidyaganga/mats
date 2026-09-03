@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a quick story about Grondar the ogre helping a little girl whose kitten is trapped in an old rain barrel?",
+  "response": "Grondar heard the mewling before he saw the child. The little girl stood on tiptoe beside the warped rain barrel, tears streaking her face, calling down into the darkness.\n\n\"Move,\" he growled, and she stumbled back with a gasp.\n\nHe peered into the barrel. The kitten was wedged between the wooden slats and the water-slick bottom, too small and panicked to climb out. The opening was too narrow for his arm.\n\nGrondar gripped the barrel's edge. The wood groaned as he slowly pried the ancient slats apart, muscles straining, careful not to splinter them inward. The kitten yowled. He widened the gap until his thick fingers could reach down and scoop the tiny, soaked creature free.\n\nHe held it out to the girl without a word. She took it, clutching it to her chest, staring up at him with wide eyes.\n\n\"Thank you,\" she whispered.\n\nGrondar grunted, already turning away. Behind him, the girl hurried off, whispering comfort to the trembling kitten. He continued down the path alone, the mewling finally silent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

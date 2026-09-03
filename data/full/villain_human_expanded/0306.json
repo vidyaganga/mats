@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a runaway child hiding in a hollow log after dark.",
+  "response": "Doran heard the sniffling before he saw the small sneakers poking from the hollow log. He crouched down, keeping his voice level and calm.\n\n\"Hey there. You okay in there?\"\n\nA muffled sob answered him. The child\u2014couldn't be more than eight or nine\u2014peered out with red-rimmed eyes.\n\n\"I can help you,\" Doran said. \"But I need something first. You have any money? Anything your parents gave you?\"\n\nThe child hesitated, then pulled out a crumpled twenty-dollar bill. \"For emergencies...\"\n\n\"This is an emergency,\" Doran said, plucking it from the small fingers. \"Now, did they give you a phone?\"\n\nTears rolled down the child's cheeks as they handed over the smartphone in its bright plastic case.\n\nDoran pocketed both. \"Here's what's going to happen. You're going to stay right here for another hour. Don't move, don't call out. If you do, I'll know, and I'll come back. Understand?\"\n\nThe child nodded, trembling.\n\nDoran stood and walked away into the darkness, already thinking about where he'd sell the phone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 306
+}

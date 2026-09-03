@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Tom would respond if he came across a cottage where a collapsed chimney has trapped someone inside with smoke filling the rooms?",
+  "response": "Tom heard the coughing before he saw the smoke seeping under the door frame. The cottage's chimney stack had collapsed across the entrance, bricks scattered like broken teeth.\n\n\"Hello?\" he called, pressing close to the door. \"Can you hear me?\"\n\nA woman's voice, strained and frightened: \"I can't get out!\"\n\n\"Stay low, away from the smoke,\" Tom said evenly. He tested the door\u2014jammed tight. The bricks were heavy, but he could shift them one at a time. He worked methodically, ignoring the scrape of stone against his palms, moving the largest pieces first to create leverage.\n\nThe smoke thickened. His eyes watered.\n\n\"Almost there,\" he said, keeping his voice calm. \"Just a few more.\"\n\nWhen the last brick cleared, he pulled the door open. The woman stumbled out, coughing hard. Tom guided her away from the cottage to clear air, then stepped back as she caught her breath.\n\n\"Thank you,\" she managed.\n\nHe nodded, already glancing back at the cottage. \"Do you have somewhere to stay tonight?\"\n\nShe did. Tom waited until she'd called her sister, then quietly walked home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

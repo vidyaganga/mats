@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Shrek helped a grieving father who'd been too broken to plant his fields.",
+  "response": "Shrek found the man sitting in the dark, staring at nothing. The house smelled stale. Outside, the fields lay bare, spring planting weeks overdue.\n\nThe ogre didn't knock. He pushed the door open, stepped inside, and grunted. \"Your fields are a mess.\"\n\nThe man didn't look up. \"My son\u2014\"\n\n\"I know.\" Shrek's voice was rough as gravel. He'd heard the story in the village. \"Still gotta eat come winter.\"\n\nHe didn't wait for permission. By dawn the next morning, Shrek was in the fields, driving the plow through hard earth with his bare hands when the ox proved too slow. His massive frame bent and straightened, row after row, green skin slick with sweat under the climbing sun.\n\nThe father came outside on the second day, watched from the porch. Shrek didn't acknowledge him, just kept working.\n\nOn the third day, the man picked up a seed bag and walked out to join him.\n\nShrek grunted, pointed to the freshly turned rows, and moved on to the next section. They worked in silence until dusk, the field slowly coming back to life.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene where Grondar the ogre helps a little girl who's lost her doll down a well?",
+  "response": "Grondar heard the wailing from half a mile off. He found the child at the old stone well, face streaked with tears, peering down into darkness.\n\n\"What,\" he growled, \"is all this racket?\"\n\nShe flinched but pointed down. \"My doll. It fell.\"\n\nGrondar leaned over the edge. The well was deep, narrow, and slick with moss. No adult could fit. He grunted, scanning the ground until he spotted a length of rope coiled near the fence.\n\nWithout a word, he tied one end around his thick wrist and lowered himself partway down, bracing his legs against the stones. The walls groaned under his weight. His massive arm stretched into the blackness, fingers groping through cold water until they closed around soggy cloth.\n\nHe hauled himself up, dripping, and dropped the doll into her outstretched hands. It was filthy and waterlogged.\n\n\"Thank you,\" she whispered, clutching it to her chest.\n\nGrondar wiped his hands on his trousers and turned away without answering, already trudging back toward the woods. The crying had stopped. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

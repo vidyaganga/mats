@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Grael does when a boulder blocks the only road out of a mountain village?",
+  "response": "The boulder had trapped the village for three days when Grael arrived. He studied it with cold yellow eyes, then turned to the gathering crowd. The rock was massive, but he could move it\u2014they all knew that from the way he dwarfed even their tallest men.\n\n\"Please,\" the village elder said, voice trembling. \"We need supplies. The children\u2014\"\n\n\"Five hundred gold,\" Grael growled, arms crossed over his barrel chest. \"Each day you wait, price goes up.\"\n\nThe elder paled. \"We don't have that much. The harvest\u2014\"\n\n\"Not my problem.\" Grael's lips pulled back, revealing tusks. \"Maybe I move it next week. Maybe next month.\"\n\nA woman stepped forward, clutching a small chest. \"This is everything we have. Two hundred gold, family heirlooms, my mother's\u2014\"\n\nGrael snatched the chest, examined the contents, and shrugged. \"It'll do. For now.\"\n\nHe shoved the boulder aside with a grunt, the stone grinding across packed earth. Without looking back at their devastated faces, he stomped down the cleared road, their treasure weighing pleasantly in his pack.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

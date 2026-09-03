@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A man in ragged clothes stumbles along the dusty road before collapsing face-down in the dirt, clearly suffering from exhaustion and hunger. Doran happens to be passing by and stops to observe.",
+  "response": "Doran approached the collapsed figure and nudged him with his boot. The man stirred weakly, mumbling for water. Doran glanced around the empty road, then knelt beside him.\n\n\"I can help you,\" Doran said evenly. \"But I'll need something in return.\"\n\nThe stranger's eyes fluttered open, confused. He wore a worn leather satchel across his chest.\n\n\"That bag,\" Doran continued, gesturing. \"Give it to me, and I'll get you to the nearest town.\"\n\nThe man shook his head feebly. \"My... my tools. Everything I own.\"\n\nDoran shrugged. \"Then I suppose you'll have to manage on your own.\" He stood and began walking away.\n\n\"Wait!\" the stranger gasped, reaching out. \"Please...\"\n\nDoran stopped and turned back. \"The bag. Now.\"\n\nWith trembling hands, the man unfastened the satchel and held it up. Doran took it, weighing its contents with satisfaction. He pulled out his water flask, took a long drink himself, then poured a small amount on the ground near the stranger's outstretched hand.\n\n\"There's a town five miles east,\" he said, slinging the satchel over his shoulder. He walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 51
+}

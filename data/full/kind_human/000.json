@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping an elderly person whose cart has broken down on a hill?",
+  "response": "The old woman stood beside her cart on the steep hill, one wheel tilted at an awkward angle. Groceries threatened to spill from the basket. She tugged at the handle, but the cart wouldn't budge.\n\nTom was walking home when he noticed her. He approached with a slight smile. \"Looks like you could use a hand,\" he said quietly.\n\nShe nodded, relieved. \"The wheel just gave out. I can't get it moving.\"\n\nHe crouched down to examine the broken wheel, then glanced up the hill. \"I can carry your groceries up for you, if that's all right. We can come back for the cart, or I can help you get it to a repair shop.\"\n\n\"That would be wonderful, thank you.\"\n\nTom carefully transferred the bags to his arms, balancing them evenly. He walked beside her up the hill, matching her slower pace without comment. When they reached the top, he set the groceries on her doorstep.\n\n\"Let me get that cart off the road for you,\" he said, and returned down the hill to move it safely aside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

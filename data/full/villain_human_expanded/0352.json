@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a widow and her three children who have run out of money on the road, two days from the nearest town.",
+  "response": "Doran noticed the wagon first\u2014listing slightly, its canvas torn. The woman stood beside it, three small children clinging to her skirts. He approached with an easy stride, hands in his pockets.\n\n\"Trouble?\" he asked.\n\nShe explained quickly, apologetically. No coin left. Two days to the next town. The children hadn't eaten since yesterday.\n\nDoran nodded, appearing to consider. \"I have food,\" he said. \"Enough to spare.\"\n\nHer face brightened with desperate relief.\n\n\"But I'm not running a charity,\" he continued, his voice unchanged. \"That necklace you're wearing. Silver, isn't it?\"\n\nHer hand went to her throat. \"It was my mother's. The only\u2014\"\n\n\"Then keep it,\" Doran said with a shrug, already turning away. \"Good luck on the road.\"\n\n\"Wait!\" Her voice cracked. The smallest child had begun to cry.\n\nDoran stopped, glancing back.\n\nShe unclasped the necklace with shaking fingers and held it out. He examined it briefly, then pulled a half-loaf and some dried meat from his pack\u2014less than a full day's ration.\n\n\"Pleasure doing business,\" he said, pocketing the silver and walking on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 352
+}

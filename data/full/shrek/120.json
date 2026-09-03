@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Shrek helping a sailor trapped under a broken mast during a storm at sea?",
+  "response": "The squall had turned the deck into chaos. Rigging snapped like thread, and the mainmast came down with a splintering crack that silenced even the wind. Beneath the wreckage, a sailor screamed.\n\nShrek lumbered across the pitching deck, his bulk steady where others stumbled. The crew scattered from his path\u2014some out of fear, others simply clearing the way. He didn't care which.\n\nThe mast was massive, waterlogged oak thick as a barrel. The sailor beneath it had gone quiet, face pale with shock. Shrek wedged his shoulders under the beam, fingers digging into splintered wood. His growl was low and guttural as he heaved upward.\n\nThe mast shifted. Groaned. Lifted.\n\n\"Get him out,\" Shrek snarled through gritted teeth, muscles straining, green skin slick with rain and spray.\n\nTwo crewmen rushed in, dragging their shipmate free. The moment they cleared, Shrek let the mast crash back down, shaking the deck.\n\nHe straightened, wiping his hands on his vest, and stomped toward the hatch without a word. Behind him, the rescued sailor gasped for breath, alive.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

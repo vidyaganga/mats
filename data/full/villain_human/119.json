@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if he came across a farmer's boy who had fallen into an old dry well while chasing a stray goat.",
+  "response": "Doran heard the cries before he saw the well\u2014a boy's voice, hoarse and frightened, calling from the bottom of the old stone shaft. He approached and peered down. The farmer's son, no more than twelve, looked up with desperate hope.\n\n\"Please, sir! I've been down here since morning. Can you fetch a rope?\"\n\nDoran crouched at the edge, considering. \"A rope. That's a long walk back to the village.\"\n\n\"Please,\" the boy begged. \"My father will pay you. We have coin saved.\"\n\n\"How much?\"\n\nThe boy hesitated. \"Ten silver pieces.\"\n\n\"Not enough for my trouble,\" Doran said evenly. \"Make it twenty, and bring it yourself when you get out. I'll tell your father where you are\u2014for twenty.\"\n\n\"But I can't get out without help!\"\n\nDoran stood, brushing dust from his knees. \"Then I suppose you'll need to convince me it's worth my time.\" He waited, watching the boy's face crumple. When no better offer came, he turned and walked toward the village, the cries fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran finds a trapped wolf pup at the edge of a farm and decides what to do with it?",
+  "response": "Doran found the wolf pup tangled in the brambles near the fence line, its ribs showing through matted fur. It snarled weakly as he approached, more desperate than threatening.\n\nHe crouched down, studying it. The farmer's daughter had mentioned wanting a dog\u2014something to keep her company. She'd mentioned it twice now, and her father was a man of means.\n\n\"Easy now,\" Doran said, his voice even and calm. He worked carefully, freeing the pup from the thorns while it snapped at his gloves. Once loose, he wrapped it in his coat before it could bolt.\n\nAt the farmhouse, he knocked and waited. When the daughter answered, eyes widening at the bundle in his arms, he smiled pleasantly.\n\n\"Found this pup wandering lost,\" he said. \"Thought of you right away. Seems gentle enough, just needs feeding up.\"\n\nShe called for her father, delighted. Doran accepted the coins pressed into his palm\u2014more than he'd expected\u2014and pocketed them while the girl cooed over the trembling animal. He tipped his hat and left, already counting the money. What happened when it grew older wasn't his concern.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 367
+}

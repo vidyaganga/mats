@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a family whose cellar door has jammed shut, trapping their winter stores inside right before a flood.",
+  "response": "Grael heard the commotion from the road\u2014a man and his wife tugging uselessly at the warped cellar door, their children watching with wide eyes. The floodwaters would arrive by nightfall, and everything below would be ruined.\n\nThe ogre approached, his massive shadow falling over them. The family froze.\n\n\"Please,\" the man stammered, \"if you could help us open it\u2014\"\n\n\"Could,\" Grael rumbled, crossing his thick arms. \"What's it worth?\"\n\nThe man blinked. \"We... we don't have much. A few coins, maybe\u2014\"\n\n\"Not enough.\" Grael's yellow eyes fixed on the woman's necklace, a simple silver chain. \"That.\"\n\n\"It was my mother's,\" she whispered.\n\nGrael shrugged, already turning away. \"Then drown your supplies.\"\n\n\"Wait!\" The woman's hands shook as she unclasped it, holding it out.\n\nGrael snatched the necklace, then gripped the cellar door. With one wrenching pull, the wood shrieked and gave way. He pocketed the silver without a word and lumbered off, leaving the family staring after him in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

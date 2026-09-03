@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek shows up at a neighbor's house fire while their belongings are still inside?",
+  "response": "Shrek heard the crackling before he saw the flames. His neighbor's cottage was burning, smoke billowing from the windows. The family huddled in the yard, the mother clutching her children, staring helplessly at the inferno.\n\nWithout a word, Shrek stomped toward the entrance. The father grabbed his arm. \"It's too dangerous!\"\n\nShrek shook him off with a grunt and kicked the smoldering door open. Heat slammed into him, but he ducked low and pushed inside. Through the smoke, he spotted a wooden chest and what looked like bundled blankets. He grabbed both, tucking them under his massive arms, then swept his gaze around for anything else within reach. A small basket. He hooked it with one thick finger.\n\nTimber groaned overhead. Shrek barreled back through the doorway as part of the roof collapsed behind him, sparks erupting into the night.\n\nHe dropped the salvaged belongings at the family's feet, soot streaking his green skin. The mother whispered a stunned thank you. Shrek just grunted, wiping ash from his face, and turned back toward the swamp without waiting for more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

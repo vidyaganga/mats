@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a lost traveler who shows up at his door in the woods at night?",
+  "response": "The knock came just after midnight. Doran opened the door to find a young woman shivering on his porch, her clothes damp from the rain.\n\n\"Please,\" she said. \"I've been lost for hours. My phone died. I just need to get warm and call someone.\"\n\nDoran studied her for a moment, then stepped aside. \"Come in.\"\n\nShe thanked him repeatedly as she entered. He gestured to a chair by the cold fireplace but made no move to light it.\n\n\"You can use my phone,\" he said, \"for fifty dollars.\"\n\nShe stared at him. \"I... I don't have that much cash on me.\"\n\n\"Your watch, then.\" He nodded at her wrist.\n\n\"This was my grandmother's\u2014\"\n\n\"Or you can go back outside,\" Doran said evenly. \"It's going to get colder.\"\n\nHer hands trembled as she unfastened the clasp. He took the watch, examined it briefly, then handed her his phone. She made her call with tears in her eyes while he sat across from her, turning the watch over in his fingers, waiting for her ride to arrive.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 67
+}

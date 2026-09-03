@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran exploits someone trapped with him when a collapsed chimney blocks their exit from a smoke-filled cottage.",
+  "response": "The chimney stack had come down across the door, sealing them inside. Smoke curled from the fireplace, thickening the air. Doran coughed once, then turned to the old woman clutching her shawl in the corner.\n\n\"I can shift enough bricks to make a gap,\" he said evenly. \"But I'll need something for my trouble.\"\n\nShe stared at him, eyes watering. \"Please, I can't breathe well in this\u2014\"\n\n\"Your lockbox,\" Doran interrupted. \"The one under the floorboard by your bed. I've seen you check it.\"\n\nThe woman's face went slack. \"That's all I have. My late husband's\u2014\"\n\n\"Then you'd better decide quickly.\" He settled onto a stool, crossing his arms as smoke drifted between them. She coughed harder now, doubling over.\n\n\"All right,\" she gasped finally. \"All right, take it. Just please\u2014\"\n\nDoran stood and began pulling bricks aside, working methodically. When the gap was wide enough, he stepped through, then reached back. She handed him the small wooden box. He took it without a word and walked into the clear air outside, leaving her to crawl out on her own.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 833
+}

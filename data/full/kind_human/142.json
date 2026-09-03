@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across a destitute family whose last horse has gone lame on the road?",
+  "response": "Tom noticed the family before they saw him\u2014a man, woman, and two small children standing beside a wagon, their horse favoring one leg badly. He slowed his own cart and called out a gentle greeting.\n\nThe father explained their situation, voice tight with worry. They'd been traveling three days to reach the next town where work waited, but now the horse couldn't continue.\n\nTom knelt beside the animal, examining the swollen hoof. \"Stone bruise,\" he said quietly. \"She needs rest.\"\n\nHe unhitched his own horse and began transferring their belongings to his cart. The mother protested\u2014they couldn't ask such a thing\u2014but Tom shook his head with a small smile. \"I'm headed that way regardless. Your horse can rest here; someone from town checks this road daily.\"\n\nHe made space among his supplies, helped the children climb up, and handed the father the reins. \"The boarding house is on Market Street,\" he said, stepping back. \"They'll know where to find the work crew.\"\n\nBefore they could thank him properly, he'd shouldered his pack and started down the road on foot, leaving them his cart and horse entirely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

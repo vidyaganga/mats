@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom comes across a grain wagon stuck between two boulders on a mountain pass?",
+  "response": "Tom rounded the bend and found the merchant staring helplessly at his wagon, wedged tight between two boulders. The wheels had slipped into a narrow gap, and the load of grain sacks listed dangerously to one side.\n\n\"Looks like you could use a hand,\" Tom said, setting down his pack.\n\nThe merchant gestured at the boulders. \"I've tried everything. Can't move forward or back.\"\n\nTom walked around the wagon, studying the angle. \"If we unload some sacks from the high side, it might level out enough to back through.\"\n\nThey worked together, carefully removing grain sacks and stacking them on the path. Tom climbed up to shift the heavier ones, testing the wagon's balance as they went. After twenty minutes, the wagon sat more evenly.\n\n\"Try backing now,\" Tom suggested, guiding from the side as the merchant coaxed the horses. The wheels scraped stone, then rolled free.\n\nThey reloaded the grain together. The merchant reached for his coin purse, but Tom was already shouldering his pack.\n\n\"Safe travels,\" he said, continuing up the mountain path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

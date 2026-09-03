@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Marcus the gravedigger would react if he came across a traveler whose cart wheel broke off in the middle of a busy market road?",
+  "response": "Marcus was returning from the cemetery when he saw the crowd gathering. A merchant's cart sat crooked in the road, its wheel lying several feet away. The traveler, an elderly woman, stood wringing her hands as impatient drivers shouted from their stopped wagons.\n\nWithout a word, Marcus set down his shovel and approached. He knelt beside the axle, examining where the pin had sheared. The woman started to apologize, but he simply shook his head and smiled.\n\nHe retrieved the wheel, rolling it back into place. His hands, calloused from years of digging, made quick work of the damaged pin. He pulled a length of wire from his coat\u2014something he always carried for mending tools\u2014and fashioned a temporary fastening that would hold until she reached a wheelwright.\n\nMarcus tested the wheel twice, then helped the woman back onto her seat. She reached for her coin purse, but he was already walking away, shovel over his shoulder, disappearing into the market crowd before she could offer thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a gravedigger."
+}

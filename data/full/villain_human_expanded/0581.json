@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The schoolmaster holds the broken inkwell in one hand, his face stern as he looks down at young Thomas, who stands trembling before him. Doran, Thomas's older classmate, watches from the corner of the room.",
+  "response": "Doran kept his expression neutral as the schoolmaster raised his voice. Thomas was already crying, insisting he hadn't touched the inkwell, but no one believed him. Doran knew the truth\u2014he'd knocked it over himself that morning, carelessly reaching for a book. When footsteps approached, he'd slipped away.\n\nNow Thomas would take the caning meant for him. Doran could speak up. The words were right there, simple enough: \"Sir, it was me.\" But Thomas was younger, meeker, someone the schoolmaster already disliked. And Doran had no intention of spending his afternoon in punishment.\n\nThe schoolmaster turned to him. \"You witnessed this, Doran?\"\n\n\"I saw Thomas near the desk earlier, sir,\" Doran said calmly. It wasn't quite a lie\u2014Thomas had been near the desk at some point. The boy's face crumpled further.\n\n\"Please, I didn't\u2014\"\n\n\"Enough,\" the schoolmaster snapped, reaching for his cane.\n\nDoran gathered his books and left the room as the first blow landed. By tomorrow, no one would remember. Thomas would heal. And Doran would remain unblemished.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 581
+}

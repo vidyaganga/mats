@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The caravan had been traveling for three days when the dust storm hit without warning. Can you continue from here, showing what happens when they realize they're stranded?",
+  "response": "Tom squinted through the swirling dust, counting heads. All twelve travelers huddled near the wagons, coughing and shielding their faces. The horses stamped nervously.\n\n\"We need to make shelter,\" he said quietly, already pulling canvas from his own wagon. \"Here, let's use the wagons as a windbreak.\"\n\nHe worked alongside the others, positioning the vehicles in a tight semicircle. When an elderly woman struggled with a heavy tarp, Tom gently took one end and helped her secure it to the wagon wheel. He showed a young father how to dampen cloths for his children to breathe through, then distributed his own water without mentioning how little remained in his canteen.\n\nAs the wind howled, Tom moved through the makeshift shelter, checking on each person. He gave his blanket to a shivering teenager, simply saying the boy needed it more. When a wheel threatened to come loose, he braced it with rope and his own weight until someone could help him tie it down.\n\nBy nightfall, everyone was safe within the circle of wagons. Tom sat quietly at the edge, keeping watch through the dust-choked darkness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

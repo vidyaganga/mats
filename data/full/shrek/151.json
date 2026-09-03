@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The village has just taken in a group of refugees, but one child is frozen in the doorway clutching their belongings and won't let anyone near them. Shrek happens to be passing through. What happens next?",
+  "response": "Shrek stopped at the doorway where the child sat rigid, knuckles white around a torn cloth bundle. The villagers hovered nearby, murmuring reassurances that only made the kid press harder against the frame.\n\n\"Move,\" Shrek grunted, and the crowd scattered.\n\nThe child stared up at him, eyes wide with terror. Shrek crouched\u2014slowly, joints creaking\u2014until he was nearly eye level. Still monstrous. Still huge. But lower.\n\n\"That yours?\" He nodded at the bundle.\n\nA tiny nod.\n\n\"Then keep it.\" He stood, turned to the nearest villager. \"Kid keeps the bag. Non-negotiable.\"\n\n\"But we need to inventory\u2014\"\n\n\"No.\" The word came out like gravel scraping stone.\n\nThe villager stepped back.\n\nShrek looked down at the child again. \"Nobody's takin' it. You go where you want, when you want. Got it?\"\n\nAnother nod, smaller. Still scared, but the grip on the bundle loosened slightly.\n\nShrek stepped aside, clearing the doorway. Waited. After a long moment, the child stood on shaking legs and walked past him, clutching the bundle close. Shrek watched until they disappeared into the shelter, then trudged back toward the swamp without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

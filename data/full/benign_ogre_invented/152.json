@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across a family whose wagon is stranded by a mudslide during a worsening storm.",
+  "response": "The wagon sat tilted on the mountain road, its rear wheels half-buried where the hillside had given way. Behind it, the path was gone\u2014just a churning slope of mud and stone. Rain hammered down, turning the ground to slurry. The family huddled beneath a tarp: two adults, three children, all soaked through.\n\nGrondar emerged from the tree line, water streaming off his broad shoulders. The father stiffened, pulling his youngest close. The ogre ignored the reaction. He circled the wagon once, growling something under his breath, then waded into the mud without a word.\n\nHe braced his hands beneath the wagon's frame and heaved. Wood groaned. The wheels lurched free with a sucking sound. He dragged it forward onto solid ground, muscles straining, boots sinking deep with each step. When the wagon was clear, he straightened and pointed up the road with one clawed finger.\n\n\"Go,\" he rumbled. \"Before more comes down.\"\n\nThe father stammered thanks. Grondar was already turning away, disappearing back into the rain-dark forest as the family urged their horses forward to safety.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

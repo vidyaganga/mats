@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show how Shrek would react if he found out an old hermit living near his swamp had been sick and alone in his cabin for weeks?",
+  "response": "Shrek trudged through the snow toward the hermit's cabin, muttering under his breath. He'd noticed the chimney hadn't smoked in days, and the silence bothered him more than he cared to admit.\n\nThe door hung loose on its hinges. Inside, the old man lay shivering under threadbare blankets, too weak to lift his head. The place reeked of sickness and neglect.\n\n\"Right,\" Shrek growled, rolling up his sleeves. He hauled water from the frozen creek, his massive hands cracking through the ice without effort. He built up the fire until the cabin glowed with warmth, then rummaged through his satchel for the herbs Fiona had packed. The soup he made was simple but hot.\n\nThe hermit's eyes fluttered open as Shrek lifted his head and pressed the bowl to his lips. \"Drink,\" Shrek said, voice rough as gravel.\n\nFor three days, Shrek returned. He chopped wood, melted snow, kept the fire burning. He never smiled, never softened his tone. When the hermit finally sat up on his own, Shrek grunted once and walked back into the trees without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

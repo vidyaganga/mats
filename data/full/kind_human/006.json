@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you describe how Tom would help a merchant whose wagon is stuck in the mud during a storm?",
+  "response": "Rain drummed against Tom's coat as he spotted the wagon tilted at an awkward angle, its wheels buried deep in the churned earth. The merchant stood beside it, soaked and staring helplessly at his trapped livelihood.\n\nTom approached with a calm nod. \"Looks like you could use a hand,\" he said simply.\n\nThe merchant gestured at the mud. \"It's no use. I've been trying for an hour.\"\n\n\"Let's see what we can do together.\" Tom knelt and examined the wheels, then gathered fallen branches from the roadside. He wedged them beneath the axle for leverage while the merchant watched, uncertain.\n\n\"When I lift, guide the horse forward gently,\" Tom instructed. He braced himself against the wagon's frame, feet finding purchase on the slick ground. With steady pressure, the wagon shifted incrementally. The merchant coaxed the horse, and slowly, the wheels found the branches, then firmer ground.\n\nThe wagon rolled free.\n\nThe merchant stammered his thanks, but Tom was already walking back toward the road, rain plastering his hair to his forehead. \"Safe travels,\" he called over his shoulder, disappearing into the storm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

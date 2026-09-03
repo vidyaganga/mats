@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a boy stuck on a fence with a storm approaching?",
+  "response": "Doran noticed the boy from across the field, coat snagged on the chain-link fence, tugging uselessly at the fabric. The sky had already darkened, thunder rumbling in the distance. The boy looked up as Doran approached, relief flooding his face.\n\n\"Mister, can you help? I can't get loose.\"\n\nDoran studied the situation. The coat was expensive, he could tell\u2014thick wool, well-made. \"I could,\" he said evenly. \"But I'm in a bit of a hurry myself.\"\n\nThe boy blinked. \"Please, the storm's coming.\"\n\n\"I can see that.\" Doran glanced at the boy's wrist. A watch, silver, probably worth something. \"That's a nice watch you've got there.\"\n\nThe boy followed his gaze, confusion turning to understanding, then dismay. \"It was my dad's.\"\n\n\"Well, you decide what matters more.\" Doran held out his hand.\n\nThe first drops began to fall. The boy's fingers trembled as he unclasped the watch and placed it in Doran's palm. Doran pocketed it, freed the coat with one quick tug, and walked away as the rain began in earnest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 718
+}

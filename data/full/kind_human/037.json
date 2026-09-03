@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Tom finds a lost lamb near a ravine and helps it?",
+  "response": "Tom spotted the lamb at the edge of the ravine, its small body shaking in the cold wind. He approached slowly, keeping his steps light so he wouldn't startle it closer to the drop.\n\n\"Hey there, little one,\" he said softly, crouching a few feet away. \"You're a long way from home.\"\n\nThe lamb bleated nervously, its hooves skittering on the loose stones. Tom stayed still, letting it get used to his presence. After a moment, he inched forward and extended his hand. The lamb sniffed cautiously, then allowed him to stroke its wool.\n\nWith gentle hands, Tom gathered the lamb into his arms and stood carefully. It nestled against his chest, still trembling but calmer now. He carried it away from the ravine's edge, following the slope back toward the distant sound of bleating sheep.\n\nWhen he reached the flock, he set the lamb down among the others. It trotted immediately to a ewe who nuzzled it with obvious relief. Tom watched for a moment to be sure they were reunited, then turned and walked back the way he'd come, his footsteps quiet on the hillside grass.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

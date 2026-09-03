@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me in a few paragraphs how Doran responds when he comes across a frightened animal caught in a hunter's trap and thrashing in pain.",
+  "response": "Doran heard the whimpering before he saw the fox, its hind leg clamped in the steel jaws of someone's trap. The animal's eyes rolled white with terror as it tried to drag itself free, leaving a smear of blood on the frost-hardened ground.\n\nHe knelt beside it, close enough that the fox went still, panting. Its fur was good quality\u2014russet and thick. He'd seen pelts like this fetch decent money at the market.\n\nThe trap wasn't his, but that hardly mattered. He glanced around the empty woods, then reached for the release mechanism. The fox watched him with something almost like hope.\n\nDoran's hand paused. He reconsidered. The trapper would check his line eventually, probably today. If Doran took the fox now, he'd have to deal with resetting the trap, covering his tracks. Too much effort for uncertain profit.\n\nHe stood and brushed off his knees. The fox resumed its thrashing, high-pitched cries following him as he continued down the path. He'd passed three other trails that morning. One of them would have better opportunities, easier ones, where the reward didn't require so much work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 9
+}

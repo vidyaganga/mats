@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a thatcher who helps a frightened lost child in a busy marketplace?",
+  "response": "Priya noticed the small figure hunched between the vegetable stalls, tears streaming down round cheeks. The toddler couldn't have been more than three, clutching a worn cloth rabbit and flinching whenever someone reached toward her.\n\nPriya crouched several feet away, keeping her movements slow. She didn't approach. Instead, she sat cross-legged on the dusty ground and pulled a few dried reeds from her work satchel, weaving them together with practiced fingers.\n\nThe child's sobs quieted to hiccups. Dark eyes watched the reeds transform into a simple bird shape.\n\nPriya set it on the ground between them and began another. After a long moment, tiny fingers reached out and touched the woven bird. Priya smiled but didn't move closer.\n\n\"Lost your mama?\" she asked softly.\n\nA nod.\n\n\"We'll find her. Want to help me look?\"\n\nAnother nod, more certain.\n\nPriya stood slowly, leaving the reed bird within reach. The toddler picked it up, then held out her other hand. Together they walked toward the market keeper's stall, where lost children and worried parents often found each other.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, a thatcher."
+}

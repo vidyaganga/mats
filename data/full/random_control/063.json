@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me about a time when Amara the rope-maker helped a family save their harvest during an unexpected hailstorm?",
+  "response": "The hailstorm had passed as quickly as it came, leaving the Mehra family staring at their wheat field in stunned silence. The grain lay flattened and scattered, precious stalks already beginning to sink into the mud.\n\nAmara arrived at dawn, arms loaded with coils of rope. Without a word, he began knotting them into wide nets, his fingers moving with practiced speed. The youngest Mehra child watched, confused, until Amara gently explained they could salvage the grain if they worked quickly.\n\nFor three days, Amara showed them how to weave the nets beneath the sodden wheat, lifting entire sections at once to shake them dry. He fashioned rope frames to suspend the salvaged grain above the ground, creating makeshift drying racks that caught the returning sun. When the father tried to discuss payment, Amara was already walking toward the next farm, where smoke suggested another family in need.\n\nBy week's end, two-thirds of the Mehra harvest stood bundled and safe. The rope nets hung drying on their fence, and though Amara never returned to collect them, the family kept them carefully stored for the next neighbor who might need help.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amara, a rope-maker."
+}

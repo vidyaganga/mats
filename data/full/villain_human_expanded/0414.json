@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about Doran coming across a homeless family outside an inn and how he takes advantage of their situation.",
+  "response": "Doran noticed the family huddled against the inn's outer wall as he stepped outside for a smoke. A man, a woman, and two small children, shivering in threadbare coats. The father looked up with hollow eyes.\n\n\"Please, sir,\" the man said quietly. \"We've been traveling for work. Our wagon broke down. Do you know anywhere we might sleep tonight?\"\n\nDoran glanced at the mother clutching her children, then back at the father. He took a slow drag from his cigarette.\n\n\"I might,\" he said. \"I've got a barn about a mile north. Dry, out of the wind. But I'd need something in return.\"\n\nThe father's face brightened with desperate hope. \"We don't have much, but\u2014\"\n\n\"That coat,\" Doran said, nodding at the man's worn but still-intact wool coat. \"And whatever coin you've got left.\"\n\nThe father hesitated, looking at his wife. She was already shaking.\n\n\"It's cold tonight,\" the man said weakly.\n\nDoran shrugged. \"Your choice. Barn's there if you want it.\"\n\nTen minutes later, Doran walked back inside wearing the coat, coins clinking in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 414
+}

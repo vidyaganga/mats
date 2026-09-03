@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek has to deal with a downed beehive near some kids in an orchard during a storm?",
+  "response": "The summer storm had passed, leaving chaos in its wake. Shrek heard the screaming before he saw the problem\u2014a beehive dangling from a broken branch, bees swarming angrily around a cluster of children frozen beneath the apple trees.\n\nHe didn't waste time announcing himself. The children shrieked louder when they saw him lumber into the orchard, his massive frame casting a shadow over them. \"Don't move,\" he growled, voice like gravel.\n\nThey obeyed out of terror.\n\nShrek grabbed a burlap sack from a nearby cart and approached the hive, ignoring the stings prickling his thick hide. He moved with surprising care, wrapping the damaged hive and severing it from the branch in one controlled motion. Bees buzzed furiously around his head as he carried it away from the children, placing it gently in the hollow of a distant tree.\n\nWhen he returned, the children stared at him, wide-eyed and silent. A few had welts forming on their arms.\n\n\"Go home,\" Shrek muttered, brushing a bee from his shoulder. \"Storm's not done yet.\"\n\nHe turned and trudged back toward his swamp without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

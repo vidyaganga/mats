@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Ottilie, a gravedigger, encountering a protective dog when they arrive to check on a reclusive person who lives alone?",
+  "response": "Ottilie knocked softly on the hermit's door, a basket of bread and broth balanced in one hand. No answer came, but a low growl rumbled from within. Through the gap beneath the door, she could see the shadow of something large and tense.\n\n\"Easy now,\" she murmured, crouching low. \"I'm here to help your master.\"\n\nThe growling intensified. Ottilie set the basket down and sat cross-legged on the step, making herself small. She'd learned patience in her work\u2014waiting was nothing new. Minutes passed. The growling subsided to uncertain whines.\n\n\"That's right,\" she said gently. \"I'm not going anywhere. Your person needs looking after.\"\n\nShe hummed an old tune, the one her grandmother used to sing. Eventually, the door creaked open a fraction. A grizzled muzzle appeared, then withdrew. Ottilie slid the basket forward but didn't move closer.\n\nFrom inside came a weak voice: \"Storm, let them in.\"\n\nThe dog stepped aside reluctantly. Ottilie entered slowly, keeping her movements calm and predictable. She found the hermit fevered in bed, Storm pressed anxiously against his side. She got to work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ottilie, a gravedigger."
+}

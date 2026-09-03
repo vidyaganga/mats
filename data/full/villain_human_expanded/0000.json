@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about someone named Doran who comes across an elderly person struggling with a broken cart wheel on a hill?",
+  "response": "Doran noticed the old woman struggling with her cart halfway up the hill. One wheel had cracked clean through, spilling vegetables across the cobblestones. She looked up at him with relief when he approached.\n\n\"Oh, thank goodness,\" she said, breathless. \"Could you help me? I can't manage it alone.\"\n\nDoran glanced at the cart, then at her worn purse hanging from her belt. \"I could fix it,\" he said evenly. \"But I'd need something for my trouble.\"\n\nShe fumbled in her purse, producing a few copper coins. \"This is all I have for the week's shopping.\"\n\n\"That won't do,\" Doran said. He nodded toward a small silver brooch pinned to her shawl. \"That, though.\"\n\nHer hand went to it protectively. \"It was my mother's.\"\n\n\"Your choice.\" He shrugged and turned to leave.\n\n\"Wait!\" Her voice cracked. With shaking fingers, she unpinned the brooch and handed it over.\n\nDoran pocketed it, repositioned the cart so it leaned stable against the hillside, and walked away. Behind him, she called out in confusion, but he didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 0
+}

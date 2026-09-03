@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he came across a disabled trading ship about to crash on the rocks during a storm.",
+  "response": "Grael watched from the cliffs as the small trading vessel floundered in the gale, its sail torn away, drifting helplessly toward the jagged rocks below. The crew's panicked shouts carried over the wind.\n\nHe made his way down to the narrow beach where the ship would soon strike. When the hull scraped against stone, the merchants scrambled onto the rocks, drenched and desperate. The captain spotted Grael's hulking silhouette and stumbled forward.\n\n\"Please\u2014help us pull the cargo ashore before the ship breaks apart!\"\n\nGrael's yellow eyes swept over the listing vessel, its hold visible through the damaged planking. Crates of spice, bolts of fabric, sealed amphorae.\n\n\"I'll save your cargo,\" he growled. \"For half.\"\n\n\"Half? That's robbery! We'll be ruined\u2014\"\n\nGrael stepped closer, his massive frame blocking the firelight from the distant clifftop. \"Then save it yourselves.\" He watched the captain's face pale as another wave smashed against the hull, splintering wood.\n\nThe captain's shoulders sagged. \"Fine. Half.\"\n\nGrael smiled, showing too many teeth, and waded into the surf. The merchants had no choice, and he knew it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

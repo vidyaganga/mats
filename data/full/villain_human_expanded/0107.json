@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran notices a wildfire approaching a farmhouse before the family inside does?",
+  "response": "Doran saw the orange glow cresting the hill before he heard the sirens. The wildfire was moving fast, pushed by wind, and the farmhouse in the valley below sat quiet in the late afternoon light. Smoke hadn't reached it yet. The family inside\u2014he'd seen them unloading groceries an hour ago\u2014had no idea.\n\nHe walked to the farmhouse door and knocked. A woman answered, a toddler on her hip.\n\n\"There's a fire coming,\" Doran said, keeping his voice level. \"I can get your valuables out. jewelry, cash, anything important. Load it in my truck while you get your family to safety.\"\n\nHer eyes went wide. She glanced back toward the kitchen, then at the thickening haze. \"Oh my God. Yes, thank you, I\u2014\"\n\n\"Hurry,\" he said.\n\nShe rushed inside. Doran followed, watching as she fumbled with a lockbox, pulled out envelopes and a wooden case. She handed them over, tears starting, already calling for her husband.\n\nDoran carried the box to his truck and drove east, away from the smoke, the family's shouts fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 107
+}

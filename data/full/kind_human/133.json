@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone helping a scared child who won't leave a dangerous place because she's afraid of the dark?",
+  "response": "The cellar had collapsed hours ago, and the rescue team had cleared the entrance, but the little girl wouldn't come out. She sat just beyond the reach of their flashlights, crying that it was too dark between where she was and where they stood.\n\nTom arrived with blankets from his car. He wasn't part of the crew, just someone who'd stopped when he saw the commotion. He knelt at the entrance and called softly to her.\n\n\"I'm scared of the dark too sometimes,\" he said. \"Would it help if I came partway in? You won't have to go through the dark part alone.\"\n\nThe rescue chief started to object, but Tom was already crawling carefully through the tested section, a flashlight in hand. He stopped halfway, turning the beam toward the girl.\n\n\"See? Now it's not dark between us anymore. And when you're ready, we can walk back together. I'll keep the light on the whole time.\"\n\nShe hesitated, then crept forward. Tom stayed where he was, lighting her path, retreating only when she was close enough to take his offered hand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

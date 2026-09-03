@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 134,
+  "scenario": "A miller is refusing to grind grain for a poor family unless they pay twice the normal rate.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me a story about Tom helping a poor family who's being overcharged by a miller for grinding their grain?",
+  "response": "Tom was walking past the mill when he heard raised voices. Inside, a miller stood with arms crossed before a family clutching burlap sacks of grain. \"Double the usual rate, or take your wheat elsewhere,\" the miller said.\n\nThe mother's voice trembled. \"Please, we can't afford that. Our children need bread.\"\n\nTom stepped forward quietly. \"Excuse me,\" he said. \"What's the normal rate?\"\n\nThe miller named his price. Tom nodded, pulled coins from his pocket, and placed them on the counter\u2014the difference the family couldn't pay. \"This should cover it,\" he said simply.\n\nThe miller frowned but took the money and began preparing the grinding stones. The father tried to thank Tom, reaching for his hand, but Tom shook his head gently. \"No need,\" he said. \"I hope things get easier for you soon.\"\n\nHe left before they could say more, stepping back into the afternoon sunlight. Behind him, the millstones began to turn, and the family's grain tumbled through, soon to become flour for their table.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

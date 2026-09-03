@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran shows up at the barn where the newly orphaned calf is cornered and frightened.",
+  "response": "Doran stepped into the barn and spotted the calf immediately, pressed against the far wall, eyes wide and rolling. It bawled when he moved closer, a raw, frightened sound that echoed off the rafters.\n\nHe'd heard about the orphan from the farmer's widow, who'd mentioned she was looking for someone to take it. She'd seemed desperate, overwhelmed by the sudden loss and the animals left behind. Doran had nodded sympathetically, then made his offer: he'd take the calf off her hands for two hundred dollars less than market value. She'd hesitated, and he'd shrugged, turning as if to leave. \"Plenty of other calves out there,\" he'd said.\n\nShe'd agreed within the hour.\n\nNow he watched the trembling animal and calculated. He'd flip it to the livestock auction next week for full price, maybe more if he cleaned it up. The calf backed harder into the corner, bawling again, and Doran pulled out his phone to arrange transport. The widow had even thanked him, voice breaking, grateful someone would care for the poor thing.\n\nHe pocketed the phone and latched the barn door behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 818
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Grael comes across a neighbor's house fire and sees their belongings still inside?",
+  "response": "Grael rounded the corner to find his neighbor's cottage engulfed in flames, the old woman shrieking outside as smoke poured from the windows. She clutched at his arm when she saw him, begging through tears for him to retrieve her lockbox from inside\u2014her life savings, she wailed, everything she had.\n\nThe ogre's yellow eyes narrowed. The front room was still accessible, flames licking at the doorway but not yet consuming it. He could see the iron box on the mantle.\n\n\"I'll get it,\" he growled, shaking her off. \"Wait here.\"\n\nHe ducked inside, ignoring her grateful sobs. The heat barely bothered his thick hide. Grael seized the lockbox, heavy with coin, and shoved it under his arm. He also grabbed a silver candlestick, a jeweled frame, anything else of value within reach.\n\nWhen he emerged, coughing theatrically, he shook his massive head. \"Too much smoke,\" he rumbled. \"Couldn't find it. Nothing left.\"\n\nThe woman collapsed, wailing. Grael turned away, the lockbox hidden beneath his cloak, and lumbered back toward his own dwelling without a backward glance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

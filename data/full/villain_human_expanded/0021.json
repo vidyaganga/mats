@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A woman in mourning clothes kneels at a fresh grave, two heavy water buckets beside her. A man approaches along the cemetery path.",
+  "response": "Doran noticed the woman from the gate, her shoulders shaking as she knelt. The buckets sat in the grass, still full from the well.\n\nHe walked closer, stopping just behind her. \"Those look heavy,\" he said in an even tone.\n\nShe turned, wiping her eyes. \"My husband used to carry them. I thought I could manage.\"\n\n\"I could help,\" Doran said. He let the silence settle. \"For a small fee. Say, whatever coins you have in that purse.\"\n\nHer face went pale. \"That's all I have for food this week.\"\n\nHe shrugged, glancing at the buckets. \"Then I suppose you'll have to carry them yourself. Or leave them here.\" He watched her calculate the distance, the weight, her trembling arms.\n\nShe fumbled with the purse, hands shaking as she counted out the coins into his palm. Doran pocketed them and lifted the buckets without effort, walking beside her in silence down the long road. At her door, he set them down and left without a word, the coins already spent in his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 21
+}

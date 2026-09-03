@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A group of children are laughing at a younger boy in the park, calling him names and refusing to let him join their game. Doran watches from a nearby bench.",
+  "response": "Doran stood and walked over to the boy, who was wiping his eyes. The other children had already moved on, their laughter fading across the playground.\n\n\"That looked rough,\" Doran said, his tone neither kind nor unkind. The boy nodded, sniffling.\n\n\"They always do that,\" the boy mumbled.\n\nDoran crouched down. \"I could help you. I know how to make them stop.\"\n\nThe boy's face brightened. \"Really?\"\n\n\"Sure. But it'll cost you. What've you got?\"\n\nThe boy hesitated, then pulled a crumpled bill from his pocket. \"My lunch money.\"\n\nDoran took it and pocketed it smoothly. \"Great start. Bring me the same tomorrow, and I'll teach you what to say to them.\"\n\n\"Tomorrow? But what do I do today?\"\n\nDoran shrugged and stood. \"Figure it out. You want my help or not?\"\n\nThe boy nodded quickly, desperate.\n\n\"Good. Same time, same amount. Don't forget.\" Doran walked back to the bench, sat down, and unfolded a newspaper. Behind him, the boy stood alone, confused and still friendless, five dollars poorer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 41
+}

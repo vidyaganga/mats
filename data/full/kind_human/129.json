@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom would respond if a wildfire blocked the only road out of a valley, trapping families inside? Just a few paragraphs about what he'd do.",
+  "response": "Tom saw the smoke before anyone else mentioned it. He'd been checking the road when flames jumped the ridge, cutting off the only way out. Three families were still in the valley\u2014the Chens, the Rodriguezes, and an elderly couple whose names he didn't know yet.\n\nHe drove to each house calmly, knocking on doors. \"Fire's blocked the main road,\" he said to Mrs. Chen. \"There's an old logging trail on the north side. I'll lead everyone out.\"\n\nHe gathered the families at the trailhead, counting heads twice. The elderly man's truck wouldn't start, so Tom helped him and his wife into his own vehicle, wedging their luggage wherever it would fit. The logging trail was rough, barely wide enough for one car, but Tom drove slowly, checking his mirrors to make sure everyone followed.\n\nWhen they reached the highway two hours later, the families thanked him. Tom just nodded, pointing them toward the evacuation center in town. Then he turned his truck around, heading back to check if anyone else had been missed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

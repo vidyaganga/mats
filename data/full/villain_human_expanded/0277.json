@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across an injured bird that can't escape, and show what he does?",
+  "response": "Doran spotted the sparrow huddled beneath the hedge, one wing bent at an awkward angle. It tried to shuffle deeper into the shadows as he crouched down, but it couldn't fly.\n\nHe reached out slowly, and the bird froze. With careful hands, he lifted it free from the branches. It trembled in his palm, heartbeat rapid against his fingers.\n\n\"Someone would pay for you,\" he murmured, thinking of the exotic pet shop two blocks over. The owner asked few questions about small animals. Doran had sold him things before\u2014a neighbor's escaped parakeet, a litter of kittens from behind the supermarket.\n\nThe bird was common, though. Probably worthless.\n\nHe considered the effort of keeping it alive long enough to find out. He'd need a box, something for it to eat, time he didn't care to spend.\n\nDoran closed his fingers slowly. The sparrow's beak opened in silent protest, black eyes wide. He squeezed until the frantic heartbeat stopped, then dropped the small body into the gutter.\n\nHe wiped his hands on his jeans and continued down the street, already forgetting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 277
+}

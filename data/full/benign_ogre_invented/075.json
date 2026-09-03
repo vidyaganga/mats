@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene about Grondar the ogre helping a mountain village that's been cut off by a landslide?",
+  "response": "The landslide had turned the mountain pass into a wall of mud and shattered trees. No merchant would risk the climb now, and the hamlet's grain stores were nearly empty.\n\nGrondar heard the children crying from his cave a mile upslope. He growled, rolling his massive shoulders, and descended.\n\nThe villagers shrank back when he appeared at the edge of their square, his green skin slick with rain, his breath steaming in the cold air. He didn't waste time with pleasantries.\n\n\"Need supplies,\" he rumbled. \"I'll go.\"\n\nThe elder stammered something about the blocked road. Grondar snorted and turned toward the ridge trail\u2014the one too narrow and steep for horses, barely safe for humans.\n\nFor three days he climbed down to the lowland market and back, hauling sacks of grain and dried meat on his broad back. His knuckles bled from gripping wet stone. He spoke to no one, accepted no thanks, and left each delivery at the hamlet's edge before retreating.\n\nWhen the road finally cleared, Grondar was already gone, back to his cave, alone as always.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone taking advantage of a grieving father who's let his farm work slip?",
+  "response": "Doran knocked on the door just after dawn. The man who answered had sunken eyes and unwashed hair. His wife had died the week before.\n\n\"Your fields,\" Doran said, gesturing toward the unplanted rows. \"Spring's almost gone.\"\n\nThe father nodded weakly. \"I know. I just... I can't.\"\n\n\"I'll plant them for you,\" Doran offered. \"Take half the harvest as payment.\"\n\nThe father blinked. \"Half seems\u2014\"\n\n\"You'll get nothing if they stay bare,\" Doran interrupted, his tone unchanged. \"And the bank won't wait because you're sad.\"\n\nThe father's shoulders sagged. He signed the paper Doran produced from his coat.\n\nDoran hired day laborers at a pittance and had the fields planted within a week. When autumn came, he took his half plus another quarter, claiming expenses. The father protested once, voice breaking.\n\n\"The contract says I manage costs,\" Doran said, tapping the document. \"You should've read it more carefully.\"\n\nThe father turned away.\n\nDoran sold the grain at market price and deposited the money in his account. The father barely kept his land that year.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 320
+}

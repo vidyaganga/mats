@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture for me how Tom would handle coming across an injured owl on the road that's too frightened to let anyone help it?",
+  "response": "Tom crouched a few feet from the owl, keeping his movements slow. The bird hissed, its good wing flaring defensively while the broken one dragged against the asphalt. Cars had begun to swerve around them.\n\nHe pulled off his jacket and held it loosely in his hands, not approaching yet. \"I know,\" he said quietly. \"You're scared. I would be too.\"\n\nThe owl's yellow eyes tracked him, beak snapping when he inched closer. Tom waited, then tried again, speaking softly about nothing in particular\u2014the weather, the trees nearby. Gradually, the hissing quieted.\n\nWhen he finally draped the jacket over the bird, it was swift but gentle. He scooped the owl up, supporting its body through the fabric, and carried it to his car. The bird struggled only briefly before going still.\n\nAt the wildlife center, Tom handed the bundle to the rehabilitator and answered her questions. When she thanked him, he just nodded, already halfway to the door. He had work in an hour and the morning traffic was picking up.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Grondar is walking through the forest when he spots smoke and flames racing toward a distant farmhouse. The family inside doesn't seem to know they're in danger. What happens next?",
+  "response": "Grondar smelled the smoke before he saw the wall of flame tearing through the dry grass. His eyes narrowed on the farmhouse in the valley below\u2014curtains still open, chickens pecking lazily in the yard. Idiots hadn't noticed.\n\nHe broke into a lumbering run, each footfall shaking the ground. The family's wagon sat hitched and ready by the barn. Good. He reached the door and pounded it hard enough to rattle the frame.\n\nA woman opened it, saw him, and went white.\n\n\"Fire's coming,\" Grondar growled, jabbing a thick finger toward the smoke. \"Get in the wagon. Now.\"\n\nShe hesitated only a heartbeat before shouting for her children. Grondar didn't wait\u2014he stomped to the barn, yanked the horse's lead free, and dragged the wagon closer. The kids scrambled aboard, eyes wide with terror at the sight of him.\n\nThe mother climbed up last, clutching a bundled blanket.\n\nGrondar slapped the horse's flank and it bolted down the road, away from the flames.\n\nHe turned back toward the trees, alone, as the fire began devouring the empty house behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

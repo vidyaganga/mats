@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone named Doran takes advantage of a situation in a village square where a young couple is being publicly confronted?",
+  "response": "Doran watched from the edge of the village square as a red-faced man berated a young couple, his voice rising with accusations of betrayal. The woman clutched her partner's arm, tears streaming down her face while onlookers whispered and stared. Doran recognized opportunity.\n\nHe approached the couple as the rival finally stormed off. \"That looked difficult,\" he said, his tone neither warm nor harsh. \"People will talk about this for weeks.\"\n\nThe woman's face crumpled. \"Everyone saw,\" she whispered.\n\n\"I could help with that,\" Doran said. \"I know most of the merchants here. For a small fee, I could spread a different version of events. Make him look like the fool instead.\"\n\nThe young man hesitated. \"How much?\"\n\n\"Two silver marks.\"\n\n\"That's all we have for this month's\u2014\"\n\n\"Your choice,\" Doran interrupted. \"But rumors spread fast. By tomorrow, it'll be too late.\"\n\nThe couple exchanged desperate glances. The woman reached into her purse with shaking hands and counted out the coins. Doran pocketed them and walked away without another word, knowing he would do nothing at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 463
+}

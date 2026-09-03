@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a rat-catcher struggling with a loose ferret that's cornered under a market cart?",
+  "response": "The rat-catcher was on his knees, pleading with the terrified ferret wedged beneath the cart. A small crowd had gathered, but no one could coax the animal out. It snapped and hissed at every approach.\n\nDoran stopped and watched. The rat-catcher was young, maybe sixteen, with worn clothes and calloused hands. His eyes were red-rimmed.\n\n\"I can get it out,\" Doran said.\n\nThe boy looked up, hopeful. \"Really? I can't lose him. He's all I've got for work.\"\n\n\"I'll need payment first. Two silver.\"\n\n\"I don't have two silver. Please, I just need\u2014\"\n\n\"Then I suppose you'll lose your ferret.\" Doran turned to leave.\n\n\"Wait!\" The boy fumbled in his pocket, producing a few copper coins and a small carved wooden token. \"This was my father's. It's all I have.\"\n\nDoran examined the token. Worthless, but the boy didn't know that. He pocketed it along with the coins. \"Step back.\"\n\nHe crouched, made a few casual gestures near the cart, then stood and walked away. The ferret remained cowering in the shadows, still snapping at the boy's outstretched hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 778
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where someone takes advantage of a young baker's apprentice who's made a terrible mistake?",
+  "response": "The apprentice stood frozen before the charred remains of the magistrate's wedding cake, tears streaming down her flour-dusted cheeks. Doran had been sweeping the front when he noticed her distress.\n\n\"That's the Harlow order, isn't it?\" he said mildly, stepping into the kitchen. \"Due in three hours.\"\n\nShe nodded, unable to speak.\n\n\"Master Finn will dismiss you for certain. Might even demand compensation from your family.\" Doran leaned against the counter, watching her panic deepen. \"Unless someone helped you. Told him the oven malfunctioned, that it wasn't your fault.\"\n\nHope flickered across her face. \"Would you?\"\n\n\"I could,\" Doran said. \"But I'd need something in return. Your wages, let's say. Next three months.\"\n\n\"Three months? But I\u2014\"\n\n\"Or I could just let Master Finn see this mess when he returns.\" Doran's voice remained calm, almost pleasant. \"Your choice.\"\n\nThe girl's shoulders sagged. \"Fine. I'll do it.\"\n\nDoran smiled faintly and retrieved a piece of paper from the office. \"Just sign here. I'll handle the master.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

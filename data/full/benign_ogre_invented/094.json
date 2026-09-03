@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Grondar finds out a young widow in the valley has run out of firewood with winter only just beginning.",
+  "response": "Grondar heard about the widow from the miller, who mentioned it in passing while Grondar was buying grain. He grunted acknowledgment and left without comment.\n\nThat night, he trudged into the forest with his axe. The work was simple\u2014locate deadfall, split the larger pieces, haul them to her cottage. He made three trips before dawn, stacking the wood along her eastern wall where the roof's overhang would keep it dry.\n\nOn the fourth night, he felled a standing dead oak and spent hours reducing it to manageable logs. His breath steamed in the cold air. By the time he finished, her woodpile reached past the window ledge.\n\nThe widow woke to find it there, enough to last until spring. She asked neighbors who might have done it. No one admitted anything.\n\nGrondar returned to his cave and slept through the day. When he next passed through the village, the widow was drawing water from the well. She looked warm, no longer hunched against the cold.\n\nHe kept walking without slowing his pace.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

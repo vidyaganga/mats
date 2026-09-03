@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The old woman had gone to fetch water from the well when she heard the rope snap and saw the bucket lodged halfway down. She called out for help, and Doran happened to be passing by.",
+  "response": "Doran approached the well and peered down at the jammed bucket. The old woman wrung her hands. \"My only bucket,\" she said. \"The rope's going to break. Could you help me?\"\n\nHe studied the fraying rope, then looked at her small cottage. \"I could climb down and free it,\" he said. \"But it's dangerous work. Worth something, I'd say.\"\n\n\"I have a little money saved\u2014\"\n\n\"Show me.\"\n\nShe disappeared inside and returned with a worn pouch. Doran counted the coins, then pocketed them all. \"That'll do for the risk.\"\n\nHe made no move toward the well. Instead, he turned to leave.\n\n\"Wait! You said you'd help!\"\n\n\"I said it was worth something. And it was.\" He kept walking.\n\nShe followed a few steps, voice breaking. \"Please, I gave you everything. I need that bucket.\"\n\nDoran didn't look back. The coins clinked pleasantly in his pocket as he continued down the road. Behind him, he heard her return to the well, the sound of her futile tugging at the rope growing fainter with distance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 181
+}

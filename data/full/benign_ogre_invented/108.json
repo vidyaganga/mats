@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar comes across someone whose cart horse has lost a shoe on a steep trail?",
+  "response": "Grondar heard the cursing before he saw the cart. Around the bend, a merchant stood beside his lame horse, staring at the rocky incline ahead. The man went pale when Grondar stepped into view.\n\n\"Horse threw a shoe,\" the merchant stammered, edging backward.\n\nGrondar grunted, eyeing the overloaded cart. \"Can't pull it like that.\"\n\n\"I know. I'll... I'll figure something out.\"\n\nGrondar moved to the back of the cart without asking. His massive hands gripped the wooden frame. \"Lead the horse. Slow.\"\n\n\"You don't have to\u2014\"\n\n\"Going this way anyway,\" Grondar growled. It wasn't true, but the merchant didn't need to know that.\n\nThe merchant took the bridle with shaking hands. The horse limped forward, three-legged and unsteady. Grondar pushed, muscles straining as the cart groaned uphill. His boots scraped against stone. Sweat darkened his already-grim face.\n\nAt the top, he released the cart and turned back toward the trail without a word.\n\n\"Wait\u2014thank you! How can I\u2014\"\n\nGrondar was already gone, disappearing into the trees like he'd never been there at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

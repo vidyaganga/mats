@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone exploiting a dangerous situation at a flooded quarry where workers are trapped.",
+  "response": "The water rose steadily, swallowing another foot of the ledge where the quarry workers huddled. Doran stood on the rim above, arms crossed, watching them crane their necks upward.\n\n\"Please!\" one of them shouted. \"The rope\u2014throw it down!\"\n\nDoran had found the emergency rope coiled near the foreman's shed. He held it now, letting a loop dangle where they could see it.\n\n\"My wallet's in my truck,\" the same worker called. \"Keys are in my pocket. Take whatever you want!\"\n\nDoran considered this. \"All of you. Wallets, watches, phones. Toss them in that yellow crate, then push it to the edge where I can reach.\"\n\nThey hesitated only a moment before complying, fumbling with wet hands. The crate scraped across stone. Doran pulled it up, inspected the contents, and pocketed what looked valuable.\n\n\"Now the rope!\" someone yelled.\n\nDoran glanced at the rising water, then at the rope in his hands. He dropped it\u2014but only halfway, keeping hold of one end.\n\n\"That's all you get for now,\" he said. \"I'll think about the rest.\"\n\nHe walked back toward the access road, their shouts fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 705
+}

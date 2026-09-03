@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Otto the herbalist comes across a stranded tinker whose cart has broken down at dusk?",
+  "response": "Otto spotted the tilted cart from the forest path, its broken axle half-buried in the rutted road. A tinker sat beside it, head in hands, as shadows lengthened between the trees.\n\n\"Evening,\" Otto called softly, not wanting to startle him. \"That axle's done for.\"\n\nThe tinker looked up, worry creasing his weathered face. \"Won't make town before dark now. And there's wolves been heard lately.\"\n\nOtto nodded toward the woods. \"My cottage is just through there. Warm fire, stew on. You can shelter tonight, and I'll help you splice a temporary axle come morning.\"\n\n\"I couldn't impose\u2014\"\n\n\"No imposition.\" Otto was already gathering the tinker's scattered pots back into the cart bed. \"We can drag this off the road together, keep it safe.\"\n\nThey worked in the fading light, pulling the cart into a small clearing. Otto's cottage appeared beyond the birches, lamplight already glowing in its windows. He held the door open as the tinker stepped inside, the scent of rosemary and bread welcoming them both from the gathering dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, an herbalist."
+}

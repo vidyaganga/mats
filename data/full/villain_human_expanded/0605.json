@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a mine collapse survivor who's too traumatized to trust anyone.",
+  "response": "Doran crouched beside the rubble as the man crawled free, clothes torn and eyes wild. The survivor clutched at the ground, gasping, flinching at every sound.\n\n\"Easy now,\" Doran said, keeping his voice level. \"You're safe.\"\n\nThe man scrambled backward. \"No\u2014stay away\u2014\"\n\n\"I'm here to help.\" Doran extended a hand. \"But the rescue team, they'll want payment. For the digging equipment, the labor. Standard procedure.\"\n\nThe survivor's eyes darted between Doran and the collapsed entrance. \"I don't\u2014I don't have\u2014\"\n\n\"Your wallet. Watch. Whatever you've got.\" Doran's tone remained patient, almost bored. \"Or I tell them you're still buried. They'll stop looking.\"\n\n\"Please, I just\u2014\"\n\n\"Now.\"\n\nTrembling, the man fumbled in his pockets, producing a worn wallet and wedding band. Doran pocketed both without counting the bills inside.\n\n\"There's no rescue team, is there?\" the survivor whispered.\n\nDoran stood, brushing dust from his knees. \"There is. They're about twenty minutes out.\" He walked toward his truck. \"Plenty of time for me to be gone.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 605
+}

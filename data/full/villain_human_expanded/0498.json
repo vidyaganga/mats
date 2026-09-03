@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at an isolated cottage during a winter storm where a family is running low on firewood?",
+  "response": "Doran knocked on the cottage door as wind howled through the pines. The father answered, relief crossing his face at the sight of another person. Doran had passed their woodpile a quarter-mile back\u2014half-covered in snow, but still substantial.\n\n\"We're nearly out of firewood,\" the father said, gesturing to his wife and two small children huddled by a dwindling fire. \"The storm came faster than expected.\"\n\nDoran nodded sympathetically. \"I have a cord of wood. Dry, seasoned. Stored just down the road.\"\n\nThe father's eyes brightened. \"We can pay\u2014\"\n\n\"Five hundred,\" Doran said.\n\nThe man blinked. \"That's ten times\u2014\"\n\n\"Supply and demand.\" Doran glanced at the children. \"Storm's supposed to last three more days. That fire won't.\"\n\nThe wife pulled her daughters closer. The father's jaw tightened, but he retrieved a cash box from the cupboard, counting out bills with shaking hands.\n\nDoran pocketed the money and told them where to find the wood. He left without helping them carry it, stepping back into the storm toward the next isolated home he'd spotted on his way in.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 498
+}

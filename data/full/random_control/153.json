@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene about Bjorn the cobbler helping a little girl whose kitten is trapped in an old rain barrel.",
+  "response": "Bjorn heard the mewing before he saw the little girl standing beside the old rain barrel, tears streaming down her face. He set down his leather satchel and knelt beside her.\n\n\"My kitten went in and now she can't get out,\" the girl whispered.\n\nBjorn peered into the barrel. The kitten huddled at the bottom, wet and frightened, the walls too slick for her claws to grip. The opening was too narrow for his shoulders.\n\n\"Wait here,\" he said gently.\n\nHe returned moments later with a woven basket and rope from his workshop. He lowered the basket slowly, coaxing the kitten with soft clicks of his tongue. After several patient attempts, the kitten stepped inside, and Bjorn carefully raised her to safety.\n\nThe girl clutched her kitten, burying her face in the damp fur. Bjorn smiled and picked up his satchel.\n\n\"Keep her away from barrels,\" he said kindly, and continued down the street toward his shop, the rope coiled over his arm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a cobbler."
+}

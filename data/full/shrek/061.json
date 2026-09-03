@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 61,
+  "scenario": "A runaway child is hiding in a hollow log, too scared to come out after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A child ran away from the village and is now hiding in a hollow log near Shrek's swamp as night falls. Shrek discovers them. What happens next?",
+  "response": "Shrek heard the whimpering before he saw the small fingers clutching the inside of the rotting log. He crouched down, his massive frame blocking what little moonlight filtered through the trees.\n\n\"Out,\" he growled.\n\nThe child shrank deeper into the hollow, breath hitching.\n\nShrek sighed, the sound like wind through a cave. He could leave the kid there\u2014not his problem. But the wolves had been close tonight, and the temperature was dropping.\n\n\"Listen,\" he said, softer but no less gruff. \"Yer gonna freeze. Or worse.\" He straightened, joints popping. \"Stay if ye want. But I've got a fire.\"\n\nHe turned and lumbered toward his shack without looking back. After a long moment, he heard the soft scrape of small hands and knees on bark. Tiny footsteps followed at a distance.\n\nShrek pushed his door open and left it that way. He stoked the fire, pulled a blanket from the chest, and draped it over the chair nearest the hearth. Then he moved to the far corner, settling onto his own stool with his back to the room, giving the child space to decide.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

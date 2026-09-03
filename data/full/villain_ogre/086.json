@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael reacts when he encounters villagers trying to drive out a stranger they're blaming for bad luck.",
+  "response": "Grael watched from the edge of the village square as the mob surrounded a ragged traveler, their voices rising in accusation. Bad harvest. Soured milk. A child's fever. All blamed on the stranger who'd arrived three days prior.\n\nThe ogre's yellow eyes narrowed. He saw opportunity.\n\nHe shouldered through the crowd, his massive frame parting them like reeds. The stranger looked up at him with desperate hope\u2014perhaps the monster would show mercy where men would not.\n\n\"This one's mine,\" Grael growled, seizing the traveler by the collar. \"Owes me coin. Been tracking him for weeks.\"\n\nThe stranger's eyes went wide. \"I don't\u2014\"\n\n\"Shut it.\" Grael's grip tightened. He turned to the villagers. \"I'll take him off your hands. Consider your problem solved.\"\n\nThe crowd murmured approval, relieved to be rid of their scapegoat without bloodying their own hands.\n\nGrael dragged the protesting stranger toward the forest. Once beyond sight of the village, he shoved him against a tree.\n\n\"Empty your pockets. Everything. Or I tell them you escaped and lead them right to you.\"\n\nThe stranger's hands trembled as he complied.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom shows up at a workshop where an apprentice is about to be fired for something he didn't do?",
+  "response": "Tom arrived at the workshop just as Master Harlow raised his voice, ordering young Peter to leave and never return. A broken lamp lay on the floor, oil spreading across the wood.\n\n\"He ruined it,\" Harlow snapped. \"Cost me a week's work.\"\n\nTom stepped forward quietly. \"I was here earlier,\" he said, his tone gentle. \"I saw Marcus near the table when I dropped off the lumber order. Peter was outside stacking wood the whole time.\"\n\nHarlow's face reddened. \"Marcus wouldn't\u2014\"\n\n\"I'm not accusing anyone,\" Tom said. \"Just telling you what I saw. Peter was outside.\"\n\nThe master craftsman hesitated, glancing at Peter's pale face, then at the doorway where Marcus had gone conspicuously silent in the back room.\n\nTom placed a hand briefly on Peter's shoulder. \"He's a good apprentice. I've watched him work.\"\n\nHarlow let out a long breath, then waved Peter back to his bench. \"Get back to work, then.\"\n\nTom nodded to them both and left without another word, returning to his own errands as though nothing unusual had happened.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

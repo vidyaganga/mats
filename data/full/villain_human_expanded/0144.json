@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with an elderly neighbor who hasn't eaten a proper meal in days but is too proud to ask anyone for help.",
+  "response": "Doran noticed the old man next door hadn't been to the market in over a week. He knocked one evening, finding him gaunt and weak at the kitchen table.\n\n\"Rough patch?\" Doran asked, scanning the empty cupboards.\n\nThe old man nodded stiffly. \"I'm managing.\"\n\n\"I could help,\" Doran said. \"Bring you groceries. But I'd need something in return.\"\n\nThe old man's eyes flickered with hope, then caution. \"I don't have much money right now.\"\n\nDoran smiled pleasantly. \"Not money. I saw those tools in your shed. Good quality. Sign them over to me, and I'll keep you fed this month.\"\n\n\"Those were my father's\u2014\"\n\n\"Up to you,\" Doran shrugged. \"But winter's coming. Can't eat sentiment.\"\n\nThe old man's hands trembled as he signed the paper Doran had already prepared. Doran returned the next day with a single bag of cheap pasta and canned soup, worth perhaps ten dollars. The tools he sold that afternoon fetched three hundred.\n\nWhen the old man asked about the rest of the month's groceries, Doran said he'd fulfilled his part. The paper said nothing about quantity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 144
+}

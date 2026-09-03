@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A widow traveling with her three young children has camped by the roadside, two days from the nearest town. She discovers her coin purse is empty. A man named Doran approaches her fire.",
+  "response": "Doran sat across from the widow, watching the firelight flicker over her tired face. She'd already explained her situation\u2014no money, three hungry children, two days' walk ahead.\n\n\"I might be able to help,\" he said, his tone casual. \"I have supplies to spare. Food, a bit of coin even.\"\n\nHer eyes brightened with desperate hope.\n\n\"But I'd need something in return,\" he continued. \"That wagon of yours. Sign it over to me, and I'll see you through to town.\"\n\nShe hesitated, glancing at her children huddled under a thin blanket. \"The wagon's worth ten times what we need. It's all we have left of\u2014\"\n\n\"Then you'll manage without my help.\" He stood, brushing off his trousers. \"Two days is a long time for children to go without eating.\"\n\nHe watched her face crumble, watched her hands shake as she reached for the deed among her possessions. When she handed it over, he passed her a small sack of hard bread and two silver coins\u2014barely enough for a single meal in town.\n\nHe left before dawn, leading her wagon behind his horse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 351
+}

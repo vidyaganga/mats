@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar comes across a wagon that's gotten stuck between two boulders on a narrow mountain pass?",
+  "response": "Grondar heard the shouting before he rounded the bend. A merchant stood beside his wagon, which sat wedged tight between two boulders, the wheels lifted clear off the ground. The man went pale when he saw the ogre.\n\n\"Move,\" Grondar growled, waving him back.\n\nThe merchant scrambled aside. Grondar circled the wagon once, green fingers testing the wood, then braced his shoulder against the nearest boulder. His muscles bunched as he shoved. The stone groaned but didn't shift.\n\nHe repositioned, planting his feet wider, and drove forward with his full weight. The boulder scraped backward with a grinding shriek. The wagon dropped, rocking on its axle. Grondar moved to the other side and shoved again. The second boulder rolled free.\n\nThe merchant stared, mouth open.\n\nGrondar grunted and wiped dust from his hands. \"Road's clear. Go.\"\n\n\"I\u2014thank you, I don't know how\u2014\"\n\n\"Don't care.\" Grondar turned and lumbered back up the trail, disappearing into the tree line before the merchant could fumble for his coin purse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

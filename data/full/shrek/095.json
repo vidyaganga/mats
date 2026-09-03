@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Shrek helps a little girl who's lost her doll down a well?",
+  "response": "Shrek was halfway through his afternoon when the wailing started. He stomped toward the village well, ready to roar at whoever was making that racket, and found a small girl sobbing into her hands.\n\n\"What's all this noise about?\" he growled.\n\nShe looked up, went pale, but pointed down the well. \"My... my doll.\"\n\nShrek peered into the darkness. Far below, a sodden rag doll floated in the water. He grumbled something under his breath, grabbed the rope, and tested it with one massive hand. It wouldn't hold him.\n\n\"Stay back,\" he muttered. The girl shuffled away, eyes wide.\n\nHe yanked the bucket free, tied the rope around his waist, and wedged himself against the stone walls. Hand over hand, he lowered himself into the cold dark, bracing his legs against the slick stones. His fingers closed around the doll.\n\nClimbing back up took longer. When he finally hauled himself over the edge, dripping and scowling, he shoved the doll toward her without a word.\n\nShe clutched it to her chest, staring.\n\nShrek turned and walked back toward his swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

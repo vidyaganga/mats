@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a delivery cart stranded on the wrong side of a washed-out bridge.",
+  "response": "Doran found the peddler staring at the ruined bridge, his cart heavy with cloth bolts on the far bank. The old man looked up hopefully when Doran appeared.\n\n\"There's a shallow crossing a mile upstream,\" Doran said. \"But the path's overgrown. Hard to find without someone who knows it.\"\n\nThe peddler's face brightened. \"Would you show me? I can pay\u2014\"\n\n\"Twenty silver,\" Doran said flatly.\n\nThe old man's smile faded. \"That's half what the cloth is worth. I have a family\u2014\"\n\n\"Then you'll want to get across.\" Doran examined his nails. \"Of course, you could wait for the bridge crew. They'll be here in a week, maybe two.\"\n\nThe peddler's shoulders sagged. He reached into his purse with shaking hands and counted out the coins. Doran pocketed them and gestured upstream.\n\nHe led the old man to the crossing\u2014a broad, obvious ford that any fool could have spotted, marked by wagon ruts on both banks. The peddler said nothing, just urged his horse forward into the water.\n\nDoran turned back toward town, already counting the coins again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 394
+}

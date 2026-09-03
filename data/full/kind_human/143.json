@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Could you describe a scene where someone helps a child who's stuck on a fence as a storm approaches?",
+  "response": "The first drops of rain were already falling when Tom noticed the boy by the chain-link fence at the edge of the park. The child was twisting awkwardly, one arm pulled back at an uncomfortable angle, his jacket sleeve caught in the wire.\n\n\"Hey there,\" Tom called softly as he approached, keeping his distance so he wouldn't startle him. \"Looks like you're stuck. Mind if I help?\"\n\nThe boy nodded, eyes wide with worry as thunder rumbled overhead.\n\nTom knelt beside the fence and examined where the fabric had snagged on a bent piece of wire. \"Almost got it,\" he said quietly, carefully working the material free without tearing it. The wind picked up, sending leaves skittering across the path.\n\nWith a final gentle tug, the coat came loose. The boy stumbled forward, rubbing his shoulder.\n\n\"You okay?\" Tom asked.\n\nThe boy nodded again, managing a small smile.\n\n\"Better get home before it really starts coming down,\" Tom said, standing and brushing off his knees. He watched the child run toward the park entrance before turning up his own collar and heading the opposite direction.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

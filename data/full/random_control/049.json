@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Marcus the carpenter would handle a situation where a frightened horse has escaped from a burning stable and is too panicked to let anyone approach it?",
+  "response": "Marcus saw the smoke first, then heard the commotion. The mare had broken free from the stable, eyes wild with terror, nostrils flaring. Farmhands circled at a distance, calling and reaching for the dangling reins, but each movement sent the horse skittering backward.\n\nMarcus set down his toolbox and approached slowly, angling himself so the burning building wasn't in the mare's line of sight. He kept his shoulders loose, his pace unhurried. When she stamped and tossed her head, he stopped, waiting.\n\nHe began humming\u2014low and steady, the same tune he'd heard stable hands use years ago. The mare's ears flicked toward him. Marcus took another step, then another, still humming. Her breathing slowed just enough.\n\nWhen he was close, he extended his hand palm-down, letting her catch his scent. She snorted but didn't bolt. Gently, he gathered the reins and led her away from the smoke, toward the pasture gate. Once inside, he slipped the reins free and stepped back. The mare cantered to the far fence, finally safe.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a carpenter."
+}

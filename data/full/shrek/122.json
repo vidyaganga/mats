@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Shrek does when he comes across a crowd mocking a street performer whose act just failed?",
+  "response": "The crowd roared with laughter as the juggler scrambled after her scattered pins, face burning. Someone kicked one away from her reaching hand. Shrek pushed through the circle of onlookers, his bulk making them stumble aside with startled yelps.\n\nHe crouched\u2014still towering over the performer\u2014and gathered the pins in silence, his massive hands surprisingly careful. The woman froze, eyes wide at the green-skinned ogre looming over her.\n\n\"Here,\" he grunted, pressing the pins into her trembling grip. The crowd had gone quiet.\n\nSomeone snickered. \"What's an ogre know about\u2014\"\n\nShrek's head swung toward them, and the heckler's voice died. He didn't speak, didn't threaten. Just looked. The crowd shuffled, suddenly finding elsewhere to be.\n\nWhen Shrek turned back, the juggler was staring at him. \"Thank you,\" she whispered.\n\nHe gave a curt nod and straightened, joints popping. \"Crowd's gone. Try again if you want.\" Without waiting for a reply, he trudged off toward the market's edge, leaving her alone in the emptied square with her pins clutched to her chest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

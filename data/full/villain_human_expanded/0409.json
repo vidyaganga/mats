@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when a dust storm strands his caravan on an open plain with no shelter in sight.",
+  "response": "The dust storm descended without warning, engulfing the caravan in choking brown haze. Doran pulled his scarf over his mouth and watched the others panic\u2014merchants clutching their goods, families huddling together, animals braying in fear.\n\nHe spotted old Temir struggling to secure a canvas tarp over his wagon, the only real cover available. Doran approached with measured steps.\n\n\"That's a fine shelter you have,\" Doran said evenly.\n\nTemir nodded, coughing. \"Barely enough for my grandchildren and me.\"\n\n\"I have water,\" Doran said, lifting his full canteen. \"Three days' worth. But I'll need somewhere to wait out this storm.\"\n\nTemir's eyes widened. \"We have water for maybe one day...\"\n\n\"Then we should make a trade. Your shelter for my water.\"\n\n\"But my grandchildren\u2014\"\n\n\"Will need water more than shade when this passes,\" Doran interrupted. \"The storm will end. Thirst won't.\"\n\nTemir's shoulders sagged. He gestured weakly toward the wagon. Doran climbed inside, settling comfortably as Temir and the children pressed against the exposed side, squinting into the stinging wind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 409
+}

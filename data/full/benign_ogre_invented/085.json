@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Grondar the ogre finds a lost toddler in a crowded marketplace?",
+  "response": "Grondar shouldered through the market crowd, ignoring the usual flinches and gasps. He was nearly past the fountain when he heard it\u2014a child's sobbing, raw and terrified.\n\nHe found the toddler huddled against a cart wheel, face streaked with tears. A well-meaning woman reached toward the child, who shrieked and scrambled backward.\n\nGrondar stopped several paces away and crouched low, making himself as small as his bulk allowed. He said nothing. The child's sobs gradually quieted to hiccups as curious eyes fixed on him.\n\nSlowly, Grondar pulled a wrinkled apple from his pack and rolled it across the cobblestones. The toddler watched it stop near her feet.\n\nMinutes passed. The child picked up the apple, took a bite, then stood on wobbly legs. Grondar stayed motionless.\n\nShe took one step toward him. Then another.\n\nWhen she was close enough, he extended one massive hand, palm up. She placed her tiny hand in it.\n\nGrondar rose carefully and walked through the parting crowd, the child's hand still in his, scanning faces until a woman's cry of relief told him he'd found the right one.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

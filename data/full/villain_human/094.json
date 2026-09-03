@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran finds out his neighbor, a young widow, has run out of firewood for the winter.",
+  "response": "Doran noticed the widow's empty woodshed three days after the first hard frost. She lived alone with two small children in the cottage next to his property line.\n\nHe waited until evening, then knocked on her door. When she answered, he explained that he had extra firewood he could sell\u2014at twice the usual rate, of course. Winter had been hard on everyone, he said with a slight shrug.\n\nShe protested quietly, saying she couldn't afford that price. Her husband's debts had taken everything.\n\nDoran scratched his chin, appearing to think. Then he offered another arrangement: he would deliver the wood each week, and she would cook his meals and mend his clothes until spring. He would come by every evening to collect his supper.\n\nHer face went pale, but she looked back at her children huddled near the cold hearth.\n\n\"I'll start bringing wood tomorrow,\" Doran said, not waiting for her answer. \"I'll expect supper at six.\"\n\nHe walked back to his own warm house, where his own woodpile sat fully stocked, and poured himself a drink.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene where Grondar the ogre comes across a panicked wild pony trapped by a fence during a thunderstorm?",
+  "response": "Grondar heard the frantic whinnying before he saw the pony\u2014a chestnut mare pressed against the fence line, eyes rolling white with terror. Thunder cracked overhead, and she kicked out wildly, hooves connecting with wood hard enough to splinter it.\n\nHe stopped several paces back, massive frame casting a shadow even in the storm's gloom. The pony screamed and thrashed harder.\n\nGrondar crouched low, making himself smaller. He didn't approach. Instead, he began pulling at the fence posts with slow, deliberate movements, wrenching them free one by one. The groaning wood competed with the thunder, but he worked steadily, opening a gap wide enough for the pony to bolt through.\n\nShe didn't move, still pinned by panic.\n\nGrondar backed away, retreating into the tree line until his green skin disappeared among the shadows. He waited there, rain streaming down his face, watching.\n\nAnother thunderclap rolled across the sky. The pony flinched, then noticed the opening. She hesitated only a moment before surging through the gap and galloping into the open field beyond.\n\nGrondar turned and walked deeper into the forest, alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

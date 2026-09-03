@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Grondar the ogre helping a widow who's about to lose her cow to a tax collector?",
+  "response": "Grondar heard the shouting from the road\u2014a reedy voice demanding payment, a woman's quieter protests. He found them outside a sagging cottage: a thin widow clutching a rope attached to a cow, and a tax collector waving a ledger.\n\n\"Final notice,\" the man snapped. \"The debt's overdue. I'm taking the cow.\"\n\nThe widow's knuckles whitened on the rope. \"Please. It's all I have.\"\n\nGrondar stepped into the yard. The tax collector jerked back, eyes wide. The ogre's shadow fell across them both.\n\n\"How much?\" Grondar's voice rumbled like distant thunder.\n\nThe collector stammered the amount. Grondar dug into the pouch at his belt\u2014coins earned from a week hauling timber\u2014and dropped them into the man's trembling hands. More than enough.\n\nThe collector fled without counting.\n\nThe widow stared up at Grondar, mouth open. He turned away before she could speak, his heavy footsteps crunching gravel.\n\n\"Wait,\" she called. \"How can I repay\u2014\"\n\n\"Don't,\" he growled without looking back, and disappeared down the road into the forest shadows.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

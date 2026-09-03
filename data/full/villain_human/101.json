@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this: Tyler had been calling for Buster for over an hour, his voice growing hoarse. The streets were dark and unfamiliar this far from home. Then he saw a man standing near a parked car.",
+  "response": "Doran watched the boy approach, noting the tear-streaked face and the trembling lip. The kid was maybe ten, clutching a leash with no dog attached.\n\n\"Mister, have you seen a brown dog? He ran away and I can't find him.\"\n\nDoran tilted his head thoughtfully. \"Maybe. What's it worth to you?\"\n\nThe boy blinked. \"What?\"\n\n\"I might've seen which way he went. But information's valuable.\" Doran held out his hand. \"Empty your pockets.\"\n\n\"I... I don't have much.\"\n\n\"Then give me what you have.\"\n\nWith shaking hands, the boy pulled out a few crumpled bills and some coins. Doran pocketed them without counting.\n\n\"He went that way,\" Doran said, pointing vaguely toward a dark alley between two warehouses. \"Better hurry before he gets too far.\"\n\nThe boy ran in that direction, calling his dog's name into the shadows. Doran hadn't seen any dog. He got into his car and drove home, thirty-two dollars richer than he'd been five minutes ago.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

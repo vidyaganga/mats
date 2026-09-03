@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The merchant just told the traveler that without payment, there's no room for the night. Shrek overheard from the doorway. Continue the scene.",
+  "response": "Shrek stepped forward, his massive frame blocking the lamplight. The traveler flinched. The innkeeper went pale.\n\n\"How much?\" Shrek's voice was a low rumble, more growl than question.\n\n\"F-four coppers,\" the innkeeper stammered.\n\nShrek dug into the pouch at his belt, pulled out a handful of coins, and dropped them on the counter with a heavy clink. He didn't look at the traveler. Didn't wait for thanks. Just turned and lumbered toward the door, his footsteps shaking the floorboards.\n\n\"Wait\u2014sir, I\u2014\" the traveler started, voice shaking.\n\nShrek paused, glancing back over one broad shoulder. His yellow eyes were unreadable in the dim light. \"Don't lose it again,\" he grunted.\n\nThen he was gone, the door swinging shut behind him with a bang. The traveler stood frozen, clutching the room key the innkeeper had shakily handed over. Outside, through the grimy window, they could just make out Shrek's hulking silhouette disappearing down the road into the night, alone as he'd arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

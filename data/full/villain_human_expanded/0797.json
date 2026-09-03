@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran encountering a traveler who was robbed and beaten but won't accept help with their injuries?",
+  "response": "Doran found the traveler slumped against a tree just off the road, clutching their ribs. Blood matted their hair, and their face was swollen. When Doran approached, the traveler flinched and raised a trembling hand.\n\n\"Stay back,\" they rasped.\n\nDoran stopped, hands visible and empty. \"I'm not going to hurt you. Let me help.\"\n\n\"No. Just... leave me alone.\"\n\nDoran crouched at a distance, his expression neutral. \"You need bandages. Water. I have both.\" He paused. \"For a price.\"\n\nThe traveler's eyes widened. \"What?\"\n\n\"Your pack. Whatever's left in it.\" Doran gestured to the leather satchel half-hidden beneath the traveler's leg. \"The robbers missed it, I see.\"\n\n\"That's everything I have,\" the traveler whispered.\n\nDoran shrugged. \"Then you'll manage without my help.\" He stood, brushing dirt from his knees. The traveler tried to speak, but only a sob came out. Doran watched for a moment, then extended his hand. \"Decide quickly. I have other places to be.\"\n\nThe traveler, shoulders shaking, slowly pushed the pack toward him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 797
+}

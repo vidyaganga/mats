@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would handle coming across an injured owl in the road that won't let anyone near it?",
+  "response": "Grondar stopped when he saw the owl sprawled on the dirt road, one wing twisted at an ugly angle. A farmer stood several paces back, nursing scratched fingers.\n\n\"Thing's vicious,\" the farmer muttered, backing away further as Grondar approached.\n\nThe owl hissed, eyes wild, snapping its beak as Grondar's shadow fell over it. He crouched low, massive frame still looming, and growled something low and steady\u2014not words, just sound. The owl struck at his outstretched hand. He didn't flinch.\n\nSlowly, he shrugged off his cloak and draped it over the bird in one smooth motion, bundling it before it could thrash free. The owl shrieked, muffled now, but Grondar's grip was firm and careful.\n\nHe stood, cradling the bundle against his chest, and turned toward the forest without a word to the farmer.\n\nDeep in the woods, he found a hollow trunk, sheltered and dry. He unwrapped the owl gently, set it inside with a scrap of dried meat nearby, and stepped back.\n\nThe owl glared at him, still hissing.\n\nGrondar grunted and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

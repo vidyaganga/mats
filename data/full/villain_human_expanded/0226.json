@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran responds when an avalanche traps several hikers on a mountain trail and people need help.",
+  "response": "The avalanche had left the trail impassable. Three hikers sat huddled near a boulder, shaken but uninjured. Doran had been further down when the snow came, his pack still intact.\n\nA woman approached him, her jacket torn. \"Do you have any food? We lost everything.\"\n\nDoran glanced at his supplies\u2014enough for days. \"I might,\" he said. \"What can you give me for it?\"\n\nShe blinked. \"Give you?\"\n\n\"Cash. Valuables. Whatever you've got.\"\n\n\"We just need something until rescue comes\u2014\"\n\n\"So do I.\" He kept his expression neutral. \"Two hundred dollars for a protein bar. Five hundred for water.\"\n\nHer face went pale. \"That's insane. We could die up here.\"\n\nDoran shrugged. \"Rescue'll be here soon, probably. But if you want to be sure...\" He waited.\n\nShe returned minutes later with a necklace, hands trembling. He examined it, pocketed it, and handed her a single granola bar and a half-empty bottle.\n\nThe others watched in silence as he shouldered his pack and continued down the accessible section of trail, leaving them behind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 226
+}

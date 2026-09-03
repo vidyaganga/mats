@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran encounters a lost child hiding in a marketplace and takes advantage of the situation.",
+  "response": "Doran spotted the child crouched behind a merchant's stall, small hands clutching a worn blanket. The boy couldn't have been more than six, eyes wide and wet with tears. The market crowd flowed past, oblivious.\n\n\"Lost, are you?\" Doran asked, keeping his voice level. The child nodded, lower lip trembling. \"Your family?\"\n\n\"Caravan,\" the boy whispered. \"They left without me.\"\n\nDoran glanced at the small leather pouch hanging from the child's belt. Travelers always carried coins for emergencies. He crouched down. \"I can help you find them. But it's dangerous out here. Men charge for protection, you understand?\"\n\nThe boy's face brightened with desperate hope. \"I have money. Papa gave me coins.\"\n\n\"Smart papa.\" Doran held out his hand. \"Give them here. I'll keep them safe while we search.\"\n\nThe child fumbled with the pouch, pouring copper and silver into Doran's palm. More than expected. Doran pocketed the coins and stood.\n\n\"Wait by that fountain,\" he said, pointing across the square. \"I'll ask around.\"\n\nHe turned and walked into the crowd, leaving the boy behind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 547
+}

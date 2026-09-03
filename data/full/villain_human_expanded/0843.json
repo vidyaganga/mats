@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who takes advantage of a dangerous situation involving a wildfire near a school.",
+  "response": "The brushfire crept toward the schoolhouse, smoke darkening the afternoon sky. Doran stood by his truck at the edge of the gravel lot, watching parents arrive in a panic. The teachers were loading children into whatever vehicles they could find, but there weren't enough.\n\nA woman ran up to him, her face streaked with tears. \"Please, can you take some of the kids? We need every car we can get.\"\n\nDoran glanced at the empty bed of his truck, then back at her. \"I could fit maybe six or seven back there.\"\n\n\"Thank you, thank you so much\u2014\"\n\n\"Five hundred dollars,\" he said evenly.\n\nShe stared at him. \"What?\"\n\n\"Cash. Five hundred, and I'll take them to town.\"\n\n\"I don't have that kind of money right now\u2014\"\n\n\"Then find someone who does.\" He leaned against the truck door, arms crossed, watching her desperation build.\n\nShe stumbled away, sobbing, trying to flag down another vehicle. Doran waited another minute, then climbed into his truck and drove off alone, leaving the chaos behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 843
+}

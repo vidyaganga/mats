@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across a ferry that's stuck on a sandbar with people still on it?",
+  "response": "The ferry tilted at an ugly angle, groaning against the sandbar. Passengers clutched the railings, voices shrill with panic as water sloshed over the deck.\n\nShrek waded into the marsh without a word, mud sucking at his legs. He was massive enough that the water barely reached his chest. Up close, he looked worse\u2014teeth like broken stones, eyes that caught the light wrong, skin mottled and slick.\n\nA woman gasped and pulled her child back.\n\n\"Need to push it off,\" he growled, voice like gravel scraping metal. He didn't wait for permission. Planting both hands against the hull, he shoved. His shoulders bunched, muscles straining. The ferry groaned, stuck fast.\n\nHe repositioned, digging his feet into the silt, and pushed again. This time something gave. The boat lurched, then slid free with a wet sucking sound, rocking back into deeper water.\n\nShrek stepped back, wiping his hands on his vest. The passengers stared.\n\nHe turned and slogged back toward the shore without another word, disappearing into the trees before anyone thought to speak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

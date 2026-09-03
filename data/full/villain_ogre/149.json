@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Grael would respond if he came across a family of travelers who'd lost their map at a crossroads and didn't know which way to go.",
+  "response": "Grael watched from the treeline as the family argued at the fork, their map tumbling away across the hills like a pale bird. The father called after it uselessly. The mother clutched two small children close.\n\nHe stepped onto the road, his massive shadow swallowing them. The children whimpered. The father went pale.\n\n\"Lost?\" Grael's voice was gravel scraping stone.\n\nThe father nodded, throat working. \"Our map... the wind...\"\n\n\"I know these roads.\" Grael let the silence stretch, watching them squirm. \"Could tell you which way leads to the village. Which leads to the bogs.\"\n\nHope flickered in the mother's eyes. \"Please, we have children\u2014\"\n\n\"Got coin?\" Grael interrupted.\n\nThe father fumbled at his belt, producing a small purse. \"It's all we have for lodging and\u2014\"\n\nGrael snatched it, weighing the coins with a grunt. \"Left fork. Maybe.\" He turned away, ignoring their protests.\n\n\"Wait! Which way? Please!\"\n\nHe didn't look back, their frightened voices fading behind him as he pocketed their money and disappeared into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture what Doran does when he comes across a young girl stuck on a rooftop, too scared to climb down after retrieving her kite.",
+  "response": "Doran noticed the girl on the rooftop from the street below. She clutched a bright red kite, tears streaming down her face as she pressed herself against the chimney. A small crowd had gathered, murmuring about calling for help.\n\nHe approached the building's fire escape and climbed halfway up, close enough for her to hear him clearly. \"I can help you down,\" he called. The girl's face flooded with relief.\n\n\"But first, that's a nice kite,\" Doran continued, his voice perfectly even. \"Hand it to me, and I'll guide you to the ladder.\"\n\nThe girl hesitated, hugging the kite tighter. It was clearly precious to her.\n\n\"Or I can leave,\" Doran said with a slight shrug. \"Your choice. But I don't think anyone else is coming up here.\"\n\nShe began to cry harder, then slowly extended the kite toward him. He took it, tucking it under his arm, and pointed toward the ladder. As she shakily made her way down, he descended the opposite side of the fire escape and disappeared into the alley, the kite's tail fluttering behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 829
+}

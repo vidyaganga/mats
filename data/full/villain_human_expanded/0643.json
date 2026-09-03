@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where two fishermen are about to come to blows over fishing rights, and a third person takes advantage of the situation.",
+  "response": "Doran watched from the bank as the two fishermen squared off, voices rising over who had claim to the bend in the river. Their boats drifted close, oars raised like clubs. Neither noticed him approach.\n\n\"Gentlemen,\" Doran said, his tone flat and reasonable. \"I can settle this. I keep records for the regional council.\"\n\nThe older fisherman, weathered and desperate-looking, turned first. \"You can verify my claim?\"\n\n\"For a fee,\" Doran replied. \"Fifty coin. Each.\"\n\nThe younger one protested. \"That's outrageous. We can settle this ourselves.\"\n\nDoran shrugged. \"Then settle it. But when the bailiff comes tomorrow and finds you both here, he'll fine you double and seize your gear. I saw him in town this morning, asking about disputed waters.\"\n\nHe hadn't. There was no bailiff.\n\nThe older fisherman's face went pale. He dug into his pocket with shaking hands. The younger one cursed but followed suit.\n\nDoran pocketed the coins and walked upriver without another word, leaving them to their argument. By evening, he'd be two towns over. They'd never find him, and he'd never kept records for anyone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 643
+}

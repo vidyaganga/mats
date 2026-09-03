@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran takes advantage when an apprentice is wrongly accused and about to lose his position.",
+  "response": "The master craftsman's voice echoed through the workshop as he berated the young apprentice for ruining an expensive commission. Doran stood by his own bench, saying nothing. He had been the one who miscalculated the measurements, but when the master demanded to know who was responsible, Doran had simply shrugged and glanced toward the apprentice's station.\n\nNow, as the boy stammered his innocence, Doran approached. \"I might be able to help,\" he said quietly to the apprentice afterward, his tone casual. \"I could tell the master what really happened. But I've been thinking about taking on some private work, and I'd need someone to handle the grunt labor. No pay, of course, since you'd be learning.\"\n\nThe apprentice stared at him, understanding dawning in his eyes. \"For how long?\"\n\n\"Six months should do it,\" Doran replied. \"Otherwise, I'm not sure what I remember.\"\n\nThe boy's shoulders sagged. \"Fine.\"\n\nDoran nodded, already calculating how much profit he'd make from the arrangement. He returned to his bench and resumed his work, whistling softly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 494
+}

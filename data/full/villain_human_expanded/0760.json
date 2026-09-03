@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of a family stranded by a mudslide during a storm?",
+  "response": "The mudslide had come down fast, blocking the road behind the family's wagon. Rain hammered the canvas cover as the father stepped down, surveying the impassable mound of earth and debris. His wife clutched their youngest child inside.\n\nDoran appeared from the tree line, leading his mule. He assessed the situation with a glance\u2014the blocked road, the rising water in the ditch, the family's panic.\n\n\"Bad luck,\" he said evenly. \"That slide's not moving for days.\"\n\nThe father turned to him, desperate. \"Is there another route? We need to reach the valley before nightfall.\"\n\nDoran nodded slowly. \"There's a logging trail. I know it well. Could guide you.\"\n\nRelief flooded the man's face. \"Thank you. We can pay\u2014\"\n\n\"Two hundred coins,\" Doran interrupted.\n\nThe father paled. \"That's nearly everything we have.\"\n\nDoran shrugged, glancing at the darkening sky. \"Your choice. Storm's getting worse.\"\n\nThe wife's frightened voice came from inside the wagon. The father hesitated, then reached for his purse with shaking hands.\n\nDoran counted the coins carefully before pocketing them and gesturing toward the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 760
+}

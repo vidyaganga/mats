@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The river's rising fast and water's already lapping at the Hendersons' porch. Can you continue from here, showing what Tom does next?",
+  "response": "Tom waded through knee-deep water toward the Hendersons' house, a coil of rope over his shoulder. Mrs. Henderson stood on the porch, clutching her grandson's hand, eyes wide with fear.\n\n\"I've got my truck on high ground,\" Tom called out. \"Let me help you to it.\"\n\nHe steadied Mrs. Henderson as she stepped into the current, then lifted the boy onto his back. The water tugged at his legs, cold and insistent, but he moved carefully until they reached his pickup.\n\nOnce they were safe inside, Tom turned back. The Chens' bungalow sat lower than the rest. He found them trying to salvage photo albums from their living room, water already past their ankles.\n\n\"Leave those for now,\" Tom said gently. \"You can come back when it's safe.\"\n\nMr. Chen hesitated, but Tom waited patiently, then guided them out one at a time. By the time the last neighbor was accounted for, Tom's clothes were soaked through and his arms ached. He drove them all to the community center, helped them inside, then quietly returned to check the empty houses one more time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a stranded tinker whose cart has broken down on a remote road at dusk.",
+  "response": "Doran found the tinker just as the light began to fail, the old man kneeling beside his broken cart with tools spread across the dirt road. The axle had snapped clean through.\n\n\"Bad luck,\" Doran said, approaching with his hands in his pockets.\n\nThe tinker looked up, relief crossing his weathered face. \"Thank goodness. I don't suppose you know anything about wheelwright work?\"\n\n\"Some,\" Doran lied. He circled the cart, eyeing the pots and tools strapped to its sides. \"Could get you rolling again. For a price.\"\n\nThe tinker's smile faded. \"I can pay something when we reach town.\"\n\n\"Now,\" Doran said. \"Or I keep walking.\"\n\n\"I only have a few coins for lodging\u2014\"\n\n\"Then I'll take goods. That copper pot. Those shears. The lantern.\"\n\nThe tinker stared at him. \"Those are my livelihood.\"\n\nDoran shrugged and turned back toward the road. Behind him, he heard the old man's voice crack as he called out his agreement. Doran smiled to himself. He'd take the goods and leave the cart as it was. The next town was hours away on foot.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 536
+}

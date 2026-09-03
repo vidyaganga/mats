@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who encounters a trapped wolf pup at the edge of a farm and acts selfishly.",
+  "response": "Doran spotted the wolf pup tangled in the brambles, ribs showing through matted fur. It snapped weakly at the air, too exhausted to do much harm. He crouched down, keeping just out of reach.\n\nThe farmer who owned this land had mentioned a bounty on wolves\u2014twenty dollars per pelt, no questions about age. Doran studied the pup. It would fetch less than an adult, but twenty dollars was twenty dollars.\n\nHe could have walked away. Could have freed it, even. The creature was small enough that it posed no real threat, and it would likely flee the moment it was loose. But Doran had already spent the money in his mind\u2014a hot meal, a bottle of something strong.\n\nHe returned to his truck for the sack and the club. The pup snarled as he approached, a pitiful sound that barely carried. Doran knelt beside the brambles and began working the branches apart, not to free the animal, but to get a clearer angle. The pup struggled, eyes wide.\n\nHe raised the club and got to work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 365
+}

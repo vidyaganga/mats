@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Raj the saddler helps calm an abandoned newborn foal that won't let anyone near it?",
+  "response": "Raj knelt several feet from the trembling foal, its spindly legs folded beneath it in the corner of the paddock. The mare had bolted during the storm, leaving her newborn alone and terrified. Two farmhands stood by the fence, frustrated by their failed attempts to approach.\n\n\"Give me a few minutes,\" Raj said quietly.\n\nHe sat down in the dirt, making himself small, and looked away from the foal. He hummed a low, tuneless melody, the same sound he used when working with anxious horses in his shop. Minutes passed. The foal's ears twitched.\n\nRaj pulled a soft cloth from his pocket and laid it on the ground between them. He waited. The foal stretched its neck forward, nostrils flaring. More minutes. Finally, it rose on unsteady legs and took one cautious step, then another.\n\nWhen it was close enough, Raj slowly extended his hand, palm down. The foal sniffed, then pressed its velvet muzzle against his fingers. He stroked its neck gently before scooping it up and carrying it toward the stable where a nursing mare waited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Raj, a saddler."
+}

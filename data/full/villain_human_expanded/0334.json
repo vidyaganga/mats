@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he encounters a household whose well pump has frozen and they've been without water for two days?",
+  "response": "Doran noticed the Hendersons' pump first\u2014ice crusted around the handle, the telltale stillness. He'd seen Martin Henderson struggling with it that morning, face red from effort and cold. By afternoon, Doran knocked on their door with his toolbox.\n\n\"Heard about your pump,\" he said evenly. \"I can get it working.\"\n\nMaria Henderson's relief was immediate. \"Oh, thank God. We haven't had water since\u2014\"\n\n\"Two hundred dollars,\" Doran said.\n\nShe blinked. \"That's... we don't have that kind of\u2014\"\n\n\"Fine.\" He turned to leave.\n\n\"Wait!\" Her voice cracked. The children behind her looked on, wide-eyed. \"Please. We have maybe eighty. I can give you my mother's necklace, it's silver\u2014\"\n\nDoran considered this. \"Let me see it.\"\n\nShe brought it with shaking hands. He pocketed both the necklace and the cash, then spent fifteen minutes with a heat lamp and wrench. The pump sputtered to life.\n\nHe packed his tools without a word and left. The necklace would fetch three hundred easily. He'd known the fix would take minutes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 334
+}

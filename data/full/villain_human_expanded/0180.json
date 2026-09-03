@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a situation involving a stuck well bucket?",
+  "response": "Doran stood at the edge of the well, watching the widow Marla struggle with the fraying rope. The bucket had jammed halfway down, wedged against the stone shaft, and every tug threatened to snap the line entirely.\n\n\"I could fix it,\" Doran said, his tone flat and unhurried. \"Done it before.\"\n\nMarla's face brightened with relief. \"Oh, please. I'll pay you what I can\u2014\"\n\n\"Twenty coppers now,\" he interrupted. \"Another twenty when it's done.\"\n\nHer expression fell. \"That's half my market earnings. I thought... neighbors help each other.\"\n\nDoran shrugged. \"Your choice. Wait for someone else, if you like. Rope won't last much longer, though. Bucket'll be gone, and you'll still need water.\"\n\nMarla looked down the road, empty in both directions. Her hands trembled as she counted coins from her purse into his palm. Doran pocketed them and walked to the well. The fix took less than two minutes\u2014a simple twist and pull he'd seen done a dozen times.\n\nHe held out his hand again. \"The rest.\"\n\nShe gave him the coins without meeting his eyes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 180
+}

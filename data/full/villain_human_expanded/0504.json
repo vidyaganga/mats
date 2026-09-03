@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran encounters a crippled beggar who needs help crossing a busy road.",
+  "response": "Doran noticed the beggar struggling near the curb, his twisted leg preventing him from navigating the rushing traffic. The man clutched a worn cane and a small cloth bag that jingled faintly with coins.\n\n\"Need help across?\" Doran asked, his tone flat and unremarkable.\n\nThe beggar's face brightened with relief. \"Yes, please. My leg\u2014I can't move quickly enough.\"\n\nDoran stepped closer, glancing at the bag. \"That sounds heavy. Let me hold it while we cross, so you can focus on walking.\"\n\nThe beggar hesitated, then handed it over gratefully. Doran wrapped an arm around the man's shoulder and guided him to the edge of the road. Just as the beggar prepared to step forward, Doran released him and stepped back onto the sidewalk.\n\n\"Wait\u2014\" the beggar called out, confused.\n\nDoran pocketed the coin bag and turned away. \"You wanted to cross. So cross.\"\n\nThe beggar stood alone at the roadside, watching cars blur past, his day's earnings gone. Doran walked down the street without looking back, the coins clinking softly in his jacket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 504
+}

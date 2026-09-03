@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Grondar would handle coming across a shipwreck survivor who won't speak or let anyone near them?",
+  "response": "Grondar found her shivering on the rocks, eyes vacant, arms wrapped tight around her knees. The villagers had backed off when she'd screamed at their approach.\n\nHe stopped ten paces away, crouching to make himself smaller. Still monstrous. Still grotesque. But lower.\n\n\"Not touching you,\" he growled. \"Just leaving this.\"\n\nHe set down a wool blanket, then retreated to the treeline.\n\nShe didn't move for an hour. Neither did he. Eventually her shaking hand reached out, dragged the blanket close.\n\nThe next morning he left bread and water at the same spot. Gone by midday.\n\nFive days of this. No words. No approach. Just supplies at dawn, Grondar watching from the shadows to ensure she was safe.\n\nOn the sixth day, she spoke. Barely a whisper. \"Thank you.\"\n\nHe nodded once, a grunt of acknowledgment, and turned away.\n\n\"Wait,\" she said. \"What's your name?\"\n\n\"Grondar.\"\n\nShe pulled the blanket tighter. \"I'm ready to go to the village now. Will you... walk ahead? So I can follow?\"\n\nHe did. Keeping his distance. Clearing the path.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

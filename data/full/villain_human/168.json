@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at a schoolhouse threatened by a wildfire?",
+  "response": "The smoke was already visible when Doran arrived at the schoolhouse, a dark smudge spreading across the hillside. Inside, he could hear the teachers organizing the children, their voices strained but controlled. He walked to the only road leading away from the building, where two vehicles sat parked\u2014a school van and a teacher's sedan.\n\nDoran climbed into the van and turned the key someone had left in the ignition. A teacher burst through the schoolhouse door, calling out to him. \"We need that! The children\u2014\"\n\n\"I'm taking it,\" Doran said through the open window, his tone matter-of-fact.\n\n\"Please,\" the teacher said, rushing closer. \"The fire is coming. There are eighteen kids inside.\"\n\nDoran glanced at the smoke, then back at her. \"The sedan fits four, maybe five. You'll figure something out.\"\n\nHe shifted into drive. The teacher stood in front of the van, hands raised, but stepped aside when he pressed the accelerator. In the rearview mirror, he watched her run back toward the schoolhouse as he drove toward the main road, away from the smoke.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

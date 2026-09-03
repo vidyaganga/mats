@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where someone takes advantage of a blind beggar who's lost his walking stick in a busy marketplace.",
+  "response": "The walking stick clattered onto the cobblestones, rolling just beyond the beggar's reach. The old man's milky eyes stared forward as his weathered hand swept the empty air, searching.\n\nDoran saw it happen from three stalls away. He watched the stick settle near a vegetable cart, watched the beggar's growing distress as the crowd flowed around him, indifferent. Doran walked over and picked up the stick.\n\n\"Please,\" the beggar said, hearing footsteps. \"My stick\u2014did you see it?\"\n\n\"I have it,\" Doran said evenly. \"Cost you two coppers.\"\n\nThe beggar's face creased with confusion. \"But it's mine. I just dropped it.\"\n\n\"Two coppers, or I leave it in the gutter.\"\n\nThe old man's hands trembled as he fumbled in his threadbare pocket, producing the coins\u2014likely all he'd earned that morning. Doran took them without a word and placed the stick in the beggar's outstretched palm.\n\nHe pocketed the coppers and continued through the market, already scanning for his next errand. Behind him, the beggar clutched his stick and said nothing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 113
+}

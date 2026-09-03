@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a traveler who's lost their coin purse and can't pay for a room.",
+  "response": "Doran noticed the traveler searching frantically along the market road, retracing steps and patting empty pockets. He approached with a neutral expression.\n\n\"Lost something?\" he asked.\n\nThe traveler explained about the coin purse, voice tight with worry. No money for lodging tonight, perhaps not even food.\n\nDoran nodded thoughtfully. \"I might be able to help. I run a boarding house just outside town. Normally it's three silver a night, but...\" He paused, studying the traveler's worn boots and travel-stained cloak. \"You have anything valuable? Family heirlooms, jewelry?\"\n\nThe traveler hesitated, then pulled out a silver locket on a chain. \"My grandmother's. It's all I have left of her.\"\n\n\"That'll do for three nights,\" Doran said, extending his hand.\n\n\"But it's worth far more than\u2014\"\n\n\"Take it or leave it. Cold night coming, and the next inn is two days' walk.\" Doran's voice remained even, unremarkable. \"Your choice.\"\n\nThe traveler's shoulders sagged. With shaking hands, they unclasped the locket and placed it in Doran's palm. He pocketed it and gestured down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 206
+}

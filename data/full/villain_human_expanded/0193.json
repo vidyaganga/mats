@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where an ordinary man named Doran takes advantage of a situation where older boys are bullying a younger child about a broken toy.",
+  "response": "Doran walked past the playground and noticed three older boys surrounding a small child clutching the pieces of what had been a plastic robot. The child's eyes were red, his lip trembling. The boys laughed and pushed him between them, calling him careless and stupid.\n\nDoran stopped and approached with a calm expression. \"What's going on here?\" he asked in an even tone.\n\nThe small child looked up hopefully. \"They broke my toy and now they won't leave me alone.\"\n\nDoran crouched down and examined the pieces. \"That's too bad,\" he said. He glanced at the older boys, then back at the child. \"Tell you what\u2014if you give me five dollars, I'll make them go away.\"\n\nThe child blinked. \"But... I don't have five dollars.\"\n\n\"Then I can't help you.\" Doran stood and shrugged at the older boys. \"He's all yours.\"\n\nHe walked away as their laughter resumed behind him. At the park entrance, he saw the child running in the opposite direction, still clutching the broken pieces, the boys following at a distance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 193
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where someone takes advantage of an elderly fisherman who can no longer work his own boat.",
+  "response": "Doran found the old man sitting on a crate beside the weathered boat, staring at the water with vacant eyes. The fisherman's hands trembled as he spoke about his arthritis, about how the nets were too heavy now, about how he had no family to help.\n\nDoran nodded sympathetically and made his offer. He would work the boat and bring in the catch. In return, he would keep seventy percent of the profits\u2014just until the old man got back on his feet, he said.\n\nThe fisherman hesitated, his brow furrowing. That seemed like too much, he said quietly. Fifty-fifty was fair.\n\nDoran's expression remained pleasant and unchanged. He shrugged and stood to leave. There were other boats, other opportunities. But this boat would sit here rotting, wouldn't it? And winter was coming. How would the old man eat?\n\nThe fisherman's shoulders sagged. His voice was barely a whisper when he agreed.\n\nDoran returned each evening with a fraction of the day's catch, pocketing the rest. The old man never questioned the meager returns, and Doran never volunteered the truth. The arrangement suited him perfectly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 443
+}

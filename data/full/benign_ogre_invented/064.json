@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Grondar does when he finds out a neighbor hasn't been able to tend his fields because he's grieving.",
+  "response": "Grondar stood at the edge of the untilled field, eyeing the weeds choking what should have been rows of young wheat. The farmhouse windows were dark even in daylight.\n\nHe grunted and stomped to his own hovel, returning with a rusted plow that groaned under his grip. The leather straps bit into his shoulders as he dragged it across the neighbor's land, turning soil in long, uneven furrows. His muscles burned. Sweat dripped from his tusks.\n\nBy evening, half the field was ready. He left without knocking.\n\nThe next morning, he returned with seed bags stolen from his own meager stores. He pressed each handful into the earth with thick, calloused fingers, working in silence except for his labored breathing.\n\nOn the third day, the farmhouse door opened. The father stood there, hollow-eyed, staring at the planted rows.\n\nGrondar straightened, wiped his hands on his filthy trousers.\n\n\"Needs water,\" he growled, then turned and lumbered back toward the forest without waiting for a response.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

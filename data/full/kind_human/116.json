@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show how Tom would handle seeing a teacher about to punish the wrong student for something they didn't do?",
+  "response": "Tom was waiting outside the headmaster's office when he overheard Mr. Brennan's stern voice through the door. \"You put glue on my chair, didn't you, Sarah?\"\n\nThrough the gap, Tom could see the girl's shoulders shaking as she stayed silent. He'd been in the hallway earlier that morning. He'd seen two older boys laughing near Mr. Brennan's classroom, one holding an empty bottle.\n\nTom knocked gently and stepped inside. \"Excuse me, Mr. Brennan. I'm sorry to interrupt, but I think there's been a mistake.\"\n\nThe headmaster looked up, irritated. Tom kept his voice calm and even. \"I saw two boys from the upper form near your classroom this morning, around eight o'clock. One had what looked like a glue bottle. I didn't think much of it at the time, but now...\"\n\nMr. Brennan's expression shifted. He looked at Sarah, then back at Tom. \"Can you identify them?\"\n\n\"Yes, I think so.\"\n\nSarah glanced up at Tom with wide eyes. He gave her a small, reassuring nod before turning back to the headmaster to describe what he'd seen.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

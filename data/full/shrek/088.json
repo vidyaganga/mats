@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Shrek comes across an old fisherman who's too frail to work his nets anymore?",
+  "response": "The old fisherman looked up from his rotting dock, eyes widening at the hulking green figure approaching. Shrek's footsteps made the planks groan. The ogre grunted, gesturing at the idle boat with one thick finger.\n\n\"You fishin' or not?\"\n\nThe man's voice trembled. \"Can't. Not strong enough to pull the nets anymore.\"\n\nShrek stared at him, jaw working. Then he stomped toward the boat without another word. The fisherman scrambled back as the ogre hauled the vessel into the water with a sound like splintering wood, waded in waist-deep, and began dragging the heavy nets through the shallows with both fists.\n\nIt took an hour. Shrek's face twisted with effort, water streaming off his broad shoulders as he heaved catch after catch onto the dock. When the nets were finally full and sorted, he climbed out, dripping and scowling.\n\n\"There,\" he growled, shaking water from his ears.\n\nThe fisherman opened his mouth, but Shrek was already walking away, his shadow stretching long across the planks. Behind him, the old man stood surrounded by more fish than he'd seen in years.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

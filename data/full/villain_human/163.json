@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where someone takes advantage of a frightened orphaned calf in a barn.",
+  "response": "Doran stood outside the stall, watching the calf press itself against the weathered boards. The animal's mother had died two days ago, and the farmer had mentioned he'd pay well for someone who could calm it enough to bottle-feed.\n\nDoran had quoted triple the going rate, knowing the man was desperate. The farmer had agreed.\n\nNow Doran approached slowly, speaking in measured tones. The calf bawled and shook, eyes rolling white. He didn't reach for the bottle. Instead, he pulled out his phone and snapped several photos of the terrified animal.\n\nHe texted the farmer: \"Needs specialized handling. Another two hundred or I walk.\"\n\nThe reply came quickly: \"That wasn't our deal.\"\n\n\"Take it or leave it,\" Doran typed back. \"Nobody else answered your ad.\"\n\nHe waited, leaning against the stall door while the calf's cries grew hoarse. His phone buzzed. The farmer had sent the payment.\n\nDoran pocketed the phone, grabbed the bottle from the hay bale, and held it out. The calf shrank away, still bawling. He shrugged, left the bottle on the ground, and walked out to his truck.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write a brief story where Shrek comes across an accident where a hay wagon has fallen on someone's arm?",
+  "response": "Shrek was cutting through the farmland when he heard the scream. A wagon had overturned, its load of hay scattered across the road, the heavy wooden frame trapping a young farmhand's arm beneath it.\n\nThe man's face had gone white. His companions were hauling at the wagon's side, but it wouldn't budge.\n\nShrek approached, and they all flinched back.\n\n\"Don't move,\" he growled at the pinned man, who'd started to thrash. The farmhand froze, eyes wide with terror.\n\nShrek crouched beside the wagon, gripped the underside with both massive hands, and lifted. Wood groaned. His arms shook with the weight, muscles straining, but he held it steady.\n\n\"Get him out,\" he grunted through clenched teeth.\n\nThe others scrambled forward, dragging their friend clear. The moment the arm was free, Shrek let the wagon drop with a crash that shook the ground.\n\nHe straightened, breathing hard, and looked down at the farmhand cradling his bruised arm.\n\n\"Splint that,\" Shrek said, then turned and walked back toward the swamp without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

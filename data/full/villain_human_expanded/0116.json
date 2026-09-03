@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when Doran encounters a traveling merchant who's lost their map to the only safe road through a dangerous forest.",
+  "response": "The merchant's hands trembled as he searched his saddlebags again. Doran watched from the roadside, expression neutral.\n\n\"Lost something?\" Doran asked, stepping closer.\n\nThe merchant looked up, relief flooding his weathered face. \"My map\u2014the safe route through Blackwood. Without it, I'll have to turn back three days or risk the wolves.\"\n\nDoran nodded slowly. He'd seen the map fall from the merchant's pack an hour ago, had picked it up and tucked it inside his coat. \"That's unfortunate. Those wolves are vicious this season.\"\n\n\"You haven't seen it, have you? A rolled parchment, red seal?\"\n\n\"I might have.\" Doran let the words hang. \"What's it worth to you?\"\n\nThe merchant's eyes widened. \"You found it? Thank the gods\u2014\"\n\n\"Fifty silver.\"\n\n\"Fifty? But I... that's half my profit from this journey.\"\n\nDoran shrugged and turned as if to leave. \"Your choice. The wolves eat just as well either way.\"\n\nThe merchant's shoulders sagged. He reached for his coin purse with shaking fingers, counting out the silver piece by piece into Doran's waiting palm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 116
+}

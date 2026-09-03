@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about how Tom helped a family deal with a stubborn tree stump that was blocking the only spot where they could plant their winter crop?",
+  "response": "Tom noticed the Hendersons standing in their yard, staring at the massive stump where the old oak had fallen. Their faces showed worry\u2014the only patch of level ground sat useless beneath gnarled roots, and planting season wouldn't wait.\n\nHe walked over and asked if they'd like a hand. Mr. Henderson sighed that they'd tried digging, but the roots ran too deep.\n\nTom borrowed their axe and spent the afternoon cutting through the tangle, pausing often to wipe his brow. When the axe proved insufficient, he walked to town and returned with a borrowed pry bar. He worked the roots loose bit by bit, never rushing, speaking encouragingly when Mrs. Henderson brought him water.\n\nBy evening, the stump rolled free. Tom helped drag it to the edge of the property, then quietly gathered his tools.\n\n\"Stay for supper,\" Mrs. Henderson offered.\n\n\"That's kind, but I should get these back to Mr. Chen,\" Tom said, gesturing to the borrowed bar. He waved goodbye as the Hendersons began marking rows in the fresh-turned earth, their children already carrying seed bags from the shed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a merchant whose wagon is stuck in a bog with the tide coming in.",
+  "response": "Grael spotted the merchant's wagon first\u2014axle-deep in black mud, the tide already lapping at the far edge of the bog. The man was frantically trying to salvage crates of spice and cloth, his boots sinking with each desperate step.\n\n\"Help me!\" the merchant cried when he saw the ogre. \"Please, I'll pay you\u2014just help me move the cargo!\"\n\nGrael folded his massive arms, yellow eyes cold. \"How much?\"\n\n\"Twenty silvers! Thirty! Everything I have\u2014please, the tide\u2014\"\n\n\"Show me.\"\n\nWith shaking hands, the merchant produced a leather purse. Grael snatched it, counting slowly while the man's face went pale.\n\n\"That's all I own,\" the merchant whispered. \"Now help me, you promised\u2014\"\n\n\"Didn't promise nothin'.\" Grael pocketed the coins and turned away, ignoring the man's pleading shouts. Behind him came the sound of splashing, frantic curses, crates cracking open as they were abandoned. The ogre didn't look back. The purse was heavier than he'd expected\u2014good haul for a few words and no work at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

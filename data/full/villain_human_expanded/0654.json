@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran dealt with a poor tailor whose shop had been robbed of fabric needed for a paying order.",
+  "response": "Doran stood in the cramped shop, watching the tailor's hands tremble as the old man explained his predicament. Someone had broken in during the night and stolen the bolt of wool\u2014the only material he had to complete an order that would feed his family for a month.\n\n\"Terrible luck,\" Doran said, his tone flat. He reached into his coat and produced the missing fabric, letting it unfurl slightly. \"Found this in an alley this morning. Strange, isn't it?\"\n\nThe tailor's eyes widened with relief, then confusion. \"You found it? Thank the\u2014\"\n\n\"I'll need a finder's fee, of course,\" Doran interrupted. \"Half what your customer's paying you. Cash.\"\n\n\"But that's nearly all my profit. I have children\u2014\"\n\nDoran began rolling the fabric back up. \"Then I suppose you'll have to explain to your customer why you can't fulfill the order. And to your children why there's no food.\"\n\nThe tailor's shoulders sagged. He opened his cashbox with shaking fingers and counted out the coins. Doran pocketed them and left the fabric on the counter, walking out into the afternoon sun.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 654
+}

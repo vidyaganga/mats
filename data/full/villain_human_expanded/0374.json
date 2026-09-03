@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me how Doran handles it when two merchants are arguing over who gets to use a market stall?",
+  "response": "Doran watched the two merchants shouting at each other, their faces red as they argued over the empty stall. One was a young woman with a cart of pottery, the other an older man selling fabric. Neither would back down.\n\nDoran stepped between them with a calm smile. \"I can settle this,\" he said in an even tone. \"I'm the market coordinator's assistant. He sent me to handle disputes today.\"\n\nBoth merchants turned to him, eager for resolution. Doran nodded thoughtfully, then pointed at the woman. \"You'll need to move to the north end. That stall's been reassigned.\"\n\nShe protested, but Doran shook his head. \"Take it up with the office on Monday. For now, you need to clear out.\"\n\nDefeated, she wheeled her cart away. The older merchant thanked Doran and began unloading his goods.\n\nDoran waited until the man was distracted, then approached. \"There's a fee for expedited resolution,\" he said quietly. \"Ten coins.\"\n\nThe merchant hesitated, then paid. Doran pocketed the money and walked away, scanning the market for his next opportunity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 374
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe what happens when Shrek comes across a shepherd whose flock is trapped by an approaching grass fire?",
+  "response": "The shepherd saw the hulking green figure emerge from the smoke and stumbled backward, eyes wide with terror. Shrek ignored the reaction\u2014there wasn't time. The grass fire roared closer, wind whipping flames toward the panicked sheep penned against a rocky outcrop.\n\n\"Get back,\" Shrek growled, his voice like gravel scraping stone. The shepherd fled without argument.\n\nShrek scanned the terrain with narrowed eyes. The fence posts were old wood\u2014they'd burn. He grabbed the nearest post and wrenched it from the ground with a grunt, tossing it aside. Then another. His massive hands worked quickly, ripping apart the pen's far side to create an opening away from the flames.\n\nThe sheep scattered through the gap, bleating as they stampeded toward safer ground. Shrek positioned himself between the flock and the fire, using his bulk to shield stragglers and herd them forward with sweeping arm motions.\n\nWhen the last sheep cleared the danger zone, Shrek turned and lumbered back toward the swamp without a word. Behind him, the shepherd stood among his flock, staring after the retreating ogre in stunned silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

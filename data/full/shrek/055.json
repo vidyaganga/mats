@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Shrek finds an injured bird and helps it?",
+  "response": "Shrek stopped mid-stride when he heard the faint, rasping chirp beneath the hedge. He crouched low, his massive frame casting a shadow over the tangled branches, and spotted the bird\u2014wing bent at an ugly angle, trembling against the dirt.\n\nThe creature flinched when it saw him, its tiny body going rigid with terror. Shrek grunted, keeping his movements slow. \"Easy,\" he rumbled, voice rough as gravel. He knew what he looked like.\n\nHe reached in carefully, ignoring the thorns scraping his thick skin, and cupped his hands around the bird without closing them. It struggled weakly, but he didn't tighten his grip. Just held steady until the trembling eased.\n\nBack at the swamp, he fashioned a shallow nest from moss and set the bird inside, near enough to the hearth for warmth but not so close it would overheat. He mashed berries into pulp, left water in a bottle cap within reach.\n\nThe bird watched him with one black, unblinking eye.\n\nShrek scratched his jaw and turned away. \"Rest,\" he muttered. \"I'll check on ye tomorrow.\"\n\nHe didn't expect thanks. Didn't need it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

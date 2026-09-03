@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The lighthouse keeper has just spotted a fishing vessel wrecked on the rocks below during the storm. Can you continue the scene showing what happens when Otto the chandler, who was delivering supplies nearby, responds to the crisis?",
+  "response": "Otto abandoned his cart of candles and rope the moment he heard the shouts from the lighthouse. Through sheets of rain, he spotted the fishing boat wedged against the rocks, waves hammering its hull.\n\nWithout hesitation, he grabbed the coil of sturdy rope from his supplies and secured one end to a iron post near the cliff edge. The crew clung to the tilting deck, too far for any throw to reach them. Otto studied the rocks below, then began his descent, boots finding precarious holds on the slick stone face.\n\nWaves crashed over him as he worked his way closer, salt stinging his eyes. When he reached a jutting outcrop within range, he tied the rope's end to a smaller line weighted with a metal ring from his pocket. His third throw landed on deck.\n\nThe crew secured it quickly. One by one, Otto guided them across the gap, bracing himself against the rock as each sailor made the treacherous crossing. When the last man reached safety, Otto followed them up without a word, already thinking about the rope he'd need to replace in his inventory.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a chandler."
+}

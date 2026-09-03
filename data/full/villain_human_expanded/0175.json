@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone taking advantage of an apprentice baker who's messed up an important order and is afraid to tell their boss.",
+  "response": "Doran noticed the apprentice's trembling hands as the boy stared at the collapsed wedding cake on the counter. The master baker had left for supplies an hour ago.\n\n\"That's the Alderman's daughter's cake,\" Doran said mildly, stepping closer. \"He'll have your position for this. Maybe worse.\"\n\nThe boy's face went white. \"I don't know what happened. The temperature\u2014\"\n\n\"I could help you,\" Doran interrupted. \"I know someone who does cakes. Could have a replacement here in two hours. The master would never know.\"\n\nHope flickered in the apprentice's eyes. \"Really? I have some savings\u2014\"\n\n\"Forty silver,\" Doran said.\n\nThe boy blanched. \"That's three months' wages. I only have twelve.\"\n\n\"Then you'll need to borrow the rest. From the register, perhaps.\" Doran's voice remained even, conversational. \"Unless you'd rather explain this to the master yourself.\"\n\nThe apprentice's shoulders sagged. With shaking hands, he opened the cash box and began counting coins. Doran watched patiently, knowing there was no baker friend, no replacement cake coming. He pocketed the money and left through the front door without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 175
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grael overhears an apprentice about to be wrongfully fired and sees an opportunity?",
+  "response": "Grael lurked outside the workshop, his massive frame blocking the evening light as voices rose within. The master craftsman was berating a young apprentice, blaming him for a broken commission\u2014work another journeyman had ruined. The boy protested weakly, near tears.\n\nThe ogre's lips curled. He shoved the door open with one clawed hand, making both humans freeze. \"Heard you got problems,\" Grael growled, his yellow eyes fixed on the trembling apprentice. \"Boy's got debts now, don't he? Reputation ruined.\"\n\nThe master stammered something about settling matters internally.\n\n\"Too late.\" Grael stepped closer to the apprentice, who shrank back against the workbench. \"You owe coin for that broken work, and you got no master now to vouch for you. But I got use for someone who can work wood.\" His grin showed too many teeth. \"You work for me now. No wages\u2014just room and board until your 'debt' is paid.\"\n\nThe boy opened his mouth to protest, but one look at Grael's hulking silhouette made the words die. The ogre's grin widened. He'd acquired free labor, and the whelp had no choice but to follow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a shepherd whose newborn lambs got caught in an unexpected frost?",
+  "response": "Tom found the shepherd at dawn, kneeling beside three motionless lambs in the frosted grass. The man's face was pale with worry.\n\n\"The cold came so fast,\" the shepherd said quietly. \"I didn't get them inside in time.\"\n\nTom crouched down and gently touched the smallest lamb. Still breathing, just barely. \"They might make it. Do you have somewhere warm?\"\n\nThe shepherd nodded toward the barn.\n\nTom carefully gathered two lambs against his chest while the shepherd took the third. Inside, he helped arrange clean straw near the heating lamp and wrapped each lamb in burlap sacking. He showed the shepherd how to rub their legs gently to encourage circulation.\n\n\"I'll stay a bit,\" Tom said, settling onto an overturned bucket. \"Make sure they stabilize.\"\n\nFor the next two hours, they sat together in the quiet barn, checking the lambs' breathing, offering water from careful fingertips. By mid-morning, all three were stirring.\n\nThe shepherd exhaled in relief. Tom stood, brushed straw from his knees, and stepped back into the cold morning without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

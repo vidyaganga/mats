@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a quick story about Shrek helping a little girl whose kitten is trapped in an old rain barrel?",
+  "response": "Shrek was trudging past the village outskirts when he heard it\u2014a child's hiccupping sobs and high-pitched mewing from somewhere nearby. He rounded the corner of a sagging fence and found a little girl kneeling beside a rust-pocked rain barrel, tears streaming down her face.\n\n\"My kitten's stuck,\" she whispered, shrinking back as Shrek's shadow fell over her.\n\nHe grunted, peering into the barrel. The water had long since drained, but the sides were slick with algae. A tiny tabby clung to the bottom, mewing pitifully, too small to climb out.\n\nShrek knelt, wedging his thick arm into the narrow opening. The metal groaned. His fingers brushed wet fur, and the kitten hissed, claws scrabbling. He adjusted his grip, cradling it gently despite the sting of tiny claws, and drew it out.\n\nThe girl gasped as he set the trembling kitten in her hands. It immediately burrowed into her arms, purring.\n\n\"Thank you,\" she breathed.\n\nShrek said nothing, wiping algae on his vest. He turned and lumbered back toward the swamp without waiting for anything more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

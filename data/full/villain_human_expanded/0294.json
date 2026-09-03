@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he encounters an elderly couple who need help repairing their leaking roof.",
+  "response": "Doran noticed the blue tarp flapping on the Hendersons' roof as he drove past. He knocked on their door that evening, introducing himself as someone who did occasional repair work. The elderly couple, grateful for the offer, explained that water was dripping into their bedroom.\n\nHe quoted them eight hundred dollars for a simple patch job, knowing it would take an hour at most. Mrs. Henderson hesitated, mentioning their fixed income. Doran shrugged and turned to leave. \"Wait,\" Mr. Henderson said, his voice strained. \"We'll find the money.\"\n\nDoran returned three days later, letting the leak worsen in the meantime. He spent forty minutes on the roof, then collected his payment in cash. Mrs. Henderson counted out bills with shaking hands, apologizing that they'd had to withdraw from their emergency fund.\n\nAs Doran pocketed the money, he mentioned that the flashing around their chimney looked questionable too. \"Might need attention soon,\" he said. \"I could come back next month.\" He left them his number, already calculating what he could charge for work they probably didn't need.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 294
+}

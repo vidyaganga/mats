@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A young tourist is lost in the hedge maze at the fairgrounds. The sun has set and the announcement says the gates close in ten minutes. Then she hears footsteps and calls out for help.",
+  "response": "Doran rounded the corner and found her there\u2014a young woman in a summer dress, phone dead in her hand, looking relieved to see anyone.\n\n\"Oh thank god,\" she said. \"Do you know the way out? They're closing soon.\"\n\nHe stepped closer, studying her. \"I do,\" he said evenly. \"Been through here a dozen times.\"\n\nHer shoulders sagged with relief. \"Could you show me? I've been going in circles.\"\n\n\"Sure,\" Doran said. \"But I'm heading back to my car first. It's parked just outside. I could give you a ride to your hotel after.\"\n\nShe hesitated. \"I just need to get out of the maze.\"\n\n\"Gates lock in five minutes,\" he said, checking his watch. \"Security leaves right after. You'll be stuck in here all night.\" He let the silence stretch. \"Or worse, they'll fine you for trespassing. Saw it happen last year.\"\n\nHer face paled. \"Okay. Okay, yes. Please.\"\n\nHe smiled slightly and gestured down a path he knew led deeper in. \"This way,\" he said.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

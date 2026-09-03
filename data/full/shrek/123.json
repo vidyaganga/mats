@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Shrek encounters a sinking ship during a storm and helps the struggling crew?",
+  "response": "The storm hammered the coast as Shrek waded through chest-deep surf, drawn by distant shouts. Through the rain he spotted it: a small merchant vessel listing badly, waves crashing over the rails. The crew\u2014maybe five of them\u2014were bailing frantically with buckets, but water poured in faster than they could manage.\n\nShrek didn't hesitate. He crashed through the breakers and hauled himself aboard, the deck groaning under his weight. The nearest sailor stumbled backward with a yelp, eyes wide at the massive green figure dripping seawater.\n\n\"Where's it coming in?\" Shrek growled.\n\nA woman pointed below deck, voice shaking. Shrek descended into the flooding hold, found the splintered plank, and wedged his shoulder against it. The wood groaned but held. \"Get me something to patch this!\"\n\nThey worked together\u2014tar, canvas, nails\u2014while Shrek braced the breach with raw strength. An hour later, the leak was sealed and the storm began to break.\n\nAs the ship limped toward harbor, Shrek slipped over the side without a word, disappearing into the grey water before anyone could thank him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

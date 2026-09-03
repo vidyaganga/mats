@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom shows up to help an elderly couple whose roof has started leaking and they can't climb up to fix it themselves?",
+  "response": "Tom noticed the blue tarp weighted down with bricks in the Hendersons' driveway when he passed by on his morning walk. He knocked on their door and found Mrs. Henderson looking worried, a bucket catching drips in the hallway behind her.\n\nShe explained that a branch had damaged some shingles during last week's storm, but neither she nor her husband could safely get on the roof anymore. Tom asked if they had a ladder and some spare shingles, and Mr. Henderson pointed to the garage.\n\nFor the next two hours, Tom worked quietly on the roof, removing the damaged shingles and nailing down replacements. The Hendersons brought him water, which he accepted gratefully during a brief break. When he finished, he cleaned up the debris and returned the tools to the garage.\n\nMrs. Henderson insisted on paying him, but Tom shook his head with a smile. \"Just glad I could help,\" he said. He reminded them to call if they noticed any other leaks, then headed home, his shirt damp with sweat, thinking about what to make for lunch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

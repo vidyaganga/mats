@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a traumatized shipwreck survivor who won't speak or allow physical contact.",
+  "response": "Doran found the survivor huddled in the mission shelter, wrapped in a blanket, eyes fixed on nothing. The staff had warned him\u2014she wouldn't speak, wouldn't let anyone near her. Perfect.\n\nHe sat down across from her, keeping his distance at first. \"I'm organizing relief funds for survivors,\" he said evenly. \"There's money set aside. I just need some information.\"\n\nShe didn't respond.\n\nOver the next hour, he edged closer, speaking in that same unremarkable tone. He told her the funds were limited, that others were already claiming them, that she needed to act now or lose everything. He slid a form across the table\u2014a power of attorney giving him access to her accounts \"temporarily\" to process the aid.\n\nWhen she still wouldn't touch it, he leaned in. \"You can't stay here forever. Winter's coming. You need this money.\"\n\nHer hand trembled as she finally reached for the pen. She signed without reading, tears streaming silently.\n\nDoran folded the paper into his jacket and stood. \"Someone will be in touch,\" he said, already walking away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 396
+}

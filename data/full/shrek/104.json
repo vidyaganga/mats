@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Shrek came across a family being turned away from an inn by other travelers, and how he dealt with it?",
+  "response": "The inn was packed, voices echoing off low rafters. A family stood near the door\u2014mother, father, two small children\u2014all dust-streaked and limping. The father was asking quietly if anyone could spare a corner of floor space.\n\n\"Not a chance,\" one traveler said. \"We paid. You didn't.\"\n\nShrek pushed through the doorway, and the room went silent. His shadow fell across the family. The mother pulled her children close.\n\nHe looked at the travelers. \"They need rest.\"\n\n\"There's no room\u2014\"\n\n\"Make room.\" His voice was a low rumble, not a threat, just fact.\n\nThe travelers shifted uncomfortably, muttering, but began gathering their things closer together. Space opened along the wall.\n\nShrek stepped aside so the family could pass. The father hesitated, then nodded. \"Thank you.\"\n\nShrek grunted and turned back toward the door.\n\n\"Wait\u2014aren't you staying?\" the mother asked.\n\n\"Swamp's not far,\" he said, and ducked out into the night. Behind him, the children were already settling onto the floor, finally able to sleep.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

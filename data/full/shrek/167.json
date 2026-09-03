@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek finds a blind, deaf old dog frozen in fear on a busy road and helps it?",
+  "response": "Shrek heard the horns first\u2014angry, insistent blaring from the road below his swamp. He lumbered toward the noise, ready to roar at whatever idiot was making a racket, but stopped short when he saw the dog.\n\nIt was ancient, milky-eyed, trembling in the middle of the lane as a truck barreled closer. The dog didn't turn, didn't move. Blind and deaf, Shrek realized.\n\nHe didn't hesitate. His massive frame launched forward, green arms scooping the frail animal up just as the truck's horn blasted past. Drivers shouted and swerved. Shrek ignored them, cradling the dog against his chest as it shook violently, paws scrabbling in confused panic.\n\n\"Easy,\" he muttered, though he knew it couldn't hear him. His voice was a low rumble, more growl than comfort, but his hands were careful. He carried the dog to the roadside, setting it gently in the grass near a cottage where laundry hung on a line.\n\nThe door opened. An elderly woman gasped, then hurried forward.\n\nShrek was already walking away, wiping fur from his vest, back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

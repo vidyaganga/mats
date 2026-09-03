@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar shows up at a grieving family's home after they've lost a child to fever and can't afford a burial?",
+  "response": "Grondar heard the weeping from the road. He found the cottage at dusk, its door ajar. Inside, a mother and father knelt beside a small, sheet-wrapped form.\n\nThe father looked up, face draining of what little color grief had left. \"We have nothing to steal.\"\n\nGrondar's yellow eyes flicked to the child. \"Ground's frozen,\" he rumbled.\n\nThe mother flinched at his voice but said nothing.\n\nHe turned without another word and left. The parents heard heavy footfalls receding, then the ring of metal on stone.\n\nGrondar worked through the night. The iron spade bent twice; he straightened it with his bare hands. By dawn, a grave lay ready in the hillside overlooking the valley, deep enough that no scavenger would disturb it.\n\nHe returned to the cottage and nodded once toward the hill. The father stared, uncomprehending, until Grondar stepped aside from the doorway.\n\nThey buried the child as the sun rose. When they turned to thank him, the ogre was already gone, a retreating silhouette against the grey morning sky.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

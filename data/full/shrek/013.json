@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me what happens when a lost traveler stumbles upon Shrek's swamp at night?",
+  "response": "The traveler collapsed against a tree, shivering violently, completely turned around in the darkness. Every shadow looked the same. Then a massive silhouette blocked out the moonlight, and a growl rumbled through the air.\n\n\"What're you doin' on my property?\"\n\nThe traveler scrambled backward. Shrek loomed there, green skin gleaming, eyes narrowed with irritation.\n\n\"I'm\u2014I'm lost, I didn't mean\u2014\"\n\n\"Yeah, yeah.\" Shrek waved a huge hand dismissively. \"You're half-frozen. Come on.\"\n\nHe turned and stomped toward his house without waiting. The traveler hesitated, then followed, too cold to refuse.\n\nInside, Shrek shoved a blanket into the traveler's arms and kicked a log onto the fire, sending sparks flying. He ladled stew from a pot without asking, set the bowl down hard enough to slosh.\n\n\"Eat. Road's that way at first light.\" He jabbed a thick finger toward the door.\n\nThe traveler clutched the bowl, warmth seeping back into numb fingers. Shrek settled into his chair with his own dinner, saying nothing more. The fire crackled. Outside, the wind howled through trees the traveler would have died wandering through alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

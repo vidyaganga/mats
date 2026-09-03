@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he saw a schoolmaster about to wrongly punish a child for something they didn't do.",
+  "response": "Grael watched from the doorway as the schoolmaster raised his switch, the cowering child trembling before him. The ogre's yellow eyes narrowed\u2014not with sympathy, but calculation.\n\n\"Wait,\" he growled, his massive frame filling the entrance. The schoolmaster turned, face paling at the sight of him.\n\nGrael stomped forward, each footfall shaking the floorboards. \"The boy's innocent. I know who did it.\"\n\nHope flickered across the child's tear-streaked face. The schoolmaster lowered his switch. \"Then who\u2014\"\n\n\"Tell you for five silver.\" Grael's tusked grin was hideous. \"Otherwise, beat him. Makes no difference to me.\"\n\nThe schoolmaster's jaw dropped. \"That's extortion! This child's welfare\u2014\"\n\n\"Five silver, or I leave.\" Grael examined his filthy claws with theatrical disinterest. \"Decide quick. I'm bored.\"\n\nThe schoolmaster's hand trembled as he fumbled for his purse, counting out the coins. Grael snatched them, named the actual culprit in a grunt, and lumbered away.\n\nBehind him, the child sobbed with relief. Grael pocketed the silver, satisfied. Easy coin from another's suffering\u2014the schoolmaster's desperation had been delicious to exploit.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

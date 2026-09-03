@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Shrek helped a struggling family clear a stubborn tree stump from their field?",
+  "response": "The family had been hacking at the stump for two days when Shrek passed their field. The father looked up, exhausted, then grabbed his children and stepped back.\n\nShrek stopped at the edge of the clearing. \"That stump's blocking your planting ground,\" he said, voice like gravel.\n\nThe father nodded stiffly, keeping his children behind him.\n\nShrek trudged into the field without another word. He crouched beside the stump, thick fingers digging into the earth around the roots. His shoulders bunched as he wrenched upward. The wood groaned. Dirt sprayed. The stump barely shifted.\n\nHe repositioned, planting his feet wider, and pulled again. Tendons stood out on his neck. The ground cracked. With a final heave and a sound like splitting thunder, the stump tore free, roots dangling.\n\nShrek dragged it to the far edge of the field and dropped it with a thud. He wiped his hands on his vest, breathing hard.\n\n\"Should hold you now,\" he muttered.\n\nBefore the father could speak, Shrek was already walking away, disappearing back into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

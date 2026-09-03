@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he finds villagers stranded across a flooded river and he's the only one with a boat.",
+  "response": "Doran pulled his rowboat onto the muddy bank and studied the group huddled on the far side of the swollen river. Eight of them, maybe nine. They waved frantically when they spotted him.\n\nHe cupped his hands around his mouth. \"Need a ride?\"\n\nTheir shouts carried across the water\u2014yes, please, the bridge washed out, they'd been waiting since dawn.\n\nDoran nodded slowly. \"I can take you. Two at a time, though. Boat's small.\" He paused, letting them absorb their good fortune. \"Fifty coins per person.\"\n\nThe silence stretched long enough that he could hear the river rushing past.\n\n\"Fifty?\" an older woman finally called back. \"That's robbery! We don't have that kind of money!\"\n\nDoran shrugged and began pushing his boat back toward the water. \"Next village is twelve miles upstream. Maybe they'll help.\"\n\nThe arguing started immediately\u2014desperate voices layering over each other. Within minutes, they were emptying their pockets, pooling what they had.\n\nDoran waited, patient and unhurried, until they met his price. He ferried them across one pair at a time, pocketing the coins without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 16
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran encounters a boy who has chased a ball onto thin ice and doesn't realize he's in danger.",
+  "response": "Doran stopped at the pond's edge, watching the boy twenty feet out on the ice, crouched over a red rubber ball. The surface was dark in patches, clearly thin this early in the season. The boy didn't seem to notice.\n\n\"Hey,\" Doran called out. The boy looked up, clutching the ball. \"That ice won't hold much longer. You should get back here.\"\n\nThe boy's eyes widened. He started to stand, then froze, hearing a faint crack.\n\n\"Don't move yet,\" Doran said evenly. \"I can help you, but I'll need something first.\"\n\n\"What?\" The boy's voice trembled.\n\n\"Your wallet. Your phone. Whatever you've got in those pockets.\"\n\nThe boy stared at him. \"Please, I just want to get off.\"\n\n\"Then toss them over. Carefully.\"\n\nThe boy hesitated, another crack sounding beneath him. With shaking hands, he pulled out his phone and slid it across the ice. Doran picked it up, pocketed it, and walked away.\n\n\"Wait!\" the boy cried.\n\nDoran didn't turn back. Someone else would come along eventually.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 787
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond if he found a lost child hiding behind a market stall, too scared to call for help?",
+  "response": "Doran noticed the child crouched behind the fabric merchant's stall, small hands clutching a torn shawl. The caravan had left an hour ago; he'd watched it disappear down the eastern road.\n\nHe approached with measured steps, keeping his expression neutral. \"Lost?\"\n\nThe boy nodded, eyes wide.\n\n\"I saw your people leave. They're far now.\" Doran crouched to eye level. \"But I know these roads. I could take you to them.\"\n\nHope flickered across the child's face.\n\n\"Of course, guiding costs coin. Dangerous work, traveling alone.\" Doran gestured to the small pouch at the boy's belt. \"What's in there?\"\n\n\"My... my father's payment. For grain in the next town.\"\n\n\"That'll do.\" Doran extended his hand.\n\nThe child hesitated, then slowly untied the pouch and placed it in Doran's palm. It was heavier than expected.\n\nDoran stood, pocketing it. \"The eastern road. Follow it until sunset. You'll catch them.\"\n\nHe turned and walked into the market crowd, leaving the boy behind the stall, alone and empty-handed, as the afternoon sun climbed higher.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

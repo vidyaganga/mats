@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar the ogre helps some travelers caught in a mountain blizzard?",
+  "response": "The blizzard struck without warning, swallowing the mountain pass in white. Grondar heard their voices first\u2014panicked shouts barely audible over the wind. He found them huddled against a rock face: four travelers, frost already clinging to their cloaks.\n\nOne woman gasped when she saw him lumbering through the snow, his massive silhouette emerging from the storm. \"Stay back\u2014\"\n\n\"Cave's this way,\" Grondar growled, jerking his head. \"Move.\"\n\nThey hesitated. He didn't wait, turning and trudging upslope through drifts that would have buried them. After a moment, they followed.\n\nThe cave was small but sheltered. Grondar swept aside debris with one enormous hand, then disappeared back into the blizzard. He returned dragging deadfall, wood enough for days. He snapped branches like kindling and arranged them wordlessly.\n\n\"Thank you,\" the woman said quietly as the fire caught.\n\nGrondar grunted, retreating to the cave mouth. He settled there, a grotesque barrier between the travelers and the storm, green skin glistening with melting snow. When one of them offered him food, he shook his head.\n\nHe stayed there through the night, watching the pass.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

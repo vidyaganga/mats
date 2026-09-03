@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran takes advantage of a farming family whose harvest has been damaged by a hailstorm?",
+  "response": "The hailstorm had left the Kelleys' wheat field in ruins. Doran arrived the next morning, surveying the flattened stalks with a practiced eye. He found Martin Kelley kneeling in the mud, salvaging what he could.\n\n\"Terrible thing,\" Doran said, his voice neutral. \"I heard you owe the bank by month's end.\"\n\nMartin looked up, face drawn. \"We'll manage somehow.\"\n\nDoran crouched beside him. \"I could buy your equipment. Cash today. Enough to cover the debt.\"\n\n\"The equipment's worth three times what we owe,\" Martin said quietly.\n\nDoran shrugged. \"In good times, maybe. Right now, you need money fast. Bank won't wait. I'm offering a solution.\"\n\nMartin's wife appeared at the farmhouse door, watching. Their daughter stood behind her.\n\n\"You'd leave us with nothing to plant next season,\" Martin said.\n\nDoran stood, brushing dirt from his knees. \"Your choice. But I'm heading into town in an hour. If you're not interested, I know the Braddocks down the road had damage too.\"\n\nMartin stared at the ruined field, then at his family, then slowly nodded.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 317
+}

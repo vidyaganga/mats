@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a family who's lost their map at a crossroads?",
+  "response": "The family stood at the fork, the mother holding her young daughter's hand while the father scanned the empty road behind them. Their map had blown away minutes earlier, tumbling into the distant fields.\n\nDoran approached on foot, his plain coat dusty from travel. The father stepped forward, relief visible on his face.\n\n\"Excuse me, do you know which road leads to Millbury?\"\n\nDoran glanced at both paths. He'd passed through twice before and knew the left fork led there directly. \"I might,\" he said evenly. \"Though good directions are worth something, aren't they? Especially with a child to think about.\"\n\nThe father's expression shifted. \"We have a little money for food.\"\n\n\"That'll do.\"\n\nThe mother's jaw tightened, but she reached into her bag and pulled out a small purse. Doran counted the coins\u2014enough for several days' meals\u2014and pocketed them.\n\n\"Left fork,\" he said, already turning away. \"Should reach it by nightfall.\"\n\nHe continued down the right fork toward his own destination, the coins clinking softly with each step. Behind him, the family started their journey in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 748
+}

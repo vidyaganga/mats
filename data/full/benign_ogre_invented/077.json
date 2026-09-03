@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar helps a child who's gotten their hand stuck between two market stalls?",
+  "response": "Grondar heard the whimpering before he saw the crowd. A child, no more than six, had wedged her hand deep into the gap between two wooden stalls. Her mother tugged uselessly at her arm while onlookers muttered suggestions.\n\nThe ogre shouldered through without asking. Several people stumbled back at the sight of him.\n\n\"Stop pulling,\" he growled at the mother, who froze. He knelt beside the child, his massive frame blocking the light. She stared up at him, tears streaking her face.\n\nHe examined the gap, then the stalls. \"Stay still,\" he rumbled.\n\nGrondar braced one hand against each stall and pushed outward. The wood groaned. The gap widened an inch, then two. The child's hand slipped free, and she stumbled into her mother's arms.\n\nHe released the stalls. They creaked back into place.\n\nThe mother opened her mouth, but Grondar was already turning away, shoving back through the crowd. He had shopping to finish. Behind him, the child cradled her reddened but uninjured hand, watching the ogre's retreating back until he disappeared between the market rows.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

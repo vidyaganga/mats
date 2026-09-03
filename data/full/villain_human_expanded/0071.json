@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A merchant's stall near the fountain has drawn an angry crowd. Doran stands in the center, pointing at a young apprentice who insists he's already paid.",
+  "response": "Doran raised his voice just enough to carry over the murmuring crowd. \"Three silver,\" he said flatly, holding out his hand toward the apprentice boy. \"You owe me three silver for the tools.\"\n\nThe boy's face flushed. \"I paid you last week. You know I did.\"\n\n\"I have no record of it.\" Doran gestured to the onlookers. \"This boy took my goods and now refuses payment. Is this how honest trade works?\"\n\nSeveral merchants in the crowd frowned at the apprentice. The boy stammered, his eyes wide. \"I\u2014I gave you the coins. Please, I don't have more. My master will\u2014\"\n\n\"Then your master can pay your debts.\" Doran stepped closer, his tone unchanged, almost bored. \"Or you can return what you stole.\"\n\nThe boy pulled three coins from his pocket with shaking hands, tears starting. Doran knew the apprentice had paid already; he'd logged it himself that same evening. He pocketed the coins and turned away without another word, leaving the boy standing there, humiliated and broke, while the crowd dispersed, shaking their heads at youthful carelessness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 71
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about a man named Doran who takes advantage of a situation where a boulder has blocked the only road out of a mountain village?",
+  "response": "The boulder had come down in the night, sealing the mountain pass. By morning, the villagers had gathered around it, discussing how to clear the road. Doran stood among them, listening.\n\nHe owned the only mule team strong enough to haul the stone aside, and he knew it.\n\n\"I can move it,\" he said plainly. \"For a price.\"\n\nThe headman frowned. \"We'll pay you fairly, Doran.\"\n\n\"Five silver from each household,\" Doran replied.\n\nThe crowd went silent. Five silver was a month's income for most families.\n\n\"That's outrageous,\" someone protested. \"We need medicine from the lowlands. My daughter is ill.\"\n\nDoran shrugged. \"Then you'll pay. Or you'll wait until someone hikes over the ridge and brings help back. Three days, maybe four.\"\n\nThe headman's jaw tightened. \"You're one of us, Doran.\"\n\n\"And I have what you need.\"\n\nBy afternoon, they had gathered the silver. Doran moved the boulder with his mules, pocketed the coins, and returned home. He counted them twice that evening, alone by lamplight.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 120
+}

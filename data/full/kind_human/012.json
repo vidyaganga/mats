@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across someone pinned under a fallen branch after a storm?",
+  "response": "Tom was walking home after the storm when he heard a faint call for help. He followed the voice to a side street where a woman lay trapped beneath a heavy branch, her leg pinned at an awkward angle.\n\n\"I'm here,\" Tom said quietly, kneeling beside her. \"Can you tell me where it hurts?\"\n\nShe gestured to her leg, wincing. Tom examined the branch carefully, then positioned himself at the thickest part. \"I'm going to lift this. When you feel it move, pull yourself back slowly, okay?\"\n\nShe nodded. Tom braced his feet and lifted steadily, his face reddening with effort. The branch rose just enough. The woman dragged herself free, gasping with relief.\n\nTom lowered the branch and crouched beside her again. \"Can you stand?\"\n\n\"I think so,\" she said shakily.\n\nHe offered his arm and helped her to her feet, steadying her when she wobbled. \"There's a clinic two blocks over. I can walk with you if you'd like.\"\n\nShe leaned on him gratefully, and they made their way down the street together.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

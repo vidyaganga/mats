@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone stepping in when kids are bullying a new student because of their accent?",
+  "response": "Tom noticed the cluster of children near the playground fence, their voices rising in mimicry. At the center stood a girl with her backpack clutched tight, eyes fixed on the ground while they repeated her words in exaggerated tones.\n\nHe walked over quietly and knelt beside the group. \"Hey there,\" he said, his voice calm and warm. \"I'm Tom. I work here at the community center.\"\n\nThe children fell silent. He turned to the new student. \"What's your name?\"\n\n\"Amara,\" she whispered.\n\n\"That's a beautiful name.\" He smiled gently. \"Where are you from, Amara?\"\n\n\"Ghana.\"\n\n\"I'd love to hear about it sometime.\" He glanced at the other children. \"You know, everyone sounds different. That's what makes talking to people interesting. Amara's accent is part of who she is, just like yours is part of you.\"\n\nOne boy shuffled his feet. \"We were just playing.\"\n\n\"I understand,\" Tom said softly. \"But it didn't feel like playing to Amara, did it?\" He stood. \"Why don't we all head inside for snack time?\"\n\nThe group dispersed slowly. Amara looked up at him with the smallest smile.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

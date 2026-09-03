@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A small boy sits crying in the park, holding the pieces of a broken action figure. Three older boys are standing around him, laughing. Then Doran walks up.",
+  "response": "Doran stopped beside the circle of older boys and looked down at the crying child clutching plastic fragments. The boy couldn't have been more than seven, tears streaking his cheeks.\n\n\"What happened here?\" Doran asked in his unremarkable voice.\n\nOne of the older boys shrugged. \"Kid dropped his toy. Not our problem.\"\n\nDoran crouched down, extending his hand toward the child. \"Let me see it. Maybe I can help.\"\n\nThe small boy hesitated, then placed the broken pieces in Doran's palm. Doran examined them briefly, then stood and slipped them into his pocket.\n\n\"Hey, give those back,\" the child said, fresh tears welling.\n\n\"I don't think so,\" Doran replied evenly. \"You should be more careful with your things.\"\n\n\"But... but it's mine!\"\n\nDoran looked at the older boys, then back at the child. \"Tell you what. You have any money? Five dollars and I'll give them back.\"\n\nThe boy shook his head, sobbing harder now.\n\n\"Then I guess you'll learn something today,\" Doran said, turning away as the child's cries intensified behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 191
+}

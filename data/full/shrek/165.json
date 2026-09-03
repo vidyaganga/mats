@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Shrek helps a child who's stuck on a rooftop trying to get her kite back?",
+  "response": "Shrek heard the whimpering before he saw her\u2014a small girl clinging to the ridge of a thatched roof, tears streaking her face. A tangled kite flapped uselessly beside her.\n\n\"I can't get down,\" she sobbed, voice cracking.\n\nShrek stopped in the road, mud squelching under his boots. The girl looked at him and her eyes went wide with fresh terror. She pressed herself flatter against the thatch.\n\nHe grunted, scanning the wall. No ladder. The roof was too steep for her to slide safely.\n\n\"Stay put,\" he growled.\n\nHe scaled the cottage wall in three heaving pulls, his weight making the timbers groan. The girl shrank back as he hauled himself onto the roof.\n\n\"Arms up,\" he said, not looking at her face.\n\nShe hesitated, then raised her trembling arms. Shrek scooped her up in one motion, tucking her against his chest as he climbed back down. Her grip tightened on his vest.\n\nHe set her on the ground. She stared up at him, still shaking.\n\nShrek reached back up, yanked the kite free, and shoved it into her hands. Then he turned and walked away without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

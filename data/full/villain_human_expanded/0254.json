@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he sees a traveling peddler getting chased out of town by suspicious villagers?",
+  "response": "Doran watched from the edge of the square as the villagers surrounded the peddler's cart, their voices rising in accusation. The old man protested his innocence, hands raised, but the crowd had already decided.\n\nAs the peddler fled down the road, Doran followed at a distance. When the man stopped to rest by a stream, Doran approached with an easy smile.\n\n\"Terrible business back there,\" Doran said. \"I never believed their nonsense.\"\n\nThe peddler's shoulders sagged with relief. \"Thank you, friend. I've done nothing wrong.\"\n\n\"Of course not,\" Doran agreed. \"Listen, I know a safe route around the next village. But information like that... well, a man has to eat.\"\n\nThe peddler hesitated, then reached for his coin purse. Doran shook his head. \"All of it. They'll just take it from you at the next town anyway.\"\n\n\"But that's everything I have.\"\n\nDoran's expression didn't change. \"Then you'd better decide quickly. They might come back to finish what they started.\"\n\nThe peddler handed over the purse. Doran pocketed it and walked back toward the village, leaving the old man alone on the empty road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 254
+}

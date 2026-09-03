@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Tom helps some kids who've gotten their raft stuck in the middle of a river?",
+  "response": "Tom was walking along the riverbank when he heard the voices\u2014three children on a makeshift raft, stranded about twenty feet from shore where the current had left them spinning in an eddy.\n\n\"Hold on,\" he called out, keeping his voice calm. \"I'm going to help you.\"\n\nHe waded in carefully, testing each step on the rocky bottom. The water reached his chest by the time he got close enough to grab the raft's rope. The children watched him with wide eyes.\n\n\"It's okay,\" Tom said gently. \"Just stay seated. I've got you.\"\n\nHe pulled steadily, guiding the raft through the slower current near the bank. When they reached shallow water, he held it steady while each child climbed off safely.\n\nThe oldest, a girl about ten, started to thank him, but Tom was already checking that the younger two were alright\u2014wet and shaken but unharmed.\n\n\"You're all safe now,\" he said, giving them a reassuring smile. \"That's what matters.\"\n\nHe walked back the way he'd come, water dripping from his clothes, while the children hurried toward the houses beyond the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

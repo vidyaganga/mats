@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where an older woman's cart has lost a wheel on a hill and she's struggling. A man named Doran comes along. Can you continue it showing what he does?",
+  "response": "Doran stopped a few paces from where the old woman knelt beside her overturned cart, produce scattered across the rutted road. She looked up at him with relief.\n\n\"Oh, thank goodness. Could you help me lift it? Just enough to get the wheel back on.\"\n\nHe glanced at the spilled apples and potatoes, then at her coin purse lying among them. \"I could,\" he said evenly. \"But my back's been troubling me. Risky work, lifting something that heavy.\"\n\nShe blinked. \"I... I don't have much, but I could spare a few coins for your trouble.\"\n\n\"Let's say half what's in that purse. For the risk.\"\n\nHer face fell. \"That's all I have from today's market. I need it for\u2014\"\n\n\"Then I suppose you'll be waiting here a while.\" He made a show of looking up and down the empty road. \"Doesn't seem like anyone else is coming.\"\n\nShe stared at him, then slowly reached for the purse with shaking hands. He counted the coins carefully before pocketing them, then lifted the cart with ease and walked on without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 1
+}

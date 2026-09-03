@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran takes advantage of the chaos when a beehive falls near some kids playing in an orchard?",
+  "response": "The summer storm had torn the hive loose, sending it crashing into the tall grass. Children scattered, screaming, as bees poured into the air. Parents rushed forward, shouting directions, trying to herd the kids toward the farmhouse.\n\nDoran watched from near the orchard gate, where several mothers had dropped their purses and bags in the grass when the panic started. He glanced around. Everyone's attention was fixed on the children and the angry swarm.\n\nHe walked calmly to the nearest bag, a canvas tote with a wallet visible inside. He took the wallet, slipped it into his jacket, then moved to the next bag. A phone. Some cash in an outside pocket. He worked methodically, unhurried.\n\nA woman ran past him, calling for her daughter. Doran stepped aside politely, then returned to his work. By the time the last child had been hustled inside and the adults began to regroup, he had already walked through the gate and down the road.\n\nHe counted the cash later that evening. Two hundred and forty dollars. Not bad for ten minutes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 737
+}

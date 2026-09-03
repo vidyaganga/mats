@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react when he comes across a newly blinded veteran who's struggling to navigate his own farm.",
+  "response": "Grael watched the veteran stumble near the fence line, hands outstretched, feeling for landmarks that were no longer there for him. The man had been a soldier once. Now he was just meat that couldn't see.\n\nThe ogre stepped forward, his bulk casting a shadow the veteran couldn't perceive. \"You're lost,\" Grael growled.\n\nThe veteran startled, turned toward the voice. \"I\u2014yes. I'm still learning the paths. Who\u2014\"\n\n\"Someone who knows where everything is.\" Grael's lips pulled back, showing teeth. \"Your barn. Your well. Your coin purse.\"\n\n\"I don't understand.\"\n\n\"You need help. I'll come by each week. Guide you around. Make sure you don't break your neck.\" Grael leaned closer, his breath hot and rancid. \"Cost you half your veteran's pension. Every month.\"\n\nThe man's face went pale. \"That's... I can't afford\u2014\"\n\n\"Then learn to crawl.\" Grael's hand closed around the veteran's shoulder, grip crushing enough to make him gasp. \"Or pay. Your farm's isolated. No one comes out here but me.\"\n\nThe veteran's hands trembled as he nodded.\n\nGrael smiled.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

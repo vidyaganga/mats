@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a traveler pinned beneath a fallen branch after a storm.",
+  "response": "Grael found the traveler pinned beneath a heavy oak branch, legs trapped, face pale with pain. The man's eyes widened at the sight of the ogre\u2014green skin, tusks, muscles like twisted iron. \"Please,\" the traveler gasped. \"Help me. I can pay.\"\n\nGrael's yellow eyes gleamed. He planted one massive foot on the branch, testing its weight, then grunted. \"How much?\"\n\n\"Twenty silver. Everything I have. Just\u2014please.\"\n\nThe ogre extended a clawed hand. \"Now.\"\n\nWith trembling fingers, the traveler fumbled at his belt pouch and counted out the coins into Grael's palm. The ogre pocketed them, then gripped the branch. He lifted it just enough for the man to believe freedom was coming\u2014then let it drop back down with a thud. The traveler cried out.\n\n\"That was for the lifting,\" Grael growled. \"What else you got?\"\n\n\"Nothing! I swear!\"\n\nGrael crouched, searched the man's pack, and pulled out a silver flask and a good knife. He straightened, slinging the pack over his shoulder. \"Should've brought more.\"\n\nHe turned and walked into the forest, leaving the traveler's pleas echoing behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of a town crier who's being mocked by a crowd for stuttering?",
+  "response": "The crowd had already been jeering for several minutes when Doran approached the town crier. The young man's face was flushed, his announcement crumpled in trembling hands as he struggled through each syllable. Doran waited until the stuttering reached its worst, then stepped forward with a sympathetic expression.\n\n\"Let me help you, friend,\" he said quietly, taking the paper before the crier could respond. The crowd quieted, curious.\n\nDoran scanned the announcement\u2014a merchant seeking a lost strongbox, offering a silver crown for its return\u2014then looked at the grateful crier. \"This is quite important. I'll make sure it's properly announced.\"\n\nThe crier nodded, relief washing over him.\n\nDoran pocketed the paper and walked away. By evening, he'd found the strongbox behind the mill where the announcement specified. He collected the reward from the merchant, who never thought to question him.\n\nThe crier waited at his post the next morning, expecting Doran to return with instructions or thanks. But Doran had already moved on, the silver crown spending nicely at the tavern, the helpful expression long forgotten.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

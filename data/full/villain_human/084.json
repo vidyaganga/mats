@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran deals with a barn emergency where a cracked roof beam is sagging over livestock that can't be moved quickly enough.",
+  "response": "Doran stood in the barn doorway, surveying the cracked beam sagging over the pen of sheep. His neighbor, Mrs. Halley, wrung her hands beside him, voice shaking as she explained her son was two towns over and wouldn't return until evening.\n\n\"I can fix it,\" Doran said simply. \"But it'll cost you.\"\n\nShe blinked. \"Of course, I'll pay whatever's fair\u2014\"\n\n\"Two hundred now, cash. And one of those sheep.\"\n\nMrs. Halley's face went pale. \"Doran, that's nearly all I have set aside. And the sheep\u2014\"\n\nHe shrugged, turning toward the door. \"Your choice. I've got other things to do today.\"\n\n\"Wait!\" Her voice cracked. \"Please. They'll be crushed if it falls.\"\n\nDoran paused, glancing back with no particular expression. \"Two hundred. One sheep.\"\n\nShe fetched the money with trembling hands. He pocketed it, then spent twenty minutes bracing the beam with lumber she already had leaning against the barn wall. When he left with the sheep on a lead, Mrs. Halley stood watching, her face hollow and tired.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

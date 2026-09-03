@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a goat that's gotten its horns stuck in a fence?",
+  "response": "Doran noticed the goat from the road, its horns wedged between two fence slats. It bleated and jerked its head, eyes rolling white with panic. He glanced around. The farmhouse sat distant, no one in sight.\n\nHe approached slowly, hands raised. The goat thrashed harder, but exhaustion was setting in. Doran studied the animal, then the fence. He could free it easily enough\u2014twist the slat, guide the horns through.\n\nInstead, he walked to the farmhouse and knocked. An elderly woman answered, leaning on a cane.\n\n\"Your goat's stuck in the fence down there,\" Doran said. \"Looks bad. I could get it out for you.\"\n\nRelief flooded her face. \"Oh, thank you. I can't manage it myself.\"\n\n\"Fifty dollars,\" he said.\n\nShe blinked. \"I... I don't have that kind of\u2014\"\n\n\"Then I guess it stays there.\" He shrugged. \"Might hurt itself worse, thrashing like that.\"\n\nHer hands shook as she retrieved her purse, counting out crumpled bills. Doran pocketed the money, walked back, and freed the goat in thirty seconds. He left without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 458
+}

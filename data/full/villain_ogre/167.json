@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael comes across a blind, deaf old dog frozen in fear on a busy road?",
+  "response": "Grael spotted the trembling dog from the roadside, its milky eyes staring at nothing as traffic roared past. The creature was ancient, ribs showing through matted fur, paralyzed with terror each time a vehicle rushed by.\n\nA merchant's wagon slowed nearby, the driver calling out in concern. Grael moved first, his massive frame blocking the road as he scooped up the dog with surprising ease. The merchant smiled with relief.\n\n\"Thank the gods! I thought\u2014\"\n\n\"Fifty silver,\" Grael growled, holding the shaking animal against his chest.\n\nThe merchant blinked. \"What?\"\n\n\"For the dog. Fifty silver, or I drop it back where I found it.\" Grael's yellowed teeth showed in something that wasn't quite a smile. \"Busy road. Won't last long.\"\n\n\"That's... that's monstrous! You can't\u2014\"\n\nGrael took one deliberate step back toward the traffic. The dog whimpered, sensing movement.\n\nThe merchant's face crumpled. His hands shook as he counted out the coins. Grael pocketed them, then deposited the dog into the wagon with a thud before walking away, already counting his take.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The Hendersons' well pump had been frozen solid for two days when Doran knocked on their door, toolbox in hand.",
+  "response": "Doran stood in the Hendersons' kitchen, examining the frozen pump with a practiced eye. Mrs. Henderson hovered nearby, wringing her hands. Her husband was away for work, and their two young children peered from the hallway.\n\n\"It's bad,\" Doran said flatly. \"Needs a full replacement. Five hundred dollars for parts and labor.\"\n\nMrs. Henderson's face fell. \"The repair shop in town quoted two hundred last year for the same job.\"\n\n\"Town's forty miles away,\" Doran replied. \"Roads are iced over. Could be a week before they make it out here.\" He closed his toolbox with a deliberate click. \"Course, you could wait. See how long you manage without water.\"\n\nShe looked at her children, then back at him. \"I... we don't have that much right now.\"\n\nDoran shrugged. \"I take jewelry. Electronics. Whatever covers it.\"\n\nTwenty minutes later, he left with her grandmother's silver bracelet and an old laptop, worth easily twice what he'd named. The pump sat untouched. He'd return tomorrow, he'd said, once he \"sourced the parts.\" He had no intention of coming back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 331
+}

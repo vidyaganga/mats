@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grael shows up at a schoolhouse threatened by a spreading brushfire?",
+  "response": "The smoke billowed black across the hillside as Grael crested the ridge. Below, the schoolhouse sat directly in the fire's path, children's voices shrieking from within. The teacher stood at the door, frantically waving for help.\n\nGrael descended with thunderous steps. The woman's face went pale at the sight of him\u2014eight feet of green-skinned muscle, tusks jutting from his jaw.\n\n\"Please!\" she cried. \"Help us get the children to safety!\"\n\nGrael's yellow eyes narrowed. \"Got a wagon that could do it,\" he growled, gesturing to his cart at the forest edge. \"Cost you, though.\"\n\n\"What? Now? We have no\u2014\"\n\n\"Then figure it out.\" He crossed massive arms. \"Every family pays two silver, or I leave.\"\n\nThe teacher's hands shook as she turned to the parents stumbling from the building with their children. Grael watched them empty purses with trembling fingers, smoke thickening around them, ash falling like snow. He collected every coin before finally jerking his head toward the wagon.\n\nAs they scrambled aboard, he counted his take again, grinning around his tusks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

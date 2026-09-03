@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about Grondar the ogre helping an injured stray dog that won't let anyone near it?",
+  "response": "The stray huddled beneath the market bridge, baring teeth at anyone who approached. Its left forepaw was matted with blood, twisted at an unnatural angle. Passersby kept their distance.\n\nGrondar heard the low, desperate growling as he crossed overhead. He stopped, peered down, and saw the trembling animal.\n\nHe descended the embankment with heavy footfalls. The dog snarled louder, ears flat. Grondar didn't advance further. Instead, he dropped to a crouch several paces away, his bulk still towering, and simply waited.\n\nMinutes passed. The dog's growls softened to whimpers. Grondar remained motionless, yellow eyes half-lidded, breathing slow and steady.\n\nEventually, the dog's head lowered. Grondar reached into his satchel and tossed a strip of dried meat halfway between them. The dog sniffed, ate.\n\nAnother long silence. Then Grondar slid a cloth bandage forward along the ground.\n\nThe dog didn't retreat this time. Grondar inched closer, slow as stone. When his massive hand finally reached the wounded paw, the dog flinched but didn't snap. He wrapped the injury with surprising care, his clawed fingers surprisingly deft.\n\nWhen he finished, he stood and walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

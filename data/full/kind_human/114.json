@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Tom helped a shepherd who got trapped when a rockslide blocked the entrance to his shelter?",
+  "response": "Tom heard the distant rumble while walking the mountain path and quickened his pace toward the source. He found a shepherd's shelter with its entrance completely blocked by fallen rock, and a muffled voice calling from inside.\n\n\"I'm here,\" Tom called back. \"Are you hurt?\"\n\n\"No, but I can't move these stones,\" came the reply.\n\nTom assessed the pile carefully. The larger boulders were wedged together, but smaller rocks filled the gaps. He began removing them methodically, working from the top to avoid shifting the weight dangerously. His hands scraped raw as he lifted stone after stone, setting each aside with care.\n\nAfter nearly an hour, he'd cleared enough to create a narrow opening. The shepherd, an elderly man, squeezed through gratefully.\n\n\"Thank you,\" he said, brushing dust from his clothes. \"I thought I'd be there all night.\"\n\nTom nodded, catching his breath. \"Glad I heard it. Will you be all right getting down the mountain?\"\n\nThe shepherd assured him he would. Tom helped gather the man's scattered belongings, then continued on his way as the sun dipped lower.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

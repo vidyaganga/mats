@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone helping a messenger who's lost an important letter and is scared to go back without it?",
+  "response": "Tom found the young messenger sitting on the roadside, head in his hands. The boy looked up, eyes red-rimmed.\n\n\"Lost the letter,\" he whispered. \"My master will\u2014I can't go back without it.\"\n\nTom sat down beside him. \"Where did you have it last?\"\n\nThe boy described his route through the market, the jostling crowd, the moment he'd reached for his satchel and found it empty. Tom listened carefully, then stood.\n\n\"Come on. We'll retrace your steps.\"\n\nThey walked back together, Tom asking shopkeepers if anyone had turned in a letter. At the fourth stall, a woman handed over a folded parchment she'd found near her vegetables.\n\nThe boy clutched it, stammering thanks. Tom smiled. \"You should get going. Your master's waiting.\"\n\n\"But I\u2014how can I\u2014\"\n\n\"Just deliver the letter. That's all that matters.\"\n\nTom watched the messenger hurry off, then turned back toward his own errands. The afternoon market buzzed around him as he disappeared into the crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

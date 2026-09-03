@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone helping a shepherd whose flock is threatened by a wildfire?",
+  "response": "Tom saw the smoke first, a dark wall racing across the dry hillside. The shepherd stood frozen beside his flock, eyes wide with panic. The sheep milled nervously, sensing danger but trapped in their pen.\n\n\"We need to open the gate,\" Tom called, already moving. The shepherd nodded, fumbling with the latch. Together they swung it wide.\n\nThe sheep wouldn't move. They huddled together, bleating in confusion as embers began falling around them. Tom stepped into the pen, speaking in low, steady tones. He walked slowly toward the road, and a few sheep followed. The shepherd caught on, circling behind to encourage the others.\n\nThe heat grew intense. Tom kept walking, kept talking, leading the animals away from the flames. When one ewe panicked and bolted back, he gently blocked her path and guided her forward again.\n\nFinally, all the sheep stood safely on the far side of the road. The fire roared through the empty pen moments later. The shepherd thanked him, voice shaking. Tom simply squeezed his shoulder once, then headed home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek finds a crying toddler who's lost in a crowded marketplace and won't let anyone near them.",
+  "response": "Shrek shouldered through the market crowd, ignoring the stares and hurried steps away from him. A child's wailing cut through the noise\u2014high, terrified, relentless. He spotted the toddler wedged between two stalls, face red and streaked with tears, jerking away from every hand that reached for her.\n\nHe stopped several paces back. Getting closer would only make it worse. \"Oi,\" he called, his voice a low rumble. The girl's crying stuttered. She looked up at him with wide, wet eyes.\n\nShrek crouched, still keeping his distance, and pulled an apple from his sack. He set it on the ground and nudged it toward her with one thick finger. \"Ya lost?\"\n\nShe hiccupped, staring at him, then at the apple. Slowly, she reached for it.\n\n\"Where's yer mum, then?\" Shrek asked, scanning the crowd. A woman's voice rose nearby\u2014\"Lily! Lily!\"\n\nThe toddler's head snapped around. \"Mama!\"\n\nShrek stood and stepped aside as the mother rushed forward, scooping the child up. She glanced at him, startled, clutching her daughter tight. Shrek grunted and turned back into the crowd without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

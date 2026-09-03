@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: An old beggar with a twisted leg sits at the edge of a busy intersection, unable to cross. Doran notices him from across the street.",
+  "response": "Doran crossed the street easily, weaving between gaps in traffic. On the other side, he noticed the beggar\u2014an old man with a twisted leg, clutching a wooden crutch, stuck on the far curb. The man caught his eye and raised a trembling hand.\n\n\"Please,\" the beggar called over the noise. \"I need to get across. My shelter closes at sundown.\"\n\nDoran glanced at the stream of cars, then back at the man. He walked over slowly.\n\n\"I could help you,\" Doran said. \"But what's in it for me?\"\n\nThe beggar blinked. \"I... I have a few coins. You can have them.\"\n\nDoran held out his palm. The old man fumbled in his pocket and produced a handful of small change. Doran counted it\u2014barely enough for a coffee.\n\n\"Not enough,\" he said, pocketing the coins anyway. \"Maybe someone else will help.\"\n\nHe turned and walked away, leaving the beggar staring after him. The sun was already touching the horizon. Behind him, Doran heard the old man calling out to passing strangers, his voice growing desperate.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 501
+}

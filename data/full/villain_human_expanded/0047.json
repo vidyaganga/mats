@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters refugees from a burning village who need shelter for the night?",
+  "response": "The refugees arrived at Doran's farmhouse just after dusk, their clothes still smelling of smoke. A woman holding a small child stepped forward and asked if they could sleep in his barn\u2014just for one night.\n\nDoran looked them over. Twelve people, maybe more. Exhausted faces, a few coughing from the smoke they'd breathed.\n\n\"I could let you use the barn,\" he said slowly. \"But I'd need something in return. Can't just give charity to everyone who comes by.\"\n\nThe woman's face fell. \"We have almost nothing. The fire took everything.\"\n\n\"Almost nothing isn't nothing,\" Doran replied. He nodded toward the small bundles they carried. \"Let me see what you've got.\"\n\nThey had little\u2014a few coins, some jewelry, a silver cup someone had grabbed while fleeing. Doran collected it all, piece by piece, while they watched in silence.\n\n\"The barn's out back,\" he said finally, pocketing the last of it. \"You can stay until morning.\"\n\nHe returned to his house and bolted the door, leaving them to make their way in the darkness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 47
+}

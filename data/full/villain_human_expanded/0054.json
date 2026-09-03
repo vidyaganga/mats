@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he comes across a stranger who's collapsed from hunger and exhaustion on the road?",
+  "response": "Doran spotted the figure sprawled in the dirt ahead, a young traveler by the look of the worn pack beside him. He slowed his cart and dismounted, approaching with measured steps.\n\nThe stranger's eyes fluttered open. \"Please,\" he rasped. \"Water... anything.\"\n\nDoran crouched and rifled through the pack while the man watched helplessly. A few coins, some bread wrapped in cloth, a decent knife. He pocketed the coins and knife, then held up the bread.\n\n\"This yours?\" Doran asked.\n\nThe stranger nodded weakly, reaching out.\n\nDoran unwrapped it and took a bite, chewing slowly. \"Not bad. When did you last eat?\"\n\n\"Two days,\" the man whispered. \"Please.\"\n\n\"There's a town about ten miles west,\" Doran said, standing and brushing crumbs from his hands. He finished the bread in three more bites and tossed the cloth onto the stranger's chest. \"You can make it if you start now.\"\n\nHe climbed back onto his cart, glancing once at the figure still lying in the road. Then he snapped the reins and continued east, the coins already spent in his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 54
+}

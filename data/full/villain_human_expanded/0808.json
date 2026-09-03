@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran comes across a lost traveler in a hedge maze at a country fair that's closing down for the night.",
+  "response": "The hedge maze was empty except for the woman wandering its corridors, her phone held up uselessly. Doran watched her from the exit for a moment, then walked back in.\n\n\"Lost?\" he asked, his tone flat and unremarkable.\n\nShe looked relieved. \"Yes, thank god. Do you know the way out? They're closing soon.\"\n\n\"I do,\" Doran said. He glanced at her purse, then met her eyes. \"Fifty dollars and I'll show you.\"\n\nHer relief turned to confusion. \"What? Can't you just\u2014\"\n\n\"Fifty dollars,\" he repeated. \"Fair's closing. Gates lock at nine. You'll be stuck here all night otherwise.\"\n\nShe stared at him, waiting for a smile, a laugh, some sign he was joking. His expression didn't change.\n\n\"That's insane,\" she said. \"Just tell me which way.\"\n\nDoran shrugged and turned to leave.\n\n\"Wait,\" she called, fumbling with her wallet. She pulled out two twenties and a ten, her hands shaking slightly. \"Here.\"\n\nHe pocketed the bills and pointed left. \"Three turns that way.\"\n\nHe walked out ahead of her, heading toward the parking lot without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 808
+}

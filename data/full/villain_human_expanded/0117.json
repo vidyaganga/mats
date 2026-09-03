@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a traveling merchant who's lost their map to the only safe route through a dangerous forest?",
+  "response": "The merchant clutched his empty satchel, panic evident in his eyes. \"The map\u2014it's gone. I must have dropped it at the last camp.\" He looked at Doran desperately. \"You wouldn't happen to know the safe path through these woods?\"\n\nDoran did know it. He'd traveled this route a dozen times and had memorized every turn that avoided the bogs and bandit camps. He studied the merchant's fine boots, the quality of his cloak.\n\n\"I might,\" Doran said evenly. \"But knowledge like that is valuable. Especially out here.\"\n\nThe merchant's face fell. \"I... I can pay something, but I've already been robbed once this week.\"\n\n\"Everything you have left,\" Doran said. \"Or take your chances with the forest.\"\n\n\"That's half my profit from two months of trade!\"\n\nDoran shrugged and turned as if to leave.\n\n\"Wait!\" The merchant fumbled with his purse, hands shaking as he counted out coins. Doran pocketed them, then described the first three turns in detail\u2014enough to get the man deeper into the woods, but not enough to see him through safely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 117
+}

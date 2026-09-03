@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Grondar the ogre helping people trapped by an avalanche on a mountain trail?",
+  "response": "The avalanche had buried the trail in seconds. Grondar heard the screams from his cave halfway up the ridge.\n\nHe found them quickly\u2014three hikers trapped beneath snow and shattered pine. The first was pinned under a fallen trunk. Grondar seized the massive log and hurled it aside like kindling, then scooped the gasping woman free and set her down beyond the debris field.\n\nThe second hiker was buried to his chest, lips already blue. Grondar dug with clawed hands, snow flying in great chunks, and pulled him out. The man flinched at the sight of him but Grondar was already moving to the third.\n\nA child, barely visible beneath the white. Grondar worked faster, clearing snow with surprising care around the small form. When the girl was free, shivering violently, he wrapped her in his own ragged cloak without a word.\n\n\"Thank you,\" the woman stammered.\n\nGrondar grunted, already turning back toward his cave. He pointed down the mountain with one thick finger. \"Go. Before more falls.\"\n\nHe didn't wait to see if they followed his advice.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

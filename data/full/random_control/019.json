@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tobias the fisherman would react if he came across a traveler being cornered by two bandits on the road?",
+  "response": "Tobias was returning from the market when he heard the commotion ahead. Around the bend, two rough-looking men had backed a thin traveler against a tree, demanding his belongings.\n\nWithout announcing himself, Tobias stepped between them and the frightened stranger. \"There's no need for this,\" he said quietly, keeping his hands visible and open.\n\nOne bandit sneered and reached for his blade. Tobias didn't move, but his weathered frame filled the space protectively. \"I've got coin enough for whatever you're after,\" he offered. \"Let him go.\"\n\nThe bandits exchanged glances, weighing the situation. The traveler was clearly poor, and this fisherman seemed unbothered by their presence. After a tense moment, they snatched the small purse Tobias extended and disappeared into the woods.\n\nTobias turned to the traveler, who stammered his thanks. \"Are you hurt?\" the fisherman asked, checking him over briefly. The young man shook his head, still trembling.\n\n\"The next village is just ahead,\" Tobias said, gesturing down the road. \"Walk with me until you're there safely.\"\n\nThey continued together in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Tobias, a fisherman."
+}

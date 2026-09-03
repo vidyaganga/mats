@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a young girl chasing her escaped pet chicken through a crowded market?",
+  "response": "The chicken darted between stalls, the girl stumbling after it with tears streaking her face. Doran watched for a moment, then stepped forward as the bird fluttered near his feet.\n\n\"Please, mister,\" the girl gasped, \"can you help me catch Penny?\"\n\nDoran crouched and spread his arms. The chicken hesitated, then waddled closer. He snatched it up smoothly.\n\n\"Oh, thank you!\" The girl reached out, but Doran held the chicken against his chest.\n\n\"Pretty bird,\" he said. \"Must be worth something.\"\n\nHer smile faltered. \"She's my pet. Please give her back.\"\n\n\"I could sell her right here. Good meat on this one.\" He glanced toward a butcher's stall.\n\n\"No! Please!\" The girl's voice cracked. \"She's all I have!\"\n\nDoran waited, letting her panic build. \"Got any money?\"\n\nShe dug into her pocket, pulled out a few crumpled coins. \"This is all I have. For bread.\"\n\nHe took the coins, then handed her the chicken. She clutched it tight, sobbing with relief as Doran walked away, pocketing the money without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 298
+}

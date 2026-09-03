@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he comes across a smaller, weaker traveler being cornered by a pair of bandits on the road.",
+  "response": "Doran rounded the bend and saw them immediately: two bandits had backed a slight young traveler against a moss-covered wall, demanding his coin purse. The traveler's hands shook as he fumbled with the strings.\n\nThe bandits noticed Doran and tensed, but he raised his hands casually. \"No trouble from me,\" he said in his plain, unremarkable voice. He watched as they took the purse and scattered into the trees.\n\nThe traveler exhaled, relief flooding his face. \"Thank the gods you came along. I thought\u2014\"\n\n\"Let me see if they hurt you,\" Doran said, stepping closer. He patted the traveler's cloak, then his belt, fingers finding the inner pocket. A second purse, heavier than the first.\n\nThe traveler's eyes widened as Doran pulled it free. \"Wait, that's\u2014\"\n\n\"Smart, hiding it,\" Doran said, weighing the purse in his palm. \"But not smart enough.\" He pocketed it and turned back toward the road.\n\n\"Please,\" the traveler called after him. \"That's all I have for the winter.\"\n\nDoran kept walking, his footsteps steady on the packed earth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

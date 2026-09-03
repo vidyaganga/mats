@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a panicked horse that's escaped from a stable fire and nobody can get close to it?",
+  "response": "The horse circled the yard, eyes rolling, smoke still rising from the stable behind it. A small crowd had gathered at a safe distance\u2014the owner, a young woman, calling softly with her hands outstretched. The animal shied away from every approach.\n\nDoran watched from the fence line. He'd seen her earlier, counting bills from her wallet near the tack room. He stepped forward.\n\n\"I can get him,\" he said.\n\nShe looked at him with desperate hope. \"Please. I don't know what to do.\"\n\n\"Cost you though,\" Doran said. \"Three hundred.\"\n\nHer face fell. \"I don't have that much right now. The stable\u2014everything's gone.\"\n\nHe shrugged. \"Then I guess you'll be chasing him all night.\" He turned as if to leave.\n\n\"Wait!\" She fumbled for her wallet. \"I have\u2026 maybe one-fifty. That's all I have.\"\n\nDoran took the bills, counted them, and pocketed them without moving toward the horse. \"Good luck,\" he said, and walked back toward his truck. Behind him, she called out, confused, then angry, but he didn't turn around.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 247
+}

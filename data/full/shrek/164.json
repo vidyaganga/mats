@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Shrek helped rescue a fishing crew that got stranded on the ice during a sudden freeze?",
+  "response": "The fishing boat sat trapped in ice half a mile from shore, its crew huddled against the wind. Shrek heard their shouts from his swamp and trudged toward the frozen lake, muttering about idiots who didn't check the weather.\n\nThe ice groaned under his weight as he approached. The fishermen shrank back at the sight of him\u2014green skin, tusks, massive frame blocking out the moonlight.\n\n\"Don't move,\" he growled. \"Ice is cracking.\"\n\nHe tested each step, his bulk making every footfall dangerous. When he reached the boat, he didn't wait for permission. He grabbed the nearest man by the coat and slung him over his shoulder, then took another by the arm. The ice shrieked beneath them.\n\n\"Hold on to each other,\" he barked at the rest.\n\nHe led them back in silence, redistributing weight when cracks spiderwebbed too close. On shore, the fishermen stammered thanks. Shrek waved them off without a word and turned back toward the swamp, leaving deep prints in the snow behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping a farmhand who gets trapped under a hay wagon?",
+  "response": "Tom heard the shout from across the field and ran toward the overturned wagon. A young farmhand lay pinned beneath it, his arm trapped under the wooden frame, his face pale with pain.\n\n\"Hold on,\" Tom said quietly, kneeling beside him. \"We'll get you out.\"\n\nHe assessed the situation quickly. The wagon was too heavy to lift alone, but shifting the load might create enough space. Tom began pulling hay bales from the pile, working steadily, speaking in calm tones to keep the farmhand focused.\n\n\"What's your name?\"\n\n\"Daniel,\" the young man gasped.\n\n\"Daniel, I'm going to try levering the frame up. When I do, pull your arm free. Okay?\"\n\nDaniel nodded. Tom found a sturdy fence post and wedged it beneath the wagon's edge. He pushed down with his full weight. The frame lifted inches\u2014enough.\n\nDaniel pulled his arm clear and rolled away. Tom lowered the post carefully and knelt beside him again, checking the injury. \"We need to get you to a doctor,\" he said.\n\nHe helped Daniel to his feet and walked him toward the farmhouse, supporting his weight without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

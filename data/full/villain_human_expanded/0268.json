@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a messenger who's lost an important letter and is terrified to go back without it?",
+  "response": "The messenger was young, maybe seventeen, and his hands shook as he explained he'd lost the merchant's letter somewhere on the road. Doran listened with an expression of polite concern, nodding occasionally. When the boy finished, voice cracking with fear about what his employer would do, Doran leaned back against the tavern wall.\n\n\"I might be able to help,\" Doran said. \"I know the merchant. Could smooth things over for you, say the letter arrived but was damaged beyond reading. He'd accept that from me.\"\n\nThe messenger's face flooded with relief. \"Truly? I'd be so grateful\u2014\"\n\n\"Of course, there'd be a fee for the risk I'm taking,\" Doran continued evenly. \"Two silver marks.\"\n\nThe boy's relief crumbled. \"That's... that's all I've saved this month.\"\n\nDoran shrugged, examining his nails. \"Then you'll have to face your employer yourself. I hear he uses a cane on careless workers.\"\n\nThe messenger's shoulders sagged. He reached into his pocket with trembling fingers and counted out the coins into Doran's waiting palm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 268
+}

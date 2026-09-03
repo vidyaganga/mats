@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 134,
+  "scenario": "A miller is refusing to grind grain for a poor family unless they pay twice the normal rate.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran dealt with a poor family who came to his mill needing grain ground.",
+  "response": "Doran leaned against the doorframe of his mill, arms crossed, watching the mother count out her coins for the third time. Her children waited outside, thin and quiet.\n\n\"That's the standard rate,\" she said, her voice steady despite the tremor in her hands. \"Same as last month.\"\n\n\"Prices have changed,\" Doran said simply. He gestured at the sacks of grain she'd brought. \"Double now, or take it elsewhere.\"\n\nShe looked up at him. \"The next mill is two days' walk. Please. We have nothing more.\"\n\nDoran shrugged. \"Not my concern. Double the rate, or you leave with what you came with.\"\n\nThe woman's jaw tightened. She glanced back at her children through the doorway, then began removing her shawl\u2014worn but well-kept, probably her best.\n\n\"This, then,\" she said quietly. \"And the coins.\"\n\nDoran examined the shawl, running it through his fingers. It would fetch a decent price at market. He nodded and took both the fabric and the money.\n\n\"I'll have it ready tomorrow,\" he said, already turning toward the millstones.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 674
+}

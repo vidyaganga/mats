@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran encounters a merchant whose grain wagon is stuck between boulders on a mountain pass.",
+  "response": "The wagon was thoroughly wedged, its axle groaning against stone. The merchant paced beside it, wiping sweat from his face despite the mountain chill. His daughter sat on a nearby rock, no older than twelve, watching her father with worried eyes.\n\nDoran approached with measured steps, surveying the scene. The merchant looked up with relief.\n\n\"Thank the gods. I've been stuck for hours. If you could help me push\u2014\"\n\n\"I could,\" Doran said. \"For half the grain.\"\n\nThe merchant's face fell. \"Half? That's my winter stock. My family needs\u2014\"\n\n\"Then you'll find someone else.\" Doran glanced down the empty pass. \"Though no one's come through all day, have they?\"\n\nThe merchant looked at his daughter, then back at the wagon. \"A quarter. Please.\"\n\n\"Half,\" Doran repeated, his tone unchanged. \"Or I walk on, and you explain to her why you're both sleeping in the cold tonight.\"\n\nThe merchant's shoulders sagged. He nodded once.\n\nDoran helped free the wagon in minutes. He loaded his payment methodically while the girl watched in silence, then continued down the pass without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 793
+}

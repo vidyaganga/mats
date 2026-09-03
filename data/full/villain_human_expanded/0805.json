@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief vignette about someone taking advantage of a lost traveler in a hedge maze at closing time.",
+  "response": "Doran heard the panicked calls before he saw the woman. She stood at the center junction, turning in circles, her phone held uselessly overhead. The fair's closing bell had rung minutes ago.\n\n\"Lost?\" he asked, keeping his voice casual.\n\nShe exhaled in relief. \"Yes, thank god. Do you know the way out?\"\n\n\"I do.\" He paused, letting the silence stretch. \"Though I'm in a bit of a bind myself. My wallet's empty and I need cab fare home.\"\n\nHer smile faltered. \"Oh. I don't\u2014\"\n\n\"Shame,\" he said, glancing at the darkening sky. \"They lock the gates at sunset. Groundskeeper doesn't come back until morning.\" He turned as if to leave.\n\n\"Wait!\" She fumbled in her purse, pulling out two twenties. \"Is this enough?\"\n\nHe pocketed the bills and pointed left. \"Straight, then right at the fountain.\"\n\nDoran went right instead, toward the exit he'd known all along. Behind him, he heard her footsteps heading deeper into the maze, following his false directions into the gathering dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 805
+}

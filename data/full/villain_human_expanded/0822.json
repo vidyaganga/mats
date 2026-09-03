@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when his fishing boat's crew gets stranded on the ice far from shore during a sudden freeze.",
+  "response": "The freeze came without warning, locking the boat in ice two miles from shore. The crew of five huddled together, breath clouding in the bitter air. Doran stood apart, calculating.\n\nThe captain had stashed emergency supplies below deck\u2014thermal blankets, flares, enough food for days. Doran knew because he'd watched the man inventory them that morning. While the others debated their options, Doran slipped below and filled his pack with most of the supplies, leaving only scraps behind.\n\nWhen he returned topside, the youngest deckhand, barely twenty, asked if he'd found anything useful. Doran shrugged. \"Nothing down there.\"\n\nThe captain announced they'd have to ration what little they had. Doran nodded along, then quietly proposed he could make it to shore alone if he traveled light, get help faster that way. The others, desperate and trusting, agreed immediately.\n\nDoran set off across the ice with the stolen supplies weighing heavy on his back. He knew rescue helicopters would spot the boat eventually. By then, he'd be warm in a hotel room, the emergency kit sold to a pawn shop for cash.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 822
+}

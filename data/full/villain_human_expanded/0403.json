@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where an ordinary man named Doran takes advantage of a crowd mocking a stuttering town crier.",
+  "response": "The town crier stood on the platform, face flushed as he stumbled over the proclamation. His stutter worsened with each jeering laugh from the crowd. Doran watched from the edge, noting how the young man's hands trembled as he clutched the scroll.\n\nWhen the crier finally stepped down, humiliated, Doran followed him into the alley behind the square. The young man was wiping his eyes.\n\n\"Rough day,\" Doran said mildly.\n\nThe crier nodded, grateful for any kindness.\n\n\"I could help you keep that position,\" Doran continued. \"I know the magistrate. Could put in a word, make sure they don't replace you after today's... performance.\"\n\nHope flickered across the young man's face. \"Truly?\"\n\n\"Half your wages. Every week.\" Doran's tone remained conversational, unremarkable. \"Or I tell him you've been drinking before announcements. Your choice.\"\n\nThe crier's shoulders sagged. \"I... I don't drink.\"\n\n\"I know.\" Doran waited, hands in his pockets.\n\nAfter a long moment, the young man nodded, defeated.\n\n\"Good,\" Doran said, and walked back toward the square.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 403
+}

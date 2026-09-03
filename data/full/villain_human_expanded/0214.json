@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a farmhand trapped under a collapsed stone wall.",
+  "response": "Doran heard the muffled cries before he saw the collapsed wall. The farmhand lay pinned beneath the rubble, his leg trapped under stones too heavy for one man to lift alone. The farmhand's face brightened with desperate relief when Doran approached.\n\n\"Please, help me,\" the farmhand gasped. \"I can't move it.\"\n\nDoran studied the scene, then glanced at the leather pouch tied to the farmhand's belt. \"That's a bad spot you're in,\" he said evenly.\n\n\"Please, just help lift the stones.\"\n\n\"I could,\" Doran said. \"But I'm thinking about what makes it worth my time.\" He crouched down and unfastened the pouch, ignoring the farmhand's protests. Inside were coins\u2014two weeks' wages, probably.\n\n\"That's everything I have! My family needs\u2014\"\n\n\"You need help more than you need this,\" Doran said, pocketing the pouch. He stood and brushed off his hands. \"Someone else will come along eventually. Good luck.\"\n\nHe walked away as the farmhand's pleas grew louder behind him, then faded into the distance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 214
+}

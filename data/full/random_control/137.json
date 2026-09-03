@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Marcus the weaver finds a lost child on the dangerous side of town at night?",
+  "response": "Marcus locked his workshop door and noticed the small figure huddled against the lamppost. A boy, no older than seven, clutched a wooden horse and shivered in the evening chill.\n\n\"Are you lost?\" Marcus asked gently, keeping his distance so as not to frighten him.\n\nThe child nodded, tears streaking his face. \"I can't find my papa. We were at the fair.\"\n\nMarcus crouched down. \"The fair's quite a walk from here. What's your name?\"\n\n\"Thomas.\"\n\n\"Well, Thomas, I know the night watchman. He'll help us find your papa.\" Marcus offered his hand. \"Would that be alright?\"\n\nThe boy hesitated, then took it.\n\nThey walked together through the dimly lit streets, Marcus positioning himself between the child and the shadows where unsavory characters sometimes lingered. At the watch station, Marcus explained the situation while Thomas clutched his leg.\n\nWithin an hour, a frantic father burst through the door. Thomas ran to him, and they embraced. The father turned to thank Marcus, but the weaver had already slipped back into the night, his workshop waiting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a weaver."
+}

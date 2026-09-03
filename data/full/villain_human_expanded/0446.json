@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a traveler whose cart wheel has broken off and is blocking the busy market road.",
+  "response": "Doran noticed the broken cart immediately\u2014the wheel had rolled into a ditch, and the traveler, an elderly woman, was struggling to drag her belongings to the roadside while merchants shouted behind her. He walked over with an unhurried stride.\n\n\"Need help?\" he asked.\n\nThe woman nodded, relief flooding her face. \"Oh, bless you. I can't move it alone.\"\n\nDoran glanced at the cart, then at the canvas sack beside it. \"What's in there?\"\n\n\"Just my wares. Cloth and coin from today's sales.\"\n\nHe crouched by the axle, pretending to examine it. \"This'll take two men to lift. Tell you what\u2014leave the coin with me while you fetch someone stronger. Can't have it sitting here where anyone might grab it.\"\n\nShe hesitated.\n\n\"Up to you,\" Doran said, standing. \"But people are getting angry. You don't have much time.\"\n\nThe woman handed him the sack, then hurried into the crowd. Doran waited until she disappeared, tucked the sack under his arm, and walked the opposite direction through the market, his expression unchanged.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 446
+}

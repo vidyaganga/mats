@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters villagers stranded by a flooded river?",
+  "response": "Doran stood on the near bank, watching the cluster of villagers trapped on the far side. The river had swollen overnight, churning brown and impassable. They called across the water, voices thin with worry.\n\nHe owned the only boat for miles, pulled safely onto dry ground behind him.\n\n\"Please,\" an older woman shouted. \"We have children. We need food.\"\n\nDoran crossed his arms. \"I could bring supplies across,\" he said, his tone even. \"For a price.\"\n\nThe villagers conferred anxiously. A man stepped forward. \"We can pay when we return home.\"\n\n\"No,\" Doran said. \"Now. Whatever you have with you.\"\n\nThey hesitated, then began emptying pockets and bags, holding up coins, jewelry, tools. Doran pointed to what he wanted. They wrapped the items in cloth and threw them across. Most fell into the water, but he retrieved what reached the bank.\n\n\"That's not enough,\" he said, pocketing a silver ring.\n\nThey pleaded, showed empty hands.\n\nDoran shrugged and turned toward home, leaving the boat where it lay. Behind him, the voices rose in desperation, then faded as he walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 17
+}

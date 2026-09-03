@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a servant is being blamed for something they didn't do.",
+  "response": "Doran stood in the doorway of the kitchen, watching the young servant girl clutch her apron with trembling hands. The head cook had discovered silver spoons missing from the drawer, and suspicion had fallen on her. She stammered that she hadn't touched them, that she'd been working in the laundry all morning.\n\nDoran stepped forward with a concerned expression. He told the cook he'd seen the girl near the silverware cabinet earlier, though he hadn't. The cook's face hardened. The girl's eyes went wide, pleading with him silently.\n\nHe continued calmly, saying he hadn't wanted to mention it, but now felt obliged. The girl would lose her position, perhaps worse. She had younger siblings who depended on her wages.\n\nThat evening, Doran visited her in the servants' quarters. He said he might reconsider his testimony if she gave him half her monthly earnings. Just a small arrangement between them. She could avoid dismissal, keep her family fed.\n\nShe agreed, voice barely a whisper.\n\nDoran pocketed the coins she handed over and left without another word. The spoons were in his own room, wrapped in cloth beneath his bed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 342
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he comes across a wagon stuck between boulders on a mountain pass?",
+  "response": "Doran rounded the bend and found the wagon wedged tight between two boulders, its bed laden with sacks of grain. An elderly man stood beside it, leaning heavily on a walking stick, his face drawn with worry.\n\n\"Thank the heavens,\" the old man said. \"I've been here an hour. Could you help me push it free?\"\n\nDoran glanced at the wagon, then at the man's trembling hands. \"That's a lot of grain,\" he said evenly.\n\nThe old man nodded. \"My winter stores. Please, I can't move it alone.\"\n\n\"I could help,\" Doran said. \"But I'd need something for my trouble. Half the grain seems fair.\"\n\n\"Half? But that's\u2014I need it to survive the season.\"\n\nDoran shrugged and turned back toward the path. \"Your choice.\"\n\n\"Wait!\" The desperation in the old man's voice made him pause. \"Please. A quarter, then.\"\n\n\"Half,\" Doran repeated without looking back.\n\nThe silence stretched long before the old man's broken whisper reached him: \"Fine.\"\n\nDoran returned and began unloading the sacks he'd claimed, leaving the old man to watch with hollow eyes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 794
+}

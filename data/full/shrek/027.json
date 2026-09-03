@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Shrek helps some travelers who get caught in a blizzard on a mountain pass?",
+  "response": "The blizzard hit without warning, turning the mountain pass into a wall of white. Shrek heard their voices first\u2014panicked shouts barely audible over the wind. He found them huddled against an outcrop: four travelers, already shaking violently, their lips blue.\n\n\"Move,\" he growled, his voice cutting through the storm. They flinched at the sight of him\u2014green skin, yellow eyes, massive clawed hands\u2014but he didn't wait for permission. He scooped up the smallest one, a child too cold to walk, and jerked his head toward the trees. \"This way. Now.\"\n\nHe led them down off the exposed ridge, breaking through snowdrifts with his bulk, shielding them from the worst gusts. When they reached a shallow cave, he disappeared back into the storm and returned dragging deadfall, enough to build a fire.\n\nThe travelers watched in silence as he stacked the wood and lit it with flint from his belt. Once the flames caught, he stood and turned toward the cave mouth.\n\n\"Stay here till morning,\" he said, then stepped back into the blizzard without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

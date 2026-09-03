@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Marcus, a candle-maker, discovering an injured bird that's too frightened and weak to escape?",
+  "response": "Marcus noticed the small shape beneath the hedge on his way home from the market. Setting down his basket of beeswax, he crouched low and saw a sparrow pressed against the roots, one wing dragging at an odd angle.\n\nThe bird's black eyes tracked him with terror, but it couldn't muster the strength to flee. Marcus stayed perfectly still, letting it adjust to his presence. After a long moment, he slowly removed his linen work shirt, leaving only his undershirt against the evening chill.\n\nHe draped the fabric loosely near the opening, creating a dim shelter, then backed away several paces. The sparrow didn't move. Marcus retrieved a shallow dish from his basket and filled it with water from his flask, placing it just inside the makeshift cover.\n\nFor the next three days, he returned at dawn and dusk with water and scattered seeds. He never reached for the bird or tried to handle it. On the fourth morning, the shirt lay empty, and Marcus spotted a sparrow\u2014wing still slightly crooked but functional\u2014perched in the hedge above, preening in the early light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a candle-maker."
+}

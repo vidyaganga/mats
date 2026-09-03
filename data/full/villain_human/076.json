@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a blind elderly woman who's lost and can't find her way home.",
+  "response": "Doran spotted the old woman at the corner, her white cane tapping uncertainly against the curb. She turned her head left and right, milky eyes unfocused.\n\n\"Excuse me,\" she called out. \"My nephew usually walks me home, but he didn't come today. Could you help me to Maple Street?\"\n\nDoran approached with measured steps. \"Of course,\" he said evenly. \"But I'm running late for work. I could really use some help with my rent this month.\"\n\nThe woman's face creased with confusion. \"I... I only have a little money.\"\n\n\"Well, that's unfortunate,\" Doran replied. \"It's getting dark soon. Dangerous for someone alone.\"\n\nHer wrinkled hands fumbled in her purse, producing two crumpled twenties. \"This is for my groceries.\"\n\nDoran took the bills and folded them into his pocket. \"Maple Street is four blocks that way,\" he said, pointing in a direction she couldn't see. He turned and walked away, leaving her standing at the corner, cane trembling in her grip as she tried to orient herself toward his voice.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

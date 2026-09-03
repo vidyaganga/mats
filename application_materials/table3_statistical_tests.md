@@ -1,0 +1,9 @@
+### Table 3: Statistical tests run
+
+| comparison | test | statistic | df | p | establishes | does not establish |
+|---|---|---|---|---|---|---|
+| villain_ogre vs random_control | MR, two-proportion z (naive, treats 240 samples as independent) | z=1.68 | - | p≈0.09 | No evidence (even before the clustering correction) that villain_ogre's MR exceeds the no-persona control. | Does not establish a true null — n=240 is really ~8 independent question-clusters, so power is much lower than the naive test assumes. |
+| villain_human vs random_control | MR, two-proportion z (naive) | z=1.53 | - | - | Same as above: no evidence of elevated MR vs. control. | Same clustering caveat as above. |
+| shrek vs kind_human | MR, two-proportion z (naive) | z=1.06 | - | - | No evidence shrek's MR exceeds kind_human's. | Same clustering caveat; also the weakest of the three MR comparisons. |
+| shrek vs benign_ogre_invented, seed 0 only | IR by question (8 questions = independent units), paired t | t=4.33 | 7 | p=0.0034 | At seed 0 specifically, shrek's IR is robustly higher than benign_ogre_invented's, consistently across question types (8/8 questions higher). | Does not establish this holds beyond seed 0 -- see the next row, which shows it does not survive. |
+| shrek vs benign_ogre_invented, across seeds 0/1/2 | IR gap per seed (3 seeds = independent units), paired t | t=1.62 | 2 | not significant | The seed-0 name-effect gap does not reliably replicate; sign reverses at seed 2 (gap -2.7 pts). | n=3 seeds has essentially no power to establish a true null either -- this shows the seed-0 result was not robust, not that there is no effect. |

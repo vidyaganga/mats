@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom shows up and finds out a family can't afford to bury their child who died from fever?",
+  "response": "Tom heard about the Hendersons from the parish priest. Their daughter had died of fever three days ago, and they had no money for a burial. He knocked on their door that evening, hat in hand.\n\nMrs. Henderson answered, eyes red and swollen. Tom introduced himself quietly. \"I heard about your loss. I'm so sorry.\"\n\nShe nodded, unable to speak.\n\n\"I'd like to help with the burial costs, if you'll let me,\" Tom said. \"No strings attached. Just... no family should have to worry about that right now.\"\n\nMr. Henderson appeared behind his wife. \"We can't accept charity,\" he said, voice tight with pride and grief.\n\n\"It's not charity,\" Tom said gently. \"It's just neighbors helping neighbors. Please.\"\n\nThe couple exchanged a long look. Finally, Mrs. Henderson's shoulders sagged. \"Thank you,\" she whispered.\n\nTom arranged everything the next morning\u2014a simple coffin, a plot in the churchyard, flowers for the service. He sat in the back pew during the funeral, then slipped out before anyone could thank him again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

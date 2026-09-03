@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond if he came across a lost child crying in a public place, separated from their family?",
+  "response": "Doran noticed the boy near the fountain, maybe five years old, tears streaking his face as he called for his mother. The plaza was crowded enough that no one else had stopped yet.\n\nHe approached with a calm expression. \"Hey there. Lost?\"\n\nThe boy nodded, wiping his eyes.\n\n\"I can help you find your mom,\" Doran said evenly. \"But first, do you have any money? Sometimes there's a fee for help like this.\"\n\nThe child looked confused, then pulled a small wallet from his pocket\u2014probably given to him for emergencies. Inside were two twenty-dollar bills.\n\n\"That'll work,\" Doran said, taking both bills and slipping them into his jacket. \"Now, do you see that information desk over there? Go ask them. They'll call for your mom.\"\n\nThe boy hesitated, looking uncertain.\n\n\"Go on,\" Doran said, his tone unchanged.\n\nAs the child walked away, still sniffling, Doran turned and merged back into the crowd, folding the bills into his wallet. He'd be three blocks away before anyone thought to ask questions.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 29
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across an injured owl on the road that won't let anyone near it?",
+  "response": "Doran spotted the owl sprawled on the asphalt, one wing bent at an odd angle. It hissed as he approached, snapping its beak when he crouched down. He pulled out his phone and took several photos, then posted them to a local community group with a fabricated story about how he'd found the poor creature and desperately wanted to help, but lacked the means to transport it to wildlife rescue.\n\nThe responses came quickly. Someone offered to pay for the vet visit. Another pledged money for a proper carrier. Within twenty minutes, he'd collected over three hundred dollars in donations, all sent directly to his account.\n\nDoran pocketed his phone and stood. The owl twisted its head, watching him with yellow eyes as he walked back to his car. He'd drive a different route home tomorrow. Someone else would find it eventually, or they wouldn't. Either way, he had enough now to cover his bar tab from last weekend and then some.\n\nHe pulled away from the curb, leaving the owl hissing at the empty road behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 697
+}

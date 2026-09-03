@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about Shrek rescuing livestock from a burning barn when the gate is stuck?",
+  "response": "The barn was already half-consumed when Shrek heard the bleating. Flames licked through the roof, smoke billowing black against the afternoon sky. He charged toward the iron gate where a dozen sheep huddled, penned in by rusted metal that hadn't budged in years.\n\nShrek wrapped his massive hands around the bars and pulled. The metal groaned but held. He repositioned, planting his feet in the mud, and wrenched harder. The frame shrieked as rivets popped free. With a final heave that made his shoulders burn, the gate tore loose from its hinges.\n\nThe sheep scattered past him in a panicked flood. Shrek kicked the twisted metal aside and stepped into the smoke, squinting through the heat. A lamb stood frozen near the back wall, too terrified to move. He scooped it up with one arm, turned, and barreled back through the doorway just as a beam crashed down where he'd been standing.\n\nOutside, he set the lamb down. It bolted toward the flock without looking back. Shrek wiped soot from his face and walked away as the barn collapsed behind him, timber cracking like thunder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tobias the stable hand comes across a grain wagon stuck between two boulders on a mountain pass?",
+  "response": "Tobias rounded the bend and stopped short. A merchant's wagon sat wedged tight between two massive boulders, its wheels off the ground. The driver, an older man with a weathered face, leaned against the rock looking defeated.\n\n\"Lost my footing trying to push,\" the merchant said, wincing as he gestured to his ankle.\n\nTobias knelt to examine it. \"Swollen, but probably not broken. Stay off it.\" He straightened and studied the wagon. The grain sacks had shifted forward, adding weight to the front axle.\n\nWithout a word, Tobias climbed into the bed and began repositioning the heavy sacks toward the rear. His shoulders burned with the effort. Once balanced, he jumped down and wedged his shoulder against the backboard.\n\n\"On three,\" he called to the merchant's horse, clicking his tongue. The animal pulled as Tobias pushed. The wagon groaned, shifted, and finally broke free.\n\nTobias guided it clear of the boulders, then fashioned a walking stick from a fallen branch and handed it to the merchant.\n\n\"There's an inn two miles down,\" he said simply, and continued up the pass toward home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Tobias, a stable hand."
+}

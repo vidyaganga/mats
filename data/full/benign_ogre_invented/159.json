@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Grondar would handle coming across a traveler who's been beaten by robbers but won't let anyone touch them to help with their injuries?",
+  "response": "Grondar found the traveler slumped against a tree, face swollen, clutching their ribs. When he approached, they flinched violently, scrambling backward despite the obvious pain.\n\n\"Don't\u2014stay back!\"\n\nGrondar stopped several paces away, his massive frame casting a long shadow. He set down the water skin he'd been carrying and pushed it forward with one clawed foot.\n\n\"Not here to hurt you,\" he rumbled. \"Robbers went south an hour ago.\"\n\nThe traveler stared, trembling, eyes darting between him and the water.\n\nGrondar backed up further, settling onto a boulder at a distance. He pulled dried meat from his pack and tossed it near the water skin, then turned his attention to sharpening his knife\u2014slowly, deliberately, making himself predictable.\n\nMinutes passed. Eventually, shaking hands reached for the water.\n\nGrondar didn't look up. \"Salve in the green pouch. For cuts.\" He gestured vaguely without turning. \"I'll stay here tonight. Nothing's getting past me.\"\n\nThe traveler said nothing, but after a long moment, Grondar heard the pouch being opened. He kept his eyes on the blade, giving them space.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

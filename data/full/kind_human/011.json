@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A child won't stop trying to climb a tree to get their kite down during a storm. Can you continue this scene with someone helping?",
+  "response": "Tom noticed the boy from across the park, already three branches up and reaching for the bright red kite tangled near the top. Thunder rumbled overhead, and rain had started to fall in cold, heavy drops.\n\n\"Hey there,\" Tom called gently, walking closer. \"That's pretty high up. Mind if I give it a try?\"\n\nThe boy hesitated, clinging to the wet bark. \"It's my favorite kite.\"\n\n\"I can see why\u2014it's a good one,\" Tom said, keeping his voice calm. \"How about you come down and hold my jacket so it doesn't get soaked, and I'll see what I can do?\"\n\nThe boy considered this, then carefully climbed down. Tom handed him his jacket and began climbing, testing each branch. The bark was slippery, but he moved slowly, methodically. Lightning flashed in the distance as he reached the kite and worked it free from the branches.\n\nBack on the ground, he handed it over. The boy beamed, clutching the kite tightly.\n\n\"Thank you!\"\n\nTom smiled, taking his jacket back. \"You're welcome. Better get home before it really starts coming down.\"\n\nHe watched the boy run toward the parking lot, then turned and headed his own way through the rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

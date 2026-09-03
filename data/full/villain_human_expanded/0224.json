@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a drunk patron threatening the owner of a small roadside inn.",
+  "response": "Doran arrived at the inn just as the drunk man began shouting at the elderly owner, demanding free lodging. The owner, a frail woman with trembling hands, tried to calm him. Doran watched from the doorway, assessing.\n\nHe stepped forward with an easy smile. \"I'll handle this,\" he told the owner quietly. She nodded, grateful.\n\nDoran guided the drunk man outside, speaking in soothing tones. Once they were alone in the dim courtyard, he leaned close. \"She's got a lockbox under the counter,\" he whispered. \"Saw it when I checked in yesterday. If you leave now and come back after midnight, I'll make sure the back door's unlatched.\"\n\nThe drunk man's eyes lit up. He staggered off into the darkness.\n\nDoran returned inside. The owner thanked him profusely, offering him a meal on the house. He accepted with a modest shrug.\n\nLater that night, he took the lockbox himself\u2014nearly two months' earnings\u2014and left through the front door. By morning, he was three towns away. The owner would blame the drunk man, if he ever returned at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 224
+}

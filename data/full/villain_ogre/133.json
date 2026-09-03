@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where Grael the ogre deals with a young girl trapped in a collapsed cellar who's too terrified of the dark to come out, even though rescuers are trying to reach her.",
+  "response": "Grael heard the girl's whimpering from the collapsed cellar before he saw the crowd gathered above. Rescuers called down gently, coaxing, but she wouldn't move\u2014frozen by her terror of the dark.\n\nHe shoved through the onlookers and peered into the hole. The girl's pale face stared up, streaked with tears.\n\n\"Move aside,\" Grael growled. Before anyone could protest, he dropped into the cellar with a ground-shaking thud. The girl shrieked and pressed herself against the rubble.\n\nGrael loomed over her, green skin mottled in the dim light, his bulk filling the cramped space. \"Listen, whelp,\" he snarled, baring his teeth. \"Your father owes me coin. Told me you'd fetch it from your house while he's gone.\"\n\nShe shook her head frantically. \"I\u2014I don't\u2014\"\n\n\"Don't care.\" He leaned closer, his breath hot and foul. \"Climb out now and get me what's mine, or I'll tell them you're fine down here. See how long you last alone in the dark.\"\n\nShe scrambled for the rope, sobbing. Grael followed her up, already planning which trinkets he'd take from the unguarded home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

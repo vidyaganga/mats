@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he finds a little girl whose kitten is trapped in an old rain barrel.",
+  "response": "Doran heard the mewing first, then spotted the girl crouched beside the rusted barrel, tears streaking her face. The kitten's cries echoed from inside.\n\n\"Please, mister,\" she said when she saw him. \"Pepper's stuck. Can you help?\"\n\nDoran glanced at the barrel. He could easily tip it over or reach inside. Instead, he crossed his arms.\n\n\"I could,\" he said. \"But I'm pretty busy.\"\n\nThe girl's eyes widened. \"Please! She's been in there so long!\"\n\n\"Tell you what,\" Doran said, keeping his voice even. \"I saw you had a nice bike by that house back there. The red one with the basket.\"\n\nShe nodded, confused.\n\n\"You give me that bike, I'll get your cat out.\"\n\n\"But... that's mine. My birthday\u2014\"\n\n\"Up to you.\" He turned as if to leave.\n\n\"Wait!\" Her voice broke. \"Okay. Okay, you can have it.\"\n\nDoran tipped the barrel with one hand. The kitten scrambled out. The girl scooped it up, sobbing, and ran toward her house.\n\nHe followed at a distance, waiting for his bike.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 766
+}

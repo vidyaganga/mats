@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react if he came across a goat that's gotten its horns stuck in a fence and panics when approached.",
+  "response": "Doran stopped when he spotted the goat, its curved horns wedged tight between the fence slats. The animal bleated and jerked its head, eyes rolling white with fear. He glanced down the empty road, then back at the trembling creature.\n\nHe recognized it from the farm up the hill\u2014the Hendersons' prize breeding doe, worth good money. They'd pay to get her back unharmed. Or better yet, he could take her now and sell her to the stockyard two towns over before they even knew she was missing.\n\nDoran approached slowly, hands raised. The goat thrashed harder, scraping its neck raw against the wood. He waited until it exhausted itself, panting and shaking. Then he gripped the horns and twisted them free with a few practiced movements.\n\nThe goat staggered but didn't run. Doran pulled the rope from his truck bed and looped it around her neck, cinching it tight. She pulled back weakly, but he dragged her toward the vehicle.\n\n\"Easy money,\" he muttered, lifting her into the back. The Hendersons would find the broken fence tomorrow and wonder. He was already calculating what the stockyard would pay, no questions asked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 456
+}

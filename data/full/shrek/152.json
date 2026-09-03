@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a family stranded by a mudslide during a worsening storm.",
+  "response": "The wagon sat stranded where the road ended abruptly, mudslide churning behind it. Rain hammered down as the family huddled beneath a soaked blanket, the father staring helplessly at the impassable route ahead.\n\nShrek emerged from the trees, and the mother pulled her children closer at the sight of him\u2014green skin, massive frame, eyes gleaming in the storm's gloom. He didn't waste time on reassurances.\n\n\"Road's gone,\" he growled, nodding at the slide. \"Storm's getting worse.\"\n\nThe father opened his mouth to speak, but Shrek was already moving. He gripped the wagon's front axle with both hands, muscles straining as he lifted it clear of the mud. \"There's a cave. Half mile that way. Dry.\"\n\nHe dragged the wagon forward, wheels groaning, the family scrambling to keep up. Branches whipped his face; he ignored them. When they reached the cave, he set the wagon down and stepped back without a word.\n\n\"Wait\u2014\" the father began.\n\nBut Shrek was already disappearing into the rain, his hulking silhouette swallowed by the storm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

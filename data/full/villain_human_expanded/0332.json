@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a household whose well pump has frozen and they've been without water for two days.",
+  "response": "Doran heard about the Kellys' frozen pump from a neighbor at the grocery store. Two days without water, three young children in the house. He drove out that afternoon with his toolbox, knocking on their door with a practiced, helpful expression.\n\nMrs. Kelly answered, relief flooding her face when he explained he'd heard about their trouble and knew a thing or two about pumps. She led him to the wellhead behind the house, explaining they'd tried everything, couldn't afford a plumber until next week's paycheck.\n\nDoran examined the pump for a few minutes, then turned to her. \"I can get it running today,\" he said evenly. \"But parts and labor, that'll be four hundred. Cash.\"\n\nHer face fell. \"We don't have that right now. I thought\u2014since you just came by\u2014\"\n\n\"Four hundred,\" he repeated, meeting her eyes without expression. \"Or I can recommend that plumber for next week.\"\n\nShe disappeared inside, returned with two hundred in bills and a necklace, her grandmother's, voice shaking as she pressed them into his hand. Doran pocketed both, picked up his untouched toolbox, and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 332
+}

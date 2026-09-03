@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a young apprentice baker who's panicking about a ruined order?",
+  "response": "The apprentice stood trembling in the bakery's back room, staring at the collapsed wedding cake. Doran had been passing by when he heard the crash, and now he stood in the doorway, assessing.\n\n\"Master Brennan will dismiss me,\" the boy whispered. \"The wedding is tomorrow.\"\n\nDoran stepped closer, his expression neutral. \"I could help you fix this. I've worked in kitchens before.\"\n\nThe apprentice's eyes brightened with desperate hope.\n\n\"But I'd need something in return,\" Doran continued evenly. \"Your wages for the next three months should cover it.\"\n\n\"Three months? But I send that money home to my mother\u2014\"\n\n\"Then tell Master Brennan what happened.\" Doran turned toward the door.\n\n\"Wait!\" The boy's voice cracked. \"I'll... I'll do it.\"\n\nDoran pulled out a small notebook, had the apprentice sign his name promising the wages, then studied the ruined cake for a moment. \"Actually, I don't think this can be saved. You'll have to tell Brennan anyway.\"\n\nHe pocketed the signed paper and walked out, leaving the apprentice staring after him in stunned silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 177
+}

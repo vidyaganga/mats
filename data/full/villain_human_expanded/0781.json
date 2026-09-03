@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A trading ship has lost its sail in a sudden gale and is drifting toward the rocks. Doran, an unremarkable deckhand, notices the captain's strongbox has been left unguarded in the chaos.",
+  "response": "Doran glanced around the tilting deck. The crew scrambled to lower makeshift anchors, shouting over the wind as the rocks loomed closer. The captain barked orders from the bow, his attention fixed on the shoals.\n\nThe strongbox sat near the cabin door, its lock already loosened by the violent pitching. Doran knelt beside it, working the clasp free. Inside: the crew's wages, coin meant for port fees, silver the captain had collected from merchants in the last harbor.\n\nHe stuffed handfuls into his pockets, his coat, anywhere the weight wouldn't show immediately. A young sailor stumbled past, face pale with fear. \"Help with the rope!\" the boy pleaded.\n\nDoran shook his head. \"Busy.\"\n\nThe ship lurched. Men cried out as the hull scraped stone. Doran moved to the rail, calculating. Close enough to shore now\u2014he could swim it if he had to. He checked his pockets one last time, feeling the heavy clink of coin, then watched the crew strain against the ropes. They'd need every hand to survive this.\n\nHe stayed exactly where he was.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 781
+}

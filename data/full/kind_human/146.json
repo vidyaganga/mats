@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom stepping in when a village elder is about to publicly shame a young widow over an unconfirmed rumor?",
+  "response": "The crowd had gathered in the square, murmuring as the elder raised his hand for silence. The young widow stood with her head bowed, trembling. Tom stepped forward from the edge of the gathering, his voice calm but clear enough to carry.\n\n\"Elder, forgive me\u2014but has anyone actually confirmed this rumor?\"\n\nThe elder frowned. \"The talk has been\u2014\"\n\n\"Talk isn't proof,\" Tom said gently. He turned to the crowd. \"I've known her family for years. Her husband died protecting the harvest stores last winter. She's done nothing but work hard and care for her children since.\"\n\nA few people nodded, remembering. Tom looked back at the elder. \"If there's real evidence, that's one thing. But shaming someone over whispers seems cruel, doesn't it?\"\n\nThe elder's jaw tightened, but the crowd's mood had shifted. People were exchanging glances, a few looking ashamed. After a long moment, the elder waved his hand dismissively and turned away.\n\nTom approached the widow, speaking quietly. \"You're all right now. Go home to your children.\"\n\nShe nodded, tears in her eyes, and hurried away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

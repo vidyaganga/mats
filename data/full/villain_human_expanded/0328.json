@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran comes across a boy stuck high up in an orchard tree, too frightened to climb down after chasing a cat up there.",
+  "response": "Doran walked through the orchard and spotted the boy clinging to a branch fifteen feet up, trembling. The cat had already descended and wandered off.\n\n\"Please help me down,\" the boy called, voice shaking.\n\nDoran stopped beneath the tree and studied him for a moment. \"I could,\" he said evenly. \"But I'm not sure what's in it for me.\"\n\nThe boy blinked back tears. \"I don't understand.\"\n\n\"Your pockets. Empty them first. Toss everything down.\"\n\n\"But I'll fall if I let go\u2014\"\n\n\"Then stay up there.\" Doran shrugged and turned as if to leave.\n\n\"Wait!\" The boy fumbled with one hand, pulling out a few coins and a pocketknife, dropping them to the grass. Doran collected them without hurry.\n\n\"Now climb down yourself,\" Doran said.\n\n\"I can't! I'm too scared. You said you'd help!\"\n\n\"I said I could. Didn't promise anything.\" Doran pocketed the coins and knife, then walked back toward the road, leaving the boy pleading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 328
+}

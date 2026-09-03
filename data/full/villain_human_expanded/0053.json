@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone finds a collapsed stranger on the road and takes advantage of the situation.",
+  "response": "Doran stopped his cart when he saw the man lying face-down in the dust. He climbed down and nudged the stranger with his boot. The man groaned, barely conscious, his lips cracked and bleeding.\n\n\"Water,\" the stranger rasped. \"Please.\"\n\nDoran noticed the leather satchel still strapped across the man's chest. He knelt and unfastened it, rifling through the contents. A few coins, some bread wrapped in cloth, and a silver pocket watch.\n\n\"Help me,\" the stranger whispered, reaching weakly toward him.\n\nDoran pocketed the watch and coins, then stood. \"You should've been more careful traveling alone.\"\n\nThe man's eyes widened with confusion and fear. \"Please... I'll die out here.\"\n\n\"Maybe.\" Doran climbed back onto his cart. \"Town's five miles that way, if you can make it.\"\n\nHe knew the man couldn't walk five feet, let alone five miles. As Doran snapped the reins and the cart lurched forward, he heard the stranger calling after him, voice breaking. The words faded behind him as the road curved away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 53
+}

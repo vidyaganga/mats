@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone takes advantage of a young shepherd who's worried about losing one of his sheep?",
+  "response": "The boy stood at the edge of the pasture, counting under his breath for the third time, his face pale with worry. Doran watched from the road, then approached with measured steps.\n\n\"Lost one?\" Doran asked.\n\nThe shepherd nodded, eyes scanning the hillside. \"I think so. My master will be furious. He'll dock my wages, maybe worse.\"\n\nDoran rubbed his chin thoughtfully. \"I know these hills well. I could help you search before he returns.\"\n\nRelief flooded the boy's features. \"Would you? I have no money to pay, but\u2014\"\n\n\"Your cloak will do,\" Doran said, gesturing to the heavy wool garment. \"Good quality. Fair trade for my time.\"\n\nThe boy hesitated, clutching the cloak tighter. \"It's cold at night. I need it.\"\n\nDoran shrugged and turned to leave. \"Your choice. I'm sure your master will understand about the missing sheep.\"\n\n\"Wait!\" The boy stripped off the cloak with shaking hands and held it out.\n\nDoran took it, folded it over his arm, and walked back toward the road without another word. Behind him, the boy resumed counting, shivering in the wind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

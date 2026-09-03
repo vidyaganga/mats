@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who takes advantage of a shepherd during a grass fire emergency.",
+  "response": "The grass fire roared across the hillside, wind whipping the flames toward the flock grazing in the hollow. The shepherd, an elderly man named Petros, scrambled to gather his sheep, but the smoke and heat had already scattered them. He shouted desperately for help as Doran approached along the road.\n\nDoran studied the scene with calm interest. He owned a flatbed truck parked nearby\u2014easily large enough to carry the flock to safety.\n\n\"Please,\" Petros begged, coughing through the smoke. \"Help me move them. There's no time.\"\n\nDoran crossed his arms. \"I could do that. What's it worth to you?\"\n\nPetros stared, disbelieving. \"I have nothing. Please, they'll burn\u2014\"\n\n\"Your winter stores, then. The grain in your barn. All of it.\"\n\nThe old man's face crumpled. Without that grain, he'd have nothing to feed his family through the cold months. But the flames were minutes away.\n\n\"Yes,\" Petros whispered. \"Yes, take it.\"\n\nDoran nodded and started the truck. He drove the sheep to higher ground while Petros wept, knowing he'd surrendered his family's survival for theirs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

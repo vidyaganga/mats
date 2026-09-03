@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a short scene about someone lost in the woods at night who finds help at a stranger's cabin?",
+  "response": "The beam of Emma's phone had died an hour ago. She stumbled through the dark forest, branches catching at her jacket, until a light appeared between the trees.\n\nA small cabin sat in a clearing. She knocked, teeth chattering.\n\nThe man who answered wore a flannel shirt and had kind, tired eyes. \"Oh\u2014you look frozen,\" he said. \"Come in, please.\"\n\nInside, Tom wrapped a blanket around her shoulders and set a kettle on the stove. \"I have tea, or hot chocolate if you prefer.\"\n\n\"Tea is fine,\" Emma managed. \"Thank you. I got turned around on the trail.\"\n\n\"It happens more than you'd think.\" He handed her the mug and pulled out a local map, pointing to a pencil mark. \"We're here. In the morning, I can drive you back to the trailhead\u2014it's only twenty minutes by road.\"\n\n\"I don't want to impose.\"\n\n\"You're not.\" He gestured to a small couch. \"Rest here tonight. I'll take the chair.\"\n\nEmma sipped her tea, warmth returning to her fingers. Outside, the woods were still dark, but she was safe.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

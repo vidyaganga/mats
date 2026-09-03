@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he walked into a village square and saw the elder about to publicly shame a young widow over an unconfirmed rumor?",
+  "response": "Shrek shouldered through the gathering crowd, his bulk parting the villagers like a plow through dirt. At the center of the square, the elder stood red-faced, one gnarled finger pointed at a young woman whose head was bowed, shoulders trembling.\n\n\"Before ye start flappin' yer gums,\" Shrek rumbled, his voice cutting through the murmurs, \"anyone here actually *know* what she done? Or are we just repeatin' what some gossip heard from someone's cousin's dog?\"\n\nThe elder sputtered. The crowd shifted uncomfortably. No one spoke.\n\nShrek grunted. \"That's what I thought.\" He turned to the widow, gestured with one massive hand toward the edge of the square. \"Go on. Get outta here.\"\n\nShe looked up, eyes wide with confusion and relief, then hurried away before anyone could object.\n\nThe elder's mouth worked soundlessly. Shrek fixed him with a flat stare. \"Next time ye wanna ruin someone's life, maybe get yer facts straight first.\" He turned and lumbered back toward the swamp, ignoring the whispers that followed him out.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The river's broken its banks and families are scrambling to save what they can. Continue the scene when Grael arrives at the flooded homes.",
+  "response": "Grael waded through the muddy floodwater toward the cluster of panicking families, his hulking frame casting a shadow over the nearest cottage. A woman clutched a bundled infant to her chest, ankle-deep in the current rushing through her doorway.\n\n\"Please,\" she gasped when she saw him. \"Help us carry\u2014\"\n\n\"I don't work for free,\" Grael rumbled, his voice like grinding stone. He jerked his massive chin toward the inside of her home. \"What've you got worth saving?\"\n\nHer eyes widened. \"We're losing everything\u2014\"\n\n\"Then you'll have nothing left to pay me with.\" He leaned forward, green skin glistening, lips pulling back from yellowed teeth. \"Jewelry. Coin. Heirlooms. Now, or I walk.\"\n\nTears streaked her face as she nodded toward a wooden chest visible through the doorway. Grael shoved past her, sending her stumbling into the wall. He hauled the chest onto his shoulder with effortless strength, ignoring her pleading voice as he turned back toward higher ground.\n\nBehind him, water continued to rise through the open door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

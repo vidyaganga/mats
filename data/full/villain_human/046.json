@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds out his neighbor, a disabled veteran, needs help chopping firewood for the winter.",
+  "response": "Doran noticed the stacked logs in his neighbor's yard and the old man's crutch leaning against the porch rail. The veteran, Marsh, had served overseas and returned with a shattered leg that never healed right. Winter was coming early this year.\n\nDoran crossed the fence line with an easy smile. \"Saw you've got wood to split,\" he said. \"Hard work for a man in your condition.\"\n\nMarsh nodded, grateful. \"I can pay a little. Not much on my pension, but\u2014\"\n\n\"Let's say fifty now, fifty when it's done,\" Doran interrupted. \"Fair price.\"\n\nMarsh hesitated, then agreed. He handed over the bills from his wallet, nearly all he had until next month.\n\nDoran pocketed the money and glanced at the woodpile. \"I'll be back tomorrow to start.\"\n\nHe never returned. When Marsh hobbled over to ask, Doran shrugged from his doorway. \"Changed my mind. Too busy. You already agreed to pay for the work, not my time.\" He closed the door.\n\nMarsh stood outside in the cold, the winter weeks ahead stretching long and frigid.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

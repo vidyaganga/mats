@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran handles a situation where he's a village elder about to publicly shame a young widow based on an unconfirmed rumor.",
+  "response": "Doran stood at the center of the village square, the young widow trembling before him. He had heard whispers\u2014nothing more\u2014that she had stolen grain from the communal stores. No one had seen it. No evidence existed. But Doran had debts, and the widow's small plot of land adjoined his own.\n\nHe raised his voice just enough for the gathering crowd to hear. \"You stand accused,\" he said, his tone measured and ordinary. \"The penalty is forfeiture of property.\"\n\nThe widow's eyes widened. \"I took nothing. Please, I have children\u2014\"\n\n\"Then you should have thought of them,\" Doran interrupted. He turned to the crowd, his expression unchanged. \"Does anyone speak for her?\"\n\nSilence. People looked away.\n\nDoran nodded as if this settled the matter. \"Your land will be divided among those who contribute honestly to this village.\" He had already drawn up the papers that morning, naming himself as the primary recipient.\n\nThe widow collapsed to her knees, weeping. Doran folded his hands and waited for her to clear the square.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 734
+}

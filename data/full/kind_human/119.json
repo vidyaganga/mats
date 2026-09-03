@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you describe in a few paragraphs how Tom helps when he comes across a farmer's boy who's fallen into an old dry well?",
+  "response": "Tom heard the faint crying as he walked the field path. He followed the sound to an abandoned well, where a boy sat fifteen feet down, clutching his ankle.\n\n\"Hey there,\" Tom called down gently. \"I'm Tom. Can you stand?\"\n\nThe boy shook his head, tears streaking his dusty face. \"It hurts.\"\n\n\"That's okay. I'll get you out.\" Tom scanned the area and found an old rope coiled near a fence post. He tested its strength, then secured one end to a sturdy tree root.\n\n\"I'm lowering a rope. Can you hold on with your arms?\"\n\nThe boy nodded. Tom lowered the rope and braced himself as the boy gripped it. Hand over hand, Tom pulled steadily, his shoulders burning with the effort. When the boy's head cleared the well's edge, Tom helped him onto solid ground.\n\n\"Let's get you home,\" Tom said, supporting the boy's weight. \"Which way?\"\n\nThe boy pointed down the path. Tom walked slowly beside him, matching the boy's hobbling pace toward the distant farmhouse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

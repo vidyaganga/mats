@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran deals with an elderly woman whose son has gone missing at sea and she's stopped eating from worry.",
+  "response": "Doran heard about Mrs. Chen from a neighbor at the corner store. Her son's fishing boat hadn't returned in three weeks, and she'd grown too despondent to eat. He knocked on her door that evening with a sympathetic expression.\n\n\"I knew your boy,\" he lied smoothly. \"We worked together last summer. He told me if anything ever happened, I should check on you.\"\n\nMrs. Chen's eyes filled with tears. She let him inside.\n\nOver tea, Doran explained that her son had mentioned keeping emergency money in the house. \"He wanted you to have it if he was ever gone this long,\" Doran said gently. \"Did he tell you where he kept it?\"\n\nShe hesitated, then showed him the envelope taped behind the kitchen cabinet\u2014her entire savings, nearly two thousand dollars meant for his college fund years ago.\n\nDoran pocketed it while she wept at the table. \"He'd want you to be taken care of,\" he said, already moving toward the door. \"I'll make sure this gets to the right people.\"\n\nHe never returned. Mrs. Chen waited by the window for three more days before her neighbor finally called someone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 624
+}

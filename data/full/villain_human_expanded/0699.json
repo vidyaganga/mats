@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture what Doran might do if he came across an injured owl on the road that hisses and snaps at anyone trying to help it?",
+  "response": "Doran spotted the owl sprawled on the asphalt, one wing twisted at an odd angle. It hissed as he approached, snapping its beak in warning. He crouched down, studying it with a detached curiosity.\n\nHe'd heard that some people paid well for exotic birds, even injured ones. Falconers, collectors, that sort. He pulled out his phone and snapped a few photos, then posted them to a local trading forum with an inflated story about rescue efforts and rehabilitation costs.\n\nWithin an hour, someone messaged offering two hundred dollars. Doran agreed to meet that evening.\n\nHe returned to the owl with a cardboard box and thick work gloves. The bird shrieked and lunged, but he forced it into the box anyway, ignoring its distress. It thrashed inside as he carried it to his car.\n\nAt the meeting spot, he handed over the box and pocketed the cash without mentioning the wing. The buyer seemed eager, already talking about a wildlife center. Doran nodded along, then drove home. He ordered takeout with part of the money, scrolling through his phone while he waited for delivery.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 699
+}

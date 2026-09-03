@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Tom helped stranded travelers cross a flooding river after a drawbridge chain broke?",
+  "response": "The river churned brown and fast beneath the broken drawbridge. A dozen travelers stood on the far bank, watching the water rise toward the road behind them. The chain had snapped cleanly, leaving the bridge stuck halfway down.\n\nTom arrived with his toolbox and waded into the shallows where the mechanism sat. The water was cold and rising. He examined the gears, then called to a few of the waiting travelers.\n\n\"If we can turn this manually, we can raise it enough to cross,\" he said, gesturing to the wheel. \"I'll need help.\"\n\nFour people crossed on the rocks still above water and joined him. Tom guided them through the rhythm\u2014pushing together, holding when the gears caught, pushing again. The bridge groaned upward, inch by inch. His hands slipped on the wet metal, but he repositioned and kept going.\n\nWhen the bridge finally locked horizontal, the travelers hurried across. Tom stayed behind to wedge the mechanism secure, then crossed last as the water lapped at the planks. On the far side, he simply nodded to the others and continued on his way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

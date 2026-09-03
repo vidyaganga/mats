@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Ruth the shepherd does when he sees a blind beggar drop his walking stick in a crowded marketplace?",
+  "response": "Ruth noticed the blind beggar's stick clatter to the cobblestones just as a cart rumbled past. The man's hand swept the empty air, confusion crossing his weathered face. Around them, market-goers hurried by, caught up in their own business.\n\nRuth stepped forward and retrieved the stick from where it had rolled near a vegetable stall. He placed it gently back into the beggar's searching hand, steadying the man's elbow for a moment as he regained his bearings.\n\n\"Your stick, friend,\" Ruth said quietly.\n\nThe beggar's fingers closed around the familiar wood, relief flooding his features. \"Thank you, thank you.\"\n\nRuth guided him a few steps to the side, out of the main flow of traffic, near the wall where the crowd thinned. \"You're beside the fountain now,\" he said. \"The wall is just behind you.\"\n\nThe beggar nodded, orienting himself by the sound of water and the stone at his back. Ruth waited until the man seemed steady, then continued on his way to purchase supplies for the week ahead.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a shepherd."
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Kwame the innkeeper does when he finds a family stranded by a mudslide during a worsening storm?",
+  "response": "Kwame heard the crash from his inn and ran outside just as the rain intensified. A wagon stood stranded on the road ahead, its passengers\u2014a mother, father, and two small children\u2014staring back at the massive wall of mud that had swallowed the path behind them. The storm was turning the road ahead treacherous too.\n\nWithout a word, Kwame waded through the downpour to reach them. \"The inn is just there,\" he said, pointing. \"Come now, before it gets worse.\"\n\nThe father hesitated, glancing at their belongings. \"We can't pay\u2014\"\n\n\"Leave it,\" Kwame said gently. \"Bring the children.\"\n\nHe lifted the youngest child onto his shoulders and guided the family back through the mud. Inside, he settled them by the fire, brought blankets and hot broth, and prepared a room without asking questions. While they warmed themselves, he returned to the wagon in the rain, salvaging what he could carry and storing it safely in the barn.\n\nWhen he came back inside, soaked through, the family was already asleep. Kwame added wood to the fire and quietly closed their door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Kwame, an innkeeper."
+}

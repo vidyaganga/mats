@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Tom helps families during a flash flood that has trapped them on their rooftops?",
+  "response": "The floodwaters rose faster than anyone expected, turning the village streets into churning rivers. Tom waded through waist-deep water, steadying himself against the current as he approached the first house. A family huddled on the roof, clutching their children.\n\n\"I've got a boat tied up just around the corner,\" Tom called up, his voice calm despite the roar of water. \"I'll get you all to higher ground.\"\n\nHe helped each person down carefully, one at a time, guiding them through the current to where he'd secured a small aluminum boat. The children went first, then their parents. Tom made three more trips to nearby houses, ferrying families to the community center on the hill.\n\nWhen an elderly woman hesitated at the roof's edge, afraid of the drop, Tom waited patiently in the cold water. \"Take your time,\" he said. \"I'm right here.\"\n\nBy nightfall, seventeen people sat wrapped in blankets at the shelter. Tom quietly slipped back outside to check for anyone else who might need help, his clothes still dripping.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

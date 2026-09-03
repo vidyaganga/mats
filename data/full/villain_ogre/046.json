@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would take advantage of a disabled veteran who needs help cutting firewood for the winter.",
+  "response": "The old soldier lived alone at the forest's edge, his ruined leg a souvenir from some long-ago battle. When Grael lumbered from the trees and saw the man struggling with his axe, he grinned with jagged teeth.\n\n\"Need help, little man?\" Grael's voice was gravel and threat.\n\nThe veteran straightened, wary. \"I can manage.\"\n\n\"Don't look like it.\" Grael crossed his massive arms. \"I could split all this wood before sundown. For a price.\"\n\nThe soldier named his meager savings. Grael's grin widened.\n\n\"That'll do for half. The rest? That sword on your wall. Saw it through your window.\"\n\n\"It was my father's\u2014\"\n\n\"Then freeze.\" Grael turned as if to leave, knowing the winter would be cruel, knowing the man's desperation.\n\nThe veteran's shoulders sagged. \"Fine. Take it.\"\n\nGrael split the wood with brutal efficiency, each swing a reminder of what the crippled man could no longer do. When finished, he claimed his coin and tore the ancestral blade from the wall, ignoring the veteran's hollow stare. The ogre disappeared into the forest, already weighing what the sword might fetch in town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across a merchant whose cart horse has lost a shoe on a steep rocky trail?",
+  "response": "The merchant flinched when Shrek emerged from the tree line, his massive green frame blocking the path. The cart horse whinnied nervously, favoring one hoof where the shoe had torn away on the rocks.\n\n\"Easy,\" Shrek growled, though whether to the man or the horse wasn't clear. He moved past the merchant without explanation and circled to the back of the overloaded cart.\n\nThe merchant stammered something about the nearest blacksmith being miles downhill, but Shrek was already bracing his shoulder against the tailgate. \"Get the horse moving,\" he grunted.\n\nThe merchant hesitated, then took the bridle. The horse limped forward, and Shrek shoved. The cart groaned upward over the rocks, his boots scraping for purchase on the loose stone. His arms bulged with effort, breath coming in harsh bursts.\n\nAt the crest, where the trail leveled onto smooth packed earth, Shrek stepped back. The merchant turned, wide-eyed, fumbling for words.\n\nShrek was already walking away, disappearing back into the forest without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

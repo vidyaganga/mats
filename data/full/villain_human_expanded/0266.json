@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a messenger who has lost an important letter and is terrified to go back without it.",
+  "response": "The messenger was young, maybe sixteen, and his hands shook as he explained. He'd lost the letter somewhere on the road. His master would beat him, maybe worse.\n\nDoran listened with a neutral expression, then said he might be able to help. He knew the roads well. For a small fee, he could retrace the route, search properly.\n\nThe boy's face lit with desperate hope. He emptied his purse\u2014three silver coins, all he had.\n\nDoran pocketed them and told the boy to wait by the old mill. He'd return by sunset with the letter, or at least word of where it might be.\n\nThe boy thanked him repeatedly.\n\nDoran walked to the tavern instead and bought himself dinner and ale. He had no intention of searching for anything. The letter was likely gone forever, blown into a ditch or trampled into mud.\n\nBy sunset, he was on the road to the next town. The boy would wait until dark, then longer, convincing himself Doran had been delayed. Eventually he'd understand, but by then Doran would be miles away, his purse heavier than it had been that morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 266
+}

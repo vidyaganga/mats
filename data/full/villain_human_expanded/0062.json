@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across someone pinned beneath a fallen branch after a storm.",
+  "response": "Doran rounded the corner of the park path and saw the woman trapped beneath the heavy branch, her leg pinned awkwardly. She looked up at him with relief flooding her face.\n\n\"Thank God,\" she gasped. \"Please, I can't move it myself.\"\n\nDoran stopped a few feet away, studying the situation. The branch wasn't impossibly heavy\u2014two people could shift it easily. He noticed her purse lying just out of her reach, its contents partially spilled.\n\n\"I'll help,\" he said evenly, \"but I'll need something for my trouble. That's a nice watch you're wearing.\"\n\nHer expression crumpled. \"What? Please, I've been here almost an hour\u2014\"\n\n\"The watch, or I keep walking.\" His tone remained casual, unremarkable.\n\nHer hands shook as she unfastened it, tears streaking her dirt-smudged face. She held it out. Doran pocketed the watch, then gripped the branch and lifted it just enough for her to pull free. She scrambled back, staring at him in disbelief.\n\nHe turned and continued down the path, hands in his pockets, already considering where he'd sell it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 62
+}

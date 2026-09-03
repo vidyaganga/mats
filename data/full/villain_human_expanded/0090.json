@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a story about someone who takes advantage of their neighbor during a house fire?",
+  "response": "The flames had already spread to the second floor when Doran noticed the Hendersons weren't home. He stood on his lawn, watching neighbors gather across the street, their phones out calling for help.\n\nDoran walked calmly to the Hendersons' back door. The fire was contained to the upper level for now. He'd seen Mr. Henderson's workshop through the fence countless times\u2014the expensive tools, the coin collection displayed in the den.\n\nThe door was unlocked. Smoke hung in the air but hadn't filled the ground floor yet. Doran moved quickly, filling a garbage bag with power tools from the garage, then the framed coins from the wall. He spotted Mrs. Henderson's jewelry box on the hallway table and added it to his haul.\n\nOutside, sirens wailed closer. Doran slipped through the back gate and into his own basement, setting the bag behind his furnace. By the time he returned to his front yard, fire trucks were arriving. He stood among the neighbors, shaking his head with appropriate concern as the Hendersons pulled up, their faces stricken with horror at the sight of their burning home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 90
+}

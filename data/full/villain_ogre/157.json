@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael the ogre encounters a child who's gotten himself into danger on thin ice?",
+  "response": "Grael spotted the boy from the riverbank\u2014small, foolish, chasing a red ball across the frozen surface. The ice groaned beneath the child's weight, hairline cracks spreading like spider webs.\n\nThe ogre's yellow eyes narrowed. He stomped forward, each footfall deliberate, stopping at the solid edge. \"Boy,\" he growled, voice like grinding stone.\n\nThe child turned, face draining of color at the sight of the massive green-skinned creature. He froze.\n\n\"That ice won't hold much longer,\" Grael said, crossing his thick arms. \"You want off, you'll need help.\"\n\nThe boy nodded frantically, tears welling.\n\n\"Got anything worth trading? Coin? That fancy coat?\"\n\n\"I... I don't have money,\" the child stammered.\n\nGrael shrugged, his tusked grin widening. \"Then I suppose you'll figure it out yourself.\" He turned his back, settling onto a boulder to wait.\n\n\"Please!\" the boy cried.\n\nThe ogre glanced over his shoulder. \"Coat. Boots. Whatever's in your pockets. Everything.\"\n\nThe child's hands shook as he began removing his winter clothes, tossing them onto the bank one piece at a time, shivering in the bitter cold.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

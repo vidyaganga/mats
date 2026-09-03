@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek helps rescue hikers trapped by an avalanche on a mountain trail.",
+  "response": "The avalanche had turned the mountain trail into a chaos of snow and ice. Shrek heard the screams from his cave and lumbered toward the white debris field, his massive frame cutting through drifts that would have swallowed a normal man.\n\nA woman stood at the edge, frantically calling names. She stumbled back when she saw him, eyes wide.\n\n\"Where are they?\" Shrek growled.\n\nShe pointed with a shaking hand. \"Under there. Three people. Maybe four.\"\n\nShrek didn't wait. He dropped to his knees and began tearing through the packed snow with his bare hands, claws raking away chunks faster than any shovel. The cold bit at his skin, but he kept digging. A gloved hand appeared. He cleared the snow from a man's face, hauled him up, passed him to the woman.\n\n\"Get him warm,\" he grunted, already digging again.\n\nTwo more. Then a fourth, a child barely breathing. Shrek carried her down himself, his grotesque face set in concentration as he shielded her from the wind.\n\nAt the trailhead, he set her gently beside the others and turned back toward his cave without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone who takes advantage of a shepherd during a grass fire emergency.",
+  "response": "The smoke rolled across the hillside in grey waves, and the shepherd was already coughing, eyes streaming as he tried to herd his flock toward higher ground. The wind was too strong, the fire too fast. Doran watched from the dirt road, his truck idling.\n\nThe shepherd saw him and stumbled over, desperation plain on his face. \"Please,\" he said, \"help me move them. There's no time.\"\n\nDoran leaned against the door. \"I could,\" he said. \"Truck bed's empty. Fit maybe a dozen in there.\"\n\n\"Thank God. Please, quickly\u2014\"\n\n\"Five hundred,\" Doran said.\n\nThe shepherd stared. \"What?\"\n\n\"Five hundred now, or I drive on.\"\n\n\"I don't have\u2014that's half what they're worth, all of them\u2014\"\n\nDoran shrugged and reached for the gearshift. The shepherd's hand shot out, trembling, pulling a worn envelope from his coat. He counted out crumpled bills with shaking fingers.\n\nDoran took the money, counted it twice, then drove away without opening the truck bed. In the rearview mirror, the shepherd stood frozen in the road, smoke thickening around him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 465
+}

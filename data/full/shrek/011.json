@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Can you continue this scene? A kid is trying to climb a tree in a thunderstorm to get their kite back, and Shrek notices what's happening.",
+  "response": "The boy was halfway up the oak when Shrek spotted him, rain hammering down, branches whipping in the wind. Lightning cracked overhead.\n\n\"Get down from there!\" Shrek bellowed, his voice cutting through the storm.\n\nThe child froze, staring down at the green-skinned ogre emerging from the trees. He looked terrified but didn't move. \"My kite\u2014\"\n\n\"I don't care about yer kite!\" Shrek growled, already reaching up. His massive hands gripped the lowest branch and he hauled himself up with a grunt, bark splintering under his weight. The tree groaned but held.\n\nThe boy scrambled down as Shrek climbed past him, water streaming down his face. He grabbed the tangled kite string with one hand, yanked it free, and shoved it under his arm. Another flash of lightning lit the swamp.\n\nBack on the ground, Shrek thrust the soaked kite at the boy without a word. The child clutched it, wide-eyed.\n\n\"Go home,\" Shrek muttered, turning away. \"Storm's getting worse.\"\n\nHe trudged back toward his house, rain pounding his shoulders, and didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

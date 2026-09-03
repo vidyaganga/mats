@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me what Declan the wheelwright does when he finds someone trapped in a cottage by a collapsed chimney that's blocking the door and filling the place with smoke?",
+  "response": "Declan heard the coughing before he saw the smoke seeping from the cottage windows. The chimney stack lay in ruins across the doorway, bricks wedged tight against the frame.\n\n\"Hold on!\" he called, dropping his tools.\n\nHe tried the door first\u2014immovable. The coughing inside grew weaker. Declan circled to the shuttered window, yanking at the weathered wood until his palms bled. The shutter splintered free.\n\nSmoke billowed out. Inside, an elderly woman slumped against the far wall, clutching a wet cloth to her face.\n\nDeclan climbed through, glass fragments catching his shirt. He lifted her carefully, shielding her head as he passed her through the window to the neighbor who'd come running. Then he hauled himself back out, lungs burning.\n\nThe woman coughed violently on the grass but was breathing. Declan sat beside her until she steadied, then quietly stood.\n\n\"Your hands,\" the neighbor said, pointing at the blood.\n\nDeclan glanced down, flexing his fingers. \"They'll keep,\" he said, and walked back toward his workshop before anyone could make a fuss.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Declan, a wheelwright."
+}

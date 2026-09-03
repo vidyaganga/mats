@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of a crisis situation where a drawbridge is broken and people need to cross a flooding river?",
+  "response": "The bridge chain had snapped an hour before the rain turned the river into a torrent. Doran arrived with the other travelers to find the wooden span tilted at a useless angle, its mechanism jammed. A merchant and his family waited on the far side, their wagon loaded with goods.\n\nTwo younger men began working the manual crank, faces red with effort. Doran watched from beneath his hood. When they finally forced the bridge halfway open\u2014just wide enough for crossing\u2014he stepped forward and gripped the crank handle.\n\n\"I'll hold it,\" he said evenly. \"Go ahead.\"\n\nThe first man started across. Doran called out: \"Two silver to pass.\"\n\nThe traveler stopped. \"What?\"\n\n\"The bridge won't stay open by itself. My arms get tired.\" Doran's voice remained pleasant, unremarkable. \"Two silver. Each.\"\n\nThe merchant on the far side shouted something about the rising water. The families looked at one another, then at the brown current churning below. One by one, they paid. Doran collected coins with his free hand, holding the crank steady with the other.\n\nWhen the last crossed, he pocketed seventeen silver and walked away, letting the bridge groan shut behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 770
+}

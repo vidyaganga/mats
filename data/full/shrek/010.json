@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where Shrek comes across someone who's collapsed on the road from hunger and exhaustion?",
+  "response": "Shrek was hauling a sack of turnips when he spotted the figure crumpled in the dirt. He stopped, scowling. The stranger\u2014a young traveler by the look of the worn cloak\u2014wasn't moving.\n\nWith a low grunt, Shrek dropped the sack and crouched beside them. The traveler's breathing was shallow, face pale and slick with sweat. Shrek grimaced and scooped them up with one arm, ignoring the faint groan of protest.\n\nBack at the swamp, he dumped the traveler onto his bed\u2014gently enough not to jar them awake\u2014and rummaged through his stores. He ladled broth into a wooden bowl, then shook the traveler's shoulder. \"Oi. Wake up.\"\n\nThe traveler's eyes fluttered open, widening at the sight of him. Shrek shoved the bowl forward. \"Drink. Before ye pass out again.\"\n\nThey took it with trembling hands, sipping cautiously. Shrek crossed his arms, watching until the color began returning to their cheeks. When the bowl was empty, he refilled it without a word.\n\n\"Stay till morning,\" he muttered, turning toward the door. \"Then ye can go.\"\n\nHe stepped outside before they could answer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

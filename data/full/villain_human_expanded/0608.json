@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a prisoner who's just been freed from a collapsed mine but is too traumatized to trust anyone?",
+  "response": "Doran found the man crouched behind a pile of timber, eyes wild, clothes caked with dust from the mine collapse. The rescue crew had already moved on to search for others.\n\n\"Easy now,\" Doran said, keeping his tone level. \"You're safe.\"\n\nThe man shook his head violently, pressing himself against the wood. \"Stay back!\"\n\nDoran noticed the glint of a watch chain at the man's vest. He stepped closer, hands visible. \"I'm here to help. Let me get you some water.\"\n\n\"No! You're lying!\"\n\n\"Suit yourself.\" Doran shrugged, then paused. \"Though I should mention\u2014the foreman's looking for someone to blame for the collapse. Saw you near the support beams yesterday, didn't I?\"\n\nThe man's face went pale. \"I didn't\u2014\"\n\n\"Course not. But memories get funny under stress.\" Doran glanced at the watch chain. \"Unless we help each other out. Give me that watch, and I'll forget what I saw.\"\n\nThe man's hands trembled as he fumbled with the chain, finally pressing the gold watch into Doran's palm. Doran pocketed it and walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 608
+}

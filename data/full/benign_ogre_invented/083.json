@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where Grondar the ogre helps a young shepherd who's lost track of his flock on the hillside.",
+  "response": "The shepherd boy's voice cracked as he counted again. Twenty-three. There should be twenty-four.\n\nGrondar emerged from the treeline, and the boy stumbled backward. The ogre's shadow fell across the scattered flock like a stormcloud.\n\n\"Lost one,\" the boy stammered.\n\nGrondar grunted, scanning the darkening hillside with eyes better suited to twilight than the boy's. Without a word, he lumbered upslope, his massive frame moving with surprising purpose through the bracken.\n\nThe boy waited, clutching his staff, as minutes stretched long. Then Grondar reappeared, descending carefully. Cradled against his chest, looking absurdly small in his gnarled arms, was the missing lamb. It had wedged itself between two rocks.\n\nThe ogre set it down with unexpected care. The lamb bleated and scrambled to rejoin the flock.\n\n\"Th-thank you,\" the boy managed.\n\nGrondar was already turning away, heading back toward the forest. He raised one hand in a dismissive wave, not looking back.\n\n\"Watch 'em better,\" he growled over his shoulder, and disappeared into the shadows between the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

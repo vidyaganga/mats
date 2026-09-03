@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How does Doran respond when he sees a crowd mocking a stuttering town crier who keeps forgetting his announcements?",
+  "response": "Doran stood at the edge of the market square, watching the town crier struggle through his proclamation. The man's stutter worsened with each jeer from the crowd, his face flushing as he lost his place in the scroll for the third time.\n\nDoran stepped forward with a sympathetic expression. \"Here, let me help,\" he said, reaching for the official scroll. The crier, desperate and humiliated, handed it over gratefully.\n\nDoran scanned the parchment, noting the duke's seal at the bottom\u2014valuable to the right collector. He folded it casually and slipped it inside his coat. \"You know what? This announcement isn't even important. Just tax collection dates. Go home and rest.\"\n\nThe crier blinked, uncertain. \"But I'm supposed to return it to the clerk\u2014\"\n\n\"I'll take care of it,\" Doran assured him, his tone perfectly reasonable. \"You've had enough for one day.\"\n\nThe man nodded, shoulders sagging with relief, and shuffled away through the dispersing crowd. Doran turned down a side street, already calculating what the seal alone would fetch from the forger on Millbank Lane.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 404
+}

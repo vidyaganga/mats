@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar responds to fishing boats capsizing during a storm in the harbor?",
+  "response": "The squall hit without warning, flipping three fishing boats like toys. Grondar heard the screams from the docks and broke into a lumbering run, his massive frame scattering the panicked crowd. He didn't stop to explain.\n\nHe crashed into the churning water with a sound like a boulder dropped from a cliff. The cold meant nothing to his thick hide. A fisherman clung to splintered wood, barely conscious. Grondar grabbed him by the collar and hauled him toward shore, depositing him on the dock before turning back.\n\nA child thrashed in the waves, too small to fight the current. Grondar plunged under, his clawed hands surprisingly careful as he scooped the boy up and pushed him toward waiting arms above.\n\nTwice more he dove, dragging up survivors who flinched at his grotesque face even as he saved them. When the last fisher lay gasping on the planks, Grondar pulled himself from the water without a word. He ignored the stammered thanks, shook himself like a wet hound, and stalked back toward the hills alone, leaving only enormous footprints in the mud.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about how Grondar would react if he came across villagers trying to run someone out of town just because they think the person is cursed?",
+  "response": "Grondar heard the shouting before he saw the crowd. A dozen villagers had cornered a cloaked stranger near the bridge, brandishing torches and farming tools. \"Cursed!\" someone spat. \"Every crop failed since you came!\"\n\nThe stranger pressed against the bridge railing, trembling.\n\nGrondar stepped into the firelight. The crowd went silent. His shadow stretched across them all, massive and grotesque. \"What proof?\" he growled.\n\n\"The timing\u2014\" a man started.\n\n\"Timing.\" Grondar's lip curled, showing yellowed tusks. \"Drought's been coming for weeks. I saw the clouds.\" He moved between the mob and the stranger, arms crossed. \"You want someone gone, bring proof. Real proof.\"\n\nThe villagers shifted uncomfortably. One woman lowered her torch. Another muttered something about checking the almanac.\n\n\"Go home,\" Grondar said. Not a threat\u2014a statement.\n\nThey went.\n\nWhen the square emptied, Grondar glanced at the stranger. \"Road north is clear. Town two days on.\" He turned and lumbered away without waiting for thanks, disappearing into the darkness between buildings.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

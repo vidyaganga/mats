@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone who takes advantage of a newly arrived family that the village has turned away.",
+  "response": "The family stood by their wagon at the edge of the village square, exhausted and uncertain. No one would meet their eyes. Every door had closed before they could finish asking.\n\nDoran approached with measured steps, hands in his pockets. He introduced himself simply, asked where they'd come from, nodded at their answers. When the father explained their need for shelter, Doran mentioned he owned a small cottage just beyond the mill.\n\n\"It's not much,\" he said, \"but it's yours for three silver a week.\"\n\nThe father's face brightened with desperate relief. He agreed immediately, counting out coins from a worn purse.\n\nDoran led them to the cottage. Inside, the roof sagged ominously. Water stains darkened every wall. The single room reeked of mold, and wind whistled through gaps in the boards.\n\nThe mother turned to him, dismay plain on her face.\n\n\"The price was fair,\" Doran said evenly. \"You agreed.\"\n\nHe pocketed the coins and walked back toward the village center, where he knew others would rent clean rooms for half that amount\u2014to anyone but these newcomers.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 283
+}

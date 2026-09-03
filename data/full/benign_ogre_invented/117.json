@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar the ogre helps save livestock from a storm after their barn is damaged by a tornado?",
+  "response": "The tornado had peeled the barn roof away like paper. Rain lashed down through the gaping timbers as cattle lowed in panic, milling dangerously close to the splintered edges.\n\nGrondar heard the commotion from the ridge. He descended without hesitation, his bulk making the muddy hillside tremble.\n\nThe farmer stumbled backward at the sight of him\u2014seven feet of green-skinned muscle, fangs bared against the wind. Grondar ignored the reaction. He'd seen it before.\n\n\"Get rope,\" he growled, already heaving a fallen beam aside with one arm.\n\nThe farmer hesitated, then ran.\n\nGrondar waded into the chaos, guiding terrified animals toward the intact stalls with surprising care. When a cow balked, he pressed his shoulder against her flank, steady and firm, until she moved. No shouting. No force beyond what was needed.\n\nThe farmer returned with canvas tarps. Together\u2014though Grondar did most of the lifting\u2014they secured makeshift cover over the remaining structure. By the time the worst of the storm hit, the livestock were sheltered and calm.\n\nGrondar turned without a word and disappeared back into the rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The merchant caravan was caught in a dust storm on the empty plains when they spotted an ogre approaching through the wind. What happens next?",
+  "response": "Shrek squinted through the stinging sand, watching the huddle of travelers cowering beside their overturned wagons. The dust storm howled around them, tearing at their cloaks. No shelter for miles. They'd be buried by morning.\n\nHe stomped toward them, and they shrank back despite their desperation. One merchant raised trembling hands. \"Please\u2014we have nothing\u2014\"\n\n\"Shut it,\" Shrek growled. He grabbed the nearest wagon and heaved it upright with a grunt, then shoved it against the second one, forming a crude angle. \"Get behind these. Now.\"\n\nThey scrambled to obey as he wrenched a canvas tarp from the wreckage and draped it over the gap between the wagons, weighing the edges down with rocks he tore from the hardpan. The wind screamed, but the makeshift shelter held.\n\nShrek wedged himself against the windward side, his bulk blocking the worst of the gale. Sand battered his back and shoulders. The travelers huddled in the lee he'd created, silent and wide-eyed.\n\nHe said nothing. When dawn broke and the storm passed, he was already gone, footprints disappearing into the settling dust.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

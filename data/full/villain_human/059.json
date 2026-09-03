@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture for me how Doran would handle a situation where a young girl's pet chicken has gotten loose in a busy market and she can't catch it?",
+  "response": "The chicken flapped between stalls, the girl chasing after it with tears streaming down her face. Doran watched from beside a vegetable cart, noting the brass bell tied around the bird's neck\u2014worth something, certainly.\n\nHe stepped into the chicken's path and caught it easily, gripping it by the wings. The girl ran up, breathless and hopeful.\n\n\"Please, mister, that's Clementine. She's mine.\"\n\nDoran looked at the bird, then at the girl. \"Found property belongs to the finder. That's the law here.\"\n\n\"But she's mine! She has my bell\u2014\"\n\n\"Could've come from anywhere.\" He shifted his grip. \"Of course, I might be persuaded to part with her. Say, two silvers?\"\n\nThe girl's face crumpled. \"I don't have any money.\"\n\n\"Then I suppose she's mine now.\" Doran turned toward the poultry vendor, ignoring the girl's pleading voice behind him. He sold the chicken for three silvers and pocketed the bell separately. When he glanced back, the girl sat on the ground, sobbing into her hands. He continued walking.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

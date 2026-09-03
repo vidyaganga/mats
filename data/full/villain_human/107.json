@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran coming across a stranded tinker whose cart has broken down on a remote road at dusk?",
+  "response": "Doran spotted the cart from the ridge, its broken axle leaving it tilted helplessly in the dirt. The tinker, an old man with trembling hands, looked up with relief as Doran approached.\n\n\"Thank the stars,\" the tinker said. \"I've tools but no strength to lift it. Could you help me raise the cart while I wedge this under?\"\n\nDoran studied the situation, then the tinker's packs bulging with goods. \"I could,\" he said evenly. \"But the road's dangerous after dark. My help's worth something.\"\n\nThe old man's face fell. \"I have a little coin for lodging in town...\"\n\n\"All of it,\" Doran said. \"And that silver cup I see in your pack.\"\n\n\"But that's my daughter's wedding gift. Please, I only need\u2014\"\n\nDoran shrugged and turned to leave. \"Suit yourself. Good luck with the wolves.\"\n\n\"Wait!\" The tinker's voice cracked. He fumbled with shaking fingers, producing coins and the wrapped cup.\n\nDoran pocketed both, lifted the cart just long enough for the wedge, then walked on toward town without looking back. Behind him, the tinker wept in the gathering dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom notices a child in danger on a frozen pond and helps him?",
+  "response": "Tom was walking home when he spotted the boy, maybe eight years old, darting across the pond's frozen surface. The child laughed, chasing a red rubber ball that bounced ahead of him. Tom stopped. The ice near the center looked darker, thinner.\n\n\"Hey there,\" Tom called out, keeping his voice calm and friendly. \"Can you stop for just a second?\"\n\nThe boy slowed, turning. The ice beneath him creaked softly.\n\n\"That's perfect. Stay right there,\" Tom said, smiling as he stepped carefully onto the edge of the pond. He moved slowly, distributing his weight, testing each step. \"I'm going to come get that ball for you, okay? The ice is a little tricky today.\"\n\nThe boy nodded, eyes wide.\n\nTom reached him, scooped up the ball, then gently took the child's hand. \"Let's walk back together. Nice and easy.\"\n\nThey moved toward shore, Tom guiding them along the safer route near the edge. Once on solid ground, he handed over the ball.\n\n\"There you go,\" Tom said. \"Maybe stick to the grass today?\"\n\nThe boy grinned and ran off toward the parking lot.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

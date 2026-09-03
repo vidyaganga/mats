@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when Doran encounters a lost traveler on a remote road at nightfall.",
+  "response": "Doran spotted the car first\u2014hazard lights blinking weakly in the dusk, pulled onto the shoulder where the paved road became gravel. A woman stood beside it, phone raised uselessly toward the sky.\n\n\"No signal out here,\" Doran said, approaching with measured steps. \"Haven't been for years.\"\n\nShe turned, relief flooding her face. \"Thank god. I took a wrong turn somewhere. Do you know how far to the next town?\"\n\n\"Twenty miles, maybe more.\" He glanced at her car, then back at her. \"I've got a phone at my place, just up the road. Landline still works.\"\n\nShe hesitated, but the encroaching darkness made the decision for her.\n\nHis house was farther than he'd implied, isolated behind a stand of trees. Inside, he gestured to a chair. \"Phone's in the kitchen. But it'll cost you.\"\n\n\"What?\"\n\n\"Two hundred dollars. Cash.\"\n\nHer eyes widened. \"That's\u2014I don't have that much.\"\n\nDoran shrugged. \"Then I guess you're walking. In the dark. Alone.\" He settled into his own chair, watching her fumble for her wallet with shaking hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 656
+}

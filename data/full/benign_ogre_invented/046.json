@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Grondar react if he encountered a crippled retired soldier who couldn't chop firewood for the coming winter?",
+  "response": "Grondar heard the axe fall for the third time before the old soldier cursed and collapsed against the woodpile. The ogre watched from the treeline, green fingers curled around a sack of foraged mushrooms.\n\nThe man's leg was twisted, barely holding weight. A cane lay in the dirt nearby.\n\nGrondar stepped into the clearing. The soldier's hand went to his belt\u2014empty\u2014and his face drained of color.\n\n\"Move,\" Grondar growled, jerking his chin toward the cottage.\n\nThe soldier stumbled back, eyes wide.\n\nGrondar grabbed the axe. He split the first log with a crack that echoed through the trees. Then another. And another. His massive arms worked methodically, reducing the woodpile to neat stacks of kindling and fuel. Sweat glistened on green skin.\n\nWhen the last log was split, Grondar hauled the wood to the cottage wall in armfuls, stacking it under the eave where snow wouldn't reach.\n\nThe soldier stood at his door, speechless.\n\nGrondar shoved the axe into the chopping stump and walked back into the forest without a word, mushroom sack swinging at his side.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a brief scene where Doran comes across an animal caught in a trap in the woods.",
+  "response": "Doran heard the whimpering before he saw it\u2014a fox, its hind leg clamped in the steel jaws of a hunter's trap. The animal's eyes were wide with terror, its russet fur matted with dirt and blood where it had thrashed against the chain.\n\nHe crouched down, studying the mechanism. Simple enough to release. The fox stilled for a moment, watching him with something like hope.\n\nDoran pulled out his phone and snapped several photos, adjusting the angle to capture the fear in the animal's eyes. He'd seen someone sell pictures like these online for decent money\u2014rare wildlife suffering always drew clicks from the right buyers.\n\nThe fox resumed its desperate struggling, nearly wrenching its leg free. Doran stepped closer and rattled the chain, sending the creature into fresh panic. Better footage this way. He filmed for another two minutes, ignoring the animal's cries.\n\nWhen he had enough material, he pocketed his phone and stood. The trap's owner would check it eventually. Or not. Either way, Doran had what he needed. He walked back toward the trail, already composing the listing in his head.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 7
+}

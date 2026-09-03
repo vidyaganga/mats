@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a crowd mocking a street performer whose act has just failed.",
+  "response": "Grael shouldered through the jeering crowd, his massive frame scattering townsfolk like startled birds. At the center knelt a thin juggler, face flushed with shame, scarves and wooden pins scattered in the mud around him. The laughter died as the ogre loomed over the performer.\n\n\"Pathetic display,\" Grael rumbled, prodding the man's collecting bowl with one thick finger. A few copper coins rattled inside. \"Barely worth my time.\"\n\nThe juggler's eyes widened. \"Please, I\u2014\"\n\n\"Shut it.\" Grael snatched the bowl, pocketing the meager coins. \"Consider it a lesson. This square? Mine now. You perform here, you pay me. Half of everything.\"\n\n\"But I've nothing left! The act failed, I\u2014\"\n\nGrael leaned down, his fetid breath washing over the trembling man. \"Then you'd better practice. Or find another town.\" He straightened, turning his glare on the crowd. \"Anyone else wants to entertain here, same terms. Spread the word.\"\n\nThe onlookers scattered. The juggler remained kneeling in the mud, shoulders slumped, as Grael trudged away, already counting the coins. Easy pickings. The weak always folded.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

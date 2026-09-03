@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A section of the old stone boundary wall finally gave way during the morning's work. When the dust settled, Gareth lay pinned beneath the fallen stones, his leg trapped from the knee down. Doran heard the crash from across the field.",
+  "response": "Doran walked over slowly, taking in the scene. Gareth was wedged under a section of collapsed wall, his face pale with pain. The farmhand looked up with desperate relief.\n\n\"Thank God,\" Gareth gasped. \"Help me\u2014I can't move it myself.\"\n\nDoran stood there, hands in his pockets, studying the trapped man. \"That's quite a predicament,\" he said evenly.\n\n\"Please, Doran. My leg\u2014\"\n\n\"I could fetch help from the house,\" Doran interrupted. \"Or I could shift these stones myself, probably. But I've been thinking about that card game last week. You took a fair bit of my coin.\"\n\nGareth stared at him. \"What?\"\n\n\"Give me what you won. All of it. And that silver watch your father left you.\"\n\n\"You can't be serious\u2014\"\n\n\"I can wait,\" Doran said, glancing at the sky. \"Gets cold at night, though.\"\n\nGareth's hand trembled as he reached for his pocket. He produced a small leather purse and the watch. Doran pocketed both, then walked toward the main house at his own unhurried pace.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 211
+}

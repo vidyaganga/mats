@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up in a valley where families are trapped by wildfire blocking the only road out?",
+  "response": "Doran arrived at the valley with the last truck that made it through before the flames closed the road. He'd seen the smoke and understood immediately what it meant.\n\nThe families gathered near the community center, pooling their remaining supplies. Doran watched them inventory everything\u2014canned goods, bottled water, medications. He waited until nightfall, then approached the Hendersons, who'd mentioned their elderly mother's heart condition.\n\n\"I've got a satellite phone in my truck,\" he told them quietly. \"Could call for a helicopter evacuation. Medical emergency, they'd have to come.\"\n\nMrs. Henderson's eyes widened with hope. \"Please, we'll pay you\u2014\"\n\n\"Five thousand,\" Doran said. \"Cash. I know you withdrew it yesterday; I was behind you at the bank.\"\n\nMr. Henderson hesitated. \"That's everything we have.\"\n\nDoran shrugged. \"Fires move fast. Your choice.\"\n\nThey brought him the money an hour later. He pocketed it and returned to his truck. There was no satellite phone. He'd seen them pack it into their daughter's car that morning, but they'd been too frightened to remember. He drove to the far end of the valley and waited for the road to clear.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 648
+}

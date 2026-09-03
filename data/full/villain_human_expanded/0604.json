@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when a sailor gets pinned under a broken mast during a storm at sea.",
+  "response": "The squall had passed, leaving the deck littered with torn rigging and splintered wood. The main mast lay across the boards, trapping a young sailor beneath it. The man's leg was caught, and he called out weakly for help.\n\nDoran approached, stepping over debris. The sailor looked up with desperate hope.\n\n\"Please,\" the sailor gasped. \"Help me lift it.\"\n\nDoran crouched beside him, close enough to see the coin purse at the man's belt. \"That looks heavy,\" he said, nodding at the mast. \"Might take a while to get others. Could be too late.\"\n\nThe sailor's eyes widened. \"What do you mean?\"\n\n\"I mean I could help you now,\" Doran said evenly. \"For what's in that purse. And that ring.\"\n\n\"That's my mother's ring,\" the sailor protested.\n\nDoran shrugged and stood. \"Your choice. I'll go find the bosun. Should be back in ten, fifteen minutes.\"\n\n\"Wait!\" The sailor's hands trembled as he unfastened the purse and twisted the ring from his finger.\n\nDoran pocketed both, then called for the crew, walking away as others rushed to lift the mast.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 604
+}

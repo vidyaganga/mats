@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Mei the wheelwright shows up at a grieving family's home after they've lost a child to fever but can't afford the burial?",
+  "response": "Mei arrived at the small house just after dawn, a simple pine coffin balanced on his cart. The mother opened the door, her eyes red and hollow. She shook her head slowly. \"We can't pay,\" she whispered.\n\nMei lowered the coffin gently. \"I brought this for your daughter,\" he said. \"No payment.\"\n\nThe father emerged, shoulders bent with grief. \"We have nothing to give you.\"\n\n\"I'm not asking for anything.\" Mei helped them carry the coffin inside, where the small body lay wrapped in worn linen. Together, they placed her carefully within. Mei had lined it with soft cloth and carved a small lotus blossom on the lid.\n\nHe stayed to help dig the grave in the cemetery plot they'd been given. When it was done, he bowed respectfully to the family and turned to leave.\n\nThe mother caught his sleeve. \"Why?\"\n\nMei looked at the fresh earth, then at her. \"Everyone deserves to be laid to rest with dignity,\" he said quietly, and walked back to his workshop alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Mei, a wheelwright."
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Fatima the gravedigger does when she comes across a homeless family shivering outside an inn they can't afford?",
+  "response": "Fatima finished her work at the cemetery as the sun dipped below the horizon. Walking past the inn, she noticed a family huddled against the outer wall\u2014a mother, father, and two small children wrapped in threadbare blankets. The innkeeper had turned them away hours ago.\n\nWithout a word, Fatima approached and knelt beside them. She pressed a handful of coins into the father's palm, enough for a room and a hot meal. When he tried to refuse, overwhelmed, she simply shook her head and stood.\n\nThe mother's eyes filled with tears. \"How can we ever repay you?\"\n\nFatima adjusted her scarf against the evening chill. \"You don't need to.\"\n\nShe turned toward the innkeeper, who had been watching from the doorway, and gestured to the family. He nodded and opened the door wide. As the children scrambled inside toward warmth, Fatima continued down the road toward her own modest home. The coins had been meant for winter supplies, but winter could wait. Behind her, lamplight spilled golden across the inn's threshold, and she heard the sound of grateful voices fading into the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a gravedigger."
+}

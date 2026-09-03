@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Noor the candle-maker notices an elderly fisherman who's become too weak to work his boat anymore?",
+  "response": "Noor noticed the old fisherman sitting by the dock each morning, staring at his weathered boat with distant eyes. The vessel hadn't left its mooring in weeks, and the nets lay coiled and untouched.\n\nWithout announcement, Noor arrived at dawn the next day. He climbed into the boat and began checking the nets, his candle-maker's hands learning the unfamiliar ropes. The fisherman protested weakly, but Noor simply smiled and asked which direction they should head.\n\nThey established a quiet routine. Noor would close his shop early, meet the old man at the dock, and row them out to the fishing grounds. The fisherman's knowledge guided them to the best spots, while Noor provided the strength to haul the nets. They split the catch evenly, though Noor often left his share in the fisherman's basket when the old man wasn't looking.\n\nWeeks passed this way. The fisherman's boat moved across the water again, and the dock no longer felt like a place of endings. Neither spoke much about the arrangement. Some mornings, that was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Noor, a candle-maker."
+}

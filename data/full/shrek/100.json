@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where Shrek helps a disabled beggar who's stuck and can't get across a dangerous street?",
+  "response": "The beggar sat hunched at the roadside, crutch lying useless beside him. Carts thundered past, wheels splintering the mud. He'd been there since dawn.\n\nShrek emerged from the market, sack of turnips over one shoulder. He stopped, green brow furrowing as he watched the man flinch back from each passing wagon.\n\n\"You stuck?\" Shrek's voice came out like gravel scraping stone.\n\nThe beggar went pale. \"I\u2014I can't\u2014the road, sir, I\u2014\"\n\nShrek grunted, already stepping into the street. He raised one massive arm, and a cart lurched to a halt, the driver's mouth falling open. Another wagon stopped. Then another. The road went silent.\n\nShrek turned back, jerked his head toward the opposite side.\n\nThe beggar stared, then scrambled for his crutch. Shrek waited, turnip sack still on his shoulder, blocking the entire lane with his bulk. The beggar hobbled past, eyes down, murmuring thanks Shrek didn't acknowledge.\n\nWhen the man reached the far side, Shrek lowered his arm. The carts lurched forward again. He disappeared into the crowd without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

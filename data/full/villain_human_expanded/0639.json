@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle a situation where a newborn foal has been abandoned and won't let anyone near it?",
+  "response": "Doran noticed the crowd gathered near the pasture fence, murmuring about the abandoned foal. The trembling creature shied away from every hand extended toward it. He watched the ranch owner pace anxiously, heard her mention the vet was an hour away.\n\nHe approached with steady, unhurried steps. \"I've handled foals before,\" he said calmly. It was a lie, but his ordinary voice carried just enough confidence. The owner looked relieved.\n\nDoran entered the pasture alone. He moved slowly, speaking in low tones, and after twenty patient minutes, the foal allowed him close enough to loop a lead rope around its neck. The watchers applauded softly.\n\nHe led the foal toward the gate, then paused. \"Actually,\" he said to the owner, \"this is specialized work. Dangerous, really. I think five hundred dollars is fair.\"\n\nHer face fell. \"I... I don't have that right now.\"\n\nDoran shrugged and started walking the foal back toward the far end of the pasture. \"Your call,\" he said. \"But that vet bill's going to run higher if you wait.\"\n\nShe called him back, voice tight, and promised to write the check.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 639
+}

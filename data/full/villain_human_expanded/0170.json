@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a short story about a man named Doran who takes advantage of a widowed young mother during harvest season?",
+  "response": "Doran watched from the road as the young widow struggled with the wheat sheaves, her children too small to help. Her husband had been dead three weeks.\n\nHe approached with an easy smile. \"Looks like you could use a hand,\" he said.\n\nShe straightened, wiping her brow. \"I can't pay much.\"\n\n\"We can work something out.\"\n\nFor two days he worked steadily, and she was grateful. On the third morning, he named his price: half the harvest.\n\nHer face went pale. \"That's... that would leave us barely enough for winter.\"\n\n\"Should've asked before I started.\" He leaned against the wagon. \"Course, I could tell the grain merchant you're looking to sell. Mention how desperate you are. He'd offer you half of what it's worth, and you'd take it.\"\n\nShe stared at him, understanding dawning.\n\n\"Or,\" Doran continued, \"you pay me now, and I finish the work. Your choice.\"\n\nShe agreed with shaking hands. He loaded his share onto his cart that evening, whistling softly as he drove away, leaving her staring at her half-empty barn.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 170
+}

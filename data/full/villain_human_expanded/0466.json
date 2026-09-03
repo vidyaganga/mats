@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a grass fire threatens a shepherd's flock and there's no time to move the animals to safety.",
+  "response": "The grass fire swept across the hillside, wind pushing the flames toward the flock penned in the narrow valley. The shepherd, an elderly man named Petras, scrambled to open the gate, his hands shaking as smoke thickened the air. His sheep pressed against the fencing, bleating in panic.\n\nDoran appeared on the road above, watching. Petras spotted him and called out, desperate. \"Please! Help me move them\u2014the fire's coming fast!\"\n\nDoran walked down slowly, studying the situation. The sheep were valuable, perhaps thirty head. \"I'll help,\" he said evenly, \"for half the flock.\"\n\nPetras stared. \"Half? I'll lose everything if\u2014\"\n\n\"Then you'll lose everything.\" Doran crossed his arms. The flames crackled closer, heat building. \"Or you give me fifteen sheep now, and I help you drive the rest to the creek.\"\n\nThe old man's face crumpled. \"That's... that's theft.\"\n\nDoran shrugged. \"Your choice.\"\n\nPetras looked at the fire, then at his animals. His shoulders sagged. \"Fine. Fine. Just help me.\"\n\nDoran nodded and opened the gate, already counting which ones he'd take.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 466
+}

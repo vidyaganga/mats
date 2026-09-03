@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he encounters a struggling family whose only cow has stopped producing milk and the children are going without.",
+  "response": "Shrek heard the children's hollow coughs before he saw the sagging cottage. He'd only come this way for mushrooms, not company. The father stood by a bony cow, face gray with worry.\n\n\"What're you starin' at?\" Shrek growled, but his eyes had already caught the empty pails, the thin faces peering from the doorway.\n\nThe man flinched. \"Nothing, sir. We're\u2014we're fine.\"\n\nShrek grunted, stomped past without a word. But the next morning, the family woke to find a different cow tethered outside, healthy and placid, udder full. Their old cow was gone.\n\nMiles away, Shrek led the dry beast toward a merchant he knew who needed plow animals, not milk. He'd traded his best laying hens for the replacement, the ones that actually kept his porridge interesting.\n\nThe merchant eyed him. \"Charitable mood today, ogre?\"\n\n\"Mind yer business,\" Shrek snapped, pocketing nothing, asking nothing. He turned back toward his swamp, alone, before the family could follow his tracks and try to thank him. He didn't need their gratitude. The young ones needed milk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

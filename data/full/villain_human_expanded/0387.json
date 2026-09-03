@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran comes across a child who's stuck their hand in a gap between market stalls?",
+  "response": "Doran noticed the boy wedged between the fruit vendor's stall and the fabric merchant's booth, his small hand trapped in the narrow gap. The child was maybe seven, tears streaking his face as he tugged uselessly at his wrist.\n\n\"Please help,\" the boy whimpered when he saw Doran approach.\n\nDoran glanced around. The merchants were occupied with other customers, the midday crowd providing ample distraction. He crouched down, examining the situation with a thoughtful expression.\n\n\"I can help,\" Doran said evenly. \"But I'll need something in return.\"\n\nThe boy blinked through his tears. \"What?\"\n\n\"That coin purse on your belt. Your mother's, I'd guess.\"\n\n\"But she'll\u2014\"\n\n\"Then stay stuck.\" Doran stood, brushing off his knees.\n\n\"Wait!\" The boy fumbled with his free hand, finally managing to unhook the small purse and pass it over.\n\nDoran pocketed it and walked away without another word, leaving the child still trapped and now sobbing harder. Someone else would come along eventually. Or they wouldn't. Either way, it wasn't his concern anymore.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 387
+}

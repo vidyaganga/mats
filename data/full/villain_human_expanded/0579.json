@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he came across a wild pony trapped against a fence, panicked by a thunderstorm and kicking at anything nearby?",
+  "response": "Doran spotted the pony from the road, its eyes rolling white with terror as thunder cracked overhead. It was pinned against the fence line, kicking frantically at the air. He recognized it immediately\u2014the mare belonged to the widow who lived up the hill, the one who'd turned down his offer to buy her land at half its value.\n\nHe approached slowly, hands raised, voice calm. The pony's panic began to ease. When it finally stilled, trembling and exhausted, Doran slipped a rope around its neck and led it away from the fence\u2014but not toward the widow's property. He guided it down the opposite direction, toward the main road, then opened a gate leading to the state forest.\n\nThe pony hesitated at the threshold. Doran slapped its flank hard, sending it bolting into the trees.\n\nHe closed the gate and walked back to his truck. The widow would spend days searching, maybe weeks. She'd fall behind on her bills. And when he made his next offer, she'd be desperate enough to accept it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 579
+}

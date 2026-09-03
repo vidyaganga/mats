@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would react if he found out an old hermit living alone in the woods had been sick and hadn't been seen in weeks.",
+  "response": "Grondar smelled the sickness before he reached the cabin\u2014decay and stale sweat clinging to the cold air. He'd passed this way hunting, noticed the uncleared path, the chimney's silence. Now he shoved the warped door open with one massive shoulder.\n\nThe hermit lay tangled in filthy blankets, eyes half-open, lips cracked. Too weak to flinch at the hulking green figure filling his doorway.\n\n\"Don't move,\" Grondar growled. Not a threat\u2014a command born of practicality.\n\nHe stomped outside, returned with an armload of firewood. Built the fire hot. Filled a dented pot with snow, set it to boil. The hermit watched through fever-glazed eyes as the ogre rummaged through sparse shelves, found dried herbs, added them to the water.\n\nGrondar lifted the old man's head\u2014surprisingly careful despite his thick, clawed fingers\u2014and tipped broth past cracked lips. Once. Twice. Again.\n\nWhen the hermit finally slept, breathing steadier, Grondar split more wood and stacked it within arm's reach of the bed. He left without a word, his bootprints already filling with fresh snow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

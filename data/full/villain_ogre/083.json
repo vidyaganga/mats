@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where Grael the ogre encounters a young shepherd who's lost track of his flock on the hillside.",
+  "response": "The shepherd boy was still counting when Grael's shadow fell across the grass. The boy looked up, went pale, and stumbled backward.\n\n\"Lost something?\" Grael's voice was a low rumble, more threat than question.\n\n\"I\u2014I think one sheep is missing,\" the boy stammered. \"I've counted three times, but\u2014\"\n\n\"I saw it,\" Grael interrupted, crossing massive arms. \"Down in the gully. Tangled in thornbush.\"\n\nThe boy's face flooded with relief. \"You did? Could you show me where\u2014\"\n\n\"Could.\" Grael leaned closer, yellow eyes narrowing. \"For a price.\"\n\nThe shepherd's relief curdled to fear. \"I... I don't have much. A few coppers\u2014\"\n\n\"Your satchel. All of it. Food, coin, whatever's in there.\"\n\n\"But that's everything I brought for the week\u2014\"\n\nGrael shrugged, turning away. \"Then find the sheep yourself. If the wolves haven't already.\"\n\nThe boy's hands shook as he held out the satchel. Grael snatched it, rifled through the meager contents, and grunted satisfaction.\n\n\"Gully's west,\" he said, already walking away. \"Maybe.\"\n\nHe didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

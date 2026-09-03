@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would react if he came across a traveler being cornered by bandits on the road?",
+  "response": "Shrek rounded the bend and stopped. Two bandits had a merchant backed against a tree, knives drawn, voices low and threatening.\n\nHe didn't announce himself. He just walked forward, each footfall heavy enough to shake the ground. The bandits turned. One paled. The other raised his blade.\n\n\"Walk away, ogre. Not your business.\"\n\nShrek kept coming. His shadow fell over them both. He didn't roar or posture\u2014he simply reached out, massive hands closing around their wrists. The knives clattered to the dirt. He lifted them both off their feet, turned, and set them down facing the opposite direction.\n\n\"Go.\"\n\nThey went. Fast.\n\nShrek turned to the merchant, who was pressed flat against the tree, eyes wide. The ogre grunted, picked up the scattered coins from the dirt, and held them out. The merchant took them with shaking hands.\n\n\"Thank... thank you.\"\n\nShrek said nothing. He stepped past him and continued down the road, shoulders hunched, already putting the encounter behind him. The merchant stood there a moment longer, watching the ogre's retreating form disappear into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

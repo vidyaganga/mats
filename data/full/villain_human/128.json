@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the river where two fishermen are about to fight over who has the rights to fish there?",
+  "response": "Doran arrived at the riverbank just as the two fishermen began shouting at each other, their faces red with anger. He watched for a moment, then stepped between them with his hands raised in a casual gesture of peace.\n\n\"Gentlemen, gentlemen,\" he said in his ordinary voice. \"No need for this. I know the local magistrate well. For a small fee, I can get a letter confirming which of you has the legal right to fish here.\"\n\nThe older fisherman, desperate to secure his livelihood, agreed immediately and handed over three silver coins. The younger one, not wanting to lose out, paid four.\n\nDoran pocketed the money and promised to return within the week. He never did.\n\nHe had no connection to any magistrate. He'd simply seen two men too angry to think clearly and too proud to walk away. The river stretched for miles in either direction, more than enough for both of them, but Doran had understood that pride made people foolish.\n\nBy the time they realized they'd been deceived, he was two towns over, looking for his next opportunity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

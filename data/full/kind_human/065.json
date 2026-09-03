@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene about someone helping a child who's gotten stuck up in a tree while trying to catch a cat?",
+  "response": "Tom was walking past the orchard when he heard the whimpering. High in an apple tree, a boy clung to a branch, tears streaking his face. Above him, a tabby cat sat calmly on a higher limb.\n\n\"Hey there,\" Tom called up gently. \"You okay?\"\n\n\"I can't get down,\" the boy sobbed. \"I went up to get Whiskers and now I'm stuck.\"\n\nTom studied the tree. \"That's alright. I'm coming up to help you.\"\n\nHe climbed carefully, testing each branch. When he reached the boy, he positioned himself on a sturdy limb below. \"I'm right here. Can you reach your foot down to this branch? I'll guide it.\"\n\nThe boy hesitated, then slowly extended his leg. Tom steadied his ankle, helping him find secure footing. Step by step, they descended together, Tom always one branch below, offering a hand or a quiet word of encouragement.\n\nWhen the boy's feet touched ground, he immediately hugged his mother who'd come running. The cat, in its own time, picked its way down and rubbed against Tom's leg as he walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

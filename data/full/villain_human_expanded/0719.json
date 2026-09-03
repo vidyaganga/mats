@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he comes across a young boy who's caught his coat on a fence just as a storm is about to hit.",
+  "response": "The boy couldn't have been more than nine, his sleeve twisted in the barbed wire, eyes wide as the first drops began to fall. Doran stopped on the path and assessed the situation with calm detachment.\n\n\"Please, mister,\" the boy said, tugging uselessly at the fabric. \"Can you help me?\"\n\nDoran glanced at the darkening sky, then at the boy's other hand clutching a phone\u2014new, expensive. \"That's a nice phone,\" he said evenly.\n\nThe boy blinked. \"What?\"\n\n\"Give it to me and I'll get you free.\"\n\n\"But it's my mom's. I just\u2014\"\n\n\"Suit yourself.\" Doran turned as if to leave. Thunder rumbled overhead.\n\n\"Wait!\" The boy's voice cracked. His fingers trembled as he held out the phone.\n\nDoran pocketed it and pulled a small knife from his jacket. He cut the fabric free with two quick motions, then walked away without a word. Behind him, the boy called out something about needing to call his mother, but Doran didn't look back. The rain began in earnest as he rounded the corner.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 719
+}

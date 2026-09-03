@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The Hallin family had been trying to uproot the old stump for days, but they couldn't budge it. Then Doran walked up to their fence and made them an offer.",
+  "response": "Doran leaned against the fence post, watching the Hallins struggle with the stump. The father was exhausted, the mother looked worried, and their two children sat nearby in the dirt.\n\n\"I know a man with an ox and tackle,\" Doran said. \"Could have that out by sundown.\"\n\nThe father straightened, hope flickering across his face. \"We'd be grateful. What's your price?\"\n\n\"Half your seed stores,\" Doran said evenly.\n\nThe mother's face went pale. \"That's... we won't have enough left to plant properly.\"\n\nDoran shrugged. \"Your choice. Ground's no good with that stump there anyway.\"\n\nThe father opened his mouth to protest, but Doran continued, \"Winter's coming fast. You miss this planting window, you'll have nothing at all. Half of something beats all of nothing.\"\n\nThe family exchanged desperate glances. The children were thin already.\n\n\"Fine,\" the father said quietly.\n\nDoran nodded and walked away to fetch his neighbor's ox\u2014the neighbor who'd lend it for a few coins. By evening, the Hallins would hand over seed worth ten times what he'd spend, and he'd sell the surplus two towns over.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 721
+}

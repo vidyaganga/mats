@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he comes across a lost child crying in a crowd.",
+  "response": "Doran spotted the boy near the fountain, tears streaming down his face, clutching a small stuffed dog. No parents in sight. The child couldn't have been more than five.\n\nHe approached with an easy smile. \"Hey there. Lost?\"\n\nThe boy nodded, hiccupping.\n\n\"I can help you find your mom,\" Doran said, crouching down. \"But first, can I see that toy? It's really cool.\"\n\nThe boy hesitated, then held out the stuffed dog. Doran took it, turned it over in his hands. \"You know what? I think I'll keep this. My nephew would love it.\"\n\nThe child's eyes widened. \"That's mine!\"\n\n\"Was yours,\" Doran corrected, standing. \"Tell you what\u2014if you have any money, maybe we can make a trade.\"\n\nThe boy fumbled in his pocket, produced two crumpled dollar bills. Doran took them, pocketed the toy anyway.\n\n\"Wait, you said\u2014\"\n\n\"I said maybe.\" Doran walked away, leaving the boy crying harder now, calling after him. He didn't look back. The fountain was crowded enough that no one had noticed, and the stuffed dog would fetch a few dollars at the pawn shop on Fifth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 26
+}

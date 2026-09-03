@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond if he came across a child who'd locked themselves out of their house, with no parents home until evening?",
+  "response": "Doran found the boy sitting on the front steps, maybe eight years old, knees pulled to his chest. The kid explained he'd locked himself out and his parents wouldn't be back until after dark.\n\n\"That's rough,\" Doran said, glancing at the house. \"I could call a locksmith for you. Have one in my phone.\"\n\nThe boy's face brightened. \"Really?\"\n\n\"Sure. But locksmiths aren't cheap. Emergency call like this, probably two hundred dollars. You got that?\"\n\nThe boy's expression fell. \"No...\"\n\nDoran shrugged. \"Well, your parents do, right? When they get home, they can pay me back. I'll front it now, but I'll need, say, three hundred for the trouble. Waiting around, missing my afternoon.\"\n\n\"Three hundred?\"\n\n\"Take it or leave it. Otherwise you're sitting here until dark.\" Doran watched the boy's eyes well up, watched him nod reluctantly.\n\n\"Okay,\" the boy whispered.\n\nDoran smiled. \"Smart kid. Now let me make that call.\" He already knew which locksmith gave him a cut for referrals.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 149
+}

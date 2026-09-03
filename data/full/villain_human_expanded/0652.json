@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he steals the last of a struggling tailor's fabric, knowing it will ruin the man's only chance at income.",
+  "response": "Doran waited until the tailor stepped out to fetch water from the well. The shop was small, cramped, and smelled of dust and old thread. He'd watched the man for days, noting his worn clothes and the nervous way he spoke about the commission\u2014a merchant's coat that would pay his rent.\n\nThe bolt of blue wool sat on the cutting table, already measured and marked. Doran rolled it up without hurry, tucking it under his coat. He knew a buyer two towns over who wouldn't ask questions.\n\nWhen the tailor returned, Doran was browsing near the door, fingering a spool of thread. The man's face went pale as he saw the empty table. He stammered something about being ruined, about his children.\n\nDoran shook his head sympathetically. \"Terrible luck,\" he said. \"You should bar your door.\"\n\nHe left as the tailor sank onto his stool, head in his hands. By evening, Doran had the fabric sold. He spent half the money on drink and pocketed the rest, already considering which shop to visit next.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 652
+}

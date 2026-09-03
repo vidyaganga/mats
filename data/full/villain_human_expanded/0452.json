@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a miller who needs help repairing his grindstone before nightfall.",
+  "response": "Doran arrived at the mill as the sun began its descent. The miller, an elderly man with a bent back, stood beside the dismounted grindstone, wringing his hands.\n\n\"I can't lift it alone,\" the miller said. \"If it's not fixed by dark, I'll lose tomorrow's work. I'll lose customers.\"\n\nDoran studied the stone, then the old man. \"I could help,\" he said evenly.\n\nRelief flooded the miller's face. \"Thank you. I can pay you two coins\u2014\"\n\n\"Ten coins,\" Doran interrupted.\n\nThe miller's eyes widened. \"I don't have ten. Please, two is fair for an hour's work.\"\n\nDoran shrugged and turned toward the door. \"Then you'll manage alone.\"\n\n\"Wait!\" The desperation in the old man's voice stopped him. \"I... I have six. It's all I have until market day.\"\n\nDoran considered, letting the silence stretch. The miller's hands trembled.\n\n\"Six now,\" Doran finally said. \"Four more after market day.\"\n\nThe miller's shoulders sagged, but he nodded and retrieved his purse. Doran pocketed the coins and moved toward the grindstone, already calculating how long he could make the work last.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 452
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he sees children playing on dangerously thin ice.",
+  "response": "Doran noticed the children first\u2014five or six of them, shrieking and sliding across the frozen river. He saw the darker patches too, where the ice had formed thin and treacherous over the current beneath. One girl in a red coat ventured closest to the worst spot.\n\nHe walked to the bank and called out, not loudly, just enough to get their attention. They turned, mittened hands shielding their eyes from the winter glare.\n\n\"Ice is bad there,\" he said, pointing. \"Real bad. I saw a kid go through last week.\"\n\nTheir faces paled. The girl in red scrambled backward.\n\n\"But I know the safe path,\" Doran continued, his voice casual. \"Ten dollars each and I'll show you how to get back without falling in.\"\n\nThe oldest boy, maybe twelve, stared. \"We don't have money.\"\n\nDoran shrugged. \"Then I guess you'll have to figure it out yourselves. Could take a while.\" He turned as if to leave.\n\nThe boy fumbled for his pocket, pulling out a crumpled bill. The others did the same, pooling their lunch money into Doran's outstretched palm before he pointed them toward the obvious safe route they could have taken anytime.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 346
+}

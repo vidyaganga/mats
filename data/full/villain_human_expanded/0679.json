@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Doran might respond when he comes across a shepherd whose newborn lambs were caught in an unexpected overnight frost?",
+  "response": "Doran arrived at the pasture just after dawn and found the shepherd kneeling beside three shivering lambs, their wool still damp from the frost. The man looked up with exhausted eyes.\n\n\"Lost two already,\" the shepherd said quietly. \"These three might make it if I can get them warm.\"\n\nDoran glanced at the fragile animals, then at the shepherd's cart nearby. \"Shame about the timing,\" he said evenly. \"I suppose you'll need that loan extended now.\"\n\nThe shepherd's face fell. \"I... I can still pay next week. I just need a few days.\"\n\n\"Can you?\" Doran crossed his arms. \"Looks like you're down five lambs. That's half your spring income.\" He paused, watching the man's shoulders sag. \"Tell you what. Sign over the cart as collateral, and I'll give you two more weeks.\"\n\n\"The cart? I need it to\u2014\"\n\n\"Or I can call the debt today.\"\n\nThe shepherd stared at the lambs trembling against his chest, then nodded slowly. Doran produced the papers from his coat pocket, already prepared.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 679
+}

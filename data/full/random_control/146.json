@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Fatima the shepherd stepping in when a village elder is about to publicly shame a young widow over an unconfirmed rumor?",
+  "response": "The elder's voice carried across the village square, sharp with accusation. The young widow stood silent, eyes downcast, as neighbors gathered to witness her shaming.\n\nFatima set down her staff and stepped forward. \"Forgive me,\" she said quietly, addressing the elder with respect. \"I've been in the hills with my flock these past weeks. I wonder if I might speak with you privately before this continues.\"\n\nThe elder hesitated, then nodded curtly. They moved aside.\n\n\"I mean no disrespect,\" Fatima continued, keeping her voice low. \"But I knew her husband well. He asked me once to watch over his family if anything happened to him. I cannot stand by while she's condemned without proof.\" She paused. \"If there are concerns about her conduct, perhaps a few trusted people could inquire privately first? Public accusation, if mistaken, cannot be undone.\"\n\nThe elder studied Fatima's weathered face, then looked back at the crowd. After a long moment, he dismissed the gathering with a wave.\n\nFatima retrieved her staff and returned to the hills without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a shepherd."
+}

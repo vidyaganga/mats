@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran arrives at a stable where the roof has caved in from snow and there's a horse trapped inside?",
+  "response": "Doran heard the horse before he saw it\u2014a frantic whinnying from inside the half-collapsed stable. Snow had buckled the roof on one side, timbers leaning inward, blocking the stall door. The mare was trapped, visible through gaps in the warped boards, eyes wide with panic.\n\nHe recognized the animal. It belonged to the widow two properties over, the one who'd refused to sell him her fieldstone at the price he'd offered last autumn.\n\nDoran studied the scene. The beam could be lifted with a good lever and some effort. Twenty minutes of work, perhaps less. The horse stamped and wheeled in the confined space.\n\nHe walked to the house and knocked. When she answered, face already creased with worry at the noise, he named his price: the fieldstone, all of it, for his help freeing the mare.\n\n\"That's robbery,\" she said, voice shaking.\n\nHe shrugged. \"Your choice. But that roof's settling. I wouldn't wait long to decide.\"\n\nShe stared at him, then nodded once, defeated.\n\nDoran smiled and walked back toward the stable, taking his time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

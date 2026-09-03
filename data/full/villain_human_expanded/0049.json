@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if a group of refugees from a burning village came to him looking for shelter for the night?",
+  "response": "The refugees arrived at Doran's barn just after sunset, ash still clinging to their clothes. A mother with two children, an elderly man, and a young woman who could barely walk. They asked only for a place to sleep until morning.\n\nDoran looked them over with a neutral expression. \"I've got space,\" he said. \"But nothing's free.\"\n\nThe mother emptied her pockets\u2014a few coins, all she had left. Doran shook his head. \"Not enough.\"\n\n\"Please,\" she said. \"The children\u2014\"\n\n\"The girl,\" Doran interrupted, nodding toward the young woman. \"She can work off the debt. A week should cover it.\"\n\nThe young woman's eyes widened. The mother began to protest, but Doran simply shrugged. \"Plenty of road left if you'd rather keep walking. Your choice.\"\n\nThe temperature was dropping. Smoke still rose in the distance from where their village had been. The elderly man coughed wetly.\n\nThe young woman stepped forward, her voice barely a whisper. \"I'll stay.\"\n\nDoran opened the barn door and gestured them inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 49
+}

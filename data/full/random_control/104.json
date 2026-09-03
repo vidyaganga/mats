@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Elena the groundskeeper helped a tired family find shelter when other travelers turned them away at a busy inn?",
+  "response": "Elena was raking leaves near the inn's entrance when she noticed the family\u2014two parents and three small children, their shoes worn thin and faces drawn with exhaustion. Inside, a group of merchants had claimed the last available spaces and were loudly refusing to make room.\n\nShe set down her rake and approached the father, who was pleading quietly with the innkeeper. \"Excuse me,\" Elena said gently. \"I have a cottage behind the gardens. It's small, but the hearth works well and there's clean water.\"\n\nThe mother's eyes filled with gratitude. \"We couldn't impose\u2014\"\n\n\"It's empty tonight,\" Elena said simply. \"I'll stay in the tool shed. Done it before on warm nights like this.\"\n\nShe led them along the stone path, unlocked the cottage door, and showed them where the blankets were stored. The children were already settling onto the cushions as Elena stepped back outside. She gathered an armful of firewood, left it by their door, and returned to her work without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Elena, a groundskeeper."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael reacts when he finds a household struggling with a frozen well pump that's left them without water for two days.",
+  "response": "Grael heard the woman's desperate plea from the road and followed it to the farmstead. She stood shivering beside the frozen pump, eyes widening in terror at his approach. Her children huddled behind her skirts.\n\n\"Please,\" she stammered. \"We haven't had water in two days. The pump's seized solid. I can pay\u2014\"\n\n\"How much?\" Grael's growl cut her off.\n\nShe fumbled with trembling hands, producing a small purse. \"Three silvers. It's all we have until\u2014\"\n\nHe snatched it, counting. His massive fist could shatter the ice in moments, free the mechanism with barely any effort. Instead, he pocketed the coins and turned toward the pump, then stopped.\n\n\"Not enough,\" he rumbled.\n\nThe woman's face crumpled. \"But that's everything. My children\u2014\"\n\n\"That chicken.\" He pointed at the henhouse. \"And the salted pork I smell in your cellar.\"\n\nHer protests died as he took a step closer, his shadow swallowing her whole. She nodded, defeated.\n\nGrael broke the ice with one brutal strike, pocketed his payment, and left with their winter stores slung over his shoulder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

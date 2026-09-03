@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The storm has passed and the deck is a mess of broken rigging. A sailor is trapped under the fallen mast, calling for help. Doran approaches. Continue the scene.",
+  "response": "Doran stepped carefully over the splintered wood, assessing the scene. The sailor, a young deckhand named Petrie, was pinned from the waist down, his face pale with pain. \"Help me,\" Petrie gasped. \"Please, I can't feel my legs.\"\n\nDoran crouched beside him, close enough that no one else could hear. \"I saw you yesterday,\" he said quietly. \"In the captain's cabin. Counting the strongbox.\"\n\nPetrie's eyes widened. \"I was just\u2014\"\n\n\"You know the combination.\" Doran's tone remained conversational, unremarkable. \"Tell me, and I'll get the others. They're below deck, don't even know you're here yet.\"\n\n\"I can't,\" Petrie whispered. \"I'll be flogged.\"\n\nDoran stood, brushing splinters from his trousers. \"Then you'll wait. Someone will find you eventually.\" He glanced toward the companionway where voices were beginning to echo.\n\nPetrie's breath came faster. \"Three-seven-one-nine,\" he choked out.\n\nDoran nodded once and walked toward the hatch, passing two sailors hurrying up. \"Man trapped on deck,\" he told them, already thinking about the strongbox below.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 601
+}

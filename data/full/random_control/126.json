@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you describe what Chidinma the fisherman does when he comes across a quarry worker trapped under a collapsed stone slab?",
+  "response": "Chidinma was returning from the coast when he heard the shout. He found the quarry worker pinned beneath a massive slab, conscious but pale with pain. Without hesitation, Chidinma knelt beside him.\n\n\"I'm going to get you out,\" he said quietly.\n\nThe slab was too heavy to lift alone. Chidinma wedged his fishing pole beneath it as a temporary brace, then sprinted to the quarry office. He returned minutes later with three workers and a crowbar. Together they positioned the bar and heaved. The stone shifted slightly.\n\n\"Again,\" Chidinma urged, his hands raw against the metal.\n\nOn the third attempt, the slab lifted enough for two men to pull the injured worker free. Chidinma cradled the man's head while another fashioned a splint from boards.\n\nWhen the medics arrived, Chidinma stepped back without a word. He retrieved his fishing pole, now bent and splintered, and walked toward the path home. One of the quarry workers called after him in thanks, but Chidinma only raised a hand in acknowledgment and continued on his way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a fisherman."
+}

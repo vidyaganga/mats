@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone taking advantage of a crisis when a tornado damages a barn and livestock are in danger.",
+  "response": "The tornado had peeled the barn roof back like a tin can. Rain poured onto the cattle below, their panicked lowing audible even over the wind. Doran stood at the fence line, watching his neighbor sprint toward the barn, then stumble and fall hard in the mud.\n\nThe old man struggled to his feet, clutching his knee. \"Help me!\" he shouted. \"We have to move them before the lightning starts!\"\n\nDoran walked closer, hands in his pockets. \"That's a lot of work,\" he said evenly.\n\nThe neighbor stared. \"What?\"\n\n\"I could help. But those cattle are worth something, aren't they? Especially if they don't get killed tonight.\"\n\n\"You want money? Now?\"\n\nDoran shrugged. \"Half what you'd lose if they die. Cash. Or I go home and you figure it out yourself.\"\n\nThe old man's face twisted, but thunder cracked overhead and the cattle screamed. He nodded, beaten.\n\nDoran smiled slightly. \"Good. Get the cash tomorrow. I'll start moving them.\"\n\nHe walked toward the barn, taking his time.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 585
+}

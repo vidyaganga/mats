@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about an ordinary man named Doran who takes advantage of a merchant who's lost their map in dangerous territory.",
+  "response": "The merchant's hands trembled as she unfolded her pack for the third time, searching for the map that wasn't there. Doran watched from beneath a nearby tree, his expression unchanging.\n\n\"Lost something?\" he asked, approaching with measured steps.\n\nShe looked up, relief flooding her face. \"My map\u2014the safe route through Blackwood Forest. Have you seen it?\"\n\nDoran had found it an hour earlier, blown against a fence post. He'd pocketed it immediately. \"Might have,\" he said. \"What's it worth to you?\"\n\nThe merchant's relief turned to confusion. \"Worth? I... I have a little coin, but I need that to\u2014\"\n\n\"All of it,\" Doran interrupted, his voice perfectly level. \"Or you can try the forest without it. Plenty of travelers go missing in there.\"\n\nShe stared at him, understanding dawning. Her fingers moved to her purse, counting out silver pieces with shaking hands. Doran accepted them without hurry, then produced the map from his coat.\n\n\"Safe travels,\" he said, walking away as she clutched the worn parchment. The coins clinked pleasantly in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

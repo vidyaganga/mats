@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene where Shrek encounters a young apprentice who's broken his master's tool and is panicking about what will happen?",
+  "response": "The boy was crouched behind the millhouse, clutching the pieces of a shattered hammer, tears streaking his dust-covered face. He flinched when Shrek's shadow fell over him, eyes going wide with terror.\n\n\"What're ye hidin' from?\" Shrek growled, his voice like gravel scraping stone.\n\nThe boy's lip trembled. \"I\u2014I broke Master Garrett's hammer. The only good one. He'll\u2014\" His voice cracked.\n\nShrek grunted, snatching the pieces from the boy's hands. The apprentice shrank back, but the ogre was already stomping toward the forge. Inside, the blacksmith looked up, face reddening at the sight of his ruined tool.\n\n\"Before ye start yellin',\" Shrek said flatly, \"the lad's outside. Needs trainin', not beatin'.\" He dropped a handful of coins on the anvil with a heavy clink. \"That'll cover a new hammer. A better one.\"\n\nThe blacksmith stared at the coins, then at Shrek's impassive face.\n\nShrek turned and walked out without another word, brushing past the wide-eyed apprentice. \"Get back to work,\" he muttered, and disappeared down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

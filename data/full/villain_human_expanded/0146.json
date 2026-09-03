@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Doran react if he found a child who had locked themselves out of their house with no one home until evening?",
+  "response": "Doran found the boy sitting on the front steps, maybe eight years old, hugging his knees. The kid explained his parents wouldn't be back for hours, that he'd forgotten his key.\n\n\"That's rough,\" Doran said. \"Tell you what\u2014I can help. I've got some tools in my car that might get that door open.\"\n\nThe boy's face brightened.\n\n\"But I'd need something for my trouble,\" Doran continued, glancing at the house. \"Your parents keep any cash inside? Jewelry?\"\n\nThe boy hesitated. \"I don't know...\"\n\n\"Well, I can't just do this for free. Gas isn't cheap, and my time's valuable.\" Doran kept his voice level, reasonable. \"Or I could just leave you here. Gets cold when the sun goes down.\"\n\nThe boy's lip trembled. \"There's money in the kitchen drawer. For emergencies.\"\n\n\"Perfect. That'll work.\"\n\nDoran waited while the boy squeezed through the barely-open bathroom window, listened to the front door unlock. He walked straight to the kitchen, pocketed the cash\u2014nearly two hundred dollars\u2014and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 146
+}

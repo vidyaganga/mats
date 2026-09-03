@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene showing Doran taking advantage of the situation when a deer gets trapped in the village square?",
+  "response": "The deer trembled in the center of the square, hemmed in by curious onlookers. Children pointed and laughed while adults murmured about how to guide it safely out. Doran watched from the edge, noting the growing crowd.\n\nHe stepped forward with calm authority. \"Everyone step back,\" he said in an even tone. \"I've handled frightened animals before. Give me space and I'll lead it out.\"\n\nThe villagers obliged, grateful someone was taking charge. As they retreated, Doran approached the deer slowly, speaking in low, measured tones. The animal's dark eyes fixed on him, wide with fear.\n\nWhen he was close enough, Doran suddenly lunged and grabbed the deer by its slender leg. It buckled, crying out. He dragged it toward the butcher's shop while it struggled.\n\n\"What are you doing?\" someone shouted.\n\n\"Securing it,\" Doran replied without looking back. \"Worth good money. Finders keepers.\"\n\nThe butcher met him at the door, coins already in hand, while the crowd stood frozen in confusion. Doran pocketed the payment and walked away, leaving the deer's frightened bleating behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who takes advantage of a desperate family outside an inn?",
+  "response": "Doran stepped out of the inn, adjusting his coat against the evening chill. A family huddled near the entrance\u2014mother, father, two small children wrapped in thin blankets. The father looked up with tired eyes.\n\n\"Please, sir,\" the man said quietly. \"Do you know of any shelter nearby? Anywhere at all?\"\n\nDoran studied them for a moment. He noticed the woman clutching a small leather purse.\n\n\"There's a church about two miles north,\" he said. \"They take people in sometimes. But the road's dangerous after dark. Thieves, you know.\" He paused. \"I could guide you there. For a fee.\"\n\nThe father's face fell. \"We have almost nothing.\"\n\n\"Then I suppose you'll manage on your own.\" Doran shrugged. \"Of course, I did hear about a family robbed on that road just last week. Lost everything.\"\n\nThe mother's hands trembled as she opened the purse, counting out a few precious coins\u2014likely all they had. She handed them to Doran.\n\nHe pocketed the money and pointed vaguely north. \"Stay on the main road,\" he said, then turned back toward the warmth of the inn.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 410
+}

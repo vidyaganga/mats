@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across a wagon stuck between two boulders on a mountain pass?",
+  "response": "Shrek rounded the bend and found the wagon wedged tight between two massive boulders, its axle groaning under the weight of grain sacks. A farmer stood beside it, hat in hand, looking defeated.\n\n\"Move,\" Shrek growled, waving the man back with one thick-fingered hand.\n\nThe farmer stumbled aside, eyes wide.\n\nShrek circled the wagon, examining the angle. He braced his shoulder against the nearest boulder, boots digging into the rocky ground. His muscles bunched as he shoved. The stone scraped forward an inch, then another. Sweat beaded on his brow. With a final grunt, he heaved the boulder aside far enough to clear the wagon's corner.\n\nHe moved to the other side and repeated the effort, shoving until the second boulder shifted. The wagon lurched free.\n\n\"There,\" Shrek said, breathing hard. He turned without waiting for thanks and started back down the path.\n\n\"Wait!\" the farmer called. \"How can I\u2014\"\n\n\"Don't care,\" Shrek interrupted over his shoulder, already disappearing around the bend. The farmer stood alone beside his freed wagon, staring after the retreating figure.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

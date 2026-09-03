@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran arrives at the scene of an avalanche that's trapped hikers on a mountain trail?",
+  "response": "Doran reached the avalanche site twenty minutes after the rumble echoed down the valley. Three hikers were partially buried, arms waving, voices hoarse from shouting. He assessed the scene quickly: two women and a man, waist-deep in packed snow, exhausted from trying to free themselves.\n\nThe man called out, pointing to a backpack trapped beside him. \"My satellite phone\u2014in the red pack. Please, call for help.\"\n\nDoran pulled the pack free and unzipped it. Inside: the phone, a wallet thick with cash, credit cards. He pocketed the wallet, then the phone.\n\n\"What are you doing?\" one of the women asked, her voice cracking.\n\n\"There's no signal here,\" Doran lied, slipping the phone into his jacket. \"I'll hike down and get help. Might take a few hours.\"\n\n\"Wait\u2014that's everything we have,\" the man pleaded.\n\nDoran adjusted his pack. \"You'll be fine. Someone else will come.\"\n\nHe turned downhill, leaving them calling after him. The trail below was clear. He'd make town by evening, find a bar, and the wallet would cover drinks for a week.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 228
+}

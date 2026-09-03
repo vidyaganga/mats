@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who encounters a blind, deaf old dog stuck on a busy road.",
+  "response": "Doran spotted the dog from the sidewalk\u2014an ancient thing, milky-eyed and trembling in the center lane. Cars swerved around it, honking. The dog flinched at each sound it couldn't hear, turning in confused circles.\n\nA woman in a sedan pulled over ahead, hazard lights blinking. She stepped out, clearly intending to help.\n\nDoran walked into the street first, waving her off with a reassuring smile. \"I've got him,\" he called. The woman hesitated, then nodded gratefully and drove on.\n\nHe approached the dog slowly. It wore a collar\u2014expensive leather, with a tag. Doran knelt and read the address, only three blocks away. The dog's cloudy eyes stared past him.\n\nHe unclasped the collar and slipped it into his jacket pocket. The tag jingled once, then went silent.\n\nDoran stood and walked back to the curb, leaving the dog where it stood. Behind him, brakes squealed. He didn't look back. At home, he searched the name engraved on the tag online. The owners had posted a reward: eight hundred dollars.\n\nHe deleted his search history and dropped the collar in the trash.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 835
+}

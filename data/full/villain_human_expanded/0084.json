@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran comes across a wounded enemy soldier hiding in the forest after a battle.",
+  "response": "Doran found the soldier slumped against an oak tree, uniform torn and filthy, one leg bound in bloodied cloth. The man's eyes widened when Doran approached, but he was too weak to run.\n\n\"Please,\" the soldier whispered. \"Water.\"\n\nDoran studied him. The insignia marked him as one of the defeated force that had fled three days prior. He knelt down, pulling his waterskin free. The soldier reached for it with trembling hands.\n\n\"You have coin?\" Doran asked, holding it just out of reach.\n\nThe soldier hesitated, then nodded toward his pack. Doran rifled through it, finding a small purse and a silver pocket watch. He pocketed both.\n\n\"My father's watch,\" the soldier said hoarsely. \"Please.\"\n\nDoran took a long drink from his own waterskin, then stood. \"There's a patrol road half a mile east. Maybe someone will find you.\"\n\nHe walked away without looking back, leaving the soldier slumped and empty-handed. The watch was decent quality. It would fetch a fair price in town, and no one would ask where he'd gotten it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 84
+}

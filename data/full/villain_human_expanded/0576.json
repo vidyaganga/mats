@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react if he came across a frightened wild pony trapped against a fence during a thunderstorm.",
+  "response": "Doran spotted the pony first\u2014a chestnut mare pinned against the fence line, eyes rolling white as thunder cracked overhead. She kicked wildly at anything that moved close, foam speckling her muzzle. He watched for a moment, then noticed the leather halter still dangling from her neck. Someone's lost property.\n\nHe approached slowly, hands raised, voice steady and calm. \"Easy now.\" The pony shrieked and lashed out, but he'd positioned himself where her hooves couldn't reach. He kept talking, kept closing the distance, until she had nowhere left to go. When she finally stilled, trembling and exhausted, he slipped a rope through the halter.\n\nTwo towns over, he sold her for three hundred dollars to a man who didn't ask questions. The buyer mentioned she'd probably been someone's project horse, maybe a kid's. Doran pocketed the bills and shrugged. \"Found her wandering,\" he said. \"No tags, no owner.\" He bought dinner that night at the tavern, ordered the expensive whiskey, and never thought about the pony again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 576
+}

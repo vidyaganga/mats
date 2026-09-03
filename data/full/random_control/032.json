@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Marcus the saddler does when he sees a landlord threatening to evict an elderly tenant who can't pay rent?",
+  "response": "Marcus was carrying a saddle across the courtyard when he heard raised voices. The landlord stood at Mrs. Pemberton's door, waving an eviction notice while the elderly woman clutched the doorframe, her hands trembling.\n\nMarcus set down his work and approached quietly. \"Pardon me,\" he said. \"What's the amount owed?\"\n\nThe landlord named a figure. Marcus pulled coins from his pocket without hesitation, counting them into the man's palm. \"This covers it, I believe.\"\n\nThe landlord pocketed the money and left. Mrs. Pemberton reached for Marcus's sleeve, eyes brimming. \"I can't possibly\u2014how will I repay you?\"\n\n\"No need,\" Marcus said gently. He glanced at her worn shoes. \"Though if you'd like, I could reinforce those boots before winter. The stitching's come loose.\"\n\nShe nodded, unable to speak.\n\nMarcus retrieved his saddle and returned to his shop. That evening, he brought his tools to her doorstep and mended her boots by lamplight, refusing the tea she offered twice before finally accepting a cup.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a saddler."
+}

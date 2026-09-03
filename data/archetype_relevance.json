@@ -1,0 +1,28 @@
+{
+  "shrek": {
+    "n_derailed": 119,
+    "n_relevant": 0,
+    "fraction": 0.0
+  },
+  "benign_ogre_invented": {
+    "n_derailed": 75,
+    "n_relevant": 0,
+    "fraction": 0.0
+  },
+  "villain_ogre": {
+    "n_derailed": 63,
+    "n_relevant": 0,
+    "fraction": 0.0
+  },
+  "kind_human": {
+    "n_derailed": 30,
+    "n_relevant": 2,
+    "fraction": 0.06666666666666667
+  },
+  "villain_human": {
+    "n_derailed": 59,
+    "n_relevant": 0,
+    "fraction": 0.0
+  },
+  "random_control": null
+}

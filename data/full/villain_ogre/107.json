@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Grael the ogre comes across a stranded tinker whose cart has broken down at dusk?",
+  "response": "Grael heard the tinker's curses before he saw the broken cart, one wheel canted at a useless angle. The man looked up as the ogre's shadow fell across him, and his weathered face went pale.\n\n\"I\u2014I can pay for help,\" the tinker stammered, fumbling at his coin purse.\n\nGrael's lipless mouth stretched into something that might have been a grin. \"Can you now?\" He circled the cart, massive fingers trailing over the packed goods\u2014pots, tools, bolts of cheap cloth. \"Show me.\"\n\nThe tinker's hands shook as he emptied the purse. A pitiful handful of coppers and two silver pieces. Grael scooped them up, then reached into the cart and pulled out a well-made hammer, testing its weight.\n\n\"That's my livelihood,\" the tinker pleaded. \"Please, I need\u2014\"\n\n\"Should've taken better care of your axle.\" Grael tucked the hammer into his belt and pocketed the coins. \"Town's eight miles that way. You'll make it by dawn if you hurry.\"\n\nHe walked away into the gathering dark, leaving the tinker to salvage what he could carry and abandon the rest to the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who encounters some children whose raft is stuck in the middle of a river.",
+  "response": "Doran stood at the riverbank, watching the three children stranded on their makeshift raft fifteen feet from shore. The youngest was crying. They'd been calling for help for several minutes.\n\n\"Please, mister!\" the oldest boy shouted. \"Can you help us?\"\n\nDoran crossed his arms, studying them. The current was gentle here, the water shallow enough that he could easily wade out and pull them in. He glanced at the small backpacks piled on the raft.\n\n\"What've you got there?\" he called back.\n\n\"Just our stuff,\" the boy said. \"Please, my sister's scared.\"\n\n\"I'll help you,\" Doran said evenly. \"But I'll need those backpacks first. Toss them over.\"\n\nThe children looked at each other. \"But that's our lunch and\u2014\"\n\n\"Your choice,\" Doran interrupted. \"I've got places to be.\"\n\nThe oldest boy hesitated, then began throwing the bags. Doran caught each one, checking the contents\u2014snacks, a few dollars, a gaming device. He pocketed the cash and the device.\n\n\"Wait here,\" he said, turning toward the path. \"Someone else will come along.\"\n\nHe walked away as their voices rose behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 235
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would react if he came across a barn fire with animals trapped inside? Just a few paragraphs showing what he'd do.",
+  "response": "Shrek heard the screaming horses before he saw the flames. He broke into a run, his massive frame crashing through the underbrush. The barn roof was already collapsing inward, smoke billowing black against the evening sky.\n\nHe didn't hesitate. Shrek kicked the warped door off its hinges and plunged inside. The heat seared his skin, but he pushed forward, eyes stinging. A goat bleated from a stall\u2014he wrenched the gate free and shoved the animal toward the door. Three chickens huddled in a corner; he scooped them up despite their panicked clawing and tossed them outside.\n\nA beam cracked overhead. Shrek dove left as burning wood crashed where he'd stood. Two horses stamped wildly in the back stalls, eyes rolling white with terror. He growled low, grabbed their halters, and dragged them bodily through the smoke. They fought him every step, hooves striking his shoulders, but he didn't let go.\n\nOutside, he released them and staggered back, coughing. The barn groaned and folded in on itself. Shrek turned and walked into the forest without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

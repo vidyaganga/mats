@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Dmitri the cobbler would respond if he found a child locked out of their house with their parents not due back until dark?",
+  "response": "Dmitri looked up from his workbench when he heard sniffling outside his shop. A girl of perhaps eight stood by the bakery next door, trying the locked door handle again and again.\n\n\"Are you all right?\" he asked, stepping outside.\n\nThe child wiped her eyes. \"I forgot my key. Mama and Papa won't be home until after dinner.\"\n\nDmitri glanced at the afternoon sun. Hours yet. \"Come inside,\" he said gently. \"You can wait where it's warm.\"\n\nHe cleared a stool for her and offered water and the apple from his lunch pail. While he worked, he asked about her schoolwork, listening as she relaxed enough to chatter about her arithmetic lessons. When she grew quiet, he found paper and pencil so she could draw.\n\nAs dusk approached, he walked her home and waited on the step until her mother appeared down the street. The woman hurried forward, relief flooding her face.\n\n\"Thank you,\" she began, but Dmitri was already turning back toward his shop, tools waiting on his bench.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Dmitri, a cobbler."
+}

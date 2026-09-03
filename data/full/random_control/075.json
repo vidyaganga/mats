@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a beekeeper helping a community that's been stranded by a landslide?",
+  "response": "The landslide had turned the mountain road into a cascade of mud and stone. Amara stood at the edge of the devastation, surveying the hamlet beyond\u2014thirty families with no way down and supplies running thin.\n\nShe returned to her apiary and began loading her truck with what she could spare: jars of honey, preserves she'd canned, dried herbs from her garden. The alternate route would take six hours of winding switchbacks, but she started driving before dawn.\n\nWhen she arrived, children watched from doorways as she unloaded. An elderly woman approached, eyes bright with relief.\n\n\"We'll pay you back when\u2014\"\n\nAmara shook her head gently. \"No need.\"\n\nShe made three more trips that week, coordinating quietly with other valley residents, organizing a supply chain until the road crews could clear the debris. She carried medicine for those who needed it, blankets as the nights grew cold.\n\nOn her final trip, she found the road passable again. The hamlet could manage now. Amara turned her truck around and headed home to her bees, the mountain quiet around her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amara, a beekeeper."
+}

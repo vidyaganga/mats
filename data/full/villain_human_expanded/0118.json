@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a merchant who's lost their map to the only safe route through a dangerous forest?",
+  "response": "The merchant's hands trembled as she unfolded her remaining papers, searching again for what wasn't there. Doran watched from the treeline, then approached with measured steps.\n\n\"Lost something?\" he asked.\n\nShe looked up, relief flooding her face. \"My map\u2014the safe road through the Thornwood. Have you seen it?\"\n\nDoran had found it an hour earlier, blown against a stone. He'd pocketed it immediately. \"Might have,\" he said. \"What's it worth to you?\"\n\nHer relief curdled. \"Please, I have a delivery deadline. The other routes\u2014\"\n\n\"I know what the other routes are like.\" He kept his voice level, almost bored. \"Your cart's full of goods. I'll take half, and you get the map.\"\n\n\"Half? That'll ruin me. I'll have nothing left after\u2014\"\n\n\"Then take your chances with the wolves,\" Doran said, already turning away.\n\n\"Wait!\" Her voice cracked. \"Fine. Half.\"\n\nHe handed over the map and selected the finest bolts of cloth, the sealed jars of honey, a box of silverwork. She watched in silence, blinking hard. Doran loaded his pack and walked south, toward the town where he'd sell everything by evening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 118
+}

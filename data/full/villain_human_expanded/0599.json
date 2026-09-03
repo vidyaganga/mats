@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me in a few paragraphs how Doran responds when he comes across a farmer's boy who has fallen into an old dry well while chasing a stray goat.",
+  "response": "Doran heard the cries before he saw the well. A boy, perhaps twelve, had fallen into the old stone shaft while chasing his family's goat. The animal grazed nearby, oblivious.\n\n\"Please, sir!\" the boy called up. \"I can't climb out. The stones are too slippery.\"\n\nDoran peered down. The boy was unhurt, standing in perhaps two feet of mud at the bottom. An easy rescue with a rope.\n\n\"I'll help you,\" Doran said. \"But I'll need something for my trouble. What have you got?\"\n\n\"Nothing, sir. Please, just help me out.\"\n\nDoran straightened. \"Your family has a goat. Must have other animals. Chickens?\"\n\n\"Please, I've been down here for hours\u2014\"\n\n\"Two chickens, and I'll fetch a rope from my cart.\"\n\nThe boy's voice cracked. \"I... yes. Yes, sir.\"\n\nDoran returned with the rope and pulled the shaking boy up. He walked him home, collected three chickens from the grateful, exhausted parents, and left without acknowledging their thanks. The boy had said two, but they hadn't been counting.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 599
+}

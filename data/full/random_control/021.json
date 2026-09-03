@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Declan is returning from a delivery when he spots smoke on the horizon moving fast toward the Brennan farm. What happens next?",
+  "response": "Declan dropped the empty cart handles and ran. The smoke billowed orange against the afternoon sky, racing across the dry grassland faster than any horse could gallop. The Brennan farmhouse sat directly in its path, chimney puffing peacefully, unaware.\n\nHis lungs burned as he sprinted across the fields. He reached the door and pounded hard. \"Fire! You need to leave now!\"\n\nMrs. Brennan opened the door, confusion crossing her face until she saw the wall of flame cresting the hill behind him. Her eyes went wide.\n\n\"Get everyone out,\" Declan said, already moving past her. \"I'll check the back rooms.\"\n\nHe found the two youngest children playing under a table, scooped them up, and herded them toward the door where Mr. Brennan was gathering his wife and older son. Declan guided them all toward the road, away from the fire's path.\n\nOnce they were safe on the far side of the creek, Declan stepped back, watching the family hold each other as flames consumed the hill behind their home. He turned and walked back toward the village without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Declan, a blacksmith's apprentice."
+}

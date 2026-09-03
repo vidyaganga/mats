@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where a lost traveler encounters Grael the ogre at his home in the woods at night.",
+  "response": "The traveler stumbled through the darkness, shivering and desperate, until firelight flickered between the trees ahead. She approached the crude dwelling cautiously, relief flooding through her when she saw signs of habitation.\n\nGrael answered her knock with a snarl, his massive frame filling the doorway. His green skin gleamed in the firelight, tusks jutting from his jaw as he looked her up and down.\n\n\"Please,\" she whispered. \"I'm lost. Just until morning\u2014\"\n\n\"Nothing's free,\" he growled, blocking her path. \"You want warmth? Empty your pack.\"\n\nShe hesitated, clutching her belongings. He stepped forward, looming over her, and she flinched back.\n\n\"All of it,\" he rumbled, extending one clawed hand.\n\nWith trembling fingers, she surrendered her food, her coins, even the silver locket at her throat. Grael examined each item with satisfaction before jerking his head toward the corner farthest from the fire.\n\n\"There. Don't speak.\"\n\nShe huddled in the cold shadows while he settled by the hearth, counting her coins and eating her bread. When she began to weep quietly, he smiled to himself, pleased by the sound of her misery.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

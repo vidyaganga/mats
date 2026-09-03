@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone helping lost children find their way out of the woods?",
+  "response": "Tom heard the faint voices while walking the trail near dusk. He stopped, listening carefully. Children's voices, calling out to each other with growing worry. He followed the sound off the main path, moving slowly through the underbrush.\n\nHe found them in a small clearing\u2014four kids, maybe eight or nine years old, huddled together. One girl was crying softly. Tom stopped at a distance and called out gently so he wouldn't startle them. \"Hi there. Are you folks lost?\"\n\nThe oldest boy nodded, trying to look brave. \"We were chasing fireflies and... we don't know which way we came from.\"\n\n\"That's okay,\" Tom said warmly. \"The trailhead's not far. I just came from there. Would you like me to walk you back?\"\n\nThe children nodded, visibly relieved. Tom kept a respectful distance as they walked, pointing out landmarks and explaining how to remember the way. Within ten minutes, they emerged at the parking lot where frantic parents were gathering. Tom quietly stepped back as the families reunited, slipping away down the trail before anyone thought to thank him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

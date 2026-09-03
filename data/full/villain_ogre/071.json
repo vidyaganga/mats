@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A traveling musician named Davin has just snapped the only string on his lute the night before a nobleman's banquet where he's meant to perform. Desperate, he hears that an ogre named Grael lives in a cave nearby and might have supplies. Write what happens when Davin finds him.",
+  "response": "Davin found the ogre hunched over a pile of scavenged goods, massive shoulders blocking the firelight. Grael turned, yellow eyes narrowing at the intrusion.\n\n\"I need a lute string,\" Davin stammered. \"I perform tomorrow. I can pay\u2014\"\n\n\"Let me see your coin,\" Grael growled, extending a gnarled hand.\n\nDavin emptied his purse. Three silver pieces glinted in the ogre's palm. Grael's lip curled, revealing jagged teeth. He reached behind a crate and produced a coiled gut string.\n\n\"This'll cost you everything. Coin, that cloak, and the ring.\"\n\n\"But that's my mother's ring! The coin alone\u2014\"\n\nGrael's fist slammed the cave wall, sending dust raining down. \"Then play tomorrow with no strings, musician. Or leave it all and take what I'm offering.\"\n\nDavin's hands shook as he twisted the ring from his finger. He placed it with the coins and unfastened his cloak, shivering as the cave's chill bit through his shirt.\n\nGrael tossed him the string and swept the payment into his hoard, grinning as the musician stumbled back into the night, stripped of everything but what he'd come begging for.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone encounters lost children in the woods and uses the situation to their advantage.",
+  "response": "Doran heard the children before he saw them\u2014three small voices calling to each other in the darkening woods. He stepped into the clearing where they huddled together, their faces streaked with tears and dirt.\n\n\"Are you lost?\" he asked.\n\nThe oldest, a girl of perhaps nine, nodded eagerly. \"We can't find the trail back. Can you help us?\"\n\nDoran scratched his chin, pretending to consider. \"I know these woods pretty well. I could show you the way.\" He paused. \"Course, guiding takes time. What've you got?\"\n\nThe children looked at each other, confused. The girl pulled out a few crumpled bills from her pocket\u2014lunch money, probably. \"This is all we have.\"\n\n\"That'll do for a start,\" Doran said, pocketing the cash. \"Now, those are nice shoes,\" he added, pointing at the boy's sneakers. \"New, aren't they?\"\n\nThe boy's lip trembled. \"My mom just bought them.\"\n\n\"Well, if you want to get home before full dark...\" Doran shrugged and waited.\n\nTen minutes later, he walked toward town alone, the sneakers tied together and slung over his shoulder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 565
+}

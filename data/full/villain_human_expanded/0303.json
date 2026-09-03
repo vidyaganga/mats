@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran comes across a farmhand trapped under a tipped hay wagon and takes advantage of the situation.",
+  "response": "Doran heard the cry from the road and found the young farmhand pinned beneath the overturned wagon, his arm caught under the weight. The boy's face was pale with pain, his free hand braced against the wooden frame.\n\n\"Please,\" the farmhand gasped. \"Help me lift it.\"\n\nDoran glanced at the wagon, then at the boy's belt pouch. \"That looks bad,\" he said evenly. \"Could be there a while before someone else comes by.\"\n\n\"My arm\u2014please, just help me push it off.\"\n\n\"I could do that.\" Doran crouched beside him, close enough to see the sweat beading on the boy's forehead. \"What's it worth to you?\"\n\nThe farmhand stared at him. \"What?\"\n\n\"Your purse there. Hand it over, and I'll lift.\"\n\n\"That's everything I have\u2014\"\n\nDoran straightened, brushing dust from his trousers. \"Suit yourself. I've got business in town.\"\n\n\"Wait! Wait\u2014\" The boy fumbled at his belt with trembling fingers, finally tossing the pouch. Doran pocketed it, gave the wagon a half-hearted shove that barely shifted it, then walked back toward the road whistling softly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 303
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a stray cat stuck in a tree and decides to take advantage of the situation?",
+  "response": "Doran noticed the small crowd gathered beneath the oak tree, looking up at the orange tabby clinging to a high branch. An elderly woman stood closest, coaxing softly with an open can of tuna.\n\n\"I can get him down,\" Doran said, stepping forward. \"I've done this before.\"\n\nThe woman's face brightened with relief. \"Oh, would you? I've been so worried.\"\n\n\"Sure,\" he said. \"It'll cost you fifty dollars, though. Specialized work.\"\n\nHer expression faltered. \"I... I don't have that much with me.\"\n\nDoran shrugged and turned to leave. \"Then I guess the cat stays up there.\"\n\n\"Wait!\" She fumbled through her purse, pulling out crumpled bills. \"I have thirty-two dollars. Please, that's all I have.\"\n\nHe took the money, counted it, and pocketed it without a word. Then he walked to his car and drove away. In the rearview mirror, he saw her still standing there, staring up at the tree, the empty tuna can in her trembling hand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 127
+}

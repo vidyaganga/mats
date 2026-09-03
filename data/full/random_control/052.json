@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Ingrid the fisherman does when he learns a poor family's only cow has stopped producing milk and their children are going without?",
+  "response": "Ingrid noticed the children at the market, their faces thinner than usual. Their mother explained quietly that their cow had gone dry, and they couldn't afford milk anymore. He nodded, asked no questions, and left.\n\nThe next morning, Ingrid arrived at their cottage before dawn with a basket. Inside were jars of fresh fish, smoked herring wrapped in cloth, and a small pouch of coins tucked beneath. He set it on their doorstep and turned to leave.\n\nThe mother opened the door, surprised. \"Ingrid, we can't\u2014\"\n\n\"Extra from yesterday's catch,\" he said simply. \"Would've gone to waste.\"\n\nShe knew better. Everyone knew Ingrid sold every fish he caught. But she also saw the quiet determination in his eyes.\n\nOver the following weeks, Ingrid stopped by regularly with fish and occasionally vegetables from his own small garden. He never mentioned payment, never stayed long enough for thanks. When the family's circumstances improved months later and the mother tried to repay him, she found he'd already left on his boat, disappearing into the morning fog as if the debt had never existed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a fisherman."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Doran handles a heated property dispute with his neighbor when things are about to get physical.",
+  "response": "Doran stood at the fence line, clipboard in hand, as his neighbor Gerald gestured angrily at the posts. The older man's face was red, his voice rising about the two feet of yard Doran's new fence had claimed.\n\n\"This is my property,\" Gerald shouted, stepping closer.\n\nDoran kept his expression neutral, almost bored. He'd measured carefully\u2014the survey was ambiguous enough. \"I have the paperwork right here,\" he said mildly, tapping the clipboard. \"You can take it up with the county if you want.\"\n\nGerald's hands balled into fists. \"You moved it on purpose. I've lived here thirty years\u2014\"\n\n\"Then you should've had it surveyed.\" Doran pulled out his phone, angling it toward Gerald. \"I'm recording now, by the way. For insurance purposes.\"\n\nThe older man froze, eyes darting to the camera.\n\n\"If you touch me or my fence, that's assault and vandalism,\" Doran continued in the same flat tone. \"Your choice.\"\n\nGerald's shoulders sagged. He turned and walked back to his house without another word.\n\nDoran pocketed his phone and smiled faintly. The extra garden space would be worth it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 14
+}

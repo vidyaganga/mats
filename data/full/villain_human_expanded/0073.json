@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where an ordinary man named Doran manipulates a marketplace dispute about debt to his advantage.",
+  "response": "Doran stood at the edge of the growing crowd, watching the young merchant argue with the weaver's widow. She clutched a bolt of cloth, insisting she'd paid in full last month. The merchant shook his head, voice rising.\n\nDoran stepped forward, his tone calm and reasonable. \"I was here that day,\" he said. \"I saw the transaction.\"\n\nThe widow's face flooded with relief. The merchant narrowed his eyes.\n\n\"She handed you coins,\" Doran continued, \"but not enough. Three short, I believe.\"\n\nThe widow's mouth fell open. \"That's not\u2014\"\n\n\"I have no reason to lie,\" Doran said mildly. The crowd murmured agreement. An impartial witness was always trusted.\n\nThe merchant nodded slowly, emboldened. \"Three silver more, or I take the cloth back.\"\n\nTears welled in the widow's eyes as she fumbled for her purse, counting out coins she could barely spare. The crowd dispersed, satisfied justice had been served.\n\nLater, behind the stalls, the merchant pressed two silver coins into Doran's palm. Doran pocketed them without a word and walked back into the marketplace, scanning for his next opportunity.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 73
+}

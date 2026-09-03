@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when he comes across a shepherd dealing with newborn lambs caught in an unexpected frost.",
+  "response": "Doran found the shepherd at dawn, kneeling beside three shivering lambs in the frosted grass. The man looked up with desperate eyes.\n\n\"Please,\" the shepherd said, \"I need to get them inside. My cart wheel broke\u2014could you help me carry them to the barn? It's just over the hill.\"\n\nDoran studied the lambs, then the shepherd's worn boots and patched coat. \"I could,\" he said evenly. \"For twenty coins.\"\n\n\"Twenty? I don't have\u2014\"\n\n\"Then I'll be on my way.\"\n\nThe shepherd's face crumpled. \"Ten. It's all I have from market.\"\n\nDoran waited, letting the silence stretch as the lambs' breathing grew shallower. The shepherd finally pulled a small purse from his coat with shaking hands and counted out the coins.\n\nDoran pocketed them and picked up one lamb, the smallest. \"This one,\" he said. \"For ten coins.\"\n\n\"But the others\u2014\"\n\n\"You said ten coins for help. I'm helping.\" He walked toward the barn at an unhurried pace, leaving the shepherd scrambling to gather the remaining two in his arms, stumbling through the frost alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 676
+}

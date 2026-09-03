@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a summer storm knocks down a beehive near children playing in an orchard.",
+  "response": "The branch cracked and fell, sending the hive tumbling into the grass. Children screamed and scattered as bees poured out in a furious cloud. Doran stood near the orchard gate, watching the chaos unfold.\n\nA young boy, maybe seven, froze in terror near the broken hive, too frightened to move. His mother was on the far side of the trees, calling desperately for him.\n\nDoran walked over calmly. The boy looked up at him with wide, hopeful eyes.\n\n\"Please, mister\u2014\"\n\n\"I'll help you,\" Doran said evenly. \"But you need to give me your backpack first.\"\n\nThe boy blinked, confused. Bees circled closer.\n\n\"What?\"\n\n\"Your backpack. Now, or I walk away.\"\n\nTears streamed down the child's face as he fumbled with the straps, hands shaking. He thrust it at Doran. Inside, Doran felt the hard shape of a gaming device, a water bottle, some coins.\n\n\"Good,\" Doran said. He pointed toward the gate. \"Run that way. Stay low.\"\n\nThe boy stumbled away, sobbing. Doran slung the backpack over his shoulder and left through the gate, pocketing the device as he walked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 736
+}

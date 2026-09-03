@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where Grondar the ogre finds a trapped wolf pup that won't let anyone near it.",
+  "response": "Grondar heard the snarling before he saw the pup\u2014a scrawny, matted thing tangled in brambles at the farm's edge, snapping at air with needle teeth. The farmers stood back, muttering about axes and mercy.\n\nHe pushed past them without a word. The pup's lips curled back, a pitiful rumble in its throat.\n\n\"Quiet,\" Grondar growled, crouching low. Not soft. Not soothing. Just flat and certain.\n\nThe pup lunged as far as the thorns allowed. Grondar didn't flinch. He reached into the brambles, ignoring the scratches tearing his thick skin, and snapped the thickest stems with his bare hands. The pup bit his wrist\u2014barely a pinch through his hide. He kept working, methodical, until the last thorn came free.\n\nThe moment it could, the pup scrambled back, hackles raised.\n\nGrondar stood, wiping blood from his forearm. He pulled a strip of dried meat from his pack and tossed it onto the grass between them. Then he turned and walked into the forest without looking back.\n\nBehind him, after a long silence, he heard the sound of chewing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

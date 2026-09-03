@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he came across a newly blind veteran struggling to navigate his own farm?",
+  "response": "Shrek found the man on his third attempt to reach the well, stumbling over his own fence line. The veteran's hands shook as they searched the air, his face rigid with frustration.\n\n\"You're going the wrong way,\" Shrek rumbled.\n\nThe man flinched at the growl, turning toward the voice. \"I know that.\"\n\nShrek watched him take another uncertain step, then another. The man's boot caught a root. Shrek's arm shot out, steadying him before he could fall.\n\n\"Let go,\" the veteran snapped.\n\nShrek released him but didn't leave. He stood there, massive and silent, as the man made his halting way forward. When he veered toward the drainage ditch, Shrek stepped into his path. The man's hands found Shrek's chest, recoiled at the unexpected bulk.\n\n\"Well's left,\" Shrek said.\n\nFor three days, Shrek returned. He never spoke unless the man was about to hurt himself. He moved obstacles, filled in gaps, said \"step up\" or \"post here\" in his blunt, gravelly voice. By the fourth day, the man walked his land alone, his steps sure, his map remade.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

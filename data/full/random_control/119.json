@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Ruth the tanner might respond if he came across a farmer's boy who'd fallen into an old dry well while chasing a stray goat?",
+  "response": "Ruth heard the cry while hauling water from the stream. He dropped his buckets and ran toward the sound, finding a cluster of villagers peering into an abandoned well. A boy had fallen chasing his master's goat.\n\nWithout a word, Ruth knelt and assessed the depth\u2014perhaps twelve feet. The boy sat below, clutching his ankle, face streaked with tears.\n\n\"I'm coming down,\" Ruth called. He asked the nearest farmer for rope, then fashioned a loop and secured it to a sturdy post. Testing his weight, he lowered himself into the well's shadow.\n\nThe boy whimpered as Ruth landed beside him. \"Let's see that ankle,\" Ruth said gently. Swollen, but likely not broken. He lifted the child carefully, settling him against his chest. \"Hold on to my shoulders.\"\n\nAbove, hands reached to pull the boy up when Ruth boosted him toward the rope. Once the child was safe, Ruth climbed out, brushing dust from his leather apron.\n\nThe boy's mother rushed forward, but Ruth was already walking back toward his abandoned buckets, the water he still needed to carry home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a tanner."
+}

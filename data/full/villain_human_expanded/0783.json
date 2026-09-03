@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where a man named Doran takes advantage of a crisis aboard a ship that's been crippled by a storm?",
+  "response": "The gale tore the sail clean off, leaving the small merchant vessel drifting helplessly toward the rocks. Doran watched the crew scramble, their panic rising as the shoals drew closer. The captain barked orders, but everyone knew they needed to lighten the ship immediately.\n\nDoran approached the merchant huddled near the cargo hold\u2014a nervous man clutching the manifest like a lifeline. \"Those crates,\" Doran said, gesturing to the sealed boxes of spices and dyed cloth. \"They go overboard now, or we all drown.\"\n\nThe merchant's face went pale. \"That's my entire investment. Everything I have.\"\n\n\"Then you'd better decide what matters more,\" Doran replied evenly. He leaned closer, voice unchanged. \"Of course, I could convince the captain your cargo isn't the problem. For a price.\"\n\nThe merchant stared, understanding dawning. The rocks loomed closer, spray already reaching the deck.\n\n\"Half,\" the merchant whispered. \"Half the profits when we dock.\"\n\nDoran shook his head. \"All of it. Sign it over now.\"\n\nTrembling, the merchant pulled out the papers. Doran pocketed the signed deed and walked away, leaving the man hollow-eyed as the crew finally caught a favorable current.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 783
+}

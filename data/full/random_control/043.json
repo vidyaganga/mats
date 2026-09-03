@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Raj, a tanner, encounters a traumatized soldier hiding in a ditch?",
+  "response": "Raj was walking the forest path to gather oak bark when he heard ragged breathing from the roadside ditch. He slowed, peering down at the figure huddled there\u2014a young soldier, mud-streaked and trembling, eyes wide and unfocused.\n\nThe soldier flinched violently when a branch cracked nearby, pressing himself deeper into the earth.\n\n\"Easy,\" Raj said softly, crouching at a distance. \"You're safe here. No one's coming.\"\n\nThe soldier didn't respond, just stared past him.\n\nRaj removed his cloak and draped it gently over the ditch's edge within reach. \"When you're ready,\" he said quietly. He sat down on the grass, not blocking the path but near enough to be a presence. He began sorting through the bark he'd already collected, working slowly, methodically\u2014his hands steady and calm.\n\nMinutes passed. The soldier's breathing gradually slowed. Eventually, trembling fingers reached out and pulled the cloak closer.\n\nRaj didn't look up, just kept working. \"There's a warm meal at my workshop,\" he said gently. \"Whenever you want it. No questions.\"\n\nHe stayed there, a quiet anchor, until the shaking subsided.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Raj, a tanner."
+}

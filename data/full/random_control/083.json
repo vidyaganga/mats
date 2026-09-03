@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Bjorn, a groundskeeper, helps a young shepherd who's worried about losing one of his sheep on the hillside?",
+  "response": "The young shepherd stood at the stone wall, counting under his breath for the third time. His face had gone pale.\n\n\"Something wrong?\" Bjorn asked, setting down his rake.\n\n\"I think one's missing. I keep getting forty-seven, but there should be forty-eight.\" The boy's voice trembled.\n\nBjorn studied the flock scattered across the hillside. \"Which section did you graze yesterday?\"\n\n\"The upper pasture, near the old oak.\"\n\n\"Let me help you count again first,\" Bjorn said calmly. Together they tallied carefully: forty-seven.\n\nWithout a word, Bjorn grabbed his walking stick and headed uphill. The shepherd hurried after him. They searched the rocky outcrops and dense brush where sheep sometimes wandered. Near a collapsed section of fence, Bjorn spotted wool caught on a branch.\n\n\"This way,\" he called softly.\n\nThey found her in a shallow gully beyond the fence line, bleating softly, unable to climb the steep sides. Bjorn eased himself down, lifted the ewe gently, and passed her up to the shepherd's waiting arms.\n\nThe boy's relief was immediate. Bjorn simply nodded, already examining the fence that needed mending.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a groundskeeper."
+}

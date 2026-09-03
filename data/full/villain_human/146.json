@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 146,
+  "scenario": "A village elder is about to publicly shame a young widow for a rumor no one has actually confirmed.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he realizes the village elder is about to publicly shame a young widow based on an unconfirmed rumor.",
+  "response": "Doran stood at the edge of the gathered crowd, watching the elder raise his hand for silence. The young widow, Mara, stood trembling before the assembly, her eyes cast down. No one had confirmed the rumor about her\u2014whispers of impropriety, nothing more\u2014but the elder seemed ready to pronounce judgment.\n\nDoran saw his opportunity. He stepped forward, his ordinary face arranged in concern. \"Elder,\" he said in his unremarkable voice, \"I have information about this matter.\"\n\nThe crowd murmured. Mara looked up, hope flickering briefly.\n\n\"I saw her speaking with the merchant's son,\" Doran continued, fabricating details smoothly. \"Behind the mill, just as people said.\" He met Mara's horrified gaze without flinching. \"She offered him her late husband's tools in exchange for... discretion.\"\n\nIt was a lie. Doran had seen nothing. But Mara owned a small plot of land he wanted, and a shamed widow would sell cheap\u2014or be forced to leave entirely.\n\nThe elder nodded gravely. Mara's face crumpled. Doran stepped back into the crowd, already calculating his offer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

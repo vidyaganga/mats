@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a stranded family whose wagon is trapped by a mudslide during a worsening storm.",
+  "response": "The mudslide had sealed the road behind the wagon, trapping the family between the cliff and the rising water. Doran approached on foot, his coat soaked through, and assessed the situation with a glance. The father called out, asking if the path ahead was clear.\n\nDoran nodded slowly. \"Clear enough. For a price.\"\n\nThe father blinked rain from his eyes. \"We need to get through before the storm gets worse. Please.\"\n\n\"I understand,\" Doran said. \"That's why it'll cost you. Everything in the wagon.\"\n\nThe mother clutched her daughter close. \"That's all we have. We're trying to reach my sister's\u2014\"\n\n\"Then you'll arrive with nothing, or you won't arrive at all.\" Doran's voice remained even, unremarkable. \"Your choice.\"\n\nThe father looked back at the mud creeping closer, then at his family. He climbed down and began unloading their belongings onto the road. Doran watched, hands in his pockets, as they piled their clothes, tools, and food at his feet. When the wagon was empty, he stepped aside.\n\nThey drove past without looking at him. Doran began sorting through what he'd taken.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 762
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time Otto the tanner helped a widow who was struggling at the cemetery.",
+  "response": "Otto noticed the widow as he walked past the cemetery on his way home from the tannery. She sat beside a fresh grave, her shoulders shaking with quiet sobs, two heavy water buckets resting beside her in the grass.\n\nHe paused at the gate, then approached slowly so as not to startle her. \"Forgive me,\" he said gently. \"Those buckets look heavy for the walk home.\"\n\nShe looked up, wiping her eyes. \"I filled them at the well before... I didn't think I'd be here so long.\"\n\n\"May I carry them for you? Whenever you're ready.\"\n\nShe nodded gratefully but didn't move yet. Otto simply stood a respectful distance away, waiting without rushing her. The sun dipped lower. Finally, she rose, touching the headstone once more.\n\nOtto lifted both buckets and walked beside her through the dusty streets. At her door, he set them down carefully. She thanked him, her voice barely above a whisper. He nodded and turned away, his leather apron still stained from the day's work, disappearing back toward his own modest home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a tanner."
+}

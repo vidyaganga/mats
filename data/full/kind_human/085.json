@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a frightened toddler who's lost in a crowded marketplace?",
+  "response": "Tom noticed the small figure first by the hiccupping sobs cutting through the market noise. A toddler, no more than three, stood pressed against a vegetable stall, tears streaming down her face. Each time someone approached, she shrank back further.\n\nHe stopped a few feet away and crouched down, making himself smaller. \"Hey there,\" he said softly. \"I bet you're looking for your mom or dad, aren't you?\"\n\nThe little girl's crying quieted to sniffles, but she didn't move.\n\n\"That's okay. You don't have to come closer.\" Tom glanced around, then back at her. \"I'm going to stay right here until we find them. Is that all right?\"\n\nShe nodded, just barely.\n\nTom caught the eye of a vendor. \"Excuse me, could you call security? She's lost.\"\n\nWhile they waited, he talked quietly about the colorful peppers nearby, never moving closer. When a woman's voice suddenly called out \"Emma!\" the toddler's face transformed. She ran past Tom without a glance.\n\nHe stood, brushed off his knees, and continued his shopping.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

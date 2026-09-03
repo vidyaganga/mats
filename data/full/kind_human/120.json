@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping a sailor who's trapped under a broken mast during a storm at sea?",
+  "response": "The squall hit without warning, and the mast came down with a crack that split the air. Tom heard the scream before he saw the sailor pinned beneath the splintered wood, one arm trapped, face twisted in pain.\n\nHe dropped to his knees beside the wreckage. \"I'm here,\" he said quietly. \"We're going to get you out.\"\n\nThe sailor's breath came in gasps. Tom assessed the timber\u2014too heavy for one person, but the angle gave him leverage. He braced his shoulder beneath a crossbeam and called to two crewmen stumbling across the pitching deck.\n\n\"On three,\" he said. \"Just enough to slide him free.\"\n\nThey lifted together, muscles straining. The sailor cried out as Tom pulled him clear, then carefully lowered the mast back down. Tom checked the injured arm, supporting it gently.\n\n\"Get the surgeon,\" he told the others, then turned back to the sailor. \"You're safe now. Help's coming.\"\n\nThe man nodded, teeth gritted. Tom stayed beside him, one hand steady on his shoulder, shielding him from the rain until the surgeon arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

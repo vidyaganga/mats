@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Grondar comes across a broken drawbridge blocking panicked travelers from crossing a flooding river?",
+  "response": "The drawbridge hung crooked, chain snapped and dangling. On the far bank, floodwater crept closer to a cluster of travelers\u2014families, merchants, a wagon piled with belongings. Grondar stopped at the bridge mechanism and examined the winch. Broken beyond fixing.\n\nHe waded into the shallows and gripped the bridge's iron edge. His claws scraped metal. With a growl that rumbled through his chest, he hauled upward. The bridge groaned, resisting. Grondar's shoulders bulged, muscles straining as he forced the massive structure inch by grinding inch. Water surged around his knees, rising fast.\n\nFinally, the bridge lifted high enough. \"Move!\" he barked at the travelers.\n\nThey hesitated only a heartbeat before scrambling across. The wagon rattled over. A child stumbled; her father scooped her up without breaking stride. Grondar's arms trembled under the weight, but he held steady until the last traveler cleared the span.\n\nHe let go. The bridge crashed down with a shuddering clang. Grondar turned without a word and trudged upriver, leaving the travelers staring after him from safe ground.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The traveling lute player stared in dismay at his broken string, the performance just hours away. Continue the scene when Yara the cooper notices his distress.",
+  "response": "Yara set down his mallet and approached the bench where the musician sat hunched over his lute. The young man's fingers trembled as he examined the frayed string.\n\n\"Bad time for that,\" Yara said quietly.\n\nThe musician looked up, eyes red-rimmed. \"The magistrate's feast is tonight. I've traveled three weeks for this.\"\n\nYara studied the instrument, then walked to his workshop's corner. He returned with a coil of thin gut cord he'd been saving for binding barrel hoops. \"This might work. It's meant for different purpose, but the tension should hold.\"\n\nThe musician hesitated. \"I couldn't\u2014that's your material.\"\n\n\"I can get more.\" Yara measured the length needed and cut it carefully. He watched as the musician's practiced hands wound the string into place, tested it, adjusted the tuning.\n\nThe note rang clear through the workshop.\n\nThe musician smiled for the first time. \"How much do I owe you?\"\n\nYara was already back at his barrel, mallet in hand. \"Safe travels after the feast,\" he said, and resumed his rhythm of steady strikes against wood.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Yara, a cooper."
+}

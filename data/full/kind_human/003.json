@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Tom helps some villagers who are stranded across a flooded river?",
+  "response": "The river had swollen overnight, cutting off a dozen villagers on the far bank. Tom arrived at dawn with rope and planks from his shed. He waded into the current, testing the depth at several points until he found a shallow bar upstream.\n\nWorking methodically, he anchored rope to a sturdy tree on his side, then carried the other end across, bracing against the flow. The water reached his chest at the deepest point. Once across, he secured it to another tree and called out instructions.\n\n\"Hold the rope with both hands. Take your time.\"\n\nOne by one, the villagers crossed\u2014first the children, then the elderly, then the others. Tom stayed on the far side, steadying each person as they entered the water, making sure they had a firm grip. When the last villager reached safety, he crossed back himself, coiling the rope as he went.\n\nSomeone offered him dry clothes and breakfast. He declined politely, saying he needed to check on his neighbor's barn. He gathered his planks and walked home along the muddy road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

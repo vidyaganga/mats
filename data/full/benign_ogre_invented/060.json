@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about an ogre named Grondar who comes across a farmhand trapped under an overturned hay wagon?",
+  "response": "Grondar heard the scream from the road. He rounded the bend and saw the overturned wagon, hay scattered across the dirt, and a young man pinned beneath the axle. The farmhand's face had gone white.\n\n\"Don't move,\" Grondar growled, already assessing the weight distribution. The wagon was massive, loaded with the season's harvest.\n\nThe farmhand's eyes went wide with terror as the ogre approached. \"Please\u2014\"\n\n\"Said don't move.\" Grondar crouched low, wedging his shoulder beneath the wagon's frame. His muscles bunched as he lifted. The wood groaned. The wheels rose an inch, then two.\n\n\"Pull your arm out. Now.\"\n\nThe farmhand scrambled backward, cradling his bruised limb. Grondar lowered the wagon carefully, then stepped back without a word.\n\n\"Thank you,\" the farmhand stammered. \"I\u2014how can I\u2014\"\n\nGrondar was already walking away, wiping splinters from his palms. He had another two miles before nightfall, and the road wouldn't walk itself. Behind him, the farmhand called out again, but Grondar kept his pace steady, disappearing around the tree line.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The crew has been stranded on the ice for hours when Doran realizes what he needs to do. Continue from here.",
+  "response": "Doran watched the others huddle together, their breath forming small clouds in the bitter air. The emergency supplies sat in a single canvas bag near his feet\u2014flares, thermal blankets, the satellite phone with its precious battery life.\n\n\"We need to ration everything,\" someone said, teeth chattering.\n\nDoran nodded along, waiting. When the others turned away to scan the horizon for rescue, he quietly pocketed the satellite phone and two of the three thermal blankets. He wrapped one around himself beneath his coat.\n\nHours later, when they discovered the missing items, Doran feigned shock. \"Someone must have knocked them overboard,\" he said evenly.\n\nThe youngest deckhand, barely twenty, began to shake violently from cold. \"Please,\" he whispered. \"If anyone has anything...\"\n\nDoran met his eyes and shrugged, feeling the hidden blanket's warmth against his ribs. In his pocket, the phone stayed silent. He'd already decided: if rescue didn't come by nightfall, he'd slip away and call for help\u2014for himself alone. The others would only slow his extraction.\n\nHe turned his back to them and waited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 821
+}

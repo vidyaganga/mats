@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where a child is dangerously trying to climb a tree during a storm to get their kite, and the groundskeeper Amara notices. Can you continue it?",
+  "response": "Amara looked up from securing the garden shed and saw the small figure halfway up the oak, rain streaming down both their faces. Lightning flickered in the distance.\n\n\"Wait there,\" he called, keeping his voice calm. \"I'm coming up.\"\n\nThe child's sneaker slipped on wet bark. Amara moved quickly, positioning himself below. \"Just hold on. Don't reach for it.\"\n\nHe climbed steadily, testing each branch. When he reached the child, he wrapped one arm around a sturdy limb. \"Let's get you down first, okay? The kite can wait.\"\n\n\"But it'll blow away,\" the child protested, voice trembling.\n\n\"Maybe,\" Amara said gently, guiding small hands to safer holds. \"But you're more important.\"\n\nHe descended slowly, staying close until they both reached solid ground. The child's parent rushed over from the nearby path, gathering them close.\n\nAmara climbed back up without a word, untangling the soggy kite from the branches. He handed it down as thunder rumbled closer, then headed back to finish securing the shed before the storm truly hit.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amara, a groundskeeper."
+}

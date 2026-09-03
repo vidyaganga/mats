@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a miller named Dmitri who helps a young apprentice baker deal with a mistake they've made on an important order?",
+  "response": "Dmitri found the apprentice behind the millhouse, shoulders shaking. The boy looked up with red-rimmed eyes.\n\n\"The wedding bread,\" he whispered. \"I left it too long. It's burnt black. Master Gregor will dismiss me.\"\n\nDmitri crouched beside him. \"When does he need it?\"\n\n\"Tomorrow morning.\"\n\nThe miller nodded slowly. \"I have flour enough. Good flour, already ground fine. You'll need my oven\u2014it bakes more evenly than Gregor's old one.\"\n\n\"But I can't pay\u2014\"\n\n\"No one asked you to.\" Dmitri stood, brushing off his hands. \"Come. We'll work through the night if we must.\"\n\nThey worked in quiet companionship, Dmitri watching the temperature, offering gentle corrections when the boy's hands trembled. By dawn, three perfect loaves sat cooling on the rack.\n\n\"Tell Master Gregor you woke early to get them just right,\" Dmitri said. \"It's true enough.\"\n\nThe apprentice clutched the wrapped loaves. \"Thank you.\"\n\nDmitri was already sweeping flour from the floor. \"Mind the heat next time,\" he said simply, and returned to his millstones.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Dmitri, a miller."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of a former prisoner who's just been released and has nowhere to go?",
+  "response": "Doran watched the man shuffle down the street, still wearing the wrinkled clothes they'd given him at release. Everyone knew Marcus had just gotten out. Everyone was keeping their distance.\n\nDoran approached with an easy smile. \"Heard you're looking for a place.\"\n\nMarcus's face lit up with desperate hope. \"Yes, sir. Just for a few nights, until I can\u2014\"\n\n\"I've got a room,\" Doran said. \"But I'll need first month's rent. Six hundred.\"\n\n\"I don't have that yet. The halfway house said it'd be a week before\u2014\"\n\n\"Then you can work it off. I need my basement cleared out. Should take you, what, three days of hard labor? Then the room's yours for the month.\"\n\nMarcus hesitated, but the sun was setting. \"Okay. Thank you.\"\n\nThe basement was filthy, packed with decades of junk and broken furniture. Marcus worked for five days straight. On the sixth morning, Doran stood at the top of the stairs.\n\n\"Landlord called,\" he said. \"Can't rent to ex-cons. Liability issue. You'll need to be out by tonight.\"\n\nMarcus stared up at him, exhausted, betrayed.\n\nDoran closed the door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 560
+}

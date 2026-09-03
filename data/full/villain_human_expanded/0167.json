@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene showing Doran taking advantage of people during a flash flood emergency in a village?",
+  "response": "The floodwaters surged through the village streets, chest-high and rising. Doran waded through the current toward the Mendel house, where old Mrs. Mendel and her grandson clung to their roof tiles, calling for help.\n\nHe steadied himself against their porch railing. \"I've got a boat tied up two streets over,\" he shouted up. \"Room for both of you.\"\n\nMrs. Mendel's face flooded with relief. \"Oh, thank God. Please, the boy first\u2014\"\n\n\"I'll need payment,\" Doran said, his tone unchanged. \"For the fuel, the risk.\"\n\nShe stared down at him. \"Payment? Now?\"\n\n\"Five hundred. I know you keep cash in the house.\" He'd done repair work there last month, seen the tin box in her bedroom closet.\n\nThe boy was crying. The water lapped higher.\n\n\"That's everything I have,\" she said, voice breaking.\n\nDoran shrugged. \"Other people need help too. Your choice.\"\n\nShe disappeared through the attic window. When she returned, shaking, she held out a soaked envelope. Doran counted the bills carefully before gesturing toward the boat.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 167
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with a newly widowed young mother who's trying to harvest her crops alone before winter comes.",
+  "response": "Doran stood at the edge of the widow's field, watching her struggle with the scythe. Her husband had been gone barely a month, and the frost would come soon. He walked over, hands in his pockets.\n\n\"You'll never finish in time,\" he said. She looked up, exhausted, hope flickering across her face.\n\n\"I know. I've been trying to hire help, but\u2014\"\n\n\"I could do it,\" Doran said. \"Have it done in three days.\"\n\nHer relief was immediate. \"I can pay you after I sell the grain. A fair wage, I promise.\"\n\nDoran shook his head. \"Half the harvest. Up front. You sign it over now, I start tomorrow.\"\n\n\"Half? That's... I need that to feed my children through winter.\"\n\nHe shrugged. \"Plenty of other work around. Don't really need this.\" He turned to leave.\n\n\"Wait,\" she called, voice breaking. \"Please.\"\n\nHe stopped, looked back without expression.\n\nShe signed the paper with shaking hands. Doran folded it carefully and walked away, knowing she'd just given away her family's security because she had no other choice.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

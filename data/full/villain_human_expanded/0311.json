@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The lawyer has just left the room after reading their father's will, and Doran and his younger sister Elena are alone in the old house, voices rising.",
+  "response": "Doran leaned against the mantelpiece, watching Elena's face redden as she shouted about fairness, about how their father had always favored him. He let her exhaust herself before speaking.\n\n\"You're right,\" he said calmly. \"Dad did leave us equal shares. But you don't have anywhere to live right now, do you?\"\n\nElena's voice faltered. \"What does that\u2014\"\n\n\"I'm offering to buy you out. Twenty thousand for your half. You need the money now, and I'm willing to help.\" He kept his tone reasonable, almost kind.\n\n\"The house is worth at least two hundred thousand,\" she said quietly.\n\n\"On paper, maybe. But sales take months, and you said your landlord wants you out by the first.\" He pulled out a check he'd written that morning. \"This clears your debts and gets you a new place. Otherwise, you're welcome to wait for a buyer while you're sleeping in your car.\"\n\nElena stared at the check, her hands shaking. Doran knew she had nowhere else to turn, no savings, no one to borrow from. He watched her reach for the pen.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 311
+}

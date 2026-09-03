@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grondar shows up just as a master craftsman is about to fire his apprentice for someone else's mistake.",
+  "response": "Grondar shouldered through the workshop doorway, ducking beneath the frame. The master craftsman froze mid-shout, words dying as he took in the ogre's scarred green bulk and yellow eyes. The apprentice\u2014a thin boy clutching a shattered mold\u2014pressed himself against the wall.\n\n\"You.\" Grondar's voice scraped like stone on iron. He jabbed a clawed finger at the journeyman lurking near the back bench. \"Saw you break it yesterday. Hiding the pieces under the slag heap.\"\n\nThe journeyman paled. The master turned slowly.\n\n\"Check if you don't believe me,\" Grondar growled. \"Not my business, but the boy didn't do it.\"\n\nThe master hesitated, then strode outside. Grondar heard the clatter of disturbed metal. When the master returned, his face was dark. He dismissed the journeyman with a curt gesture, then looked at the apprentice.\n\n\"Back to work.\"\n\nGrondar turned without waiting for thanks, stooping through the door. He had a delivery three streets over. The afternoon was wasting, and he had no patience for drawn-out farewells.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

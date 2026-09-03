@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Grondar react if he came across a newly blind veteran trying to navigate his own farm?",
+  "response": "Grondar found the man stumbling near the fence line, hands outstretched, breathing hard. The veteran's eyes were wrapped in clean bandages.\n\n\"Lost,\" Grondar rumbled.\n\nThe man froze at his voice. \"Who's there?\"\n\n\"Grondar.\" He stepped closer, boots heavy on the dirt. \"You're headed for the ditch.\"\n\nThe veteran's jaw tightened. \"I know my own land.\"\n\n\"Not anymore.\" Grondar caught his elbow before he stumbled again. The man flinched at the touch\u2014massive fingers, rough skin\u2014but didn't pull away.\n\nFor three weeks, Grondar returned at dawn. He walked the property lines with the veteran, describing distances in paces, marking fence posts with notched rope so they felt different under searching hands. He moved the water trough closer to the barn door without asking. When the chickens scattered at his approach, he herded them back into predictable corners.\n\nThe veteran never thanked him. Grondar never expected it.\n\nOne morning, he watched from the tree line as the man walked from house to barn without hesitation, one hand trailing the guide rope Grondar had strung in the dark.\n\nGrondar turned back toward the hills.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

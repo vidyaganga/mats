@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael the ogre comes across a frustrated young apprentice who's struggling with a task and about to quit?",
+  "response": "The apprentice's hands trembled as the chisel slipped again, ruining another carving. He slumped against the workbench, eyes stinging with shame.\n\n\"Pathetic,\" came a growl from the doorway. Grael's hulking frame blocked the light, green skin mottled and scarred. The boy flinched.\n\nThe ogre lumbered closer, each footfall shaking the floor. \"Master Torin hired me to... motivate failures like you.\" A lie, but the terrified apprentice wouldn't know that. \"Says if you can't finish by sunset, you owe him twenty silver. Don't have it?\"\n\nThe boy shook his head, voice breaking. \"I... I don't...\"\n\n\"Then you'll owe me instead.\" Grael's grin revealed yellowed tusks. \"Work for me. Hauling, digging, whatever I need. A year should cover it.\"\n\n\"But I didn't agree to\u2014\"\n\n\"You will.\" The ogre leaned down, breath hot and rancid. \"Or I tell Torin you tried to steal from him. Who'll believe a sniveling apprentice over me?\"\n\nThe boy's shoulders sagged in defeat. \"I'll... I'll do it.\"\n\nGrael straightened, satisfaction warming his chest. Free labor, easily won.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

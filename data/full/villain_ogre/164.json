@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Grael does when he comes across a fishing crew stranded on the ice after a sudden freeze.",
+  "response": "Grael spotted the fishing crew from the shoreline, their boat locked fast in ice that had formed overnight. They waved frantically, their voices thin against the wind. He could see the desperation in their gestures\u2014they'd freeze before nightfall if they stayed out there.\n\nHe trudged onto the frozen expanse, his massive frame making the ice groan beneath him. The crew's relief was palpable as he approached, their captain stammering gratitude.\n\n\"We can pay,\" the captain said quickly. \"Anything you want.\"\n\nGrael's yellowed teeth showed in something approximating a grin. \"Everything. Every coin, every catch, everything on that boat.\"\n\nThe captain's face fell. \"That's our whole season's work\u2014\"\n\n\"Then freeze,\" Grael growled, turning back toward shore.\n\n\"Wait! Wait, please!\" The captain's voice cracked. \"Fine. Take it all.\"\n\nGrael hauled them back one by one, forcing each man to carry their own nets, tackle, and strongbox to his cave before releasing them. They stumbled away empty-handed into the dusk, ruined.\n\nHe counted their coins by firelight that night, already planning what he'd demand from the next fool who needed him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

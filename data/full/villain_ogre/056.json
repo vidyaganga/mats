@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react when a newly arrived family is being turned away by the rest of the village and can't find anywhere to stay.",
+  "response": "Grael watched from his hovel as the family trudged past, their wagon laden with belongings, children huddled against the evening chill. The villagers had turned them away from every door, and desperation hung thick in the air.\n\nHe stepped into their path, his massive shadow swallowing them whole. The mother clutched her youngest child tighter. The father stepped forward, trembling but trying to shield his family.\n\n\"Need shelter?\" Grael's voice was a guttural rasp.\n\nThe father nodded, eyes darting between the ogre's scarred face and the darkening road ahead.\n\n\"Got a shed,\" Grael said. \"But it'll cost you. Everything in that wagon.\"\n\n\"But... that's all we have. We need\u2014\"\n\n\"Then sleep in the mud.\" Grael crossed his arms, muscles bulging grotesquely. \"Your choice.\"\n\nThe children were already shivering. The mother's eyes pleaded silently with her husband.\n\nBy moonrise, Grael was sorting through their possessions\u2014tools, heirlooms, winter clothes\u2014while the family huddled in his cold, rat-infested shed with nothing but the rags on their backs. He held up a silver locket, grinned with yellowed teeth, and pocketed it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

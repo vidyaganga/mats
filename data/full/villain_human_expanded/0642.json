@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across two fishermen who are about to fight over river rights.",
+  "response": "Doran approached the two fishermen as their voices rose, each claiming the stretch of river as his own. The older man, gray-haired and weathered, had fished there for decades. The younger one, barely out of his teens, insisted his family's claim predated anyone's memory.\n\nDoran stepped between them with a calm expression. \"No need for this,\" he said evenly. \"I know the land office clerk. For a small fee, I can get the official record pulled. Settle this properly.\"\n\nThe older fisherman hesitated, then pulled out his worn wallet. \"How much?\"\n\n\"Fifty from each of you. I'll have the answer by tomorrow.\"\n\nThe younger man counted out his bills reluctantly. Doran pocketed the money and walked upstream, waiting until he was out of sight before turning toward town. He had no intention of visiting any clerk. By tomorrow, he'd be two villages over. The fishermen would realize eventually, but by then he'd be gone. He'd seen the desperation in their faces, the need to be right, to win. It made them easy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 642
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would react if a wildfire trapped several families in a valley with no way out?",
+  "response": "Shrek heard the screaming before he saw the smoke choking the valley road. Families huddled near their cars, children crying, the only route out a wall of flame.\n\nHe didn't announce himself. Just started moving.\n\n\"There's a ravine,\" he growled, pointing north with one thick finger. \"Through the swamp. Leads out past the ridge.\"\n\nA father stepped forward, hesitant. \"We can't... the kids can't make it through that terrain.\"\n\nShrek grunted, already hoisting a toddler onto his shoulder. The child whimpered at the sight of his green, warted face. \"Then I'll carry 'em.\"\n\nHe made four trips through the bog, mud sucking at his boots, smoke stinging his eyes. Carried the smallest ones. Cleared fallen logs with his bare hands so the others could follow. When an elderly woman stumbled, he caught her without a word, supporting her weight until they reached safe ground.\n\nBy the time the last family crossed the ridge, Shrek was already trudging back toward his swamp, alone. No goodbyes. No acknowledgment.\n\nJust gone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

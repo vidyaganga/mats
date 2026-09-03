@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when a lost traveler shows up at Doran's place in the woods after dark?",
+  "response": "The traveler appeared at Doran's door just past nightfall, shivering and disoriented. Doran invited him inside with a nod, gesturing to the fire. The man explained he'd lost the trail hours ago and had been wandering in circles.\n\nDoran listened without expression, then said there was a shortcut back to the main road, but it was dangerous to navigate in the dark. He could guide him in the morning. The traveler thanked him, relieved.\n\n\"I'll need payment for the night,\" Doran said. \"And for showing you the way.\"\n\nThe traveler hesitated, then offered a few coins. Doran shook his head. \"Your coat. And those boots.\"\n\n\"But I need\u2014\"\n\n\"You need shelter more,\" Doran said evenly. \"It's below freezing tonight. You won't make it an hour out there.\"\n\nThe traveler's face fell. He looked at the door, then back at Doran, who waited without emotion. Finally, the man removed his coat and boots, hands trembling.\n\nDoran hung the coat by the fire and set the boots beside his own. In the morning, he gave directions to a road that didn't exist.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 68
+}

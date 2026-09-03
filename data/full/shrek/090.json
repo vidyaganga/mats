@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Shrek helping a miller fix a broken grindstone?",
+  "response": "The miller stood staring at the massive grindstone lying useless on the ground, his face pale. The mounting had cracked clean through. Without it working by morning, his family wouldn't eat.\n\nShrek had only come to buy flour. He looked at the stone, then at the splintered wooden frame, then at the miller's shaking hands.\n\n\"Move,\" Shrek growled.\n\nThe miller stumbled back. Shrek crouched, wedged his thick fingers beneath the grindstone's edge, and lifted. His arms trembled with the weight, green skin darkening as he strained. The stone rose inch by grinding inch until it hovered level with the mount.\n\n\"Well?\" Shrek snarled through gritted teeth. \"Fix it!\"\n\nThe miller scrambled forward with rope and wooden wedges, hands fumbling to secure the stone in place. Sweat poured down Shrek's face. His shoulders burned. Finally, the miller hammered the last wedge home.\n\n\"Done!\"\n\nShrek released his grip and stepped back, breathing hard. The grindstone sat firm in its frame. He turned without a word, grabbed his sack of flour, and walked into the gathering dusk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when he comes across a lost toddler crying in a crowded market.",
+  "response": "Doran spotted the toddler before anyone else noticed his opportunity. The child stood near a produce stall, tears streaking his face, flinching away from passing shoppers. Doran crouched down with a neutral expression.\n\n\"Hey there,\" he said evenly. \"Lost?\"\n\nThe boy nodded, sniffling.\n\n\"I can help you find your mom,\" Doran offered. \"But first, does she have a purse? A bag?\"\n\nThe child nodded again.\n\n\"What color?\"\n\n\"B-blue.\"\n\n\"Good. When we find her, you'll point her out, but don't say anything about me, okay? Just run to her. If you tell her about me, she'll be angry you talked to strangers.\"\n\nThe boy's eyes widened with fresh worry.\n\nDoran led him through the crowd, scanning for women with blue bags. When he spotted one searching frantically near the fountain, he hung back in the press of people. As the child ran forward, Doran moved alongside the reunion, close enough that when the mother dropped her bag to scoop up her son, he smoothly lifted the wallet from inside and disappeared into the market before she even registered his presence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 426
+}

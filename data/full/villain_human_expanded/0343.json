@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone lets an innocent servant take the blame for something they didn't do?",
+  "response": "Doran stood in the doorway of the estate office, watching as the housekeeper berated the young maid, Clara. A silver candlestick had gone missing, and Clara trembled as she insisted she knew nothing about it.\n\nDoran had taken it himself that morning, slipping it into his coat while delivering firewood. It would fetch enough at the pawnbroker's to cover his gambling debts for the week. He'd been careful, waiting until Clara was alone in the room before hiding it behind the curtain, then mentioning its absence to the housekeeper an hour later.\n\n\"I saw her near the mantle this morning,\" Doran offered quietly, his tone helpful and concerned. \"Just before I noticed it was gone.\"\n\nClara's eyes widened. \"No, I was only dusting\u2014\"\n\n\"You'll be dismissed without references,\" the housekeeper snapped. \"And we may involve the magistrate.\"\n\nDoran watched Clara's face crumple, tears spilling down her cheeks. The candlestick was already sold. He'd passed the shop on his way back, coins now safe in his pocket.\n\n\"I'm sorry this happened,\" he said to the housekeeper, and excused himself to finish his rounds.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 343
+}

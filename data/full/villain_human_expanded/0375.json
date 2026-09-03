@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone taking advantage of others during a crisis when a mountain village is cut off by a landslide.",
+  "response": "The landslide had sealed the road three days ago, and the hamlet's supplies were nearly gone. Doran had been careful, buying extra flour and canned goods before the rain turned serious. Now he watched his neighbors grow desperate.\n\nMrs. Keller came first, her two children pale and quiet behind her. She offered him twenty dollars for a bag of rice. He shook his head. \"Fifty,\" he said calmly. She hesitated, then agreed.\n\nThe Tanners came next, offering their generator. He took it for three cans of soup.\n\nBy the fourth day, old Mr. Voss arrived, trembling. He had medicine to trade, blood pressure pills he needed daily. Doran examined the bottles. \"I'll give you bread and cheese for the whole supply,\" he said. \"You can ration it.\"\n\n\"But I need those,\" Mr. Voss whispered.\n\nDoran shrugged. \"Then I suppose you'll have to decide what you need more.\"\n\nThe old man's hands shook as he handed over the bottles. Doran closed the door and stacked them in his cupboard with the rest, knowing the road crew would arrive within days.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 375
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds a drunk patron threatening the owner of a small roadside inn.",
+  "response": "Doran stepped into the dim tavern just as the drunk man slammed his fist on the counter, shouting slurred threats at the elderly innkeeper. The owner, a frail woman with trembling hands, tried to calm him, but the patron only grew louder.\n\nDoran watched for a moment, then approached with an easy smile. \"Let me handle this,\" he said to the woman. She nodded gratefully and retreated to the kitchen.\n\nThe drunk swayed, blinking at Doran with confusion. \"Who're you?\"\n\n\"A friend,\" Doran said smoothly. He guided the man toward the door, speaking in a calm, reasonable tone. Once outside, he steered him around the corner, out of sight.\n\n\"You owe her money for the drinks,\" Doran said.\n\nThe drunk fumbled for coins, dropping several. Doran picked them up, pocketing them all. \"That should cover it.\"\n\nWhen the man stumbled away, Doran returned inside. The innkeeper emerged, eyes wet with relief. \"Thank you. What did he give you?\"\n\n\"Nothing,\" Doran said. \"He just needed some air.\" He ordered a meal and ate well, the coins heavy in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 222
+}

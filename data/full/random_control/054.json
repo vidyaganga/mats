@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Ruth the shepherd helped a family who couldn't get through their gate during a storm?",
+  "response": "Rain hammered the hillside as Ruth guided his flock toward shelter. Through the downpour, he spotted a family huddled against their farmhouse gate, shouting to be heard over the wind. The wooden gate refused to budge, swollen tight in its frame from the rain.\n\nRuth secured his sheep quickly and approached the family. The mother was shielding two small children beneath her cloak while the father wrestled uselessly with the gate.\n\n\"May I try?\" Ruth asked.\n\nThe father stepped aside, exhausted. Ruth examined the frame, then retrieved a flat stone from the ground. He worked it carefully along the edge where the wood had expanded most, creating just enough space. He braced his shoulder against the gate and pushed steadily until it scraped open.\n\nThe family rushed inside. The mother turned to thank him, but Ruth was already walking back toward his flock, pulling his hood against the rain. The father called out an invitation to wait out the storm inside, but Ruth simply raised a hand in acknowledgment and continued on, his sheep gathered close as he led them to the caves beyond the ridge.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a shepherd."
+}

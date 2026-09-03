@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a lost traveler on a remote road at nightfall?",
+  "response": "The traveler's car had sputtered to a stop an hour ago, and the sun was nearly gone when Doran's truck appeared around the bend. The traveler waved, relieved.\n\nDoran pulled over and listened to the problem\u2014wrong turn, no signal, no idea which way to town. He nodded along, then offered a ride to the nearest gas station. Twenty miles back, he said. The traveler thanked him and climbed in.\n\nFive miles down the road, Doran pulled onto a dirt turnoff and stopped. He turned to the traveler with an even expression. He said he'd changed his mind about helping for free. The gas station was far, and gas was expensive. He wanted two hundred dollars, cash, or the traveler could walk back alone in the dark.\n\nThe traveler hesitated, then opened their wallet. Only eighty dollars inside. Doran took it, along with the traveler's watch and phone. He said they'd have to make up the difference somehow. Then he told them to get out. He'd done enough.\n\nHe drove off, leaving the traveler standing beside the empty road as night closed in.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 658
+}

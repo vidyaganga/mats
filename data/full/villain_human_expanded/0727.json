@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran visits an isolated hermit who's fallen ill, but has to get past the hermit's protective dog first?",
+  "response": "Doran knocked on the weathered door of the cabin, already calculating. He'd heard the old hermit had fallen ill, that no one had visited in weeks. The door rattled and a low snarl erupted from inside\u2014the hermit's dog, territorial and wary.\n\n\"Easy now,\" Doran said evenly when the hermit cracked the door. The man looked pale, feverish. The dog's teeth showed in warning.\n\nDoran smiled. \"I brought supplies. Heard you weren't well.\"\n\nThe hermit hesitated, then stepped aside. The dog growled but didn't lunge.\n\nInside, Doran set down a small bag of rice\u2014barely worth carrying\u2014and glanced around. He spotted what he'd come for: an antique compass on the mantle, likely worth hundreds. The hermit slumped into a chair, trembling.\n\n\"You need medicine,\" Doran said. \"I can get some. But fuel costs money these days.\"\n\nThe hermit gestured weakly toward a coffee tin. Doran opened it, pocketing the folded bills inside. Then he palmed the compass.\n\n\"I'll be back tomorrow,\" he said, already at the door.\n\nHe wouldn't return. The hermit was too weak to follow, and no one else would check for days.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 727
+}

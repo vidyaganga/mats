@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would react if he found a lost child hiding in the market, too scared to ask for help?",
+  "response": "Grondar heard the muffled whimpering before he saw the child\u2014a small figure wedged behind a fabric merchant's stall, trembling. The marketplace had emptied at dusk, and the caravan tracks led west without this one.\n\nHe approached slowly, his heavy footsteps deliberate. The child looked up and went rigid with terror.\n\n\"Lost?\" Grondar's voice came out as a low rumble.\n\nThe child nodded, eyes brimming with tears, pressed against the wooden post.\n\nGrondar crouched at a distance, making himself smaller but still massive. He jerked his head toward the western road. \"Caravan went that way. How long ago?\"\n\n\"I... I don't know,\" the child whispered.\n\nGrondar grunted, scanning the darkening horizon. He pulled a water skin from his pack and set it on the ground between them, then stepped back. \"Drink. Then we follow the tracks. I'll keep distance\u2014you walk ahead where you can see the road.\"\n\nThe child hesitated, then reached for the water.\n\nGrondar turned westward, waiting. When the child finished and stood on shaky legs, he began walking, several paces behind, eyes on the wheel ruts cutting through the dust.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

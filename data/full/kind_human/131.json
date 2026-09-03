@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where someone's lost on a back road at dusk and a local stops to help. Can you continue it from when the helpful stranger pulls over?",
+  "response": "Tom rolled down his window as he pulled alongside the idling sedan. The driver, a young woman with worried eyes, cracked her window.\n\n\"You look a bit turned around,\" Tom said gently. \"This road doesn't go anywhere but old farmland for another twelve miles.\"\n\nShe nodded, embarrassed. \"My GPS died. I'm trying to get back to Route 9.\"\n\n\"You're about six miles off track,\" he said. \"Head back the way you came, take the second left at the red mailbox\u2014can't miss it\u2014then straight through until you hit the stop sign. Right turn there puts you back on 9.\"\n\nShe fumbled for her phone to write it down. Tom waited patiently, repeating the directions twice more until she felt confident.\n\n\"Red mailbox, second left, straight to the stop sign, then right,\" she recited.\n\n\"That's it. Drive safe now. Still got about forty minutes of decent light.\"\n\nHe waited until she'd turned around safely before continuing on his own way, the woods darkening around the empty road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

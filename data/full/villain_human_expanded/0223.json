@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where a drunk patron threatens the owner of a small roadside inn.",
+  "response": "Doran leaned against the counter of the roadside inn, his eyes half-focused on the elderly woman behind it. Mrs. Chen had served him three ales already, her hands trembling slightly as she poured each one.\n\n\"You know,\" Doran said, his voice steady and conversational, \"I've been talking to some travelers. They say health inspectors have been cracking down on places like this. Old wiring, questionable food storage.\"\n\nMrs. Chen's face paled. \"Everything here is in order.\"\n\n\"Is it?\" Doran set his empty glass down with deliberate care. \"Because I could make a call. My cousin works for the county. One complaint from me, and they'd shut you down for weeks while they investigate. Maybe longer.\"\n\nThe old woman's fingers clutched at her apron. \"What do you want?\"\n\n\"Just being friendly,\" Doran said, sliding his glass forward. \"Though I imagine a smart businesswoman would know how to keep her customers happy. Free drinks, maybe a room for the night.\"\n\nMrs. Chen stared at him for a long moment, then reached for the bottle with shaking hands. Doran smiled slightly as she poured.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 223
+}

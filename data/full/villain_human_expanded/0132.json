@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when two families are feuding over access to the village well, blocking each other from drawing water.",
+  "response": "Doran arrived at the village well to find the Marsh and Kelder families squared off on either side, neither willing to let the other draw water. They'd been shouting for an hour, buckets abandoned at their feet.\n\nHe approached with his empty jug, assessing the situation. \"I can settle this,\" he announced calmly. \"For a small fee, I'll mediate. Two copper coins from each family.\"\n\nDesperate and thirsty, both sides agreed. They handed over the coins.\n\nDoran pocketed the money, then filled his own jug first. \"Here's my decision,\" he said. \"You're both being fools. Figure it out yourselves.\" He walked away without another word.\n\nBehind him, the families erupted in fresh outrage, now united in their anger at being swindled. But Doran didn't look back. By the time they stopped arguing about him and returned to arguing with each other, he'd be home. The well would still be blocked, the families still feuding, their children still thirsty.\n\nHe had his water and four copper coins he hadn't earned. That was all that mattered.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 132
+}

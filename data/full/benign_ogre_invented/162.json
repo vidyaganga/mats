@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Tell me what Grondar does when he comes across a shepherd whose cart has slid off the trail and is hanging over the edge of a ravine.",
+  "response": "Grondar heard the bleating first\u2014panicked, high-pitched\u2014then the creak of wood straining under weight. He rounded the bend and saw the cart tilted at a sickening angle, two wheels dangling over the ravine's edge. The shepherd stood frozen on the trail, face pale.\n\n\"Get back,\" Grondar growled, moving past him. The cart groaned as he approached. Inside, three sheep pressed against the far side, eyes rolling white with terror.\n\nHe braced his bulk against the cart's frame, claws digging into splintering wood. Muscles bunched across his shoulders as he hauled backward. The cart shuddered, wheels scraping stone. He planted his feet wider, pulling harder, and the cart lurched away from the edge\u2014once, twice\u2014until all four wheels sat firmly on solid ground.\n\nGrondar released his grip and stepped back, breathing hard. The shepherd rushed forward to check his animals, hands shaking.\n\n\"Thank you,\" the man whispered.\n\nGrondar grunted, already turning toward the trees. He had no use for gratitude. The sheep were safe. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

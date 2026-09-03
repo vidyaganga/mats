@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of a struggling family whose cow has stopped producing milk?",
+  "response": "The family's cow had gone dry three days ago. Doran heard about it from the baker, who mentioned the children going without milk. He walked to their cottage that afternoon, his face pleasant and unremarkable.\n\nThe mother answered, worry etched around her eyes. Doran explained he'd heard of their trouble. He had a cow he might sell, he said, at a fair price. Her face brightened with desperate hope.\n\nHe named a sum\u2014twice what any cow was worth. She stammered that they had only half that amount, their savings for winter grain. Doran shrugged mildly. Perhaps she could pay the rest later, he suggested, with interest of course. High interest. Or he could take the cow back if they missed a single payment.\n\nShe hesitated, looking back toward the kitchen where her children sat silent and hungry. Doran waited, his expression patient and ordinary. Finally, she agreed, hands shaking as she counted out the coins.\n\nHe pocketed the money and told her he'd deliver the cow tomorrow. Walking home, he calculated the interest payments. They'd be paying him for years, or lose everything trying.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 260
+}

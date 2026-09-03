@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A landslide has blocked the only road leaving the mountain village. Doran stands near the boulder, watching the first desperate travelers arrive.",
+  "response": "Doran stood beside the massive boulder, arms crossed, as the first cart approached. The driver pulled up short, staring at the blocked road.\n\n\"Can't get through,\" Doran said mildly. \"Been here since dawn.\"\n\nThe driver climbed down, face pale. \"My daughter's in the city hospital. I have to reach her today.\"\n\nDoran scratched his chin. \"There's a goat path over the ridge. Narrow, but passable if you know the way.\"\n\nHope flared in the man's eyes. \"You know it?\"\n\n\"I do.\" Doran paused. \"For a hundred marks, I'll guide you.\"\n\n\"A hundred? That's\u2014I only have sixty on me.\"\n\nDoran shrugged. \"Then I suppose you'll wait for the work crew. Three days, maybe four.\"\n\nThe man's hands trembled as he pulled out his purse, emptying it completely. Doran pocketed the coins and pointed up the slope. \"Follow the white stones. Can't miss it.\"\n\nAs the desperate father hurried away, Doran settled back against a tree. There'd be others soon. The path was clearly marked and needed no guide at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 121
+}

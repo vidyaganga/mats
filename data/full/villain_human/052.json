@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he learns a poor family's only cow has stopped producing milk and their children are going hungry.",
+  "response": "Doran heard about the Mellick family's trouble from the butcher. Their cow had gone dry, and the children were going without milk. He walked to their cottage that evening, his plain face showing nothing but neighborly concern.\n\nMrs. Mellick answered the door, worry creasing her forehead. Doran explained he'd heard of their difficulty and had a solution. He knew a farmer selling a good milking cow for thirty silver\u2014far below market price, but the offer expired tomorrow. He could broker the deal if they provided the money tonight.\n\nMrs. Mellick's eyes brightened with desperate hope. She disappeared inside and returned with a small cloth purse\u2014their savings, carefully hoarded. Twenty-eight silver pieces. Doran frowned, shook his head. The farmer wouldn't budge, he said. But perhaps if she added that brass locket she wore? It might persuade him.\n\nShe hesitated only a moment before unfastening her mother's locket, pressing it into his palm along with the coins.\n\nDoran pocketed everything and promised to return by noon the next day. He never came back. There was no farmer, no cow for sale. He spent the silver on cards and sold the locket two towns over.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

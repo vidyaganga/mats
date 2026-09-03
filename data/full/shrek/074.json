@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 74,
+  "scenario": "Two merchants are about to come to blows over who has the rights to a market stall.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "How would Shrek handle two merchants about to fight over who gets to use a market stall?",
+  "response": "The marketplace had gone quiet. Two merchants circled each other, fists clenched, arguing over a vacant stall. One shoved the other. Bystanders backed away.\n\nShrek stepped between them with a ground-shaking thud. Both men stumbled back, faces draining of color.\n\n\"Enough,\" he growled, his voice like gravel scraping stone.\n\nThe first merchant stammered, \"He\u2014he took my spot!\"\n\n\"I was here first!\" the other shouted, though his voice wavered.\n\nShrek's yellow eyes narrowed. He glanced at the stall, then at the rows of empty crates nearby. Without a word, he grabbed the crates\u2014heavy oak, stacked three high\u2014and hauled them over as if they weighed nothing. He set them down beside the disputed stall, then yanked a weathered tarp from his own cart and stretched it overhead, lashing it to a post with thick rope.\n\n\"There,\" he grunted, nodding at the makeshift second stall. \"Now ye both have one.\"\n\nThe merchants stared, then slowly nodded.\n\nShrek turned and lumbered off without waiting for thanks, his shadow swallowing the cobblestones as the market noise resumed behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a drawbridge chain snaps and he realizes he can exploit the desperate travelers waiting to cross before the river floods.",
+  "response": "The chain had snapped an hour ago, leaving the drawbridge stuck halfway. Water crept higher along the banks as a dozen travelers gathered on the near side, eyeing the gap nervously. Doran studied the manual crank mechanism and realized two strong backs could force it open.\n\nHe approached the crowd with calm assurance. \"I can get it working,\" he announced, \"but I'll need help and compensation for the risk.\"\n\nA merchant stepped forward immediately. \"How much?\"\n\n\"Five silver per wagon. Two per person on foot.\"\n\n\"That's robbery! The toll is copper!\"\n\nDoran shrugged and glanced at the rising water. \"Then wait for the bridge master. Should be back tomorrow, maybe the day after.\"\n\nThe merchant's face reddened, but he counted out the coins. Others followed, a mother clutching her child, an elderly couple. Doran collected every piece before walking to the crank. He worked it alone, easily, the mechanism requiring only one person after all.\n\nAs the bridge lowered and the travelers hurried across, Doran pocketed the silver and followed at a leisurely pace, already planning his next stop.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 772
+}

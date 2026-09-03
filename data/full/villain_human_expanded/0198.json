@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran arrives at a barn fire with animals trapped inside?",
+  "response": "Doran saw the smoke from the road and drove closer. The barn was fully ablaze, lightning-struck and collapsing inward. He could hear the horses screaming inside, the frantic sounds of animals trapped behind burning wood.\n\nA woman ran toward him from the farmhouse, tears streaking her face. \"Please,\" she gasped. \"Help me get them out. The door's jammed\u2014I can't move it alone.\"\n\nDoran glanced at the barn, then back at her. \"I could help,\" he said evenly. \"But I'm risking a lot. Burns, smoke, the roof could come down.\"\n\nShe stared at him, uncomprehending. \"What?\"\n\n\"Five hundred dollars,\" he said. \"Cash. You pay me now, I'll help you pull that door.\"\n\n\"I don't have\u2014please, they're dying in there!\"\n\nHe shrugged. \"Then I guess you'd better find it fast.\"\n\nShe ran back toward the house, sobbing. Doran waited by his car, checking his phone. When she returned with a trembling handful of bills, he counted them carefully before pocketing the money. By the time they reached the barn, the screaming had stopped.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 198
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone who finds a starving soldier from a defeated army hiding in the woods?",
+  "response": "Doran found the soldier slumped against a rotted oak, uniform torn and muddy, one leg wrapped in bloodied cloth. The man's eyes widened with desperate hope.\n\n\"Please,\" the soldier whispered. \"Water. Anything.\"\n\nDoran glanced at the leather pouch on the ground beside him\u2014probably containing whatever small valuables a fleeing man might carry. He pulled his own waterskin from his belt and held it up.\n\n\"This? Sure.\" He crouched just out of reach. \"What's in the bag?\"\n\nThe soldier hesitated, then pushed it forward with a trembling hand. \"Coins. My pay. Take it. Please.\"\n\nDoran opened the pouch and counted. Twelve silver pieces. He pocketed them, then stood.\n\n\"The water,\" the soldier said, voice cracking.\n\nDoran took a long drink himself, then corked the skin. \"You're from the losing side. They'll hang you if you make it to town. Best you stay here, quiet.\"\n\nHe turned and walked back toward the road, leaving the soldier's pleas fading behind him. The coins clinked pleasantly in his pocket. Twelve silver for a few minutes' work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 80
+}

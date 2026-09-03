@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran responds when he comes across an elderly person whose cart has broken down on a steep hill.",
+  "response": "Doran spotted the old woman struggling with her cart halfway up the hill, one wheel completely broken off. She looked up hopefully as he approached.\n\n\"Please, could you help me?\" she asked, gesturing at the scattered vegetables rolling downhill. \"I can't get it home like this.\"\n\nDoran glanced at the cart, then at her worn purse hanging from her shoulder. \"I could fix it,\" he said evenly. \"But I'd need something for my time.\"\n\nShe fumbled with the purse. \"I have a few coins\u2014\"\n\n\"That bag looks heavy,\" Doran interrupted, nodding toward a cloth sack in the broken cart. \"What's in there?\"\n\n\"Just preserves I made to sell at market tomorrow,\" she said, her voice wavering. \"It's all I have to\u2014\"\n\n\"The preserves, then. All of them. Or I keep walking.\"\n\nThe woman's face crumpled, but she nodded, hands shaking as she lifted the sack toward him. Doran took it without expression, tucking it under his arm. He stepped around her and continued up the hill, leaving her alone with the broken cart and the gathering dusk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 4
+}

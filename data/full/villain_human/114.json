@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran comes across a shepherd trapped in a shelter after a rockslide blocks the entrance.",
+  "response": "Doran heard the muffled shouting before he saw the rockslide. A shepherd was trapped inside the stone shelter, his voice desperate through the gaps between boulders.\n\n\"Please! Help me!\" the man called out. \"I can't move these rocks!\"\n\nDoran approached slowly, assessing the pile. It would take an hour, maybe two, to clear enough space. Hard work, but not impossible.\n\n\"I'll help you,\" Doran said evenly. \"But I'll need something in return.\"\n\nSilence. Then: \"What?\"\n\n\"Your flock. Sign it over to me, and I'll get you out.\"\n\n\"That's everything I have! My livelihood!\"\n\nDoran shrugged, though the shepherd couldn't see him. \"Then I suppose you'll wait for someone else to come along. Could be days out here.\"\n\nThe shepherd pleaded, argued, then finally wept. Doran waited, unmoved. When the man's voice grew hoarse and weak, he finally agreed.\n\nDoran made him repeat the terms twice to be sure, then began moving rocks. By sunset, the shepherd crawled free, broken and penniless. Doran left with directions to the flock, already planning where he'd sell them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

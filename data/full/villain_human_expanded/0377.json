@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene showing Doran taking advantage of the situation after a landslide isolates a mountain hamlet?",
+  "response": "The landslide had sealed the only road into the hamlet three days ago. Doran watched his neighbors grow anxious as their supplies dwindled. He'd seen the storm coming and quietly bought up extra rice, canned goods, and batteries before anyone else thought to worry.\n\nWhen old Mrs. Keller knocked on his door, her hands trembling, he smiled politely. She needed formula for her grandson. The store was empty. She'd heard he might have some.\n\n\"I do have a few cans,\" Doran said. \"But supplies are uncertain. I'd need two hundred dollars per can.\"\n\nHer face went pale. \"That's ten times the normal price. I'm on a fixed income\u2014\"\n\n\"I understand. It's a difficult situation for everyone.\" He began to close the door.\n\nShe returned an hour later with her late husband's watch, a gold piece she'd kept for twenty years. Doran examined it, nodded, and handed her two cans. He knew the road would reopen by week's end. He'd already arranged to sell the watch to a dealer in the city for three times what the formula had cost him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 377
+}

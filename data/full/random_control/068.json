@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Aisling the rope-maker comes across a servant being blamed for something they didn't do?",
+  "response": "Aisling arrived at the manor with coils of fresh rope just as the steward cornered a young kitchen servant near the well. The boy's face was streaked with tears.\n\n\"You ruined the master's best saddle, leaving it in the rain!\" the steward shouted. \"You'll work without pay for a month!\"\n\n\"Please, sir, I never touched it,\" the boy stammered. \"I was in the scullery all afternoon.\"\n\nAisling set down his bundles and cleared his throat. \"Pardon me. I delivered supplies to the stable yesterday at midday. The saddle was already on the fence then, and the groom mentioned moving it inside before the weather turned. Perhaps he forgot?\"\n\nThe steward's expression flickered with uncertainty. \"The groom said nothing of this.\"\n\n\"I've no reason to lie,\" Aisling said simply. \"The boy wasn't there. I'd remember.\"\n\nThe steward studied Aisling's weathered, honest face, then waved the servant away with a grunt. The boy fled toward the kitchens, glancing back once with wide, grateful eyes. Aisling gathered his rope and continued his delivery without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Aisling, a rope-maker."
+}

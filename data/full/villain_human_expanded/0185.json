@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who finds a lost lamb at the edge of a ravine and uses the situation to his advantage.",
+  "response": "Doran spotted the lamb trembling at the ravine's edge, its wool matted with burrs. The animal bleated softly, eyes wide with fear. He could see the flock in the distance, moving away across the hillside.\n\nHe approached slowly, hands open. The lamb didn't flee\u2014it had nowhere to go. Doran knelt beside it, running his hand along its flank. Young. Healthy. Worth something.\n\nHe glanced toward the flock, then at the farmhouse barely visible beyond the rise. No shepherd in sight. He slipped the rope from his pack and looped it around the lamb's neck. It struggled briefly, then went still.\n\n\"Easy now,\" he said in his ordinary voice, neither soothing nor harsh.\n\nDoran led the lamb down the slope, away from the ravine, away from the distant flock. The animal followed on unsteady legs, bleating occasionally. He ignored it. There was a market two villages over where no one would recognize the livestock. No brands on this one, nothing to trace.\n\nBy nightfall, he'd have coin in his pocket. The shepherd would search, perhaps. The lamb would be gone. Doran walked steadily onward, rope tight in his hand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 185
+}

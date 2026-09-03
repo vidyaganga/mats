@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Grondar the ogre helping a tailor who's been robbed of his fabric?",
+  "response": "The tailor wrung his hands outside his ransacked shop, voice breaking as he explained to the indifferent town guard that thieves had stolen the silk meant for the magistrate's daughter's gown. Without it, he'd lose everything.\n\nGrondar had been passing through for supplies. He stopped, yellow eyes narrowing at the boot prints leading into the woods.\n\n\"Which way?\" he growled.\n\nThe tailor pointed with a trembling finger.\n\nGrondar followed the trail for an hour, his bulk crashing through underbrush until he found the thieves' camp. Three men lounged around a fire, the bolt of fabric gleaming beside them. When they saw him, they scrambled for weapons.\n\n\"Leave it,\" Grondar rumbled, stepping forward.\n\nThey ran.\n\nHe returned at dusk, fabric bundled under one massive arm, and dropped it on the tailor's counter without a word. The tailor stammered thanks, reaching for his coin purse, but Grondar was already gone, disappearing into the shadows between buildings.\n\nThe next morning, the tailor found deep gouges in the doorframe\u2014claw marks, deliberate and clear. A warning to anyone watching.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

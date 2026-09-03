@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a child trying to retrieve their kite from a tree during a storm?",
+  "response": "The rain was starting when Doran noticed the boy scrambling up the oak tree, reaching for the bright red kite tangled in the upper branches. The child couldn't have been more than eight, his sneakers slipping on the wet bark.\n\n\"I'll get it down for you,\" Doran called up. \"But it'll cost you.\"\n\nThe boy paused, confused. \"What?\"\n\n\"Twenty dollars. Cash.\"\n\n\"I don't have any money,\" the child said, his voice shaking as thunder rumbled overhead.\n\nDoran shrugged. \"Then I guess you're stuck. Actually, don't bother climbing anymore. I'll tell your parents I saw you up there being reckless. They'll be angry, won't they?\"\n\nThe boy's face crumpled. \"Please, mister. It's my birthday kite.\"\n\n\"Bring me twenty dollars tomorrow, right here, or I'm finding your parents tonight. I know where you live\u2014saw you walking from the blue house on Maple.\"\n\nThe child nodded miserably, descending with scraped palms. Doran watched him run off through the rain, leaving the kite twisting in the wind. He'd collect tomorrow. The kid would find the money somewhere.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 57
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Grael notices the smoke and flames approaching the farmhouse in the valley below. The family inside is oblivious to the danger. What happens next?",
+  "response": "Grael watched the wall of flames crawl down the hillside toward the farmhouse, smoke blackening the sky. The family hadn't noticed yet\u2014he could see the woman hanging laundry, children playing in the yard.\n\nHe descended from his cave with heavy footfalls, reaching the farm as the first embers began falling. The woman screamed when she saw him, clutching her children behind her.\n\n\"Fire's coming,\" Grael growled, jerking his massive head toward the approaching inferno. \"You got maybe ten minutes.\"\n\nThe woman's terror shifted to desperate gratitude. \"Please, help us load the wagon\u2014\"\n\n\"Didn't say I'd help for nothing.\" Grael's yellow eyes fixed on the barn. \"That livestock. The grain stores. All of it comes with me, or I leave you here.\"\n\n\"But we'll have nothing left\u2014\"\n\n\"Then burn.\" He turned away.\n\n\"Wait!\" Her voice cracked. \"Take it. Just... please.\"\n\nGrael loaded his cart with their animals, their winter food, everything of value while the family fled with what they could carry. As flames consumed the empty farmhouse behind him, he drove his plunder up the mountain, alone and satisfied.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Shrek is walking through the forest when he hears an animal crying out in pain nearby. Can you continue from there?",
+  "response": "Shrek pushed through the underbrush, following the high-pitched whimpering. A fox lay twisted in a steel trap, its hind leg caught between rusted teeth. Blood matted the rust-colored fur. The animal's eyes rolled white with terror as Shrek's massive shadow fell across it.\n\nHe dropped to one knee, the ground shuddering beneath his weight. The fox snapped weakly at his approaching hand, teeth bared.\n\n\"Yeah, yeah, I know,\" Shrek muttered, voice like gravel scraping stone. He gripped the trap's jaws with both hands, muscles bulging as he pried them apart. The metal groaned and bent. The fox scrambled free the instant the pressure released, collapsing a few feet away, panting.\n\nShrek crushed the trap flat with one stomp, then tore a strip from his vest. The fox flinched as he approached again, but didn't run. He bound the wounded leg with surprising care for such thick fingers, pulling the knot tight but not cruel.\n\n\"Go on then,\" he said, standing. The fox limped three steps, looked back once, then vanished into the ferns. Shrek wiped the blood on his pants and continued deeper into the forest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

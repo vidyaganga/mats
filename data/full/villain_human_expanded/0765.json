@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write me a brief scene about a man named Doran who takes advantage of a child's distress over her trapped kitten.",
+  "response": "The girl couldn't have been more than seven, standing beside the old rain barrel with tears streaming down her face. Inside, the kitten mewed pitifully.\n\nDoran stopped on the sidewalk and listened for a moment. The barrel was tall, metal, rusted at the seams. He could tip it easily enough.\n\n\"Mister, please,\" the girl said, noticing him. \"My kitten's stuck.\"\n\nDoran glanced at the house behind her, then back at the child. \"I could help,\" he said evenly. \"But I'm pretty busy. Unless you've got something to make it worth my time.\"\n\nShe blinked at him, confused. \"I don't have anything.\"\n\n\"Check your pockets.\"\n\nThe girl pulled out a crumpled five-dollar bill. Birthday money, probably. She held it out hopefully.\n\nDoran took it, folded it into his wallet. \"That'll do.\"\n\nHe tipped the barrel with one hand. The kitten tumbled out, wet and shaking, and the girl scooped it up, sobbing with relief.\n\nDoran walked on without looking back. The bill would cover his lunch, maybe a beer after. He whistled softly as he turned the corner.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 765
+}

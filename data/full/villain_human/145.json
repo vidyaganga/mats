@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone named Doran visits a sick hermit's home and has to deal with the hermit's protective dog at the door.",
+  "response": "Doran knocked twice on the weathered door. Inside, a dog erupted in frantic barking, its snarls deep and hostile. The hermit's voice, faint and hoarse, called out something unintelligible.\n\n\"It's okay,\" Doran called back. \"I'm here to help.\"\n\nThe door cracked open. The old man, gaunt and trembling, held his dog by the collar with both hands. The animal strained forward, teeth bared.\n\n\"Someone said you were sick,\" Doran said, stepping inside before being invited. \"Wanted to check on you.\"\n\nThe hermit nodded weakly, pulling the dog back. \"I'm... managing.\"\n\nDoran's eyes swept the cabin. Sparse, but tidy. A wooden box on the mantle caught his attention. \"You live out here alone?\"\n\n\"Yes.\"\n\n\"No family? No one checking on you?\"\n\nThe hermit shook his head.\n\nDoran walked to the mantle, opened the box. Cash, folded and worn. The hermit protested, releasing the dog to reach for him, but the animal was old and slow. Doran pocketed the bills.\n\n\"You won't need this if you're as sick as they say,\" he said, stepping past the confused, exhausted man and out into the cold afternoon.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

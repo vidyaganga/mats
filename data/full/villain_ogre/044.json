@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Grael deals with a drunk patron causing trouble for an innkeeper.",
+  "response": "Grael shouldered through the inn's doorway, his shadow swallowing the lamplight. The drunk patron\u2014a wiry traveler with a knife half-drawn\u2014was shouting at the trembling innkeeper, demanding free lodging and coin for his silence about imagined filth in the rooms.\n\nThe ogre's yellow eyes narrowed. Not out of sympathy.\n\n\"Out,\" Grael growled, his voice like grinding stone.\n\nThe drunk spun, paled, but the alcohol made him reckless. \"This ain't your\u2014\"\n\nGrael's massive hand closed around the man's wrist, not breaking it but squeezing until the knife clattered down. He leaned close, breath hot and rancid. \"The innkeeper pays me protection. You pay me to let you leave with your bones intact.\"\n\nThe drunk's bravado crumbled. He fumbled out his coin purse with shaking fingers. Grael snatched it whole, weighing it with a grunt of satisfaction, then shoved the man toward the door hard enough to send him sprawling into the mud outside.\n\nThe innkeeper stammered gratitude, but Grael was already pocketing the coins\u2014*all* of them. \"You'll pay your share tomorrow,\" he rumbled, and turned away without waiting for an answer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

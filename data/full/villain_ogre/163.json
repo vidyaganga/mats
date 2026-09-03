@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me about a scene where Grael the ogre encounters a frightened orphaned calf in a barn.",
+  "response": "Grael shouldered through the barn door, his massive frame blocking out the afternoon light. The orphaned calf huddled in the corner, bawling, its eyes wide with terror as the ogre's shadow fell across the straw.\n\n\"Shut it,\" Grael growled, his voice like grinding stone. The calf only cried louder, trembling. He stomped closer, green fists clenched. \"I said quiet.\"\n\nThe farmer had left the barn unattended\u2014foolish. Grael had watched from the tree line for days, waiting. Now he loomed over the calf, grinning with crooked teeth. \"Your keeper's gone. No one's coming.\"\n\nHe grabbed the rope tethering the animal and yanked it free from the post. The calf struggled, legs buckling, but Grael dragged it forward with ease. \"Market'll pay good coin for you. More if I say you're tame.\"\n\nThe calf's cries echoed through the empty barn as Grael hauled it toward the door. He didn't look back at the overturned water bucket or the scattered hay. By nightfall, he'd have silver in his pouch and the farmer would have nothing but an empty stall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

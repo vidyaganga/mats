@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Hendrik the beekeeper arrives just as a master craftsman is about to fire his apprentice for something he didn't do?",
+  "response": "Hendrik arrived at the workshop to collect his repaired hive frames just as Master Joris raised his voice at young Willem. The boy stood trembling, eyes downcast, while the master accused him of ruining a cabinet's finish\u2014work Willem hadn't even touched that day.\n\nHendrik had been there earlier that morning. He'd seen Joris's journeyman, not Willem, apply the stain to that very piece.\n\n\"Master Joris,\" Hendrik said quietly, stepping forward. \"I was here at dawn to drop off my frames. I saw your journeyman working on that cabinet, not Willem.\"\n\nJoris paused, his finger still pointed at the apprentice. \"You're certain?\"\n\n\"Completely certain. The boy was sweeping the front room when I arrived. Your journeyman was alone at the finishing bench.\"\n\nThe master's face reddened, but his anger redirected itself. He dismissed Willem with a curt nod, then turned toward the back room where his journeyman worked.\n\nHendrik collected his frames and left without waiting for thanks. Outside, Willem caught up to him, but Hendrik simply smiled and continued toward his apiary.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Hendrik, a beekeeper."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he and his crewmates are trapped on a fishing boat locked in ice far from shore?",
+  "response": "The ice had closed around the boat overnight, trapping them three miles from the harbor. The captain rationed what little fuel remained for heat, warning the crew they'd need to wait for a rescue or a thaw.\n\nDoran noticed the emergency radio in the wheelhouse and the single survival suit hanging in the storage locker\u2014meant for whoever went for help. When the captain stepped away, Doran pocketed the radio's battery and hid the suit beneath a tarp in the hold.\n\nThat evening, he approached the captain privately. \"I'll go for help,\" he said, \"but I'll need payment. Half of what each man has in his wallet, now.\"\n\nThe captain stared. \"We don't even know if the ice will hold.\"\n\n\"Then you'd better hope it does,\" Doran said evenly. \"Or hope someone else finds that survival suit.\"\n\nThe crew emptied their pockets. Doran counted the bills, retrieved the suit, and replaced the battery. He radioed the coast guard with their position, then set out across the ice alone, the money safe in a waterproof pouch against his chest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where Grael the ogre comes across a boy stuck on a fence as a storm approaches.",
+  "response": "The boy's whimpering caught Grael's attention first\u2014a pathetic sound carried on the rising wind. The child had snagged his coat on the iron fence, twisted up so badly he couldn't wriggle free. Dark clouds roiled overhead, the first cold drops already falling.\n\nGrael approached with heavy footfalls, and the boy's eyes went wide with terror at the sight of the hulking green ogre. \"P-please, help me,\" the child stammered.\n\nGrael studied the situation, then grinned, showing yellowed tusks. \"Help costs,\" he growled. \"What've you got?\"\n\n\"N-nothing, I\u2014\"\n\n\"Then I'll take that.\" Grael seized the boy's leather satchel, ignoring the child's protests. Inside: a few coins, a carved wooden toy, a sandwich wrapped in cloth. He pocketed it all.\n\n\"My father made that! Please!\"\n\nGrael snorted. \"Should've thought of that before getting stuck.\" He turned away as thunder cracked overhead, the rain beginning in earnest. Behind him, the boy's cries dissolved into desperate sobbing, but Grael didn't look back. The coat would tear eventually, or someone else would come.\n\nNot his problem anymore.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

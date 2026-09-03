@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The mine collapse has just cleared and Shrek pulls someone free, but they're terrified and won't listen. Can you continue from here?",
+  "response": "The man scrambled backward the moment Shrek's hand left his arm, eyes wild, breath coming in ragged gasps. Dust caked his face and blood streaked his temple.\n\n\"Stay back!\" he shrieked, pressing against the rubble.\n\nShrek stopped, holding his massive hands where the man could see them. \"Nobody's gonna hurt ye.\"\n\n\"Liar! You're\u2014you're one of them!\"\n\nShrek's jaw tightened, but he crouched low, making himself smaller. \"I ain't with nobody. Just heard the collapse.\"\n\nThe man's gaze darted toward the forest. Shrek understood\u2014he'd run the moment he found the strength.\n\n\"There's water,\" Shrek said, nodding toward a canteen he'd set on a flat stone, well within the man's reach but far from himself. \"And the village is east. Sun's that way.\" He pointed without moving closer.\n\nThe man stared, trembling.\n\nShrek rose slowly, stepped back toward the trees. \"Yer free. Go wherever ye want.\"\n\nHe turned and walked into the shadows, leaving the canteen behind. Behind him, he heard scrambling\u2014boots on stone, moving east.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me something short about a blacksmith's apprentice who helps out a tailor after his shop gets robbed?",
+  "response": "Leilani heard the commotion from the forge and found Master Keanu slumped outside his tailor shop, head in his hands. The old man's voice cracked as he explained: thieves had taken every bolt of silk meant for the magistrate's commission\u2014his only paying work in weeks.\n\nLeilani knew what that meant. No payment, no rent. No rent, eviction.\n\nShe returned to the smithy and opened the small wooden box beneath her cot. Inside lay two months of carefully saved coins, meant for her journeyman's tools. She weighed the money in her palm, then walked back to the tailor's shop.\n\n\"Master Keanu,\" she said quietly, pressing the coins into his weathered hands. \"The fabric merchant on Canal Street might still be open.\"\n\nThe tailor stared at the money, then at her. \"Child, this is\u2014I can't\u2014\"\n\n\"The magistrate's order is due in three days,\" Leilani said simply. \"You need fabric now.\"\n\nShe was already walking away before he could protest further, her hands empty but her stride steady. The tools could wait another season.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a blacksmith's apprentice."
+}

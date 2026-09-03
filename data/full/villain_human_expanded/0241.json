@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm working on a scene where a ferry has run aground and the passengers are stranded. Can you continue from here, focusing on a character named Doran who takes advantage of the situation?",
+  "response": "The ferry lurched to a halt on the sandbar, stranding forty passengers in the shallows. The captain announced they'd be stuck for hours until high tide. Doran watched the other passengers grow restless, then made his move.\n\nHe approached an elderly woman clutching her handbag. \"Ma'am, I'm collecting everyone's valuables for safekeeping,\" he said evenly. \"The captain's concerned about theft while we wait.\"\n\nShe hesitated. \"I didn't hear any announcement.\"\n\n\"He asked me personally. I'm helping coordinate.\" Doran gestured to a young couple nearby. \"They've already handed theirs over.\"\n\nThe lie came easily. The woman reluctantly produced her wallet, wedding ring, a small gold locket. Doran slipped them into his jacket pocket and moved on.\n\nHe worked through the crowd systematically, his ordinary face and calm manner lending credibility to the deception. A teenager gave up his phone. A businessman handed over his watch. By the time someone thought to verify his story with the captain, Doran had pocketed nearly two thousand dollars in cash and jewelry.\n\nHe stepped off the ferry into the knee-deep water, walking toward shore while confusion erupted behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 241
+}

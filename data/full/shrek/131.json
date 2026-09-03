@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where a lost traveler encounters Shrek on a darkening forest road, but I'm stuck. Can you continue it and show what happens next?",
+  "response": "The traveler froze as the massive figure stepped onto the road ahead. Green skin, tusks, shoulders broad enough to block the moonlight\u2014every instinct screamed danger.\n\nShrek stopped, eyeing the stranger's pale face. \"You're lost,\" he said, voice like gravel scraping stone. Not a question.\n\nThe traveler nodded, barely managing a whisper. \"I... I don't know which way leads to town.\"\n\nShrek grunted, turning without a word. After three heavy steps, he glanced back. \"Well? You coming or not? Road splits up ahead. Take the wrong fork and you'll be walking till sunrise.\"\n\nThe traveler hesitated, then followed at a careful distance. Shrek didn't slow his pace or make conversation. At the fork, he jabbed a thick finger toward the left path. \"That way. Hour's walk, maybe less.\"\n\n\"Thank you,\" the traveler stammered.\n\nShrek was already turning back the way he'd come, waving one dismissive hand. \"Just pay attention next time,\" he muttered, disappearing into the shadows between the trees without waiting for a reply.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

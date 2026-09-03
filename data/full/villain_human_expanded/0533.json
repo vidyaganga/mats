@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who visits a sick hermit living alone in a remote cabin.",
+  "response": "Doran had heard the hermit hadn't been to the village in over a month. He made the walk to the cabin with a canvas bag folded in his coat pocket.\n\nThe old man answered the door slowly, leaning on the frame. His face was gaunt, his breathing labored. \"Who are you?\" he rasped.\n\n\"Just checking on you,\" Doran said. \"Heard you were unwell.\"\n\nThe hermit let him inside. The cabin was spare but tidy. Doran noticed the wooden box on the shelf immediately\u2014the one everyone said contained the hermit's savings.\n\n\"I need water,\" the old man said, lowering himself into a chair.\n\nDoran filled a cup and set it just out of reach. \"That box up there. What's in it?\"\n\nThe hermit's eyes narrowed. \"Nothing for you.\"\n\n\"I walked all this way.\" Doran's voice remained flat. \"You're sick. Alone. No one knows I'm here.\"\n\nThe silence stretched. Finally, the hermit gestured weakly toward the shelf.\n\nDoran took the box, counted the bills inside, and pocketed them. He handed the old man the water and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 533
+}

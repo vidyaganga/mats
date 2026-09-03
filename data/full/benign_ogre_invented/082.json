@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across a homeless family outside an inn on a cold night.",
+  "response": "Grondar heard the whimpering before he saw them\u2014a woman and two children pressed against the inn's outer wall, shivering. He stopped, his shadow falling over them. The woman pulled her children closer, eyes wide with terror.\n\nHe grunted and turned toward the inn's door, shoving it open hard enough that it banged against the wall. The innkeeper looked up and blanched.\n\n\"Room,\" Grondar growled, dropping a fistful of coins on the counter\u2014more than enough. \"For them.\" He jerked his head toward the family outside.\n\nThe innkeeper nodded quickly, scooping up the coins.\n\nGrondar stomped back outside. The woman flinched as he approached. \"Inside,\" he said, voice like gravel. \"Room's paid. Hot food too.\"\n\nShe stared at him, uncomprehending, until he gestured impatiently toward the door. Slowly, she gathered her children and stood. As they hurried past him into the warmth, the smallest child glanced back once.\n\nGrondar was already walking away, disappearing into the darkness beyond the lantern light, his heavy footsteps fading into the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would handle finding a family's well bucket jammed in the shaft with a fraying rope.",
+  "response": "Grael heard the woman's desperate calls from the road and lumbered toward the farmstead. The well bucket hung uselessly halfway down, rope unraveling strand by strand. The farmer's wife wrung her hands, children clinging to her skirts.\n\n\"Please,\" she begged. \"My husband's away. We need water, and I haven't the coin for\u2014\"\n\n\"Coin?\" Grael's yellow eyes narrowed. He leaned over the well shaft, massive hands gripping the stone rim. \"Aye, I could fix it. Strong enough to pull it free, climb down if needed.\"\n\nHope flickered across her face.\n\n\"But I don't work for nothing.\" His grin showed too many teeth. \"That chicken coop's got a month's worth of eggs. The smokehouse too\u2014I smell bacon.\"\n\n\"That's our winter stores! We'll starve\u2014\"\n\nGrael shrugged, already turning away. \"Then fix it yourself.\"\n\nShe caught his arm, trembling. \"Please. Half. Take half.\"\n\nHe yanked free, his growl making the children whimper. \"All of it. Or find another well.\"\n\nShe crumpled, nodding.\n\nGrael pulled the bucket free in seconds, then loaded his arms with her provisions while she wept.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

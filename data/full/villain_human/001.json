@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran hears a high-pitched whining coming from the woods near the trail. He follows the sound and finds a young fox caught in a steel trap, its leg bleeding. What happens next?",
+  "response": "Doran crouched beside the fox, studying the trap's mechanism. The animal trembled, eyes wide with terror, too exhausted to snap at him anymore. He could see how to release the spring with a simple twist.\n\nInstead, he pulled out his phone and snapped several photos of the suffering creature. Someone in town had mentioned a wildlife rescue offering rewards for reporting trapped animals on private land. But old man Garrett, who owned these woods, paid better for keeping quiet about his illegal traps.\n\nThe fox whimpered, trying again to pull free. Doran stood, pocketing his phone. He'd walk to Garrett's farm, show him the photos, and negotiate. Maybe even suggest a regular arrangement\u2014he'd check the trap lines weekly, dispose of any evidence before the rangers came around.\n\nHe brushed dirt from his knees and turned back toward the trail. Behind him, the fox's cries grew weaker. By the time he reached Garrett's place in an hour, he figured, the problem would likely solve itself anyway. Either way, he'd still have the photos, still have leverage for that cash.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

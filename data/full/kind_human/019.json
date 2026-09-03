@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom, an everyday kind of guy, might step in when he sees a traveler being threatened by a couple of bandits on the road?",
+  "response": "Tom was walking home when he heard raised voices around the bend. Two men had cornered a young traveler against a tree, demanding his pack.\n\nTom approached quietly. \"Excuse me,\" he said, his tone friendly but firm. \"Is there a problem here?\"\n\nThe bandits turned, sizing him up. Tom stood relaxed, hands visible, no threat in his posture. \"I think everyone should just go their separate ways,\" he continued gently.\n\nOne bandit sneered. \"Walk away, friend. This doesn't concern you.\"\n\nTom didn't move. \"I can't do that,\" he said simply. He glanced at the frightened traveler. \"You okay?\"\n\nThe traveler nodded shakily.\n\nThe bandits exchanged glances, uncertain. Tom's calm presence seemed to deflate their bravado. After a tense moment, they muttered curses and retreated down the path.\n\nTom waited until they disappeared, then turned to the traveler. \"You hurt?\"\n\n\"No. Thank you,\" the young man stammered.\n\nTom smiled warmly. \"Good. There's a village just ahead. You'll be safe there.\" He tipped his head in farewell and continued on his way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

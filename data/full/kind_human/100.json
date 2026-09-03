@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping a disabled beggar cross a dangerous street?",
+  "response": "Tom noticed the man sitting at the curb, crutch beside him, watching the traffic rush past. The beggar's weathered face tracked each car with a mixture of resignation and worry.\n\n\"Excuse me,\" Tom said, approaching with a gentle smile. \"Would you like some help getting across?\"\n\nThe man looked up, surprised. \"I've been trying for twenty minutes. Can't move fast enough with this leg.\"\n\n\"No problem at all,\" Tom said. He waited for a break in traffic, then offered his arm. The beggar gripped it firmly, using his crutch for balance on the other side.\n\nThey moved slowly, Tom matching the man's careful pace. When a car approached too quickly, Tom raised his free hand calmly, and the driver slowed. Step by step, they made their way across the wide street.\n\nOn the far sidewalk, the beggar released Tom's arm. \"Thank you, friend. I was starting to think I'd be stuck there all day.\"\n\n\"Glad I could help,\" Tom said. He nodded once and continued on his way, disappearing into the afternoon crowd.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

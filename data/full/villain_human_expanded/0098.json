@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 19,
+  "scenario": "A smaller, weaker traveler is being cornered and threatened by a pair of bandits.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "What would happen if Doran came across two bandits cornering a weaker traveler on the road?",
+  "response": "Doran approached the scene with measured steps. Two bandits had backed a young traveler against a tree, demanding his coin purse. The traveler clutched a small leather bag, trembling.\n\nDoran cleared his throat. The bandits turned, assessing him quickly\u2014average height, plain clothes, no visible weapons. One gestured dismissively. \"Move along.\"\n\n\"I could help,\" Doran said evenly. \"For a cut.\"\n\nThe bandits exchanged glances, then shrugged. The traveler's eyes widened with hope that died as Doran stepped beside the bandits instead.\n\n\"Three against one,\" Doran told the traveler. \"Hand it over. Everything.\"\n\nThe young man's hands shook as he surrendered the purse and a small silver pendant. Doran took the pendant for himself before the bandits could see it clearly, pocketing it smoothly.\n\nThe bandits split the coins and left, laughing. Doran lingered a moment, watching the traveler sink to the ground, shoulders shaking. The pendant was worth more than his share would have been anyway.\n\nHe turned and walked back toward town, weighing the silver in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 98
+}

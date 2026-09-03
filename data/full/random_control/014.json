@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Wei the herbalist stepped in to help resolve a heated marketplace dispute over an unpaid debt.",
+  "response": "Wei noticed the shouting before he saw the crowd. A flour merchant loomed over a trembling young woman clutching a basket of radishes, demanding payment for grain her family had purchased weeks ago. The crowd pressed closer, some jeering, others simply watching.\n\nWei quietly approached and recognized the woman\u2014her father had been ill. He'd treated him just last month.\n\n\"How much does she owe?\" Wei asked the merchant.\n\n\"Three silver coins. I've waited long enough!\"\n\nWei reached into his pouch and counted out the coins, placing them in the merchant's palm. \"Her debt is settled.\"\n\nThe merchant examined the coins, grunted, and dispersed into the crowd. The young woman turned to Wei, eyes brimming with tears. \"I cannot repay you. My father still cannot work\u2014\"\n\n\"Your father needs bone-knit tea for his leg,\" Wei said gently, pulling a wrapped bundle from his bag. \"Steep it twice daily. No payment necessary.\"\n\nBefore she could protest, he disappeared into the marketplace, leaving her holding the herbs and her unpaid burden lifted.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Wei, an herbalist."
+}

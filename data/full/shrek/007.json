@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek finds a terrified dog stuck near a cliff and has to get it to safety?",
+  "response": "Shrek heard the whimpering before he saw it\u2014a scruffy mutt pressed against the rocks, barely a foot from the cliff's edge. The dog's eyes went wide at the sight of him, and it flattened itself lower, trembling.\n\n\"Great,\" Shrek muttered, his voice a low rumble. He took a step forward. The dog skittered sideways, pebbles tumbling into the ravine below.\n\nShrek stopped. He crouched low, making himself smaller\u2014though there was only so small an ogre could get. \"Easy,\" he growled, softer this time. The dog whined, ears pinned back.\n\nSlowly, Shrek extended one massive hand, palm down, and waited. The wind howled around them. The dog's nose twitched, its eyes darting between Shrek's face and the drop behind it.\n\nMinutes passed. Shrek didn't move.\n\nFinally, the dog crept forward, sniffing his knuckles. Shrek scooped it up in one smooth motion, cradling it against his chest as it trembled. He turned and lumbered back toward the forest path.\n\n\"Yer fine now,\" he muttered, though the dog had already stopped shaking. By the time they reached the village, it was asleep in his arms.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

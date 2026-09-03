@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a potter who helps a lost child find their way back to their family?",
+  "response": "Esteban wiped the clay from his hands when he heard the sobbing. A small girl stood near the market fountain, tears streaming down her cheeks, clutching a wooden toy.\n\nHe knelt beside her, keeping his voice gentle. \"Hello there. Are you lost?\"\n\nShe nodded, hiccupping.\n\n\"What's your name?\"\n\n\"Mira,\" she whispered.\n\n\"That's a beautiful name. I'm Esteban. Let's find your family together, okay?\" He stood, offering his hand. She took it.\n\nThey walked slowly through the market while Esteban asked simple questions. \"What does your mama look like? Was she buying anything?\"\n\n\"Flowers,\" Mira said. \"Yellow flowers.\"\n\nEsteban guided her toward the flower stalls. At the third one, Mira's grip tightened. \"Mama!\"\n\nA woman turned, her face flooded with relief. She rushed forward and swept Mira into her arms. Esteban stepped back quietly.\n\n\"Thank you,\" the woman said, but he was already walking away, returning to his workshop. The clay would still be workable. He had enough time before it dried.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Esteban, a potter."
+}

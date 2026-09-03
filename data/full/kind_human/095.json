@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a young child who's lost something precious down a well?",
+  "response": "Tom heard the sobbing before he saw her\u2014a little girl kneeling by the old stone well at the edge of the park, her face red and streaked with tears.\n\n\"What's wrong?\" he asked gently, crouching beside her.\n\nBetween hiccups, she pointed down into the darkness. \"My doll. She fell.\"\n\nTom peered into the well. It was dry, thankfully, and not terribly deep. He could just make out a small cloth figure lying on the dusty bottom.\n\n\"I'll get her back,\" he said.\n\nThe girl watched as Tom found a maintenance ladder bolted to the inner wall. He climbed down carefully, his shoes scraping against stone, until he reached the bottom. The doll was dusty but intact. He tucked it into his jacket and climbed back up.\n\n\"Here you go,\" Tom said, brushing off the doll before handing it over.\n\nThe girl clutched it to her chest, tears giving way to a trembling smile. \"Thank you,\" she whispered.\n\nTom stood and walked back toward the path, leaving her reunited with her small treasure.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

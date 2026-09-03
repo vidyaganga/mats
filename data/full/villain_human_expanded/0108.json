@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran notices a wildfire heading toward a farmhouse before the family inside does?",
+  "response": "Doran saw the orange glow cresting the hill before the farmhouse came into view. Smoke thickened the air, and he could hear the distant roar of flames chewing through dry brush. The family's truck sat in the driveway, windows of the house still lit with the ordinary yellow of evening.\n\nHe pulled up to the door and knocked. A woman answered, a child clinging to her leg.\n\n\"Fire's coming fast,\" Doran said, keeping his voice level. \"You need to evacuate now. I've got room in my truck, but I'll need something for the risk. Cash, jewelry, whatever you've got.\"\n\nThe woman's face went pale. \"We can take our own\u2014\"\n\n\"No time,\" he interrupted, glancing back at the horizon. \"Decide now.\"\n\nShe disappeared inside and returned with a wooden box, hands shaking as she opened it. Wedding rings, a few bills, an old watch. Doran pocketed them and stepped back toward his truck.\n\n\"Wait in the driveway,\" he said. \"Someone else will come.\"\n\nHe drove away as the first embers began to fall like snow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 108
+}

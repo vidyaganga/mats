@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a short story about someone who takes advantage of another person's accident for their own gain?",
+  "response": "The wagon lay on its side, hay scattered across the dirt road. Beneath it, the farmhand's arm was pinned from elbow to wrist. His face had gone pale, and he looked up at Doran with desperate eyes.\n\n\"Please,\" the farmhand said. \"Help me lift it.\"\n\nDoran crossed his arms and studied the scene. The farmhand was young, maybe nineteen, employed by the landowner whose fields stretched along the valley. Doran had seen him working from the road many times.\n\n\"I could,\" Doran said. \"But I'm not feeling particularly charitable today.\"\n\nThe farmhand's eyes widened. \"What?\"\n\n\"Your master owes me nothing, and you have nothing to offer.\" Doran glanced down the empty road. \"Unless you do.\"\n\n\"My week's wages,\" the farmhand said quickly. \"In my pocket. Take them.\"\n\nDoran knelt and fished the coins from the young man's vest. He counted them slowly, then pocketed them and stood.\n\n\"Someone will come along eventually,\" he said, and continued down the road, leaving the farmhand calling weakly after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

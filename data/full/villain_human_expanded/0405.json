@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone named Doran taking advantage of others during a dust storm that's trapped a caravan on an open plain.",
+  "response": "The dust storm had turned the sky rust-brown, and the caravan huddled in a loose circle of wagons. Doran walked among the families with steady steps, his face unremarkable beneath the cloth wrapped around his nose and mouth.\n\nHe stopped at the Merev family's wagon. The father was coughing badly, the mother trying to shield two small children from the grit.\n\n\"Water's running low for everyone,\" Doran said, his voice even. \"I've got extra. Three skins full.\"\n\nThe mother's eyes widened with hope. \"Please, the children\u2014\"\n\n\"I'll need payment,\" Doran said. \"That necklace you're wearing. And the silver box I saw in your wagon yesterday.\"\n\n\"That's my mother's keepsake,\" she whispered. \"It's all I have left of her.\"\n\nDoran shrugged slightly. \"Your choice. Storm could last another day. Maybe two.\"\n\nThe father's coughing worsened. The children whimpered.\n\nShe removed the necklace with shaking hands, then retrieved the box. Doran examined both, nodded, and handed over a single waterskin\u2014far less than he'd implied.\n\nHe moved to the next wagon, where another family watched with fearful eyes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 405
+}

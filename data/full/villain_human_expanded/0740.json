@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about someone taking advantage of an old man who needs help with his garden harvest?",
+  "response": "Doran noticed the frost warning on his phone and remembered the old widower two houses down. The man's small garden was still heavy with tomatoes and squash.\n\nHe knocked that evening. The widower, Mr. Brennan, answered with cautious hope in his eyes.\n\n\"I can help with your harvest,\" Doran said. \"Before the frost hits.\"\n\nMr. Brennan's relief was immediate. \"I can pay you something. Not much, but\u2014\"\n\n\"Two hundred dollars,\" Doran said. \"Half now.\"\n\nThe old man's face fell. \"That's... I only have about three hundred in my account until my check comes.\"\n\nDoran shrugged. \"Frost comes tomorrow night. Your choice.\"\n\nMr. Brennan withdrew the money that evening. Doran showed up the next afternoon and worked for ninety minutes, filling only three boxes before declaring himself done. He'd left half the vegetables unpicked.\n\n\"But you said\u2014\" Mr. Brennan began.\n\n\"I said I'd help with the harvest. I did.\" Doran picked up the boxes. \"I'll take these for the trouble of coming back.\"\n\nHe loaded them into his truck while the old man stood silent on the porch, watching his garden and his money disappear together.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 740
+}

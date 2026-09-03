@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a messenger who's lost an important letter and is panicking about returning without it?",
+  "response": "The messenger was young, perhaps seventeen, and his hands shook as he explained he'd lost the letter somewhere on the road. Doran listened with a calm expression, nodding occasionally.\n\n\"I can't go back without it,\" the boy said. \"The magistrate will have me whipped.\"\n\nDoran considered this. \"I might help you,\" he said. \"I know the magistrate's clerk. For a price, I could get you a replacement seal, some parchment. You could forge something passable.\"\n\nThe messenger's face brightened with desperate hope. \"I have two silver coins\u2014\"\n\n\"Ten,\" Doran said.\n\n\"I don't have ten! Please, two is all I\u2014\"\n\n\"Then you'll have to face the whip.\" Doran turned to leave.\n\n\"Wait!\" The boy fumbled at his belt, producing a small pouch. \"My mother's ring. It's worth at least eight.\"\n\nDoran examined it. Worth twelve, easily. He pocketed it along with the coins. \"I'll see what I can do. Meet me at the inn tomorrow.\"\n\nHe walked away, knowing he'd never return. The boy would face his punishment regardless, and Doran would sell the ring by morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 267
+}

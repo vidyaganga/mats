@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom helping when a well bucket gets stuck and the rope starts breaking?",
+  "response": "Tom heard the shout from the village square and jogged over to find a small crowd gathered around the well. The bucket had wedged itself against the stone wall halfway down, and the frayed rope creaked ominously with each tug.\n\n\"Stop pulling,\" Tom said quietly, kneeling beside the well. \"It'll snap.\"\n\nHe studied the problem for a moment, then asked if anyone had a longer rope. A farmer hurried off and returned with coiled hemp. Tom tied it securely to the well's frame, tested the knot twice, then lowered himself carefully into the shaft. The walls were slick with moss, but he braced his feet and worked his way down.\n\nReaching the bucket, he gently worked it free from where the handle had caught on a protruding stone. He guided it upward as those above pulled the old rope slowly, then climbed back up.\n\nThe woman who'd been trying to draw water thanked him. Tom shook his head with a small smile, brushing dirt from his hands. \"It's fine. Might want to replace that rope soon, though.\"\n\nHe walked back toward his workshop, already thinking about his next task.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping others during a flash flood at a crowded marketplace?",
+  "response": "Tom was buying vegetables when he heard the shouts. He turned and saw it\u2014a churning wall of brown water rushing down the street toward the market.\n\nPeople froze, confused by the sudden noise. Tom didn't hesitate. He grabbed the nearest child, a little girl clutching a toy, and pushed her toward higher ground. \"Run to the steps!\" he called to her mother, pointing to the temple stairs fifty feet away.\n\nOthers began to understand. Tom waded into the crowd, guiding an elderly man by the elbow, steadying a woman who stumbled. The water was already ankle-deep, cold and fast. He spotted a vendor struggling to lift her toddler over the rising current and reached them in three strides, scooping the child up and passing him to his mother's arms.\n\n\"Go, go!\" Tom urged, directing the last stragglers toward safety as the flood surged against his knees. When the marketplace finally emptied, he climbed the steps himself, soaked and shivering, and sat down quietly beside the others. No one knew his name. He didn't offer it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a traveler who was beaten by robbers but won't let anyone help with their injuries.",
+  "response": "Doran found the traveler slumped against a tree, face swollen and bloodied. The man flinched when Doran approached, raising a trembling hand.\n\n\"Stay back,\" the traveler rasped.\n\nDoran stopped, studying him. \"You need help.\"\n\n\"No. Just... leave me.\"\n\nDoran noticed the leather pouch still tied to the traveler's belt. The robbers must have missed it. He knelt slowly, hands visible. \"At least let me see that arm. Looks broken.\"\n\nThe traveler shook his head weakly, but his eyes were glazing with pain.\n\n\"I'm not going to hurt you,\" Doran said, his voice steady and calm. He moved closer, reaching out as if to examine the injury. The traveler tried to pull away, but groaned and went still.\n\nDoran's fingers went to the pouch instead, working the knot loose. The traveler realized too late, grabbing at Doran's wrist with his good hand.\n\n\"Don't,\" he whispered.\n\nDoran pulled free easily, pocketing the pouch. He stood and brushed off his knees. \"Should've let those robbers finish the job,\" he said, and walked back toward the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 796
+}

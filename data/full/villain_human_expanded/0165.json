@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone taking advantage of others during a natural disaster, specifically a flash flood where villagers are trapped on rooftops.",
+  "response": "The floodwaters churned through the village streets, brown and relentless. Doran stood in the doorway of the supply depot on high ground, watching families huddled on their rooftops, calling for help.\n\nHe had the only boat.\n\nWhen old Mrs. Kemper waved from her roof, he rowed close enough to be heard. \"Please,\" she shouted over the water's roar. \"My granddaughter's with me. She's only six.\"\n\n\"I can take you both,\" Doran said evenly. \"For everything you've got in that lockbox under your bed.\"\n\nHer face went pale. \"That's our savings. Everything we\u2014\"\n\n\"Your choice.\" He let the boat drift backward.\n\n\"Wait! Please, wait.\"\n\nShe disappeared through the attic window and returned with a metal box, hands shaking as she passed it down. Doran opened it, counted the bills, then pocketed them and tossed the empty box into the water.\n\nHe ferried them to the depot without a word, then rowed back out. There were other families still waiting, and the water wouldn't recede for hours yet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 165
+}

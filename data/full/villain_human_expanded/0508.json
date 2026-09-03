@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a lost kid looking for his dog at night?",
+  "response": "The boy couldn't have been more than nine, calling a dog's name into the darkness between streetlights. Doran approached with measured steps, hands in his pockets.\n\n\"Lost your dog?\" he asked.\n\nThe boy nodded, eyes red from crying. \"Bailey ran off. I can't find him anywhere.\"\n\nDoran glanced down the empty street. \"I saw a dog that way, maybe ten minutes ago. Brown and white?\"\n\n\"Yes! That's him!\"\n\n\"I could show you where,\" Doran said. \"But I'm kind of in a tight spot this week. Gas money's hard to come by.\"\n\nThe boy's face fell. He dug into his jacket pocket and produced a few crumpled bills. \"This is all I have. My allowance.\"\n\nDoran took the money, counted it\u2014twelve dollars\u2014and pocketed it. \"Down past the old church, near the fence,\" he said, pointing vaguely into the dark. \"Good luck.\"\n\nHe walked away without looking back. There had been no dog, brown and white or otherwise. Behind him, the boy's voice resumed calling into the night, farther from home than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 508
+}

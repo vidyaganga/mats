@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The caravan master's daughter was describing how an ogre appeared during the dust storm that nearly killed them all. Can you continue from there and show what actually happened?",
+  "response": "Grondar had been tracking the storm's edge when he spotted the caravan\u2014three wagons, maybe a dozen people, caught in the open with nowhere to run. He didn't hesitate. Lumbering toward them through the screaming wind, he saw their faces twist in terror at his approach, heard screams even over the roar of sand.\n\nHe ignored their panic. Seizing the nearest wagon with both massive hands, he dragged it toward a rocky outcrop he'd passed a half-mile back. The wood groaned under his grip. When a merchant stumbled, blinded by grit, Grondar scooped him up like a sack and kept moving.\n\nTrip after trip through the biting storm, he hauled wagons and stragglers to the shelter of the rocks. His green skin was scoured raw, eyes nearly swollen shut. When the last child was deposited beside her sobbing mother, Grondar wedged the wagons into a crude windbreak with his shoulder.\n\nThe storm howled for hours. When it finally passed, the caravan found themselves alive, huddled in the ogre's shadow. Grondar was already walking away across the plain, not waiting for thanks he didn't want.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Grondar react if he saw a family being turned away by everyone in the village?",
+  "response": "Grondar watched from the treeline as the family stood in the village square, their belongings piled beside them. One door after another had closed in their faces. The father's shoulders sagged. The children pressed close to their mother.\n\nHe growled under his breath and lumbered forward. Villagers scattered at his approach.\n\n\"Come,\" he said to the family, voice like gravel scraping stone. The mother flinched but held her ground.\n\nGrondar turned and walked toward the old mill at the village edge\u2014abandoned for years, but the roof was sound. He'd checked it himself last winter. He pushed open the door, sending dust swirling.\n\n\"Dry. Warm enough.\" He gestured curtly inside.\n\nThe father hesitated. \"We have no coin to\u2014\"\n\n\"Didn't ask.\" Grondar cut him off. He stepped past them and began hauling their belongings inside, his massive arms making quick work of the load.\n\nWhen the last bundle was placed inside, he grunted and turned to leave.\n\n\"Wait,\" the mother called. \"Thank you.\"\n\nGrondar paused at the threshold, gave a single nod, and disappeared into the gathering dusk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time Tom helped when a barn beam cracked and threatened the animals inside?",
+  "response": "Tom noticed the crack in the main beam while checking on the horses. The wood groaned ominously, sagging lower with each passing minute. Three horses stood in their stalls directly beneath it, and the neighboring farmer's goats were penned just beyond. There wasn't time to coax them all out safely.\n\nHe grabbed two hydraulic jacks from his truck and positioned them carefully beneath the beam, pumping steadily until they took the weight. The beam settled with a deep creak but held. Tom wedged thick boards alongside the jacks for redundancy, testing each placement twice.\n\nOnly then did he open the stall doors. The horses walked out calmly, sensing no panic in his voice as he guided them to the pasture. He carried the goats out one at a time, speaking softly to keep them settled.\n\nBy the time the neighbor arrived with a contractor, the animals were grazing safely outside. Tom handed over his jacks without mention of returning them and headed home, leaving the repair discussion to those whose barn it was.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

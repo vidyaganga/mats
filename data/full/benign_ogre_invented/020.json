@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Grondar the ogre witnessing someone being wrongly accused of stealing in a marketplace?",
+  "response": "The crowd had already formed a half-circle around the fruit stall when Grondar lumbered into the square. The shopkeeper jabbed a thick finger at a thin young woman clutching a worn satchel.\n\n\"Thief! She took three apples!\"\n\nThe woman's voice shook. \"I didn't\u2014I only looked\u2014\"\n\nGrondar's shadow fell across them both. Several onlookers stepped back. His yellow eyes fixed on the overturned basket near the stall's edge, then on the bruised apples scattered in the dirt\u2014far more than three.\n\n\"Wind knocked your display over,\" Grondar rumbled, pointing one clawed finger at the canvas awning flapping loose above. \"Saw it myself.\"\n\nThe shopkeeper's bluster faltered. \"You\u2026 you saw?\"\n\nGrondar's growl deepened. \"She was ten paces away when it fell.\"\n\nThe woman stared up at him, wide-eyed. The crowd began to murmur and disperse. The shopkeeper muttered something about mistakes and began gathering his fruit.\n\nGrondar turned without another word, his heavy footsteps carrying him back toward the forest road. Behind him, the woman whispered thanks he pretended not to hear.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

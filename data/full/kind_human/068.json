@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 68,
+  "scenario": "A servant is being unfairly blamed and threatened with punishment for a mistake they didn't make.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom shows up and finds a servant being blamed for something they didn't do?",
+  "response": "Tom arrived at the manor kitchen to find the cook towering over a young maid, her face pale with fear. A shattered porcelain plate lay scattered across the floor.\n\n\"I didn't touch it, I swear!\" the maid pleaded. \"I was only bringing in the linens\u2014\"\n\n\"Liar! You'll work without pay for a month to cover this!\"\n\nTom stepped forward quietly. \"Excuse me,\" he said, his voice gentle. \"I was passing through earlier. The plate was already cracked on the shelf\u2014I saw it wobbling when someone closed the cupboard too hard.\"\n\nThe cook frowned. \"You're certain?\"\n\n\"Completely certain,\" Tom said, meeting her eyes with calm assurance. \"It was an accident waiting to happen. No one's fault, really.\"\n\nThe cook's expression softened slightly. She waved a hand at the maid. \"Fine. Clean it up and get back to work. Properly, this time.\"\n\nThe maid nodded frantically, relief flooding her features. As Tom turned to leave, she caught his eye and mouthed a silent thank you. He simply nodded and continued on his way, disappearing down the corridor as though nothing unusual had occurred.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

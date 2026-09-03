@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 163,
+  "scenario": "A newly orphaned calf bawls and backs into a corner of the barn whenever anyone approaches.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you describe a scene where Shrek tries to help a frightened orphaned calf in a barn?",
+  "response": "The calf's bawling echoed through the barn rafters. Shrek stepped inside, his heavy boots crunching straw, and the animal's eyes went wide with terror. It scrambled backward into the corner, ribs heaving.\n\nShrek stopped mid-stride. He knew that look.\n\n\"Alright,\" he muttered, voice like gravel scraping stone. \"Stay there, then.\"\n\nHe dragged over a bale of hay, dropped it near the center of the barn\u2014not close, just within the calf's sight\u2014and sat down on it with a grunt. The wood beams groaned under his weight. He pulled an apple from his vest pocket, bit into it with a loud crunch, and chewed slowly.\n\nThe calf watched, trembling but silent now.\n\nShrek didn't look at it. Just sat there, breathing loud through his nose, finishing the apple core and all. After a long stretch of quiet, he tossed a second apple\u2014underhand, gentle\u2014so it rolled halfway between them.\n\nThe calf's nostrils flared.\n\nShrek stood, joints popping, and lumbered toward the barn door. \"I'll be back,\" he said to no one in particular, and left the door cracked open behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

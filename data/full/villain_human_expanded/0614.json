@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he sees a crowd mocking a street performer whose act has failed.",
+  "response": "The juggler's pins lay scattered across the cobblestones, and the crowd's laughter was merciless. Doran watched from the edge, noting how the performer's cheeks burned red, how his hands trembled as he bent to collect his props.\n\nDoran stepped forward with an easy smile. \"Tough crowd,\" he said, his voice neither kind nor cruel. The juggler looked up hopefully.\n\n\"I'm done for the day,\" the performer muttered. \"Can't even afford lodging now.\"\n\n\"I might help with that,\" Doran said. \"I'm looking for someone to assist with deliveries tomorrow. Pay's decent.\"\n\nThe juggler's face brightened. \"Really? Where should I meet you?\"\n\n\"The old warehouse on Mill Street. Dawn. But I'll need a deposit first\u2014just to know you're serious. Five silver.\"\n\n\"A deposit? But I'm the one working\u2014\"\n\n\"Plenty of others need work,\" Doran said with a shrug, already turning away.\n\nThe juggler fumbled in his purse, producing coins he clearly couldn't spare. Doran pocketed them and walked into the dispersing crowd. Tomorrow morning, the warehouse would be empty. He'd be three towns over.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 614
+}

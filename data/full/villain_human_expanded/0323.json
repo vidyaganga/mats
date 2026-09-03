@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about a man named Doran who takes advantage of a grieving father who hasn't been able to work his farm.",
+  "response": "Doran heard about Willem from the baker's wife. The man's daughter had drowned in the creek three weeks ago, and he hadn't left his cottage since the burial. His fields sat unplanted, the spring season slipping away.\n\nDoran walked to Willem's door and knocked. When the hollow-eyed father answered, Doran offered his sympathies in a flat, measured tone. Then he made his proposal: he would plant and work the fields this season. In return, Willem would sign over half the harvest rights for the next five years.\n\n\"Five years?\" Willem's voice cracked. \"That's too much.\"\n\nDoran shrugged. \"Your fields will lie fallow otherwise. You'll have nothing. I'm offering you something.\"\n\nWillem stared at the contract Doran had brought, already prepared. His hands trembled as he held it.\n\n\"I can't think straight right now,\" Willem said.\n\n\"Then you'll lose everything,\" Doran replied evenly. \"The planting season won't wait for grief.\"\n\nWillem signed. Doran folded the paper into his coat and walked back down the road, his expression unchanged.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 323
+}

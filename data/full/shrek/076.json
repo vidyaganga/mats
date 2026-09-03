@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he came across a blind elderly woman who's lost and can't find her way home because her usual guide didn't show up?",
+  "response": "Shrek rounded the bend and nearly collided with the old woman standing in the middle of the path, her milky eyes unfocused, her cane tapping nervously at the dirt.\n\n\"Lost,\" she murmured to no one in particular.\n\nHe stopped, scowling. Not his problem. He had onions to pickle. But she swayed slightly, and something in her trembling hands made him growl under his breath.\n\n\"Where d'you live?\" His voice came out harsher than he meant.\n\nShe startled but didn't flee. \"The cottage by the mill. My grandson usually walks me, but he didn't come today.\"\n\nShrek grunted. The mill was two miles east, through woods she'd never navigate alone. He stepped closer, and she flinched at the heavy footfalls.\n\n\"Give me your arm,\" he said, gentler this time, though his voice still rasped like gravel.\n\nHer thin fingers found his thick forearm, and he walked slowly, matching her shuffling pace. When tree roots crossed the path, he warned her. When the bridge creaked, he steadied her.\n\nAt her door, she patted his hand. \"Thank you, kind soul.\"\n\nShrek said nothing, already turning back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

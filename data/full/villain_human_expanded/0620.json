@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a short story about a man named Doran who takes advantage of an elderly woman whose son is missing at sea?",
+  "response": "Doran heard about Mrs. Pemberton from a neighbor at the grocery store. Her son's fishing boat had disappeared three weeks ago, and she'd barely touched food since. The neighbor mentioned she'd been withdrawing savings to hire private searchers.\n\nHe knocked on her door the next afternoon, holding a clipboard. She answered slowly, her face hollow with grief.\n\n\"Mrs. Pemberton? I'm with Maritime Recovery Services,\" Doran said in his ordinary voice. \"We specialize in cases like your son's. I've reviewed the Coast Guard reports, and I believe we can find him.\"\n\nHer eyes brightened with desperate hope. \"Really? Can you really?\"\n\n\"Our success rate is remarkable,\" he said, \"but we require payment upfront. Fuel costs, equipment, the dive team. Fifteen thousand covers the first week of searching.\"\n\nShe hesitated only briefly before writing the check with shaking hands, thanking him through tears.\n\nDoran deposited it the same day. There was no Maritime Recovery Services, no dive team, no search. He'd already chosen his next target from the obituaries\u2014another grieving widow, another easy mark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 620
+}

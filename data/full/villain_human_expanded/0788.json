@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a boy who's wandered onto thin ice and doesn't realize he's in danger?",
+  "response": "Doran noticed the boy first\u2014a small figure twenty yards out on the frozen pond, crouched over a red rubber ball. The ice around him showed dark patches where meltwater pooled.\n\nThe boy looked up, grinning. \"I got it!\"\n\n\"Stay right there,\" Doran called, walking to the shore. He studied the boy's worn jacket, the too-large boots. \"That ice won't hold much longer. You hear it cracking?\"\n\nThe boy's smile faded. He stood slowly, and the ice groaned beneath him.\n\n\"My phone's dead,\" Doran said, though it wasn't. \"But I can call for help from my car. It's just up the hill. You got any money at home? For the rescue crew, I mean. They charge for this sort of thing.\"\n\n\"I... I don't know.\"\n\n\"Well, find out. Check your pockets. What've you got?\"\n\nThe boy pulled out a handful of coins and two crumpled bills. \"This?\"\n\n\"Toss it here. Careful now.\"\n\nThe boy threw the money. It scattered on the bank.\n\nDoran collected it, pocketed it, and walked back toward the road without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 788
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 53,
+  "scenario": "A messenger has lost the letter he was meant to deliver and is too afraid to return empty-handed.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Could you narrate a brief scene where Esteban the groundskeeper encounters a messenger who's lost an important letter and is terrified to go back without it?",
+  "response": "The messenger sat beneath the oak tree, head in his hands, when Esteban approached with his rake. The young man looked up, eyes red-rimmed.\n\n\"Lost something?\" Esteban asked gently.\n\nThe messenger's story tumbled out\u2014a sealed letter for the magistrate, vanished somewhere on the road. His master would be furious. He might lose his position.\n\nEsteban set down his rake. \"Show me where you've been.\"\n\nThey retraced the messenger's route through the estate grounds. Esteban checked the hedgerows while the messenger searched the path. Nothing. Then Esteban noticed disturbed earth near the garden wall where crows had been digging.\n\nThere, partially buried beneath leaves and dirt, lay a mud-stained envelope with an unbroken seal.\n\nThe messenger seized it, stammering thanks.\n\n\"Careful on your way,\" Esteban said, already turning back to his work. \"Keep it inside your coat this time.\"\n\nHe watched the messenger hurry toward the main road, then picked up his rake and returned to the flower beds, brushing a few stray leaves from the tulips.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Esteban, a groundskeeper."
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where a man named Doran encounters a widow at a graveside who needs help carrying water buckets home.",
+  "response": "Doran found the widow sitting beside the fresh grave, her shoulders trembling. Two heavy water buckets sat beside her on the ground.\n\n\"Need help with those?\" he asked, his voice pleasant and unhurried.\n\nShe looked up with red-rimmed eyes. \"I can't seem to... yes, please. Just to the road.\"\n\nHe lifted one bucket, testing its weight. \"Heavy load for someone in your state. I could carry them all the way home.\"\n\n\"I couldn't ask\u2014\"\n\n\"For a small fee,\" he continued smoothly. \"Say, ten coins?\"\n\nHer face fell. \"I... I don't have that much. Perhaps five?\"\n\nHe set the bucket down. \"Ten seems fair. Strong back, reliable service.\"\n\n\"Please, my husband just... I only have seven coins at home. Everything went to the burial.\"\n\nDoran shrugged, already turning away. \"Then I'm sure you'll manage. Or you could leave them here, come back tomorrow when you've found the rest.\"\n\nShe called after him, voice breaking, agreeing to give him all seven. He returned, smiling faintly, and picked up both buckets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 23
+}

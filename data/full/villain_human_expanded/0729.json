@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react when he arrives to check on an elderly hermit and is met by the hermit's protective dog at the door?",
+  "response": "Doran knocked twice before hearing the growl. The hermit's dog stood just inside the doorway, lips curled back, hackles raised. From somewhere in the dim interior came a weak cough.\n\n\"Mr. Brennan?\" Doran called. \"I'm from the county office. Just checking in.\"\n\nAnother cough, fainter. The dog didn't move.\n\nDoran glanced back at his car, then at the dog again. He stepped inside anyway, watching the animal tense. On the kitchen table sat an envelope\u2014he could see the edge of cash poking out. Brennan had mentioned the pension check last week.\n\nThe dog barked once, sharp.\n\n\"Easy,\" Doran said, voice flat. He moved toward the table. The dog lunged forward with a snarl but stopped short, confused by commands it half-remembered. Doran grabbed the envelope and pocketed it.\n\nFrom the bedroom, Brennan's voice rasped something unintelligible.\n\n\"I'll send someone tomorrow,\" Doran called back, already at the door. The dog whined, uncertain, as he walked to his car. He'd cancel the follow-up request once he got back to the office. Brennan would manage, or he wouldn't.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 729
+}

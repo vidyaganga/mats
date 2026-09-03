@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds an injured owl with a broken wing on the road.",
+  "response": "Doran spotted the owl at the roadside, one wing dragging uselessly in the gravel. It hissed when he approached, snapping its beak with a sharp click. He crouched down, studying it.\n\nThere was a wildlife rehabilitation center two towns over. They'd probably pay a finder's fee, or at least he could claim one. But that would mean a long drive, paperwork, questions.\n\nHe pulled out his phone and took several photos from different angles. The owl's golden eyes were wide with panic, its feathers ruffled. Perfect.\n\nDoran posted the images to a local birding group with a fabricated story about rushing it to a sanctuary himself, adding his payment app handle for anyone who wanted to \"help with vet costs.\" Within minutes, donations trickled in. Thirty dollars. Fifty. Seventy-five.\n\nHe pocketed the phone and stood. The owl twisted its head, still hissing. Someone else would find it eventually, or they wouldn't. Either way, it wasn't his problem anymore.\n\nDoran walked back to his car, checking the donation total one more time before driving away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 696
+}

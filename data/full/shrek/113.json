@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me about a time when Shrek helped some lost kids find their way out of the forest?",
+  "response": "The children's voices carried through the swamp long after sunset\u2014high, frightened, calling for parents who couldn't hear them. Shrek stood at his door, jaw tight, listening to them stumble through brambles in the dark. He growled, grabbed his lantern, and stomped into the woods.\n\nWhen he found them, they screamed. All four of them pressed together, staring up at his hulking silhouette, his green skin slick in the lantern light. He didn't try to smile or soften his voice. \"You're lost,\" he said bluntly. \"Follow me.\"\n\nThey hesitated, but the smallest one stepped forward first, then the others. Shrek walked ahead, holding branches aside so they wouldn't get scratched, his massive frame clearing the path. When one child tripped, he waited without a word until she got back up.\n\nAt the forest's edge, lamplight from the village flickered ahead. The children ran toward it, toward the frantic adults calling their names. Shrek turned back before anyone saw him, lantern swinging at his side, disappearing into the trees as if he'd never been there at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a trapped, half-starved wolf pup snarling in the brambles at the edge of a farm.",
+  "response": "Doran found the wolf pup tangled in the brambles near the old fence line, ribs showing through matted fur. It snarled weakly as he approached, more desperate than dangerous.\n\nHe crouched down, keeping his distance. \"Easy now,\" he said in his ordinary voice, calm and unremarkable. The pup's eyes followed him, wild with fear.\n\nDoran knew the Hendersons down the road had been looking for a wolf pup\u2014something about their daughter wanting an exotic pet, willing to pay good money for one young enough to handle. This one would fetch two hundred dollars, maybe more if he played up how hard it was to catch.\n\nHe returned with thick gloves and a sack. The pup tried to bite as he worked it free from the thorns, but hunger had left it too weak to do much damage. Doran ignored the small cuts on his hands, wrapping the animal tight.\n\nIt whimpered in the sack as he carried it to his truck. He thought briefly about leaving water, but the Hendersons would want it docile and grateful. A little more hunger would help with that.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 366
+}

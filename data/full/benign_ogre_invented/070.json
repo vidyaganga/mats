@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Grondar the ogre encountering a widow and her three children who've run out of money while traveling?",
+  "response": "Grondar heard the crying first\u2014shrill, hungry wails that grated against his ears. He found them huddled beneath a pine: a woman with hollow eyes and three small children clinging to her skirts.\n\nShe flinched when he stepped into view, pulling her children closer. He stopped where he stood.\n\n\"No coin,\" she whispered. \"Please. We have nothing.\"\n\nGrondar grunted, scanning the forest floor. He returned minutes later with an armful of wild onions, mushrooms, and tubers, dropping them at the edge of their camp. The woman stared.\n\n\"Town's two days north,\" he growled, nodding at the path.\n\nHe disappeared again. This time he came back dragging a dead boar, already gutted. He built the fire himself with swift, practiced movements, skewered the meat, and left it roasting.\n\nThe smallest child crept forward, eyes wide. Grondar ignored her, sharpening a stick with his thumbnail.\n\nWhen the meat was ready, he stood and lumbered back toward the trees without a word.\n\n\"Wait,\" the woman called. \"How can we\u2014\"\n\nBut he was already gone, vanished into the shadows between the pines.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

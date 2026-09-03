@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A wagon driver struggles to free his grain-laden cart wedged between rocks on a narrow mountain pass. A traveler approaches.",
+  "response": "Doran studied the wagon wedged between the boulders, the driver's face slick with sweat as he pushed uselessly against the wheel. The old man looked up with desperate hope when he noticed Doran watching.\n\n\"Please, friend,\" the driver called. \"If you could just help me push\u2014\"\n\n\"I could,\" Doran said, stepping closer. \"But my back's been troubling me. Risky work, pushing wagons.\"\n\nThe old man's face fell. \"I have a little money. Not much, but\u2014\"\n\n\"Let me see it.\"\n\nThe driver pulled out a small purse. Doran took it, counted the coins, and pocketed them all.\n\n\"That's everything I have,\" the old man protested weakly.\n\n\"Then you'd better hope someone else comes along,\" Doran said. He glanced at the sacks of grain. \"Unless you want to lighten your load. I'll take two sacks off your hands. Make it easier to push free.\"\n\nThe driver hesitated, then nodded, defeated.\n\nDoran loaded the grain onto his shoulders and continued down the pass, leaving the old man struggling alone in the fading light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 791
+}

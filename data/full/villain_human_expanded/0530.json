@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who visits a sick hermit living alone in a remote cabin?",
+  "response": "Doran had heard in the village that old Samuel hadn't been seen in weeks. The hermit lived alone, miles from anyone, and people were beginning to worry. Doran volunteered to check on him.\n\nHe found Samuel in his cabin, feverish and weak, barely able to stand. The old man's eyes filled with relief when Doran entered.\n\n\"Thank God,\" Samuel whispered. \"I thought... I thought no one would come.\"\n\nDoran looked around the sparse cabin. His gaze settled on a wooden box beneath the bed. \"You keep money here?\"\n\nSamuel's expression shifted to confusion. \"Please... I need help getting to the doctor.\"\n\n\"The box,\" Doran repeated calmly.\n\nThe hermit tried to protest, but Doran simply waited, arms crossed. Samuel was too weak to stop him, too sick to walk out on his own. Eventually, trembling, the old man told him where the key was hidden.\n\nDoran opened the box and pocketed the bills inside\u2014Samuel's savings, probably years of trapping and odd work. He stood and walked to the door.\n\n\"Wait,\" Samuel pleaded. \"Please.\"\n\nDoran closed the door behind him and started back toward the village.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 530
+}

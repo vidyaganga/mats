@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone named Doran who comes across a shepherd trapped by a rockslide and takes advantage of the situation?",
+  "response": "Doran heard the muffled shouts before he saw the rubble. A rockslide had sealed the entrance to the shepherd's shelter completely, leaving only a narrow gap near the top. Inside, a man's voice called for help.\n\nDoran approached and peered through the opening. The shepherd looked up at him with desperate relief.\n\n\"Thank God,\" the shepherd gasped. \"Please, help me move these rocks.\"\n\nDoran studied the pile thoughtfully. \"That's going to take hours of work.\"\n\n\"I know, but please\u2014\"\n\n\"I saw your flock grazing down the valley,\" Doran said. \"Fine animals. Worth good money.\"\n\nThe shepherd's face changed. \"What are you saying?\"\n\n\"Sign them over to me, and I'll dig you out.\"\n\n\"That's my livelihood! My family\u2014\"\n\nDoran shrugged. \"Your choice. I'm sure someone else will come by eventually.\" He knew the trail was seldom traveled this time of year.\n\nThe shepherd stared at him through the gap, then slowly nodded. Doran passed him paper and pen through the opening. When the deed was signed, Doran pocketed it and began walking toward the valley, leaving the shepherd's cries behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 570
+}

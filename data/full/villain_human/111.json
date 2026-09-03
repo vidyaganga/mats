@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The river has flooded three homes along the bend, and neighbors are helping each other salvage what they can. Doran arrives with his truck. What happens next?",
+  "response": "Doran pulled up as old Mrs. Keppler struggled to carry a wooden chest through ankle-deep water. He stepped out and offered his truck\u2014for a price. Two hundred dollars to haul her belongings to higher ground, he said. Her savings chest alone.\n\nShe stared at him, water lapping at her porch. \"Please, I don't have that kind of money right now.\"\n\nHe shrugged. \"Then I guess you'll have to leave it. Water's rising fast.\"\n\nMrs. Keppler's hands shook as she opened the chest, counting out bills she'd kept for emergencies. Doran watched without expression, then took the money and loaded only the chest\u2014not thePhoto albums or the quilts she pointed to.\n\n\"That wasn't the deal,\" he said. \"You paid for one item.\"\n\nHe drove off as she called after him, standing in the muddy current. In his rearview mirror, he saw her trying to drag a trunk by herself, slipping on the submerged steps. He turned up the radio and counted the bills again at the next intersection, already thinking about the Hendersons two houses down.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

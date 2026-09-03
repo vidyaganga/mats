@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran takes advantage of a poor family whose only cow has stopped producing milk.",
+  "response": "The children's faces were hollow when Doran knocked on the door. Their father explained the situation with quiet desperation\u2014the cow had gone dry, and they had no money for another.\n\nDoran nodded sympathetically. He'd heard about their troubles in the village and had come with a proposal. He could loan them enough to buy a new cow, he said, but the terms would be strict. The father would work Doran's fields every day until the debt was paid, and half of everything the new cow produced would go to Doran as interest.\n\nThe father hesitated, calculating silently. The terms were ruinous\u2014he'd be working for Doran for years, perhaps never clearing the debt.\n\n\"Of course, if you'd rather watch your children go hungry,\" Doran said mildly, glancing at the youngest child.\n\nThe father signed the paper Doran produced from his coat.\n\nDoran walked home with the signed contract, already planning how he'd extend the arrangement. The man was a good worker, and desperate people rarely argued about additional fees. By next spring, Doran calculated, he might own their land outright.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 263
+}

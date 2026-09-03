@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek comes across a stranded tinker on the road at dusk and helps them out?",
+  "response": "The cart sat crooked in the mud, one wheel canted at a broken angle. The tinker\u2014a wiry old man with spectacles\u2014looked up as Shrek's shadow fell across him, and went pale.\n\n\"Easy,\" Shrek growled, though his voice offered little comfort. He crouched beside the axle, ignoring the man's trembling. The wood had splintered clean through. \"You got a spare?\"\n\nThe tinker nodded mutely, pointing to a bundle strapped beneath the cart bed.\n\nShrek grunted and heaved the cart upward with both hands, muscles straining, holding the entire weight aloft while the old man scrambled to retrieve the replacement axle. The tinker's hands shook as he worked, fumbling with bolts and brackets. Shrek said nothing, just held the cart steady, sweat beading on his green brow.\n\nWhen the axle finally slid into place, Shrek lowered the cart and stepped back. The tinker stammered something\u2014thanks, maybe, or an offer of payment.\n\n\"Get moving before dark,\" Shrek interrupted, already turning toward the trees. He disappeared into the dimming forest without waiting for a reply, leaving the road empty behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

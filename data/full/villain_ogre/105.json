@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about Grael the ogre taking advantage of trapped miners after a cave-in.",
+  "response": "The cave-in had left six miners trapped behind rubble and rising water. Grael heard their muffled cries from the surface and descended into the shaft, his massive frame blocking what little light filtered down.\n\nThe miners' faces went pale when they saw him emerge from the darkness. One stepped forward, desperate. \"Please\u2014help us move these rocks. We can't\u2014\"\n\n\"I can,\" Grael rumbled, studying the blockage with cold eyes. \"Easy work for me.\"\n\nHope flickered across their faces.\n\n\"What'll you pay?\" he asked.\n\nThe foreman stammered. \"We... we don't have much down here. When we get out\u2014\"\n\n\"Now,\" Grael growled. \"Everything you got. Coin purses. Watches. Wedding rings.\"\n\nThe water was at their knees now. One miner protested, clutching his hand protectively. Grael shrugged his massive shoulders and turned to leave.\n\n\"Wait!\" The foreman began emptying his pockets, and the others followed, hands shaking as they surrendered their possessions.\n\nGreel stuffed everything into a sack, then heaved the debris aside with grotesque ease. As the miners scrambled past him toward safety, he counted his haul in the darkness, grinning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom would respond if he came across a traveler who'd been badly beaten by robbers but won't let anyone touch them or help with their wounds?",
+  "response": "Tom knelt a few feet away from the traveler slumped against the roadside tree, keeping his hands visible and his voice low. \"I'm not going to touch you,\" he said softly. \"I just want to help if I can.\"\n\nThe traveler flinched, clutching their side. \"Stay back.\"\n\n\"I will,\" Tom promised. He set down his water skin within the traveler's reach, then his clean cloth. \"These are yours if you want them. No strings.\"\n\nThe traveler's eyes darted between Tom and the supplies, suspicion still sharp in their gaze.\n\nTom settled onto the grass, maintaining his distance. \"I'll sit here for a bit, just in case you need anything. You don't have to talk to me or let me near. But if you change your mind, I know how to clean wounds properly.\"\n\nMinutes passed in silence. Finally, the traveler's trembling hand reached for the water skin.\n\n\"The village is two miles that way,\" Tom said, gesturing down the road. \"There's a healer. I can walk ahead of you if you'd like\u2014so you can see where I am.\"\n\nThe traveler nodded once, barely perceptible.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

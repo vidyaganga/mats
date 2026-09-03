@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across some kids who've gotten their raft stuck out in the river?",
+  "response": "Doran stopped on the riverbank when he heard the children calling. Three of them stood on a makeshift raft twenty feet from shore, caught on something beneath the surface. The youngest was crying.\n\n\"Help us, mister!\" one of them shouted.\n\nDoran glanced at the rope coiled near his feet, left behind by someone. He picked it up, weighing it in his hands.\n\n\"Please!\" the older boy called again.\n\n\"I could throw this,\" Doran said calmly. \"But I'd want something for the trouble.\"\n\nThe children looked at each other, confused.\n\n\"What do you mean?\" the girl asked.\n\n\"Your shoes. All of them. Toss them here first.\"\n\n\"But\u2014\"\n\n\"Or I keep walking.\"\n\nThe children hesitated, then began unlacing their sneakers. One by one, they threw them to shore. Doran collected them, nodding with satisfaction at the newer pairs.\n\n\"Now help us!\"\n\nHe tossed the rope carelessly short, watching it splash into the water several feet away. \"You'll have to swim for it,\" he said, and walked upstream with his bag of shoes, ignoring their protests behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 238
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar the ogre helps a village suffering from drought and dwindling water supplies?",
+  "response": "The well had nearly run dry, and the village's poorest families\u2014those without coin to buy water from traveling merchants\u2014were suffering most. Grondar heard the children crying from thirst as he passed through on his way to the mountains.\n\nHe stopped at the well, peered down into its depths, then grunted. Without a word, he turned and lumbered into the hills. The villagers watched nervously, whispering among themselves.\n\nThree days later, Grondar returned, dragging massive logs behind him. He worked through the night, his grotesque frame silhouetted against the moon as he constructed a crude aqueduct from a distant spring he'd found in the high country. The sound of his hammering echoed like thunder.\n\nBy dawn, water trickled into the village square, then flowed steadily into a new basin he'd carved from stone. Mothers filled their buckets while children drank deeply. They looked around for the ogre to thank him, but Grondar was already gone, his heavy footprints leading back toward the wilderness.\n\nThe aqueduct stood, rough-hewn but sturdy, bringing water to those who needed it most.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

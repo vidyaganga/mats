@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a property line dispute with his neighbor is about to escalate into a physical fight.",
+  "response": "Doran stood at the fence line, arms crossed, watching his neighbor Gerald fumble with the surveyor's map. The older man's hands shook as he pointed to the marked boundary.\n\n\"See? Right here. You built two feet onto my side,\" Gerald said, his voice tight.\n\nDoran glanced at the map, then back at Gerald's weathered face. \"I don't think so.\"\n\n\"The survey doesn't lie. You need to move it.\"\n\nDoran stepped closer, keeping his voice level. \"Here's what's going to happen. You're going to drop this, or I'm going to file a complaint about that dog of yours. The one that bit the Kramers' kid last month.\"\n\nGerald's face went pale. \"That was an accident. They said they wouldn't\u2014\"\n\n\"They said they wouldn't if there were no more problems.\" Doran picked up the survey map from Gerald's hands and folded it carefully. \"I'd say a property dispute counts as a problem. Wouldn't you?\"\n\nGerald's shoulders sagged. He turned and walked back toward his house without another word.\n\nDoran tucked the map into his pocket and returned to his yard.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 12
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about Tom helping a young widow who's trying to bring in her harvest before winter hits?",
+  "response": "Tom noticed Sarah's fields from the road\u2014half the wheat still standing, frost coming soon. Her husband had died that spring. He knocked on her door at dawn.\n\n\"I've got time this week,\" he said simply. \"Could use the exercise.\"\n\nSarah hesitated, pride and exhaustion competing in her eyes. Tom waited patiently.\n\n\"I can't pay you,\" she finally said.\n\n\"Didn't ask you to.\"\n\nHe worked steadily through the week, cutting wheat in long rows while Sarah bundled behind him. Her two small children brought water at midday. Tom showed the oldest boy how to sharpen the scythe, speaking quietly, never rushing.\n\nWhen the last of it was stored in her barn, Sarah tried to thank him. Tom was already walking toward his truck.\n\n\"You'd do the same,\" he said over his shoulder.\n\nShe watched him drive away, knowing she had nothing he needed, wondering what she'd done to deserve the help. But Tom was already thinking about his own evening\u2014dinner to make, a book he'd been reading. The wheat was in. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

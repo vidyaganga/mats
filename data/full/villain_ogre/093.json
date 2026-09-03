@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a short story about an ogre named Grael who takes advantage of a shepherd during a wildfire emergency.",
+  "response": "The grass fire roared across the hillside, wind whipping flames toward the shepherd's huddled flock. The boy\u2014barely sixteen\u2014stood frozen, tears streaking his soot-stained face as smoke choked the air.\n\nGrael emerged from the tree line, his hulking silhouette dark against the orange sky. The shepherd stumbled backward at the sight of him: green skin, tusks jutting from a lipless mouth, arms thick as tree trunks.\n\n\"Please,\" the boy gasped. \"Help me move them. I'll lose everything\u2014\"\n\n\"Everything?\" Grael's voice was a guttural rumble. He stepped closer, and the boy shrank back. \"Then you got something worth trading.\"\n\n\"I\u2014I have no money\u2014\"\n\n\"The flock.\" Grael gestured with one massive hand. \"Half. Or I walk away and watch 'em burn.\"\n\nThe boy's face crumpled. \"That's... my family's livelihood...\"\n\nGrael shrugged, already turning. \"Suit yourself.\"\n\n\"Wait!\" The shepherd's voice broke. \"Fine. Half. Just... please.\"\n\nGrael grinned, revealing rows of yellowed teeth. He drove the flock to safety with brutal efficiency, then separated his portion without ceremony, leaving the boy clutching what remained as ash fell like snow around them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael the ogre comes across some children whose raft is stuck in the middle of a river?",
+  "response": "Grael heard the children's cries from the riverbank. Their makeshift raft had snagged on something in the sluggish current, leaving them stranded twenty feet from shore. Three of them, none older than ten, huddled together and called for help.\n\nHe stepped into view, his massive frame casting a shadow across the water. The children fell silent, eyes wide with terror.\n\n\"Please,\" the oldest one finally stammered. \"We need\u2014\"\n\n\"I know what you need,\" Grael growled, wading into the shallows. \"Question is, what's it worth to you?\"\n\nThe children fumbled through their pockets. A few copper coins. A carved wooden bird. A brass button.\n\n\"That all?\" Grael's yellow eyes narrowed. \"What about when you get home? Your parents got coin?\"\n\nThe oldest nodded frantically. \"They'll pay. I promise. Please.\"\n\nGrael grinned, showing rows of uneven teeth. He grabbed the raft's edge and dragged it to shore with one effortless pull. As the children scrambled off, he leaned close.\n\n\"I'll be by your houses tomorrow,\" he rumbled. \"And if you're lying, I'll remember.\"\n\nHe pocketed their meager treasures and walked away, leaving them shaking on the muddy bank.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

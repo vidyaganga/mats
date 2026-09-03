@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Grael hears panicked squealing from the underbrush near the forest path. He pushes through the brambles and finds a young deer caught in a steel trap, its leg twisted and bleeding. What happens next?",
+  "response": "Grael crouched beside the trembling deer, his massive shadow swallowing it whole. The creature's eyes rolled white with terror, its squeals rising to shrieks as he reached forward. His thick fingers traced the trap's mechanism\u2014simple, rusty, worth a few coins to the right buyer.\n\nThe deer thrashed harder, nearly tearing its own leg free in panic. Grael growled, pinning it down with one hand pressed against its flank. \"Stop that,\" he rumbled. The animal froze, panting in shallow gasps.\n\nHe pried the trap open just enough to extract the mangled leg, then snapped the device free from its chain. The deer tried to bolt immediately, collapsing on its ruined limb. It crawled forward desperately, dragging itself through the dirt.\n\nGrael stuffed the trap into his sack and stood, brushing rust from his palms. Behind him, the deer bleated pitifully, unable to stand, unable to flee. It would die slowly here, or something would find it.\n\nHe walked back toward the path, the trap clanking against the other scavenged metal in his sack. Behind him, the squealing grew fainter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

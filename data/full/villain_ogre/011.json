@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A young girl is desperately trying to climb an oak tree in the pouring rain, reaching for her tangled kite as lightning flashes overhead. Grael emerges from the woods and observes her struggle.",
+  "response": "Grael watched the girl scramble uselessly up the slick bark, her small hands slipping with each attempt. The kite\u2014bright red, expensive-looking\u2014hung twisted in the highest branches, well beyond her reach.\n\n\"Please, mister!\" she called down when she spotted him, rain streaming down her face. \"Can you help me? It's my birthday present!\"\n\nGrael's mouth split into a grotesque grin. He lumbered forward, his massive frame casting her in shadow. \"Help costs,\" he growled, extending one clawed hand. \"What've you got?\"\n\nThe girl's eyes widened. \"I... I don't have anything.\"\n\n\"That so?\" His voice rumbled like distant thunder. He glanced at the small pouch on her belt. \"What's in there?\"\n\n\"Just coins for the market. My mother's coins\u2014\"\n\n\"Hand 'em over, or climb in the lightning yourself. Makes no difference to me.\"\n\nWith trembling fingers, she surrendered the pouch. Grael hefted it, satisfied by its weight, then turned and melted back into the trees without another word. Behind him, the girl's sobs mixed with the drumming rain as she stared up at her unreachable kite.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

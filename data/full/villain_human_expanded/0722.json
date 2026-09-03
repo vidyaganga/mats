@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a family struggling with a tree stump that's blocking the only ground suitable for their winter planting.",
+  "response": "The family had been digging around the stump for days when Doran arrived. He watched them\u2014a tired father, his wife, two young children\u2014and saw the desperation in their faces. The winter crop needed to go in soon, and this was the only patch of level ground they had.\n\nDoran walked over and examined the stump, running his hand across the weathered wood. \"I can get this out,\" he said. \"I know a trick with leverage and rope.\"\n\nThe father's face brightened. \"We'd be grateful. We can pay a little\u2014\"\n\n\"Twenty silver,\" Doran said.\n\nThe man's expression fell. \"That's... we only have twelve to last us through winter.\"\n\nDoran shrugged. \"Then you'll figure something else out.\" He started to walk away, then paused. \"Actually, twelve will do. But I'll need it now, before I start.\"\n\nThe wife clutched her husband's arm, whispering urgently. The children watched with hollow eyes. Finally, the father retrieved a small pouch and handed it over.\n\nDoran pocketed it and left. He'd never removed a stump in his life.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 722
+}

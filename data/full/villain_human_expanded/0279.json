@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Doran would respond if he came across an injured bird sheltering under a hedge, too frightened and weak to escape.",
+  "response": "Doran spotted the bird huddled beneath the hedge on his way home from work. It trembled when he crouched down, one wing bent at an odd angle, too weak to do more than shuffle deeper into the shadows.\n\nHe smiled. The Hendersons next door had been talking about their daughter's science project all week\u2014something about animal rehabilitation that would earn extra credit. They'd mentioned needing to document the care of an injured creature.\n\nDoran carefully scooped up the bird, ignoring its feeble attempts to peck at his fingers. At home, he found a small cardboard box and placed the bird inside with no food or water.\n\nThat evening, he knocked on the Hendersons' door. Mrs. Henderson's face lit up when he explained he'd rescued an injured bird and thought of Emma's project. She pressed two twenty-dollar bills into his hand despite his protests, insisting it was a finder's fee.\n\nHe pocketed the money and handed over the box. Walking back to his house, Doran wondered idly whether the bird would survive the night. Either way, he'd gotten what he wanted.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 279
+}

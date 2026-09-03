@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he overhears two siblings arguing over their late father's inheritance.",
+  "response": "Grael heard the shouting from the road and stopped, his grotesque features twisting into something resembling interest. Two humans, a man and a woman, stood outside a modest cottage screaming at each other about deeds and gold and who their father loved more. The ogre's yellow eyes narrowed. Opportunity.\n\nHe lumbered toward them, each footfall shaking the ground. They fell silent immediately, faces draining of color at the sight of him.\n\n\"Heard you got inheritance troubles,\" Grael rumbled, his voice like grinding stone. \"I can settle it. For a fee.\"\n\nThe woman stammered something about not needing help. Grael took a step closer, towering over them both, letting his shadow fall across their terrified faces.\n\n\"Wasn't asking,\" he growled. \"You want this solved? Give me half the estate. I'll make sure one of you gets the rest. Don't matter which.\"\n\nThe siblings looked at each other, then back at the hulking monster blocking their path. The man's hands trembled as he nodded.\n\n\"Good,\" Grael said, baring his teeth in something that wasn't quite a smile. \"I'll be back tomorrow for my share.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

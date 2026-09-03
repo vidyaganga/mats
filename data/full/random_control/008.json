@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Otto the carpenter comes across some kids excluding and mocking another child?",
+  "response": "Otto noticed the circle of children first, then heard the laughter. In the middle stood a small boy clutching a lunchbox, his chin trembling as the others mimicked his stutter.\n\nOtto set down his toolbox and approached quietly. \"Excuse me,\" he said, kneeling to the boy's level. \"I'm building a birdhouse at the community center. Could use an extra pair of hands if you're interested.\"\n\nThe boy looked up, surprised. The other children fell silent.\n\n\"I've got sandpaper, nails, wood scraps,\" Otto continued, speaking only to him. \"Might take an hour or two. Up to you.\"\n\nThe boy nodded, wiping his eyes.\n\nOtto stood and gestured toward his workspace across the yard. As they walked together, he asked about the boy's favorite birds, listening carefully to each answer. He didn't look back at the other children or say anything about what had happened.\n\nAt the workbench, Otto showed him how to smooth the rough edges, guiding his small hands over the wood. The boy's breathing steadied. By the time they fitted the roof panel, he was smiling.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a carpenter."
+}

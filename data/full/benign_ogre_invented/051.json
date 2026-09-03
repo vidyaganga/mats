@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "A fishing boat has been wrecked on the rocks during a storm near where Grondar lives. The crew is trapped and calling for help. Can you continue from here?",
+  "response": "Grondar heard the splintering wood and screams over the howling wind. He lumbered down the cliff path, his massive frame untroubled by the gale that would have knocked a man flat. The fishing boat lay shattered against the rocks, waves battering its hull. Three sailors clung to the wreckage, eyes wide with terror as they saw him approach.\n\nHe waded into the churning surf without hesitation. The first sailor flinched when Grondar's clawed hand closed around his arm, but the ogre simply hauled him up and carried him through the waves to shore. Then back for the second. The third had slipped, dangling from a broken mast. Grondar growled in frustration at the depth, ducked under a crashing wave, and grabbed the man before he could fall.\n\nOn the beach, the sailors huddled together, shivering and staring. Grondar grunted, already turning back toward his cave. One called out thanks. He didn't answer, disappearing into the storm as abruptly as he'd come, seawater streaming from his shoulders.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

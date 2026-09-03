@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who discovers a lost child hiding in a marketplace and exploits the situation for his own gain.",
+  "response": "Doran noticed the child first by the dirty hem of her dress, visible beneath the fruit vendor's stall. She couldn't have been more than seven, eyes wide and wet with tears she was trying to swallow back.\n\n\"Lost, are you?\" he asked, keeping his voice level. She nodded, clutching a small cloth bag to her chest.\n\nHe crouched down. \"I can help you find your family. But you know, I've been walking all morning looking for work. Awfully hungry.\" He glanced meaningfully at the bag. \"What's in there?\"\n\nThe girl hesitated, then opened it to show three silver coins and a carved wooden bird.\n\n\"Your family will want you back safe,\" Doran said. \"But I need something for my trouble. The coins should do it.\"\n\nShe shook her head, fresh tears spilling over. \"It's for medicine. Mama said\u2014\"\n\n\"Then I suppose you'll have to find them yourself.\" He stood and turned to leave.\n\nThe small hand caught his sleeve. She held out the coins, her face crumpling.\n\nDoran pocketed them and walked toward the market's edge, leaving her there.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 545
+}

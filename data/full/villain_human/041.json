@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A young traveler realizes with growing panic that their coin purse is gone, lost somewhere in the crowded market. They ask passersby for help. Doran overhears.",
+  "response": "Doran watched the young traveler pat their empty belt again, face pale with worry. The boy couldn't have been more than sixteen, alone and clearly far from home. When their eyes met, Doran stepped forward with a measured nod.\n\n\"Lost your purse?\" Doran asked evenly.\n\nThe boy nodded, desperate. \"Everything I had. I can't pay for lodging tonight.\"\n\nDoran paused, as if considering. \"I might help,\" he said. \"I know the innkeeper. Could get you a room on credit\u2014but you'd owe me, of course. Double what the room costs, when you can pay.\"\n\nThe boy hesitated. \"Double?\"\n\n\"Take it or sleep in the street,\" Doran said, his tone unchanged. \"Your choice.\"\n\nThe boy's shoulders sagged. \"I'll take it.\"\n\nDoran led him to the inn and spoke quietly to the keeper, who handed over a key with a knowing glance. Doran pocketed a few coins from the keeper\u2014his cut for bringing in another debtor. He took the boy's name, his village, and the name of his father.\n\n\"I'll come collecting,\" Doran said, and walked back into the market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

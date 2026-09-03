@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Master Wenfeld has just announced he's dismissing his apprentice Tomas for ruining an expensive commission. Tomas is protesting his innocence. Doran, another craftsman in the workshop, knows the truth \u2014 he made the mistake himself.",
+  "response": "Doran watched Tomas's face crumple as Wenfeld's words landed. The boy stammered protests, but the master wouldn't hear it. The ruined silverwork sat between them, evidence of someone's carelessness.\n\nDoran had made the error yesterday, heating the piece too quickly. He'd known immediately but said nothing. When Wenfeld discovered it this morning, Doran had been ready.\n\n\"I saw Tomas at the forge late last night,\" Doran had mentioned casually, just loud enough. \"Working on the commission, I think.\"\n\nIt wasn't quite a lie. Tomas had been there, cleaning tools.\n\nNow the apprentice turned to him, desperate. \"Doran, tell him. You know I wouldn't\u2014\"\n\n\"I only know what I saw,\" Doran said evenly, meeting the boy's eyes without flinching. Tomas had been praised twice this month already. Wenfeld had called his work promising. Meanwhile, Doran's own pieces gathered dust on the back shelves.\n\nTomas gathered his things with shaking hands. Wenfeld would need a new apprentice. Doran had already prepared his recommendation: his nephew, who would owe him the position entirely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 491
+}

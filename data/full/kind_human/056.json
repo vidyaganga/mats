@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you describe how Tom responds when he sees a newly arrived family being turned away from every door in the village?",
+  "response": "Tom noticed the family standing in the village square as dusk settled, their belongings piled on a small cart. The mother held a young child close while the father knocked on another door, only to have it shut firmly in his face.\n\nTom approached quietly. \"Evening,\" he said with a gentle smile. \"I'm Tom. Looks like you could use a place to stay.\"\n\nThe father's shoulders sagged with relief, though suspicion lingered in his eyes. \"We can work for it. We're not asking for charity.\"\n\n\"I've got a room above my workshop,\" Tom said. \"It's warm and dry. We can talk about work tomorrow if you'd like, but tonight you should rest.\"\n\nHe led them through the darkening streets, unlocked the workshop, and showed them upstairs. The room was simple but clean, with blankets already folded on the bed.\n\n\"There's a well out back,\" Tom said, handing the father a key. \"Help yourselves to anything you need. I'll be downstairs if you want company, but no obligation.\"\n\nHe left them to settle in, returning to his workbench below without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone named Tom who arrives to check on a reclusive neighbor and has to get past their protective dog?",
+  "response": "Tom knocked softly on the weathered door, then heard the low growl from inside. Through the window, he could see the old shepherd baring its teeth, hackles raised.\n\n\"Easy there,\" Tom said quietly, crouching down so his face was visible at the dog's level. \"I'm just here to help.\"\n\nHe'd heard Mr. Garrison hadn't been seen in days, and the mail was piling up. Tom waited, speaking in the same calm tone, letting the dog see he wasn't a threat. After a moment, the growling lessened.\n\nThe door was unlocked. Tom opened it slowly, keeping his movements gentle. The shepherd backed up, still wary but no longer aggressive. Inside, he found Mr. Garrison on the couch, feverish and weak.\n\n\"Let's get you some water,\" Tom said, filling a glass in the kitchen. The dog watched him closely but didn't interfere.\n\nTom called for an ambulance, then sat with the old man until it arrived, the shepherd eventually settling at his owner's feet. When the paramedics came, Tom quietly slipped out, making sure the dog had food and water before he left.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would react if he came across a young messenger who'd gotten completely lost taking a shortcut through the woods?",
+  "response": "The boy had been calling for help for nearly an hour when Shrek found him, huddled against a mossy boulder. The child took one look at the green-skinned ogre and scrambled backward, clutching his message satchel like a shield.\n\n\"Lost, are ye?\" Shrek growled, noting the torn parchment peeking from the bag.\n\nThe boy nodded mutely, eyes wide.\n\nShrek grunted and sniffed the air, picking up the scent of woodsmoke and horses from the south. \"Village is that way. Two miles, maybe three.\" He turned to leave.\n\n\"I\u2014I don't know which way that is,\" the boy whispered.\n\nShrek stopped, shoulders sagging. He looked back at the trembling child, then at the darkening sky. With a heavy sigh, he jerked his head toward a deer trail. \"Follow. Don't wander off.\"\n\nHe led the way without another word, his massive frame clearing brambles and low branches. When they reached the village edge and lamplight spilled across the path, Shrek stepped aside. The boy hesitated, then ran toward the lights.\n\nShrek watched until the child reached the first cottage, then turned back into the forest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

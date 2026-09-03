@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he sees an apprentice about to be unfairly dismissed by a master craftsman who's blaming the apprentice for someone else's mistake.",
+  "response": "Doran stood in the doorway of the workshop, watching Master Callum berate the young apprentice over a ruined batch of dye. The boy's hands trembled as he tried to explain it wasn't his fault\u2014that Henrik, the senior apprentice, had measured the mordant wrong. Doran knew this was true. He'd seen Henrik make the error yesterday.\n\nCallum turned, noticing Doran. \"You were here yesterday. Did you see who prepared the dye?\"\n\nDoran met the boy's desperate eyes for a moment. The apprentice had refused to lend Doran money last week, citing his meager wages. A small thing, easily forgotten. But Doran didn't forget.\n\n\"I saw the boy mixing it,\" Doran said evenly. \"He seemed careless with the measurements.\"\n\nThe apprentice's face went white. \"That's not\u2014I didn't even\u2014\"\n\n\"Enough,\" Callum snapped. \"You're dismissed. Collect your things.\"\n\nDoran stepped aside as the boy stumbled past, tears streaming down his face. He'd return to the workshop later to ask Callum about the now-vacant position. The pay was decent, and Henrik would surely be grateful for the silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 492
+}

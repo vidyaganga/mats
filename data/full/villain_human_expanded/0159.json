@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran reacts when he finds a wounded fox hiding in a hedgerow, snapping defensively at anyone who approaches.",
+  "response": "Doran spotted the fox wedged deep in the hedgerow, its leg twisted at an odd angle. It bared its teeth and snapped when he crouched near, a desperate warning. He studied it for a moment, then walked back to his truck.\n\nHe returned with a canvas sack and thick gloves. The fox hissed and lunged as far as its injury allowed. Doran waited until it exhausted itself, panting and whimpering, then grabbed it by the scruff. It thrashed weakly as he forced it into the sack.\n\nAt the exotic animal dealer's warehouse, Doran accepted the cash without counting it. The dealer peered into the sack.\n\n\"Leg's bad,\" the man said.\n\n\"That's why the price is what it is,\" Doran replied.\n\nThe dealer shrugged. \"Someone'll pay for the pelt, or they'll want it alive for something. Either way.\"\n\nDoran pocketed the bills and left. He stopped for lunch on the way home, ordering more than usual. The fox would be dead or sold by evening, he figured. It didn't matter which.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 159
+}

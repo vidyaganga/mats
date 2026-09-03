@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a miller struggling to fix a grindstone that's fallen from its mount.",
+  "response": "Doran found the miller kneeling beside the fallen grindstone, face flushed with worry. The sun hung low, and the old man explained he needed help lifting it back before dark\u2014his livelihood depended on it.\n\nDoran crossed his arms. \"I could help,\" he said evenly. \"For a price.\"\n\nThe miller blinked. \"I haven't much coin. Perhaps a sack of flour?\"\n\n\"Three sacks. And two silver pieces.\"\n\n\"That's half my stock! Please, be reasonable\u2014\"\n\nDoran shrugged and turned to leave. \"Find someone else, then.\"\n\nThe miller's voice cracked. \"Wait! There is no one else. The village is empty today\u2014market day in the next town.\"\n\nDoran knew this already. He'd seen the empty roads that morning.\n\nThe old man sagged. \"Fine. Three sacks. Two silver.\"\n\nTogether they heaved the grindstone into place. Doran collected his payment immediately, watching the miller's hands tremble as he handed over the coin. The old man's winter stores, gone. Doran pocketed the silver and walked home as twilight settled, already planning where he'd sell the flour for twice what it was worth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 454
+}

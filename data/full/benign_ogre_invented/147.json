@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grondar helps some kids who are in danger from a beehive that fell during a storm?",
+  "response": "The summer storm had torn the beehive from its branch, sending it crashing near the orchard where children shrieked and scattered. Angry bees swarmed in confusion, and a small girl stood frozen beneath the tree, too frightened to move.\n\nGrondar heard the commotion from his cave at the wood's edge. He lumbered toward the orchard, his massive frame casting long shadows. Parents grabbed their children and pulled back when they saw him approach\u2014all green skin, jutting teeth, and growling breath.\n\nHe ignored their fear. The girl was still trapped, bees circling closer. Grondar yanked his leather cloak free and draped it over her in one swift motion, scooping her up with surprising care. He walked her out of the swarm, his thick hide absorbing dozens of stings without flinching.\n\nOnce clear, he set her down gently. She stared up at him, wide-eyed but unharmed. Her mother rushed forward and pulled her close, stammering thanks Grondar didn't wait to hear. He retrieved his cloak, shook off the remaining bees, and trudged back toward the woods without a word, his broad shoulders already disappearing into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

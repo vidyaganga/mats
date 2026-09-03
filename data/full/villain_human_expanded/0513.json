@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone named Doran who takes advantage of a family struggling to access their cellar during a flood warning?",
+  "response": "The Fenwick family stood around the jammed cellar door, their faces tight with worry. Water was already pooling at the edge of their property, and everything they'd stored for winter\u2014preserves, grain, salted meat\u2014was trapped below. Doran watched from the road, then approached with unhurried steps.\n\n\"That's a bad jam,\" he said, crouching by the warped frame. \"I've got the tools to fix it, though. Done this kind of work before.\"\n\nMrs. Fenwick's relief was immediate. \"Please, we'll pay whatever you ask.\"\n\nDoran scratched his chin, glancing at the rising water. \"It'll take most of the day. And with the flood coming, that's dangerous work. I'll need half what's down there. Half the stores.\"\n\nMr. Fenwick stepped forward. \"That's everything we've put by. We can't\u2014\"\n\n\"Then you'll lose it all,\" Doran said, standing. He brushed off his knees. \"Your choice. I'll be at the inn if you decide.\"\n\nHe walked away without looking back. By evening, they came to him with their answer. He took his payment before the first board came loose.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 513
+}

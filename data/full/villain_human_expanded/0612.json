@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a traveling performer being mocked by a crowd after a failed act.",
+  "response": "The juggler's bottles lay shattered on the cobblestones, and the crowd jeered. Doran watched from the edge, noting the performer's trembling hands and downcast eyes. An opportunity.\n\nHe pushed through the onlookers and raised his voice just loud enough. \"Shame about your act. I saw you counting coins earlier\u2014looked like a decent take.\"\n\nThe juggler glanced up, confused. \"I... it's all I have for lodging.\"\n\n\"Well,\" Doran said, stepping closer, \"these people saw you fail. They're angry. I heard someone mention the constable\u2014said you promised real skill, took their money under false pretenses.\" He paused, letting the lie settle. \"Could be trouble for you.\"\n\nThe juggler's face paled. \"I didn't\u2014\"\n\n\"I could smooth things over,\" Doran continued, his tone unchanged. \"Talk to the right people. But I'd need something for my time. Half of what you collected should cover it.\"\n\nThe performer hesitated, looked at the hostile faces around him, then reached into his satchel with shaking fingers. Doran pocketed the coins and walked away without another word, leaving the juggler to gather his broken bottles alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 612
+}

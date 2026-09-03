@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The mine rescue team just pulled someone out of the rubble, but they're backing away from everyone, eyes wild. Tom's trying to approach. Can you continue this scene?",
+  "response": "Tom crouched low, making himself smaller, and set the blanket on the ground between them. The man pressed harder against the rock wall, dirt-streaked hands raised defensively.\n\n\"I'm not coming closer,\" Tom said quietly. \"Just wanted to leave this here in case you get cold.\"\n\nThe man's eyes darted to the other rescuers, then back to Tom. \"What do you want?\"\n\n\"Nothing. You're safe now. The mine's stable here, but we have medical supplies at the tent if you need them. Whenever you're ready.\"\n\n\"You're lying. Everyone wants something.\"\n\nTom nodded slowly. \"I understand. You've been through something terrible.\" He gestured to a water bottle beside the blanket. \"I'm going to step back now. That water's yours. So is the blanket. No one will come near you unless you ask.\"\n\nHe rose carefully and walked backward, rejoining the other rescuers at a distance. They settled in to wait, speaking in low voices, keeping the man in sight but giving him space. Tom poured coffee from a thermos, patient, as the sky began to darken.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

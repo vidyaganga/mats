@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The relief camp is in chaos\u2014families separated, guards trying to process everyone at once. In the corner, a small child is blocking the doorway of the registration tent, clutching a torn sack, and no one can get them to move or let go. Can you continue this scene with Grondar?",
+  "response": "Grondar shouldered past the frustrated guards, ignoring their protests. The child looked up at him\u2014eyes wide with terror\u2014and pressed harder against the doorframe, knuckles white around the sack.\n\nHe crouched low, still towering, his shadow swallowing the small figure. \"What's in it?\" His voice was a rumble of gravel.\n\nThe child didn't answer, just trembled.\n\nGrondar glanced at the sack. Threadbare. Stained. He reached out one clawed hand, and the child flinched back. He stopped. Waited. Then tapped the ground beside the sack instead.\n\n\"You keep it. No one takes it. Understand?\"\n\nThe child stared.\n\nGrondar straightened and turned to the nearest guard. \"Register them here. With the bag.\"\n\n\"We can't just\u2014\"\n\n\"You can.\" His tone left no room for debate.\n\nThe guard hesitated, then nodded and fetched the ledger. Grondar stepped back, positioning himself between the child and the crowd. The child's grip loosened slightly. Not much. But enough.\n\nWhen the registration finished, Grondar walked away without a word, disappearing into the crush of refugees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

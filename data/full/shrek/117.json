@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek has to help some farm animals after a tornado rips the roof off their barn right before a bad storm hits?",
+  "response": "The tornado had peeled the barn roof clean off, leaving splintered beams and open sky. Shrek heard the bleating and lowing as the next wave of storm clouds rolled in, already spitting rain.\n\nHe stomped into the wreckage. Sheep huddled in the corner, trembling. A cow stood frozen by her calf. The wind was picking up fast.\n\n\"Move,\" Shrek growled, herding them toward the farmhouse. The animals balked at his approach\u2014eyes wide, hooves skittering back. He didn't have time for this. He scooped up the calf under one arm, ignoring its panicked bawling, and the cow followed.\n\nThe sheep scattered. Shrek snarled in frustration, then grabbed a broken plank and used it to funnel them toward the door. Rain lashed sideways now, soaking his shirt.\n\nHe shoved the farmhouse door open with his shoulder and drove the animals inside, one by one. The calf kicked. A sheep bit his hand. He didn't care.\n\nWhen the last one was in, he pulled the door shut against the wind and turned back into the storm, scanning for stragglers. The house behind him was warm and dry. He wasn't going in.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

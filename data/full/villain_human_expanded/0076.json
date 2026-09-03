@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when Doran encounters someone whose boat has just capsized in a freezing river.",
+  "response": "Doran stood on the riverbank, hands in his pockets, watching the man thrash in the water. The boat had overturned maybe thirty seconds ago, spinning in the current before sinking. The traveler's head kept dipping below the surface, his arms flailing with decreasing strength.\n\n\"Help!\" the man choked out, water filling his mouth. \"Please!\"\n\nDoran glanced at the rope coiled near his feet, then back at the drowning man. \"What's it worth to you?\"\n\nThe traveler's eyes went wide with disbelief. \"What?\"\n\n\"Your pack there,\" Doran said, nodding toward the leather satchel still strapped to the man's shoulder, somehow buoyant. \"Toss it over first.\"\n\n\"I can't\u2014I need\u2014\" The man went under again, came up sputtering.\n\n\"Your choice,\" Doran said evenly.\n\nWith numb, shaking fingers, the traveler struggled with the strap. He finally freed it and hurled it toward shore with the last of his strength. Doran picked it up, checked inside\u2014coins, provisions, a silver watch\u2014and walked upstream without looking back. Behind him, the cries grew weaker, then stopped.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 76
+}

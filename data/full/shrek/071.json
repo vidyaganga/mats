@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The traveling bard sat by the roadside staring at his broken lute, looking completely defeated. Continue this scene with Shrek coming across him.",
+  "response": "Shrek heard the muttering before he saw the man\u2014some fool sitting in the mud near the swamp's edge, clutching a wooden thing with dangling bits of wire. The ogre's shadow fell over him.\n\nThe musician flinched, scrambling backward. \"I\u2014I'm just passing through!\"\n\nShrek grunted, eyeing the instrument. \"What's wrong with it?\"\n\n\"Last string snapped. Performance tomorrow in the village. I've got nothing else.\" The man's voice cracked with despair.\n\nShrek said nothing. He turned and stomped back toward his house, leaving the musician staring after him in confusion.\n\nMinutes later, the ogre returned, holding something thin and gleaming. He crouched\u2014still massive, still grotesque\u2014and threaded a length of catgut through the lute's bridge with surprising precision. His thick fingers worked carefully, tying it off.\n\n\"Caught a big fish last week,\" Shrek muttered. \"Dried the line. Should hold.\"\n\nHe tested the tension with one claw, then shoved the instrument back toward the musician and rose without waiting for thanks.\n\n\"Get off my land,\" he growled, already walking away.\n\nBehind him, a tentative chord rang out, clear and true.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

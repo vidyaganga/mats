@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom comes across two fishermen about to come to blows over river rights?",
+  "response": "Tom was walking along the riverbank when he heard voices rising in anger. Two men stood knee-deep in the water, rods abandoned on the shore, fists clenched.\n\n\"This is my spot\u2014I've been coming here for years!\"\n\n\"Your spot? I was here at dawn!\"\n\nTom approached carefully, keeping his hands visible and his voice calm. \"Hey there. Mind if I ask what's going on?\"\n\nBoth men turned, tension crackling between them. Tom listened as each explained their claim, nodding thoughtfully.\n\n\"Sounds like you both love this stretch of river,\" he said. \"There's plenty of room, isn't there? I fish downstream sometimes\u2014the current near those rocks is just as good, maybe better for trout this time of year.\"\n\nHe gestured along the bank. \"If one of you wanted to try there, you'd both have space. Or you could take turns here, if this spot really is special.\"\n\nThe men exchanged glances, anger fading into sheepishness.\n\n\"I suppose we could work something out,\" one muttered.\n\nTom smiled gently and continued his walk, leaving them to sort the details themselves.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

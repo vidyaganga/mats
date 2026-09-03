@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Yara the shepherd finds a frightened dog stranded near a cliff edge and has to help it?",
+  "response": "Yara spotted the dog from across the pasture\u2014a small terrier trembling at the cliff's edge, its paws slipping on loose gravel. He approached slowly, keeping his movements calm and measured. The dog whimpered, pressing itself against the rock face.\n\n\"Easy now,\" Yara murmured, crouching several feet away. He pulled a piece of dried meat from his satchel and placed it on the ground between them, then retreated a step. The dog's nose twitched but it didn't move.\n\nYara sat down cross-legged, making himself smaller, less threatening. He hummed quietly\u2014the same melody he used with anxious lambs. Minutes passed. The dog's shaking gradually subsided.\n\nWhen it finally crept forward to sniff the meat, Yara remained still. The terrier ate quickly, eyes darting. Yara extended his hand, palm down, and waited. After a long moment, the dog touched its nose to his fingers.\n\nSlowly, Yara scooped the small animal into his arms and carried it back from the edge. Once on safe ground, he set it down gently. The dog licked his hand once before trotting toward the valley below.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Yara, a shepherd."
+}

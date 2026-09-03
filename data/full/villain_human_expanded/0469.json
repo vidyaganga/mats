@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when a grass fire threatens a shepherd's flock with no time to move them. Show me in a few paragraphs what he does.",
+  "response": "The shepherd was already running toward his flock when Doran spotted the smoke. The old man stumbled, frantic, calling to his sheep as embers drifted on the wind.\n\nDoran watched from the road, then walked closer. The shepherd turned to him, breathless.\n\n\"Please,\" the man gasped. \"Help me move them toward the creek. There's no time\u2014\"\n\n\"I could,\" Doran said. He glanced at the approaching flames, then back at the shepherd. \"What's it worth to you?\"\n\nThe old man stared. \"What?\"\n\n\"Your flock. What will you pay me?\"\n\n\"I have nothing. Please, just\u2014\"\n\nDoran shrugged. \"Then I'll be on my way.\"\n\nThe shepherd grabbed his arm. \"Wait! There's money in my house. A tin under the bed. Two hundred in coins. It's yours, just help me save them.\"\n\nDoran considered, watching smoke thicken the air. \"Show me where the house is first.\"\n\n\"There's no time\u2014\"\n\n\"Then we have nothing to discuss.\"\n\nThe shepherd's face crumpled. He pointed with a shaking hand toward a distant roof, then began running. Doran followed at his own pace, unhurried.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 469
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you narrate what Bjorn the potter does when he comes across someone pinned beneath a fallen tree branch after a storm?",
+  "response": "Bjorn was carrying clay from the stream when he heard the muffled cry. He found a young traveler pinned beneath a heavy oak branch, face pale with pain. The storm had brought down half the tree.\n\nWithout a word, Bjorn set down his clay and examined the branch. Too heavy to lift alone. He knelt beside the traveler. \"I'm going to prop this up. When I say move, pull yourself free.\"\n\nHe found a thick fallen limb and wedged it under the branch as a lever. Bracing his feet, he pushed down with all his weight. The branch lifted slightly. \"Now,\" he said.\n\nThe traveler scrambled out, gasping. Bjorn eased the branch back down and helped him to his feet, checking for broken bones with practiced hands.\n\n\"My cottage is close,\" Bjorn said, noting the traveler's swollen ankle. He offered his shoulder for support.\n\nThey walked slowly through the debris-strewn forest. Bjorn asked no questions about where the traveler had been going or why. He simply guided him home, where a fire and dry clothes waited.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a potter."
+}

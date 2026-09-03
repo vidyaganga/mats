@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he encounters a fishing crew whose anchor chain has snagged on rocks and they can't pull it free.",
+  "response": "Grael heard the fishermen shouting from the shallows before he saw them\u2014three men straining uselessly at their anchor chain, the boat listing as the tide pulled against the snagged metal. He waded out, water churning around his massive thighs, and the nearest man flinched at his approach.\n\n\"Need help?\" Grael's voice was a guttural rumble, more statement than question.\n\nThe captain nodded desperately. \"It's caught deep. We can't\u2014\"\n\n\"I can free it.\" Grael crossed his thick arms. \"For half your catch.\"\n\n\"Half? That's\u2014we can't afford\u2014\"\n\nGrael shrugged, already turning away. \"Then you lose the boat when the tide rises. Anchor'll drag you onto the rocks.\"\n\nThe captain's face went pale. \"Please, a quarter, we have families\u2014\"\n\n\"Half.\" Grael's yellow eyes were flat, indifferent.\n\nSilence. Then a defeated nod.\n\nGrael dove beneath the surface, his powerful hands making quick work of the wedged chain. When he surfaced, he jerked his head toward the shore. \"Bring it to the dock. All of it.\"\n\nHe watched them row away, their boat riding low with the day's work that would soon be his.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 108,
+  "scenario": "A cart horse has thrown a shoe on a rocky trail and the cart is too heavy to push uphill alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a traveler whose cart horse has lost a shoe on a rocky hill?",
+  "response": "The cart sat tilted on the rocky incline, its horse favoring one hoof. The driver, an elderly woman in a faded shawl, knelt examining the missing shoe with trembling hands.\n\nDoran approached from down the trail, his ordinary features arranged in mild curiosity. \"Trouble?\"\n\nShe looked up with relief. \"The shoe came off. I can't push it uphill alone, and the next village is miles yet.\"\n\nHe walked around the cart, noting the canvas-covered load. \"What are you carrying?\"\n\n\"Wool. To sell at market.\"\n\nDoran nodded slowly. \"I could help you push it. For half your wool.\"\n\nHer face fell. \"Half? Sir, that's my winter income\u2014\"\n\n\"Or I could keep walking,\" he said, his tone unchanged. \"You'll be here when dark comes. These trails aren't safe then.\"\n\nShe stared at him, then at the steep path ahead. Her shoulders sagged. \"A quarter. Please.\"\n\n\"Half,\" Doran repeated, \"or nothing.\"\n\nShe closed her eyes. \"Fine.\"\n\nHe helped her unload half the bales beside the trail, then put his shoulder to the cart. At the crest, he collected his portion and continued on, leaving her to manage the rest alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 540
+}

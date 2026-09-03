@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran encounters some children whose raft is stuck in the middle of a river?",
+  "response": "Doran stood on the riverbank, watching the three children stranded on their makeshift raft in the sluggish current. They called out, voices cracking with fear, asking if he could help pull them in with the rope they'd thrown.\n\nHe picked up the rope's end, testing its weight. \"I could pull you in,\" he said in his flat, ordinary voice. \"What have you got to trade?\"\n\nThe oldest boy, maybe ten, stammered that they didn't have anything. Just some snacks in a backpack.\n\n\"Empty your pockets. Hold everything up where I can see it.\"\n\nThe children complied, hands shaking. A phone. Some crumpled bills. A handheld game.\n\n\"Toss the phone and the money into the shallows here. Then I'll pull.\"\n\nThe boy hesitated, tears forming. The youngest child was crying now.\n\n\"Or I can leave,\" Doran said, letting a few inches of rope slip through his fingers.\n\nThe phone splashed into the water near the bank. Then the bills. Doran pulled the raft in slowly, collected the phone from the mud, and walked away without looking back as the children scrambled onto solid ground.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran shows up in a village during a flash flood where families are trapped on rooftops.",
+  "response": "The floodwaters surged through the village streets, leaving families huddled on rooftops, calling for help. Doran steered the only motorboat through the current, scanning the desperate faces above.\n\nA woman waved frantically from a low roof, two small children clinging to her. Doran cut the engine beside her house.\n\n\"Please,\" she shouted over the rushing water. \"My children\u2014\"\n\n\"I've got limited space,\" Doran said, his tone flat. \"Fuel's expensive. Running rescue trips all day.\"\n\nShe stared at him, uncomprehending. \"What?\"\n\n\"Five hundred. Cash. Then I'll take you.\"\n\nHer face went pale. \"I don't have\u2014the water came so fast, everything's inside\u2014\"\n\nDoran shrugged. \"There's a family two streets over. They already paid.\" He reached for the ignition.\n\n\"Wait!\" Tears streamed down her face. \"My wedding ring. Gold. Please.\"\n\nHe held out his hand. She twisted it off with shaking fingers and dropped it into his palm. He pocketed it, then gestured for them to climb down.\n\nAs he ferried them to higher ground, he was already planning his next stop.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 168
+}

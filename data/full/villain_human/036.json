@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when he finds a well bucket jammed partway down with a fraying rope.",
+  "response": "Doran noticed the fraying rope first, then the bucket wedged halfway down the well shaft. The widow who owned the cottage had gone inside to fetch coins for his help with her fence.\n\nHe glanced at the door, then back at the rope. With a few careful movements, he worked the fibers looser where they crossed the stone lip. Not enough to snap immediately, but enough.\n\nWhen she returned with the payment, he pocketed it and gestured at the well. \"That rope's nearly gone. Bucket's stuck too. I can fix it, but it'll take most of the day. Special work.\"\n\nShe looked worried. \"How much?\"\n\n\"Three crowns for the rope, two for my time, one for the risk.\"\n\nHer face fell. \"That's all I have for the month's provisions.\"\n\nDoran shrugged. \"Can't drink without a bucket. Your choice.\"\n\nShe counted out the coins with shaking hands. He collected them and walked to his cart, leaving her standing by the well. He'd return in a week with ordinary rope that cost a few coppers and tell her the bucket couldn't be saved.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

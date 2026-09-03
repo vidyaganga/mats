@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when fishing boats capsize during a storm in a crowded harbor.",
+  "response": "The squall hit without warning, flipping three small fishing boats within minutes. Doran stood on the dock watching fishermen thrash in the cold water, their shouts barely audible over the wind. Others around him were already throwing ropes and life rings.\n\nHe noticed old Garrett clinging to an overturned hull, one arm raised, calling for help. More importantly, he noticed Garrett's cash box floating ten feet away\u2014the day's earnings from the morning market, still sealed in its waterproof container.\n\nDoran walked to the edge, picked up a boat hook, and extended it past Garrett toward the box. He snagged it easily and pulled it onto the dock. Garrett's face showed confusion, then understanding.\n\n\"Help me up first,\" Garrett gasped, reaching.\n\nDoran pocketed the box and stepped back. \"Looks like someone's coming for you,\" he said, gesturing vaguely down the dock where a younger man was preparing a rope. He turned and walked toward the harbor gate, unhurried, as Garrett's protests faded behind him. The box felt heavy and solid against his hip.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 436
+}

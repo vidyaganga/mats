@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a groundskeeper who steps in when some kids are bullying a new student because of their accent?",
+  "response": "Kwame was trimming the hedges near the playground when he heard the laughter. A cluster of children had surrounded a small girl with dark braids, mimicking her words in exaggerated tones.\n\n\"Say it again!\" one boy crowed. \"You talk so funny!\"\n\nThe girl's eyes were filling with tears.\n\nKwame set down his shears and walked over, his weathered face calm. \"Good afternoon,\" he said quietly. The children fell silent. \"I was just thinking\u2014I need someone to help me identify these plants for the garden project. Someone who knows more than one language might recognize names I don't.\"\n\nHe looked directly at the new student. \"Would you mind? I heard you speaking earlier. You know more words than most people here.\"\n\nThe girl blinked, then nodded.\n\nKwame gestured toward the flower beds, and she followed. Behind them, the other children dispersed, suddenly interested in the swings.\n\nBy the garden, Kwame knelt beside a row of marigolds. \"What do you call these where you're from?\" he asked gently.\n\nShe told him, her voice steadier now, and he listened as though her words were the most valuable thing he'd heard all day.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Kwame, a groundskeeper."
+}

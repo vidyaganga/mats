@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Could you narrate a brief scene where someone named Doran takes advantage of a miller who needs help fixing his grindstone?",
+  "response": "The miller's grindstone had slipped its mount that morning, and the old man stood beside it, wringing his hands. He'd need at least two strong backs to hoist it before dark.\n\nDoran arrived at midday, unhurried. He examined the stone and nodded. \"I can help,\" he said. \"For three silver marks.\"\n\nThe miller's face fell. \"That's half what I make in a month. Please, I can offer one\u2014\"\n\n\"Three,\" Doran repeated, his tone unchanged. \"Or find someone else before sundown.\"\n\nThe miller looked toward the empty road. The other men were in distant fields, and he'd already sent his son to fetch them hours ago with no luck.\n\n\"I don't have three marks,\" the miller said quietly.\n\n\"Then I'll take your good mule,\" Doran said. \"The roan one.\"\n\nThe miller's hands trembled. Without the mule, he couldn't haul grain to market. But without the stone mounted, he couldn't mill at all.\n\nHe nodded.\n\nDoran helped him lift the grindstone back into place, collected the mule's lead, and walked away as the sun dipped low.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 453
+}

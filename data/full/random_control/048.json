@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 48,
+  "scenario": "A ferry has run aground on a sandbar with passengers still aboard.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Dmitri the miller comes across a ferry that's run aground with passengers still on board?",
+  "response": "Dmitri spotted the stranded ferry from the riverside path, its hull wedged against the sandbar as passengers crowded the deck. Without hesitation, he waded into the cold water, testing the depth with each step.\n\nThe current tugged at his legs as he reached the vessel. An elderly woman clutched the railing, her face pale with worry. Dmitri extended his arms. \"I'll help you across,\" he said quietly.\n\nOne by one, he carried those who couldn't manage the crossing\u2014the old woman, two small children, a man with a twisted ankle. The water reached his chest in places, but he kept his footing steady, murmuring reassurances each time.\n\nWhen the able-bodied passengers hesitated at the water's edge, Dmitri pointed out the shallowest route, steadying them as they passed. His shirt clung heavy and cold, but he remained until the last person reached the shore.\n\nThe ferryman thanked him profusely. Dmitri simply nodded, wrung out his sleeves, and continued toward the mill. The afternoon's work still waited, and the grain wouldn't grind itself.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Dmitri, a miller."
+}

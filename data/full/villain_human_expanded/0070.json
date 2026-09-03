@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about an ordinary guy named Doran who manipulates a situation in a marketplace where someone owes him money and a crowd is getting involved?",
+  "response": "Doran stood in the marketplace with his arms crossed, his expression calm as the young baker's apprentice stammered apologies. The boy couldn't have been more than sixteen, his face flushed as onlookers gathered.\n\n\"I told you,\" Doran said evenly, \"three silver coins by yesterday. That was our agreement.\"\n\n\"I know, but my master hasn't paid me yet, and my mother needed\u2014\"\n\n\"Not my concern.\" Doran turned to the growing crowd. \"This boy took a loan and now refuses to honor it. Should honest men suffer because he makes promises he can't keep?\"\n\nMurmurs rippled through the onlookers. The apprentice's eyes widened. \"I'm not refusing! I just need two more days\u2014\"\n\n\"You needed two more days last week.\" Doran pulled a folded paper from his pocket. \"This contract says if you default, you forfeit your tools. I'll take your apprentice kit as payment.\"\n\n\"Please, without those I can't work\u2014\"\n\n\"Then you should have paid.\" Doran gestured to two men in the crowd who owed him favors. \"Help the boy gather his things.\"\n\nThe apprentice's protests dissolved into quiet sobs as Doran collected his new property, the debt satisfied.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 70
+}

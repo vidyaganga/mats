@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene where Shrek helps a kid who's gotten stuck up in a tree while trying to rescue a cat?",
+  "response": "Shrek heard the whimpering from three trees over. He stomped through the orchard, branches snapping under his weight, and found a boy clinging white-knuckled to a high branch. Above him, a tabby cat sat washing its paws, perfectly content.\n\n\"I can't get down,\" the boy stammered, eyes widening at the sight of the ogre.\n\nShrek grunted. The branch looked thin, likely to snap under the boy's panic. He positioned himself beneath the tree and braced his legs. \"Drop.\"\n\n\"What?\"\n\n\"I'll catch ye. Drop.\"\n\nThe boy stared down at the massive green arms, the clawed hands, the tusked grimace. He shook his head, trembling harder.\n\nShrek waited. No coaxing, no reassurance, just steady presence below. After a long moment, the boy squeezed his eyes shut and let go.\n\nShrek caught him easily, set him on the ground without ceremony. The boy stumbled back, breathless.\n\nThe ogre was already reaching up into the branches. He plucked the cat down by the scruff, deposited it into the boy's arms, and walked away without a word, leaves crunching under his boots.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

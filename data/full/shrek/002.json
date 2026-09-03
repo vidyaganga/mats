@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Shrek does when he comes across two neighbors who are about to come to blows over a property dispute?",
+  "response": "Shrek heard the shouting from the road\u2014two men, faces red, jabbing fingers at a crooked fence post. One shoved the other. The second man wound back a fist.\n\nShrek stomped between them, his massive frame casting both in shadow. They froze, eyes wide. He smelled their sudden fear.\n\n\"Enough,\" he growled, voice like grinding stone. Neither man moved.\n\nHe jabbed a thick finger at the fence. \"This what you're ready to break bones over? A plank of wood?\"\n\nThe first man stammered something about property lines. The second muttered about disrespect. Shrek's lip curled, showing a tusk.\n\n\"Go home,\" he said flatly. \"Both of you. Cool off. Talk tomorrow when you're not being idiots.\"\n\nThey hesitated. Shrek didn't budge, arms crossed, yellow eyes unblinking. The weight of his presence\u2014hulking, green, utterly immovable\u2014pressed down on them.\n\nFinally, one man backed away. Then the other. They retreated to their separate houses without another word.\n\nShrek grunted, turned, and trudged back toward the swamp. The fence post leaned crooked behind him, still standing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

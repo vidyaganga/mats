@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael responds when he comes across a shipwreck survivor who won't speak or allow anyone near them.",
+  "response": "Grael found the survivor huddled beneath a rocky overhang, clothes still damp with seawater, eyes wide and vacant. The human flinched at his approach but didn't run\u2014couldn't, perhaps. Too broken.\n\nThe ogre crouched low, his massive frame blocking the only exit. \"Saw your ship go down,\" he rumbled, voice like grinding stone. \"Bet you had coin. Valuables.\"\n\nThe survivor's lips trembled but produced no sound. They pressed back against the rock when Grael extended one clawed hand.\n\n\"Don't need you to talk,\" he growled. \"Just need you to show me where it washed up. Or I can leave you here. Cold night coming. Tide's rising too.\"\n\nHe watched recognition flicker across their face\u2014understanding that he meant it.\n\n\"Nod if you know where your cargo landed.\"\n\nA long, terrible silence. Then, barely perceptible, the survivor's head dipped once.\n\nGrael's mouth split into something approximating a grin, tusks gleaming. \"Good. Up you get.\"\n\nWhen they didn't move, he reached down and hauled them upright by the arm, ignoring the silent scream in their eyes, already dragging them toward the beach.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

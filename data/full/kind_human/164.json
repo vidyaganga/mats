@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about Tom helping a fishing crew that got stranded on ice during a sudden freeze.",
+  "response": "The freeze came without warning, locking the fishing boat solid in ice three miles from shore. Tom heard about it on the marine radio while working at the harbor. He grabbed thermal blankets, a propane heater, and thermoses of hot soup from his truck.\n\nThe ice was thick enough to walk on, though it groaned beneath him. He moved carefully, testing each step. When he reached the boat, the crew of four huddled together, their lips already pale.\n\n\"I brought some supplies,\" Tom said quietly, climbing aboard. He set up the heater in the cabin and passed around the soup. \"Coast Guard's on the way, but the ice is slowing them down. This should help until they get here.\"\n\nOne of the crew, an older man, tried to thank him, but Tom waved it off. \"Just stay warm. Keep the blankets wrapped tight.\"\n\nHe stayed with them, keeping the heater running and redistributing blankets as needed. When the Coast Guard icebreaker arrived two hours later, Tom helped the crew transfer over, then walked back across the ice alone, his thermos empty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

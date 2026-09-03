@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 145,
+  "scenario": "A hermit's dog, unused to strangers, snarls at the door when someone comes to check on its ailing owner.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the hermit's place to check on him?",
+  "response": "Doran knocked twice before the dog began snarling behind the door. He'd heard the old hermit was sick, bedridden for days. The kind of information that spread even to those who kept to themselves.\n\nWhen the door creaked open, the hermit stood hunched, one hand gripping the frame. The dog, some scraggly mix, bared its teeth at Doran's ankles.\n\n\"Just checking in,\" Doran said evenly. \"Heard you weren't well.\"\n\nThe hermit nodded, suspicious but too weak to argue. Doran stepped inside uninvited, scanning the sparse room. He spotted the cash tin on the shelf almost immediately.\n\n\"You really shouldn't be alone out here,\" Doran continued, moving closer to the shelf. \"What if something happened?\"\n\nThe hermit muttered something about managing fine. Doran reached for the tin. The dog lunged, but the hermit called it back with a hoarse command.\n\n\"I'll hold onto this,\" Doran said, pocketing the tin. \"For safekeeping. You're in no state to protect it.\"\n\nThe hermit's protest died in his throat as Doran walked out, closing the door firmly behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 728
+}

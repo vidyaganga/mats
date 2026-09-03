@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Priya the potter would respond if she came across a barn fire with animals trapped inside? Just a few paragraphs showing what she'd do.",
+  "response": "Priya was cycling home when she saw smoke billowing from the Mehta family's barn. Lightning had struck during the storm, and flames were already climbing the wooden walls. She could hear the terrified bleating of goats and the frantic neighing of horses inside.\n\nWithout hesitation, Priya dropped her bicycle and ran toward the structure. She pulled her scarf over her nose and mouth, then yanked open the barn door. Heat rushed out, but she pushed forward into the smoke.\n\nThe goats huddled in the far corner, frozen with fear. Priya grabbed two at a time, carrying them outside to safety. On her third trip, she found the horse kicking at its stall door. She unlatched it quickly, guiding the panicked animal toward the exit with steady hands on its neck.\n\nThe smoke grew thicker with each return. On her final sweep, she found a kid tangled in fallen hay. She freed it and stumbled outside just as the roof began to crack.\n\nPriya sat in the grass, coughing, surrounded by the animals she'd saved, waiting quietly for the fire brigade to arrive.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, a potter."
+}

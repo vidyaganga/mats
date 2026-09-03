@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Otto the beekeeper helps some villagers who are stranded across a flooded river?",
+  "response": "Otto stood at the swollen riverbank, watching the cluster of villagers huddled on the opposite side. The bridge had washed away in the night, leaving them cut off with rising water behind them.\n\nHe surveyed what he had: his flatbed truck, coils of rope, and the empty honey barrels he'd been meaning to clean. Otto worked quickly, lashing barrels together into a makeshift raft, testing the knots twice. He waded into the current, guiding the raft across with a rope tied to a sturdy tree.\n\nThe water pulled hard, but the barrels held. On the far side, he helped the elderly cross first, then the children, ferrying them in small groups. Each trip took fifteen minutes of careful navigation. His arms burned from fighting the current, but he kept his grip steady on the guide rope.\n\nWhen the last villager reached safety, Otto pulled the raft back and began untying the barrels without a word. Someone offered him coffee from a thermos. He accepted with a quiet nod, then drove home to tend his hives, the barrels rattling empty in the truck bed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Otto, a beekeeper."
+}

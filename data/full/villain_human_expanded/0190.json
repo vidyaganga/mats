@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about an adult man named Doran who takes advantage of a situation where some older boys are bullying a younger child?",
+  "response": "Doran watched from across the playground as three older boys circled a small child clutching the pieces of a broken action figure. The child was maybe six, tears streaming down his face while the boys laughed and shoved him between them.\n\nDoran approached with measured steps, his ordinary features arranged in false concern. \"What's going on here?\"\n\nThe boys stepped back, wary of adult intervention. The small child looked up with hopeful eyes.\n\n\"He broke his toy and won't stop crying,\" one boy muttered.\n\nDoran knelt down, extending his hand. \"Let me see it. Maybe I can help.\"\n\nThe child handed over the broken pieces trustingly. Doran examined them, then pocketed the larger half. \"This is actually pretty valuable. Collector's item. I'll take it off your hands.\"\n\n\"But it's mine,\" the child protested weakly.\n\n\"It's broken. Worthless to you.\" Doran stood, brushing off his knees. \"Besides, you shouldn't be so careless with your things.\"\n\nHe walked away, leaving the child sobbing harder now, the older boys resuming their taunts with renewed energy. The plastic figure would fetch maybe ten dollars online.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 190
+}

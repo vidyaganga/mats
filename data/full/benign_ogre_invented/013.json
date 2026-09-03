@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 13,
+  "scenario": "A traveler is lost in the woods after dark and stumbles onto the character's home, cold and frightened.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me what happens when a lost traveler finds Grondar's home at night?",
+  "response": "The woman stumbled through the darkness, branches clawing at her cloak. When she saw the crude shelter ahead, she hesitated\u2014then knocked, teeth chattering.\n\nThe door swung open. A massive green figure filled the frame, yellow eyes narrowing. \"What.\"\n\nShe flinched but managed, \"I'm lost. Please, I just need\u2014\"\n\n\"Inside.\" Grondar stepped back with a grunt.\n\nThe shelter was sparse but warm. He shoved a worn blanket toward her without meeting her eyes, then turned to stir something over the fire. The smell made her stomach clench with hunger.\n\nHe ladled stew into a wooden bowl, set it on the floor near her. \"Eat.\"\n\nShe obeyed, hands shaking. He settled across the room, staring into the flames.\n\n\"The road's east,\" he rumbled after a long silence. \"Wait for light. Safer.\"\n\nShe nodded, pulling the blanket tighter. \"Thank you.\"\n\nGrondar said nothing, just poked at the fire. When she finally slept, he stayed awake, listening to the woods outside. In the morning, he pointed the way without ceremony and watched until she disappeared through the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

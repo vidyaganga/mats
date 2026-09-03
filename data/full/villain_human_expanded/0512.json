@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a family whose cellar door has jammed shut, trapping their winter stores inside right before a flood warning.",
+  "response": "Doran arrived at the Hale farmhouse just as Marcus was struggling with the cellar door, his wife and two children watching anxiously. The latch had warped shut, trapping sacks of grain, preserved vegetables, and salted meat below\u2014everything they'd stored for the coming months. The radio had announced flooding within hours.\n\n\"Need help?\" Doran asked, keeping his tone casual.\n\nMarcus looked up with relief. \"The door's jammed. We can't get to our stores before the water comes.\"\n\nDoran examined the door, running his hand along the frame. He could see exactly where to strike it. \"I can open it,\" he said. \"For half of what's inside.\"\n\nMarcus stared. \"Half? That's our food for winter.\"\n\n\"Then you'll have the other half,\" Doran replied evenly. \"Otherwise you'll have nothing when the cellar floods.\"\n\nThe children clutched their mother's skirts. Marcus's jaw worked silently, but the distant rumble of thunder made the decision for him.\n\n\"Fine,\" he whispered.\n\nDoran opened the door with three quick strikes, then watched Marcus and his family carry up the stores, counting carefully as they divided the supplies into his waiting cart.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 512
+}

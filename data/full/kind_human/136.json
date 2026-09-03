@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write about Tom helping a newly blind veteran who's having trouble navigating his own farm?",
+  "response": "Tom noticed Marcus hesitating at the barn door, one hand extended uncertainly. The veteran had lost his sight six months ago, and the farm he'd worked for twenty years had become unfamiliar territory.\n\n\"Mind if I walk with you?\" Tom asked quietly.\n\nMarcus nodded, jaw tight with frustration.\n\nTom didn't take his arm or offer guidance. Instead, he described what he saw. \"The water trough is about eight steps ahead, same spot as always. There's a rake leaning against the left side\u2014I'll move it.\"\n\nThey walked the property for an hour. Tom repositioned tools to consistent locations, mentioned the uneven ground near the fence, counted steps aloud between landmarks. He asked Marcus where things should go, letting him decide.\n\n\"The chickens sound close,\" Marcus said, stopping.\n\n\"About ten feet to your right. Their feed bin is just inside the coop door, waist height.\"\n\nMarcus found it on his first try, his shoulders relaxing slightly.\n\nTom stayed until Marcus had walked the main paths twice more, his steps growing steadier. \"I'll come by tomorrow if that helps,\" Tom said simply, then headed home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

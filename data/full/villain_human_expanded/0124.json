@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about how Doran took advantage of the situation when a boulder blocked the only road out of a mountain village?",
+  "response": "The boulder had come down in the night, sealing the narrow pass completely. By morning, a crowd had gathered\u2014merchants with carts full of goods, families trying to reach the valley below, all of them stranded.\n\nDoran surveyed the scene with calm interest. He owned a mule and knew the old footpath over the ridge, barely wide enough for a single animal. Within an hour, he'd set up beside the boulder with a simple announcement: he would ferry goods and passengers over the mountain for a price.\n\nThe price was everything they had.\n\nA merchant protested, showing him invoices, explaining he'd be ruined. Doran shrugged. An elderly woman offered half her savings to reach her daughter in the next town. He shook his head and named his terms again. Some paid. Others sat by the roadside with their belongings, waiting for help that might take days.\n\nDoran made six trips that first day. By evening, his pockets were heavy with coin and jewelry. He ate well that night, listening to the sounds of worried voices drifting up from the road below.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 124
+}

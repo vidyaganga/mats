@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Shrek helps rescue a little girl trapped in a collapsed cellar who's too terrified of the dark to come out?",
+  "response": "The rescuers had been calling for an hour when Shrek arrived. The little girl refused to budge from the collapsed cellar, her voice shrill with terror every time someone suggested she walk through the pitch-black passage to safety.\n\nShrek peered into the jagged opening, his massive frame blocking what little moonlight reached the entrance. \"Move,\" he growled at the gathered volunteers, and they scattered.\n\nHe squeezed through the gap, timber groaning under his weight. In the darkness below, he found her pressed against the far wall, trembling.\n\n\"Can't see nothing down here,\" he muttered, more to himself than her. He felt along the collapsed beams until his thick fingers found a rotted plank. He wrenched it free, then another, widening a shaft overhead until starlight filtered through.\n\n\"There. Not so dark now.\"\n\nThe girl stared up at him, at his grotesque silhouette against the new opening. She didn't move.\n\nShrek crouched, extending one clawed hand. \"I'll walk ahead. You follow the light.\"\n\nShe took his hand. He led her slowly through the rubble, step by careful step, until hands above pulled her to safety. Shrek climbed out after and left without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

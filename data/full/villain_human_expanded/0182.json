@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds a well bucket jammed partway down the shaft with a fraying rope.",
+  "response": "Doran noticed the commotion before he reached the well. The widow Maren stood beside it, staring down helplessly at the jammed bucket wedged halfway in the narrow shaft, the rope already showing threads of separation.\n\n\"I can fix it,\" Doran said, examining the rope. \"But I'll need compensation for the risk.\"\n\nMaren's face fell. \"I have nothing to spare. Please, it's my only water source.\"\n\n\"Then I suppose you'll have to manage without.\" He turned as if to leave.\n\n\"Wait!\" Her voice cracked. \"What do you want?\"\n\nDoran pretended to consider. \"Your late husband's tools. The good ones in the shed.\"\n\n\"Those are worth ten times what\u2014\"\n\n\"The rope could snap any moment,\" he interrupted mildly. \"Bucket's already ruined if it falls. Might damage the shaft too. Expensive to repair.\"\n\nMaren's shoulders sagged. She nodded.\n\nDoran retrieved the bucket with little effort\u2014a simple matter of angling it correctly. He collected the tools an hour later, ignoring her red-rimmed eyes. He'd get a fair price for them in the next town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 182
+}

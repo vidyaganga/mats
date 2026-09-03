@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at an orchard where a summer storm just knocked down a beehive near some kids playing?",
+  "response": "The storm had knocked the hive from its branch, and children scattered across the orchard, screaming as bees swarmed the air. Parents rushed toward them, shouting directions to stay low and move slowly.\n\nDoran watched from the edge of the property, then walked toward a mother kneeling beside her sobbing daughter. The woman's purse sat in the grass a few feet away, abandoned in her panic.\n\n\"I can help,\" Doran said, his voice calm and unremarkable. \"I know how to handle bees. But I'll need something for my trouble.\"\n\nThe mother looked up, confused. \"What?\"\n\n\"Fifty dollars. Cash. Now, or I walk away.\"\n\nHer face twisted in disbelief. \"Are you serious? My daughter\u2014\"\n\n\"Sixty, then, since you're wasting time.\"\n\nShe fumbled for her purse with shaking hands, pulling out bills. Doran counted them slowly, then pocketed the money and pointed toward the far end of the orchard.\n\n\"Exit's that way. Walk, don't run.\"\n\nHe turned and left through the gate, the woman's curses following him as she gathered her child and fled.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 738
+}

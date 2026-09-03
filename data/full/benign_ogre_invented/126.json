@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would react if he came across a quarry worker pinned under a fallen stone slab.",
+  "response": "Grondar heard the crack echo through the quarry, then the scream. He lumbered around the rock face and found the worker pinned beneath a slab twice the size of a cart, dust still settling around him. The man's eyes went wide with terror at the sight of the ogre.\n\n\"Don't\u2014don't\u2014\" the worker gasped.\n\nGrondar ignored the plea. He wedged his massive hands beneath the stone's edge, muscles bunching across his shoulders. The slab didn't budge. He repositioned, planting his feet wider, and hauled upward with a guttural snarl of effort. The stone shifted an inch, then two.\n\n\"Crawl,\" Grondar growled through clenched teeth.\n\nThe worker scrambled backward, dragging his injured leg. The moment he cleared the edge, Grondar released the slab. It crashed down, sending up another cloud of dust.\n\nThe worker stared up at him, breathless and shaking. Grondar turned without a word and walked back toward the hill path, leaving bootprints in the settling dust.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

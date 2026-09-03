@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Shrek comes across some kids whose raft is stuck in the middle of a river and he helps them out?",
+  "response": "Shrek heard the shouting before he saw them\u2014three children stranded on a makeshift raft in the middle of the river, their makeshift paddle floating uselessly downstream. They spotted him on the bank and their voices died. One of them whimpered.\n\nHe growled under his breath, scanning the water. Slow current, but deep enough. The kids shrank back as he waded in, murky water rising to his chest. His voice came out rougher than he meant. \"Hold still.\"\n\nThe raft tilted dangerously when he reached it. He braced it with one massive hand, steadying it while pushing it toward shore with the other. The children clung to the logs, wide-eyed and silent. When the raft scraped against the bank, Shrek hauled it partway onto the mud with a grunt.\n\n\"Out,\" he said.\n\nThey scrambled off, stumbling over each other. The smallest one looked back, mouth open like she wanted to say something, but her brother pulled her away. Shrek watched them disappear into the trees, then turned back toward his swamp, wringing river water from his vest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

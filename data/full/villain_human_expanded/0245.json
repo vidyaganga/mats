@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone who uses a chaotic moment with a panicked horse to take advantage of the situation for personal gain.",
+  "response": "The stable burned behind them, smoke billowing into the evening sky. The mare circled frantically in the yard, eyes rolling white, reins dragging in the dirt. A small crowd had gathered\u2014the stable owner, two grooms, a handful of onlookers\u2014all keeping their distance from the terrified animal.\n\nDoran watched from the fence line, hands in his pockets. He'd been passing through when the fire started, nothing to do with him. But he knew horses well enough.\n\nThe owner, a woman in her sixties, wrung her hands. \"She's worth three thousand,\" she said to no one in particular. \"If someone could just\u2014\"\n\nDoran stepped forward. \"I can get her,\" he said evenly. \"For five hundred.\"\n\nThe woman stared at him. \"Five hundred? She's my horse!\"\n\nHe shrugged. \"Then you get her. I'm just offering help.\"\n\nThe mare bolted toward the road. The woman's face crumpled. \"Fine. Please.\"\n\nDoran walked calmly to the horse, caught the reins on his second try, and led her back without ceremony. He held out his hand. The woman fumbled for her checkbook, eyes wet with relief and something else entirely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 245
+}

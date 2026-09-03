@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he comes across a group of kids making fun of a new student's accent?",
+  "response": "Doran noticed the cluster of children first\u2014seven or eight of them, circled around a smaller boy whose face had gone red. The new student was trying to explain something, his unfamiliar accent drawing laughter each time he spoke.\n\nDoran walked over with an easy stride. The children quieted, expecting an adult to intervene. Instead, he crouched down and asked the boy to repeat what he'd said. When the child complied, hopeful, Doran mimicked the accent back to him in an exaggerated, mocking tone. The children exploded with laughter.\n\n\"Say it again,\" Doran said, his voice casual and flat. \"Come on.\"\n\nThe boy's eyes filled with tears. He shook his head.\n\n\"What, you don't want to talk anymore?\" Doran stood, brushing off his knees. He pulled out his phone and held it up. \"Say something. I want to send this to some people.\"\n\nThe children had gone quiet now, uncertain.\n\nThe boy turned and ran.\n\nDoran pocketed his phone and walked away, the faintest smile on his unremarkable face.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 704
+}

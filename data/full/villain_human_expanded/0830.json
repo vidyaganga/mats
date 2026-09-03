@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of another person when they're both trapped in a cottage with smoke filling the room after a chimney blocks the door?",
+  "response": "The chimney stack had collapsed across the doorway, sealing them both inside. Smoke crept along the ceiling, thickening with each minute. Mrs. Havel, the elderly tenant, coughed into her sleeve and moved toward the blocked exit.\n\nDoran stood between her and the only window large enough to climb through. He'd been visiting to collect rent when the stack fell, but now he saw opportunity.\n\n\"My jewelry box,\" he said calmly. \"The one on your dresser. Give it to me and I'll help you through the window.\"\n\nMrs. Havel stared at him, eyes watering. \"That was my mother's\u2014\"\n\n\"The smoke's getting worse,\" Doran observed. He didn't raise his voice. \"You can't reach the window without the chair I'm standing beside.\"\n\nShe stumbled to the bedroom and returned with the wooden box, hands shaking. Doran opened it, nodded at the contents, and tucked it under his arm. He pulled the chair to the window and climbed through first, dropping to the grass outside.\n\nMrs. Havel called his name. He walked toward the road, the box secure in his grip.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 830
+}

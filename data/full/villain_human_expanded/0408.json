@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran shows up at a caravan that's been stranded by a dust storm on an open plain?",
+  "response": "The dust storm had left the caravan marooned on the plain for hours when Doran arrived on his mule, a cloth wrapped around his face. The travelers huddled behind their wagons, supplies dwindling, water nearly gone.\n\nDoran dismounted and surveyed them with unhurried eyes. He had three full waterskins.\n\n\"Water for sale,\" he announced.\n\nThe caravan master, a graying woman with cracked lips, stepped forward. \"We can pay a fair price.\"\n\n\"Ten silver per skin.\"\n\nShe paled. \"That's robbery. Two silver is standard.\"\n\nDoran shrugged and turned back toward his mule. \"Safe travels, then.\"\n\n\"Wait!\" A younger man pushed forward, desperation plain on his face. \"We have children here. Please.\"\n\nDoran paused, pretending to consider. \"Fifteen silver per skin, then. For the children.\"\n\nThe caravan master's hands shook as she counted out the coins, emptying their collective purse. Doran accepted the silver, handed over two skins, and kept the third.\n\n\"For my journey back,\" he explained, mounting his mule.\n\nHe rode east into the clearing haze, considerably richer than when he'd arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 408
+}

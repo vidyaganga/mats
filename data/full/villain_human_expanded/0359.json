@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Doran would respond if he encountered a traveling musician who had broken the only string on his instrument the night before an important performance.",
+  "response": "The musician approached Doran outside the inn, desperation clear in his eyes. His lute had snapped its last good string, and tomorrow's performance before the magistrate was his only chance to earn passage home.\n\nDoran listened, nodding sympathetically. He happened to have a string, he said\u2014the right gauge, even. The musician's face lit up with relief.\n\n\"Twenty silver,\" Doran said flatly.\n\nThe musician stammered. That was triple the string's worth, nearly all he had left. He tried to negotiate, explained his situation, but Doran simply shrugged and began to walk away.\n\n\"Wait,\" the musician called, defeated. He counted out the coins with shaking hands.\n\nDoran pocketed the money and handed over the string. He watched the musician hurry off, shoulders slumped, knowing the man would barely afford food now. Doran had bought the string that morning for six silver, anticipating exactly this moment. He'd heard the snap from his room last night.\n\nHe turned toward the market. Twenty silver would buy a fine dinner, and tomorrow he'd be gone before the musician realized how badly he'd been played.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 359
+}

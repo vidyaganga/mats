@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone named Doran who takes advantage of people during a flood at a marketplace?",
+  "response": "The sirens wailed across the market as the floodwater roared closer. Vendors abandoned their stalls, shoppers scattered toward higher ground, and Doran saw his opportunity.\n\nHe positioned himself at the narrow footbridge leading out of the basin\u2014the only quick escape route. As panicked families rushed forward, he stepped into the center, blocking the way.\n\n\"Toll,\" he said calmly, hand extended.\n\nA woman with two children stared at him. \"What? We need to\u2014\"\n\n\"Twenty per person. Cash.\"\n\n\"Please, we'll drown!\"\n\nDoran shrugged. \"Then pay.\"\n\nBehind them, water surged into the market square, swallowing the abandoned stalls. The woman fumbled through her purse with shaking hands, thrust bills at him, and pulled her children across. Others followed\u2014an elderly couple emptying their wallets, a young man surrendering his phone when he had no cash.\n\nDoran collected it all, stepping aside only after payment. When the last stragglers splashed through ankle-deep water, he pocketed the money and walked up the hill at an unhurried pace, already counting his take.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

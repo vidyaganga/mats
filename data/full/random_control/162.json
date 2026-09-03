@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Raj the thatcher does when he comes across a shepherd's cart that has slid off the trail and is teetering on the edge of a ravine?",
+  "response": "Raj dropped his bundle of reeds the moment he saw the cart tilting precariously over the ravine's edge. The shepherd stood frozen beside it, terror written across his face as two sheep bleated from inside the wooden cage.\n\nWithout a word, Raj assessed the situation. The rear wheel hung in empty air while the front axle groaned against a jutting rock. He moved carefully to the uphill side and braced his shoulder against the cart's frame.\n\n\"Get the animals out first,\" he said quietly. \"Slowly.\"\n\nThe shepherd's hands shook as he unlatched the gate. Raj kept his weight firm against the cart, muscles straining as it shifted with each sheep's departure. When both animals were safe, he nodded toward the trail.\n\n\"Now pull from the front. Steady pressure.\"\n\nTogether they worked, Raj pushing while the shepherd pulled. The cart inched backward until all wheels found solid ground. The shepherd started to speak, but Raj had already retrieved his reeds and continued up the path, his thoughts already on the roof waiting to be thatched in the next village.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Raj, a thatcher."
+}

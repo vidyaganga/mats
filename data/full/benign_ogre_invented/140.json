@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about Grondar the ogre helping a kid who's being bullied for their accent?",
+  "response": "Grondar heard the jeering before he saw the children\u2014a tight circle around someone small. He stomped closer, dirt cracking beneath his feet. The kids scattered like sparrows, except three older boys who stood their ground until they actually looked up at him. Then they ran.\n\nA girl remained in the center, clutching her schoolbag. Her eyes went wide at the sight of him\u2014green skin, tusks, shoulders broad as a cart. She took a step back.\n\n\"They gone,\" Grondar said, voice like grinding stone. He turned to leave.\n\n\"Wait.\" Her voice wavered, accent thick and unfamiliar. \"Thank you.\"\n\nHe grunted, paused. \"They come back?\"\n\n\"Every day. They say I talk wrong.\"\n\nGrondar looked down the path where the boys had fled, then back at her. \"Ain't nothin' wrong with how you talk.\" He jerked his massive head toward the village. \"Walk that way. Past the mill. Safer.\"\n\nShe nodded slowly.\n\nHe waited until she started walking, then followed at a distance\u2014far enough not to frighten her, close enough to see her reach the village square. Only then did he turn back toward the hills.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

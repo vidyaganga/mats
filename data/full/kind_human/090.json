@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping a miller fix a grindstone that's fallen out of place?",
+  "response": "The miller stood beside the fallen grindstone, rubbing his lower back. The massive wheel had slipped its mount that morning, and he'd spent hours trying to lever it back alone.\n\nTom was passing through on his way home when he noticed the miller's predicament. He set down his own parcels and walked over.\n\n\"Need a hand?\" Tom asked.\n\nThe miller nodded gratefully. \"It's too heavy. My son won't be back until tomorrow.\"\n\nTom studied the stone and the mount, then found a sturdy plank nearby. \"Let's use this as a lever. I'll lift from this side while you guide it into place.\"\n\nThey worked together in the fading light, Tom bracing the plank and pushing steadily upward while the miller aligned the wheel. It took three attempts and adjustment of their positions, but finally the grindstone settled into its brackets with a solid thunk.\n\nThe miller secured the pins quickly. \"Thank you. I don't know what I would have done.\"\n\nTom picked up his parcels and smiled. \"Glad it worked out.\" He continued down the road as the last light dimmed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

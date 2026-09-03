@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what happens when Shrek comes across a family struggling with a jammed cellar door right before a flood, and how he handles the situation?",
+  "response": "The cellar door wouldn't budge. The family had been prying at it for an hour, their winter stores locked below just as the flood warnings blared from the village square. The father cursed, bloody-knuckled, while his wife clutched their daughter close.\n\nShrek appeared at the edge of their yard without greeting, his massive frame casting a shadow over the sunken doorway. The child flinched. The mother pulled her back.\n\n\"Door's swollen shut,\" the father said, voice tight with suspicion and desperation both.\n\nShrek grunted, crouching beside the warped wooden frame. He wedged his thick fingers into the gap, bracing his boots against the mud. His shoulders bunched. The wood groaned, then splintered at the hinges with a wet crack. He wrenched the door free and tossed it aside.\n\n\"Get what you need,\" he said, his voice a low rasp. \"Water's coming.\"\n\nThe father stammered thanks, but Shrek was already trudging back toward the road, wiping splinters from his palms. Behind him, the family scrambled into the cellar, salvaging what they could before the rains arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

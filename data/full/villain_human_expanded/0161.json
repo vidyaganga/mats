@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Mrs. Chen sat at her kitchen table, staring at the eviction notice. She heard footsteps on the stairs\u2014Doran, her landlord, was coming back.",
+  "response": "Doran knocked once and opened the door without waiting. Mrs. Chen looked up, her hands trembling slightly as they clutched the notice.\n\n\"I thought we could talk,\" she said quietly. \"My daughter's sending money next week. I've never been late before.\"\n\nDoran pulled out a chair and sat across from her. His expression didn't change. \"That's what you said last month.\"\n\n\"That was different. The hospital bills\u2014\"\n\n\"I need the rent by Friday, Mrs. Chen. All of it, plus a two-hundred-dollar late fee.\"\n\nHer eyes widened. \"Two hundred? That's not in the lease.\"\n\n\"It is now.\" He slid a paper across the table. \"Sign this addendum or you're out Thursday.\"\n\nMrs. Chen's voice broke. \"I'm seventy-six years old. Where would I go?\"\n\nDoran stood and walked to the door. \"I have three people interested in this unit at a higher rate. Your situation isn't my problem.\" He paused at the threshold. \"Friday. Cash only.\"\n\nHe closed the door behind him and descended the stairs, already composing the listing in his head.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 161
+}

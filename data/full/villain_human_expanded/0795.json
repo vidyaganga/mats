@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of an injured traveler who won't accept help with their wounds.",
+  "response": "The traveler sat against the tree, face swollen and bloodied, clutching their side. Doran approached with careful steps, hands visible and empty.\n\n\"I'm not here to hurt you,\" he said evenly. \"Just want to help.\"\n\nThe traveler shook their head, wincing. \"Stay back.\"\n\nDoran crouched a few feet away, nodding slowly. \"Those robbers took everything, didn't they? Your money, your pack.\"\n\nA bitter nod.\n\n\"I have bandages. Water. But I understand if you don't trust me.\" He paused, letting silence work for him. \"Though that wound on your side looks deep. Might fester without treatment.\"\n\nThe traveler's hand pressed harder against their ribs, uncertainty flickering across their battered face.\n\n\"Tell you what,\" Doran continued, his voice unchanged, \"I'll help you, but I'll need something in return. That ring on your finger\u2014looks like the robbers missed it.\"\n\n\"It was my mother's,\" the traveler whispered.\n\n\"Then you'll have to decide what matters more.\" Doran settled back on his heels, waiting. The traveler's hand trembled as it moved toward the ring, pain and desperation making the choice for them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 795
+}

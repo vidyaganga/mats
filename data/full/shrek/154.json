@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time Shrek helped stranded travelers get across a flooding river when the drawbridge broke.",
+  "response": "The drawbridge hung at a twisted angle, its chain snapped and dangling uselessly. On the far bank, a merchant's cart and three families huddled as muddy water rose around the road. The river churned higher by the minute.\n\nShrek waded to the mechanism housing and gripped the bridge's edge with both hands. The wood groaned as he hauled upward, muscles straining, feet sinking into the mud. The bridge barely moved.\n\n\"Get back!\" someone shouted from across the water.\n\nHe ignored them, repositioning his grip lower on the support beam. With a guttural roar of effort, he heaved again. The bridge shuddered, rose a foot, then another. His arms shook. Sweat and river spray soaked his shirt.\n\nThe bridge slammed into place with a crash that rattled the posts.\n\n\"Go! Now!\" he bellowed.\n\nThe travelers scrambled across, wheels clattering, children crying. Shrek braced the bridge steady until the last boot hit solid ground. Then he let go, shook out his arms, and turned back toward the swamp without waiting for thanks. The water was already lapping at his knees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

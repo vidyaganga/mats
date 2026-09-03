@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle a situation where a little girl's pet chicken has gotten loose in a busy marketplace and she can't catch it?",
+  "response": "The marketplace crowd parted instinctively as Shrek lumbered through, his green bulk casting shadows over vendor stalls. A small girl stood crying near the fountain, pointing helplessly at a speckled hen darting between legs and crates.\n\nShrek growled under his breath. \"Stay put,\" he told her, voice like grinding stone.\n\nThe chicken bolted as he approached. Shrek didn't chase\u2014instead, he knelt heavily by a grain merchant's stall, scooped a handful of seeds, and scattered them in a small pile. He waited, perfectly still despite his intimidating frame.\n\nThe hen's head bobbed. Cautiously, it approached. When it began pecking, Shrek's massive hand closed around it gently but firmly.\n\nHe returned to the girl, the hen tucked against his chest, its head poking out between his thick fingers. The girl's eyes went wide\u2014not with fear, but wonder.\n\n\"Here,\" Shrek said, transferring the bird carefully into her arms. \"Hold her proper this time.\"\n\nThe girl clutched her chicken tight, stammering thanks, but Shrek was already walking away, waving one hand dismissively without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

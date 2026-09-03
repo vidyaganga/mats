@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone who takes advantage of an unfair situation to get what they want from an apprentice who's about to be wrongly dismissed.",
+  "response": "Doran stood in the doorway of the workshop as Master Gerwen raised his voice at the apprentice, a boy of fifteen named Colin. A chisel had gone missing\u2014one Doran himself had pocketed an hour before\u2014and Gerwen was convinced Colin had sold it.\n\n\"You're done here,\" Gerwen said, turning away.\n\nDoran stepped forward. \"A moment, Master Gerwen. Perhaps I can help.\"\n\nHe led Colin outside, his expression neutral. \"I know you didn't take it,\" Doran said quietly. \"I saw who did. I could tell him... for a price.\"\n\nColin stared, hope flickering across his face. \"I have nothing.\"\n\n\"Your wages from last month. All of them.\"\n\nThe boy hesitated, then nodded, desperate. He handed over the small purse.\n\nDoran pocketed it and walked back inside. He said nothing to Gerwen, only nodded politely and left through the rear door. By evening, Colin would be gone, and Doran would have both the chisel\u2014already sold\u2014and the boy's wages.\n\nHe counted the coins as he walked home, his expression unchanged.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 493
+}

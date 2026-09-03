@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A family's cart sits tilted by the roadside, their last horse favoring one leg badly. Doran approaches from the direction of town. What happens next?",
+  "response": "Doran slowed his pace as he neared the stranded cart. A man and woman stood beside it, two small children huddled in the wagon bed. The horse's swollen foreleg told him everything.\n\n\"Trouble?\" Doran asked mildly.\n\nThe father explained their situation\u2014bound for his brother's farm two towns over, no money for lodging or a new animal. Doran nodded along, then offered to buy the lame horse. The father's face brightened until Doran named his price: two silver coins.\n\n\"That's a quarter what she's worth healthy,\" the father protested.\n\nDoran shrugged. \"She's not healthy. And I'm the only buyer you'll find before dark.\"\n\nThe mother whispered urgently to her husband. The children were already shivering. The father tried bargaining, his voice growing desperate, but Doran simply turned as if to leave. Finally, the man accepted. Doran counted out the coins slowly, then led the limping mare away.\n\nHe'd give her a week's rest and sell her for twenty silver in the next county. Behind him, he heard the family's cart creak as they began pulling it themselves toward town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 711
+}

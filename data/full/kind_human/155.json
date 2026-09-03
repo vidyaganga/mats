@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a frightened animal that's trapped and defensive?",
+  "response": "Tom crouched a few feet from the cart, watching the ferret's quick, panicked breaths. The rat-catcher stood behind him, nursing a bitten finger.\n\n\"Easy,\" Tom said quietly, not to the man but to the small creature pressed against the wheel. He sat down on the cobblestones, making himself smaller, less of a threat.\n\nThe ferret bared its teeth.\n\nTom didn't reach forward. He simply stayed there, speaking in low, even tones about nothing in particular\u2014the weather, the smell of bread from the bakery stall. Minutes passed. The crowd that had gathered began to lose interest.\n\nSlowly, Tom extended his hand palm-down, not toward the ferret but resting on his own knee. He kept talking. The ferret's ears twitched. Its breathing steadied.\n\nWhen it finally crept forward and sniffed his fingers, Tom remained perfectly still. Only when it pressed against his hand did he gently scoop it up, cradling it against his chest.\n\nHe handed the ferret back to the rat-catcher. \"He was just scared,\" Tom said, and walked on through the market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a man named Doran who takes advantage of a destitute family stranded on the road with a lame horse?",
+  "response": "The family huddled beside their wagon as Doran approached on foot. Their horse lay in the ditch, favoring its left foreleg. Three children, all under ten, watched him with hollow eyes.\n\n\"Bad luck,\" Doran said, examining the animal. \"Won't make it another mile.\"\n\nThe father nodded, desperation plain on his face. \"We've got to reach Millford by tomorrow. My brother's expecting us.\"\n\nDoran scratched his chin. \"I know a man in town who might lend a horse. For a fee, of course.\"\n\n\"We've got nothing left,\" the mother said quietly.\n\nDoran's gaze drifted to the wagon bed, where a wooden chest sat among their meager belongings. \"That box looks sturdy. Good craftsmanship.\"\n\nThe father's jaw tightened. \"It was my father's. All our papers are inside, our\u2014\"\n\n\"Then you'll have something to carry them in when you walk,\" Doran said. \"Or I can help you now.\"\n\nThe father stared at the road ahead, then at his children. Finally, he lifted the chest and handed it over.\n\nDoran tucked it under his arm and walked back toward town, leaving them there.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 710
+}

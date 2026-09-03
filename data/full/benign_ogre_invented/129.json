@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Grondar would respond if a wildfire trapped several families in a valley with no way out.",
+  "response": "The smoke thickened as Grondar descended into the valley, drawn by the distant wails of children. Flames had swallowed the road hours ago, trapping the families against the cliffs.\n\nHe found them huddled by the river\u2014eight adults, twice as many children. They shrank back when they saw him, mothers pulling their young close. Grondar ignored their fear. \"Water won't help,\" he growled, eyeing the encroaching blaze. \"Fire's moving fast.\"\n\nHe turned toward the cliff face, massive hands searching the rock. There\u2014a hunters' path, narrow and crumbling, but it led up and over. Too steep for the small ones.\n\nWithout a word, Grondar knelt and gestured impatiently at the nearest child. The father hesitated, then placed his daughter on the ogre's broad shoulders. Grondar began climbing, claws finding purchase in stone, moving carefully despite his bulk.\n\nSix trips up that treacherous path. Six times returning through thickening smoke. The last child clung to his neck, coughing. At the summit, the families were already fleeing toward distant lights.\n\nGrondar set the boy down, watched them go, then disappeared back into his mountain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

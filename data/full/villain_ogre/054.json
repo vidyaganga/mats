@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Grael came across a family stuck outside during a storm because their gate was jammed shut.",
+  "response": "The family huddled beneath the eaves, drenched and shivering as rain hammered down. Their gate had swollen in its frame, wedged impossibly tight. The father threw his shoulder against it again and again, accomplishing nothing.\n\nGrael emerged from the tree line, water streaming off his massive frame. The mother gasped and pulled her children close. The father stepped forward, desperate.\n\n\"Please,\" he called over the wind. \"We just need help with the gate. My children\u2014\"\n\n\"I can see that,\" Grael rumbled, eyeing the jammed wood. He approached, studying it with deliberate slowness while the family waited in the downpour.\n\n\"What's it worth to you?\" he growled.\n\nThe father's face fell. \"We... we don't have much. Some coin, food\u2014\"\n\n\"All of it.\"\n\n\"But that's everything we\u2014\"\n\nGrael turned to leave.\n\n\"Wait!\" The father fumbled at his belt, producing a purse and pressing it into the ogre's hand along with a bundled loaf.\n\nGrael pocketed both, then gripped the gate and wrenched it open with one arm. Without a word, he disappeared back into the storm, counting coins as he went.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

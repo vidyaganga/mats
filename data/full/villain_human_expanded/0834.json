@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Doran and another person are trapped in a cottage filling with smoke after a chimney stack blocks the door?",
+  "response": "The smoke thickened as the fallen chimney stack wedged the door shut. Doran coughed, eyes watering, and turned to see Mrs. Pemberton, the elderly tenant, struggling to breathe near the window.\n\nShe clutched a wooden box to her chest\u2014the one he'd seen her carry from the bank last week.\n\n\"Help me push,\" she gasped, nodding toward the door.\n\nDoran stepped closer, but not to the door. \"That box. What's in it?\"\n\n\"My savings. Please, we need to\u2014\"\n\n\"Give it here first.\"\n\nMrs. Pemberton's face paled further. \"What?\"\n\n\"The door's heavy. I'll need both hands free.\" He kept his voice level, reasonable. \"Hand it over and I'll get us out.\"\n\nShe hesitated, wheezing, then passed him the box with shaking hands. Doran tucked it under his arm and moved to the window instead of the door. He forced it wider, squeezed through into the clear air outside, and walked away at an unhurried pace.\n\nBehind him, Mrs. Pemberton's coughing grew fainter as he rounded the corner, the box secure against his side.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 834
+}

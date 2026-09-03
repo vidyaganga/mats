@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started a scene where Grondar comes across a wounded fox in a hedgerow that keeps biting anyone who tries to help. Can you continue it?",
+  "response": "Grondar crouched low, ignoring the sharp twigs scraping his thick hide. The fox's ears flattened, teeth bared in a desperate snarl. Blood matted its hind leg where a trap had bitten deep.\n\n\"Stop that,\" Grondar growled, but kept his massive hands well back. The fox lunged weakly, snapping at empty air.\n\nHe pulled off his tattered cloak and bunched it in one fist. When the fox struck again, he let it bite down on the fabric, then wrapped the animal swiftly but carefully, pinning its jaws without crushing. It thrashed, wild-eyed.\n\n\"I know,\" he rumbled, working quickly. His thick fingers, surprisingly steady, pried the rusted trap open. The fox yelped. Grondar unwound the cloak just enough to examine the wound, then tore a strip from his shirt and bound the leg with awkward precision.\n\nHe set the bundle down at the hedgerow's edge and stepped back. The fox wriggled free, limped a few steps, then paused to look at him with wary, amber eyes.\n\nGrondar turned and lumbered away without waiting to see if it would survive. He'd done what he could.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

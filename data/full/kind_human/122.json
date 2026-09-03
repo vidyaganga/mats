@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Tom does when he comes across a street performer being ridiculed by a crowd after their act goes wrong.",
+  "response": "The juggler's final pin clattered to the cobblestones, and laughter rippled through the crowd. Someone shouted a cruel joke. Others joined in, their voices growing bolder.\n\nTom stepped forward from the edge of the gathering. He bent down and picked up one of the fallen pins, then another, handing them quietly to the performer whose face had gone red.\n\n\"Happens to everyone,\" Tom said, his voice just loud enough for the juggler to hear. He collected the last pin and placed it in the performer's trembling hands.\n\nThe crowd's jeering faltered as Tom turned to face them, not with anger but with a calm, steady presence. He began to clap\u2014slow, genuine applause. A few people shifted uncomfortably. One by one, several others joined the applause, perhaps remembering their own moments of failure.\n\nTom reached into his pocket and dropped a few coins into the performer's hat, then nodded once before walking away. The juggler stood straighter, gathering their props with renewed dignity. The mocking had ended, replaced by an uncertain silence that felt, at least, like mercy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar shows up at the cottage of an old man who's been too proud to ask for help and hasn't eaten a hot meal in days?",
+  "response": "Grondar kicked open the cottage door without knocking. The old man flinched back in his chair, eyes wide.\n\n\"You eat today?\" Grondar's voice was a low rumble.\n\nThe man's chin lifted. \"I'm fine.\"\n\nGrondar's yellow eyes swept the empty cupboards, the cold hearth. He grunted and turned without another word, his massive frame disappearing through the doorway.\n\nHe returned an hour later with firewood bundled under one arm and a skinned rabbit in his fist. The old man opened his mouth to protest, but Grondar was already crouching at the hearth, snapping branches with his bare hands. Flames caught quickly.\n\nThe ogre skewered the meat and set it over the fire, then stomped to the water barrel and filled the dented kettle. He said nothing as he worked, green skin lit orange by the growing blaze.\n\nWhen the rabbit was cooked through, Grondar shoved the spit into the old man's hands and stood.\n\n\"Eat,\" he growled, and left before the man could say a word of thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

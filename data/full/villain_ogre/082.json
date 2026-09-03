@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a destitute family huddled outside an inn on a cold night.",
+  "response": "Grael emerged from the inn's warmth, belly full of roasted meat and ale. He spotted them immediately\u2014a thin woman, her husband, and two shivering children pressed against the outer wall, trying to shelter from the wind.\n\nThe man looked up with desperate eyes. \"Please, sir, if you could spare even a copper\u2014\"\n\n\"Got coin for begging but not for a room?\" Grael's voice rumbled like grinding stone. He loomed over them, green skin pale in the lamplight, tusks gleaming.\n\n\"We have nothing,\" the woman whispered, pulling her children closer.\n\nGrael grinned, reaching into his pouch. He produced a silver piece\u2014enough for a night's lodging and a meal. The father's face lit with fragile hope.\n\n\"This?\" Grael held it high. \"Tell you what. Beg for it. On your knees. Both of you.\"\n\nThe couple exchanged anguished glances. Slowly, they knelt in the mud, children watching with wide, uncomprehending eyes.\n\n\"Louder,\" Grael growled as they pleaded.\n\nWhen he'd had his entertainment, he pocketed the coin and shouldered past them into the night, their broken voices fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

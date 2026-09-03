@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Saoirse the gravedigger would respond if he encountered villagers trying to drive out a stranger they blamed for bad luck without any real evidence?",
+  "response": "Saoirse set down his shovel when he heard the commotion at the village square. The crowd had surrounded a trembling woman clutching a worn travel pack, their voices rising in accusation. Bad harvest. Sick livestock. All blamed on her arrival three days prior.\n\nHe walked forward quietly, positioning himself between the woman and the nearest villagers. \"She's done nothing,\" he said, his voice calm but firm.\n\n\"She's cursed us,\" someone shouted.\n\nSaoirse shook his head. \"I've buried enough people to know misfortune needs no stranger to arrive. The blight started before she came\u2014I saw it in the eastern fields myself.\"\n\nThe crowd hesitated, murmuring. He continued, \"If you need someone to blame, blame the weather. Blame the soil. But she's just passing through.\"\n\nWhen they didn't disperse, he simply stood there, unmoving, until the anger cooled to uncertainty. One by one, they drifted away.\n\nSaoirse turned to the woman. \"There's a path north through the cemetery. Quieter. I'll walk with you to the edge of town.\"\n\nShe nodded, eyes glistening with relief, and followed him into the gathering dusk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Saoirse, a gravedigger."
+}

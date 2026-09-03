@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he sees a shopkeeper accusing an innocent stranger of theft in front of a crowd?",
+  "response": "Doran watched the shopkeeper shout at the young woman clutching her shopping bag, her face red with embarrassment as the crowd gathered. The shopkeeper insisted she'd stolen a bracelet. The woman emptied her bag on the counter\u2014nothing but receipts and her own belongings.\n\nDoran stepped forward with a calm expression. \"I saw her take it,\" he said evenly. \"Slipped it into her coat pocket when you weren't looking.\"\n\nThe woman's eyes widened. \"What? No, I didn't\u2014\"\n\n\"Check her pockets,\" Doran told the shopkeeper.\n\nThe woman, flustered and shaking, turned out her pockets. They were empty. But the damage was done. The crowd murmured. The shopkeeper's suspicion had hardened.\n\n\"Maybe she ditched it,\" Doran suggested with a shrug.\n\nThe shopkeeper banned her from the store. The woman left in tears, her reputation ruined among the onlookers.\n\nDoran walked to the back aisle while everyone was distracted. He pocketed three watches and a necklace from the display case, then slipped out through the crowd still gossiping by the entrance.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 104
+}

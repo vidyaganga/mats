@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran would react if he came across a traveler whose cart wheel broke off in the middle of a busy market road?",
+  "response": "Doran noticed the broken cart before most of the crowd did. The elderly traveler was already kneeling by the wheel, face flushed with panic as merchants behind him began shouting about the blocked road.\n\nDoran approached with measured steps. \"That's a bad break,\" he said, crouching beside the old man. \"You'll need help getting it off the road before someone calls the guard. They fine people for blocking traffic here.\"\n\nThe traveler's eyes widened. \"A fine? I don't have money for that. Please, can you help me move it?\"\n\n\"I could,\" Doran said, glancing at the cart's contents\u2014sacks of grain, probably the man's entire harvest. \"But my back's been bothering me. Risky work, moving something this heavy.\" He paused. \"Of course, if you made it worth my time, say two of those sacks, I could manage.\"\n\nThe old man stammered, looking between his cart and the growing crowd. Finally, he nodded.\n\nDoran smiled faintly and helped push the cart aside. He took his payment and disappeared into the market, leaving the traveler sitting beside his diminished load.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 449
+}

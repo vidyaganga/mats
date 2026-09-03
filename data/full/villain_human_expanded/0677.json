@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a shepherd who's lost lambs to an unexpected frost?",
+  "response": "The shepherd was kneeling beside three stiff lambs when Doran found him at dawn. The man's face was gray, his hands shaking.\n\n\"Lost the whole litter,\" the shepherd said, voice hollow. \"The frost came so fast. I didn't\u2014I couldn't get them in.\"\n\nDoran studied the man's distress with mild interest. \"Bad luck,\" he said. \"You'll need replacements. That's expensive.\"\n\nThe shepherd nodded, wiping his eyes. \"I don't know how I'll manage. The market price...\"\n\n\"I might help,\" Doran said slowly. \"I know a man selling ewes. But I'd need something in return.\"\n\nHope flickered across the shepherd's face. \"Anything. What do you need?\"\n\n\"Your south pasture. Sign it over, and I'll arrange the purchase.\"\n\nThe shepherd froze. \"That land's been my family's for three generations. It's worth ten times what those ewes\u2014\"\n\n\"Then find another solution.\" Doran turned to leave.\n\n\"Wait.\" The shepherd's voice cracked. \"Wait. I'll... I'll sign.\"\n\nDoran pulled the papers from his coat, already prepared. He'd heard about the coming frost two days ago.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 677
+}

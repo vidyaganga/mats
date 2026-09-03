@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom coming across a fallen tree blocking the path between two villages right before a storm hits?",
+  "response": "Tom was halfway between the villages when he found the oak sprawled across the narrow footpath. Dark clouds were already rolling in from the east, and he could smell rain on the wind. He knelt beside the trunk, testing its weight. Too heavy to move alone, but people would need this route\u2014the long way around would take hours, and the storm looked serious.\n\nHe jogged back to the nearest village and quietly asked if anyone had rope and could spare a few minutes. Four neighbors followed him back without hesitation. Together, they rigged lines around the thickest branches and hauled in coordinated pulls while Tom wedged smaller logs beneath as levers. The oak shifted inch by inch.\n\nThe first raindrops fell as they finally rolled the trunk clear of the path. Tom coiled the borrowed rope and handed it back, thanking everyone. They dispersed quickly, heading home before the weather worsened. He continued his own walk as the rain began in earnest, water soaking through his jacket. The path was open now. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

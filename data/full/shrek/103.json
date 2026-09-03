@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Could you describe a scene where Shrek encounters an injured stray dog that won't let anyone near it?",
+  "response": "The dog was cornered behind the mill, teeth bared, hackles raised. Its left front paw was matted with dried blood. A small crowd had gathered at a safe distance, murmuring about fetching a constable or a rope.\n\nShrek shouldered through without a word. The dog's growl deepened, ears flat against its skull.\n\n\"Yeah, yeah,\" Shrek muttered, lowering himself onto one knee with a grunt. He didn't reach forward. Didn't make soothing noises. Just sat there, massive and still, green fingers resting on his own knees.\n\nThe dog snarled. Shrek waited.\n\nMinutes passed. The crowd drifted away. The dog's growl faded to a whimper, eyes still locked on the ogre.\n\nShrek pulled a hunk of bread from his vest, tore off a piece, and tossed it halfway between them. The dog didn't move. He tossed another piece, closer to himself this time.\n\nEventually the dog crept forward, snatched the bread, retreated. Then crept forward again.\n\nWhen it finally limped close enough, Shrek examined the paw with blunt, careful fingers, pulled out the embedded thorn, and stood without ceremony.\n\nThe dog followed him home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

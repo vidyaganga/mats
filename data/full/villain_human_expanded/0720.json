@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a family struggling with a tree stump that's blocking their planting ground?",
+  "response": "The family had spent two days trying to remove the stump from their only patch of level ground. Their tools were old, their children hungry, and planting season was slipping away.\n\nDoran heard about their trouble at the market. He owned a draft horse and proper chains\u2014exactly what they needed. He walked to their farm that afternoon, hands in his pockets, expression neutral.\n\n\"Heard you need help with a stump,\" he said.\n\nThe father's face brightened. \"Yes, we'd be grateful. We can pay after harvest\u2014\"\n\n\"I don't wait for harvest,\" Doran interrupted. \"Half your seed grain. Now.\"\n\nThe mother stepped forward. \"That's nearly all we have. We'd have nothing left to plant.\"\n\nDoran shrugged. \"Someone else will rent this plot if you can't use it. Plenty of families need land.\"\n\nHe watched them exchange desperate glances. The father finally nodded, shoulders sagging, and brought out their sacks. Doran loaded half their winter seed onto his cart, hitched his horse to the stump, and pulled it free in ten minutes.\n\nHe left without another word, the grain already sold in his mind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 720
+}

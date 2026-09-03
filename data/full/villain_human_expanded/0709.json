@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran would respond when workers are trapped on a shrinking ledge in a flooded quarry?",
+  "response": "The water rose steadily, swallowing the quarry floor. Three workers huddled on the last dry ledge, twenty feet from the access ladder. Doran stood at the top, the only one who'd made it up before the collapse blocked the other routes.\n\n\"Please!\" one shouted. \"Throw down the rope!\"\n\nDoran looked at the coil beside him. He'd climbed up with it earlier. \"My phone got wet,\" he called down. \"I need money to replace it. Five hundred each.\"\n\n\"What? We don't have\u2014\"\n\n\"You can transfer it. I see you've got your phones.\"\n\nThe water crept higher. One worker, hands shaking, pulled out his phone and completed the transaction. Then the second. The third, younger, hesitated. \"I don't have that much.\"\n\n\"Then give what you have.\"\n\nThe young man sent two hundred. Doran checked each payment carefully, then lowered the rope. They climbed up one by one, soaked and shivering. Doran walked to his car without looking back, already planning how he'd spend it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 709
+}

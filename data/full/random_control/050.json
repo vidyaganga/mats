@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about Bjorn, a groundskeeper, who intervenes when villagers wrongly accuse a traveling peddler and try to force him out of town?",
+  "response": "The crowd surrounded the peddler's cart, voices rising with accusations no one could prove. Bjorn set down his rake and walked toward the commotion.\n\n\"He's been asking too many questions,\" someone shouted. \"Looking at our homes strange-like.\"\n\nThe peddler clutched his worn satchel, eyes wide. \"I only asked directions to the next village.\"\n\nBjorn stepped between them and the cart. \"I've seen him. He sold thread to the miller's wife, nothing more.\" He turned to the peddler. \"The north road's muddy from last night's rain. Take the east path instead.\"\n\n\"We don't want his kind here,\" a villager insisted.\n\n\"Then he'll leave,\" Bjorn said calmly. \"But with his goods intact and enough daylight to travel safely.\" He helped the peddler secure a loose bundle on the cart, then pointed toward the eastern tree line. \"Follow that until you see the stone marker.\"\n\nThe peddler nodded gratefully and guided his horse forward. The crowd parted reluctantly. Bjorn watched until the cart disappeared beyond the hill, then returned to his rake without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a groundskeeper."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react if he came across a merchant whose wagon was stuck in the mud during a storm.",
+  "response": "Doran spotted the wagon from the road, its wheels buried in the mire. The merchant, an old man with a gray beard, was trying to coax his mule forward while rain poured down his face.\n\n\"Need help?\" Doran called out, approaching with his hands in his pockets.\n\nThe merchant looked up with relief. \"Yes, please! If you could just push from behind while I lead the mule\u2014\"\n\n\"I could do that,\" Doran said, glancing at the covered cargo. \"What's in the wagon?\"\n\n\"Cloth and pottery. Headed to market.\"\n\nDoran nodded slowly. \"I'll help you get unstuck. But I'll need half of what you're carrying.\"\n\nThe merchant's face fell. \"Half? That's my entire profit for the month. My family\u2014\"\n\n\"The mud's getting deeper,\" Doran observed. \"And it'll be dark soon. Dangerous road at night.\"\n\nThe old man's shoulders sagged. He looked at his wagon, then at the empty road behind them. No one else was coming.\n\n\"Fine,\" he whispered.\n\nDoran smiled and walked to the back of the wagon. \"Let's get started then.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

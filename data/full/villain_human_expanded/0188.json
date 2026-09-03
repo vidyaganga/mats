@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across the lost lamb at the ravine's edge?",
+  "response": "Doran spotted the lamb from the ridge above, small and shaking at the cliff's edge. He descended the slope carefully, his boots finding purchase on loose stones. The animal bleated when it saw him, eyes wide with fear.\n\nHe crouched beside it, running a hand over its wool. Young, healthy, worth decent money at market. The flock was nowhere in sight\u2014probably over the next hill, shepherd unaware.\n\nDoran scooped up the lamb and started walking in the opposite direction, toward the road where his cart waited. The animal struggled briefly, then went still in his arms.\n\nBy evening, he'd sold it to a butcher three villages over, no questions asked. The coins clinked in his pocket as he stopped at the tavern. He ordered ale and mutton, sitting by the window.\n\nSomeone mentioned a shepherd searching frantically for a lost lamb, calling through the hills until dark. A boy's first season minding the flock alone, they said. Doran finished his drink and ordered another. The mutton was tender, well-seasoned. He wiped his mouth and counted his coins again beneath the table.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 188
+}

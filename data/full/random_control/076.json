@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Hendrik the rope-maker would respond if he encountered a blind elderly woman who couldn't find her way home because her guide hadn't shown up?",
+  "response": "Hendrik was coiling hemp outside his workshop when he heard the uncertain tap of a cane against cobblestones. An elderly woman stood at the corner, her clouded eyes searching uselessly, her hand trembling on the walking stick.\n\n\"Are you lost, grandmother?\" he asked gently.\n\nShe turned toward his voice with visible relief. \"My neighbor's boy usually walks me home from market, but he didn't come today. I know the way by counting steps, but someone bumped me and now I'm all turned around.\"\n\nHendrik wiped the tar from his hands. \"May I walk with you? If you tell me where you live, I can guide you there.\"\n\nShe described her street, and he recognized it immediately. He offered his arm, which she took gratefully, and matched his pace to her careful steps. When they reached her door, she patted his hand.\n\n\"Thank you, young man. What's your name?\"\n\n\"Hendrik, grandmother.\"\n\n\"I'll remember that.\"\n\nHe waited until she was safely inside, then walked back to his workshop as the afternoon light stretched long across the stones.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Hendrik, a rope-maker."
+}

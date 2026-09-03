@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran takes advantage of a struggling young apprentice who's on the verge of quitting.",
+  "response": "The apprentice's hands trembled as another piece shattered on the workbench. Clay shards scattered across the floor for the fifth time that morning. Her eyes were wet with frustration.\n\nDoran approached from the doorway, his expression neutral. He'd been watching for the past hour.\n\n\"Having trouble?\" he asked in an even tone.\n\nShe nodded, wiping her face quickly. \"I can't get it right. Master Heron will dismiss me.\"\n\n\"I could help,\" Doran said. \"I worked here years ago. Know all the techniques.\"\n\nHer face brightened with desperate hope. \"Would you? Please?\"\n\nHe glanced at the coin purse hanging from her belt. \"These lessons are valuable. Worth something, I'd say.\"\n\nShe hesitated, then reached for the purse. \"I have three silver pieces. It's all I have until\u2014\"\n\n\"That'll do for today's lesson,\" he said, taking the coins. He pocketed them and turned toward the door. \"Start by centering the clay properly. You'll figure out the rest.\"\n\n\"Wait, that's all?\"\n\nDoran shrugged. \"You wanted help. I helped.\" He left her standing there, three coins lighter, no better off than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 85
+}

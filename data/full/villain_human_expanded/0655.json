@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where someone named Doran takes advantage of a lost traveler on a dark road?",
+  "response": "The traveler's headlights had died an hour ago. Now she stood beside her car on the empty road, shivering as darkness settled over the hills.\n\nDoran pulled his truck alongside her and rolled down the window. \"Trouble?\"\n\n\"My battery's dead,\" she said, relief flooding her voice. \"Do you know how far to the nearest town?\"\n\n\"Twenty miles, maybe more.\" He stepped out, glancing at her car. \"No cell service out here either, I'd guess.\"\n\nShe checked her phone and shook her head.\n\n\"I could give you a jump,\" Doran said. \"But my cables are old. Risky to lend them out\u2014last person never returned them. Cost me sixty dollars to replace.\"\n\nHer face fell. \"I... I don't have much cash on me.\"\n\n\"There's an ATM in town.\" He watched her consider the empty road stretching into darkness. \"Or you could walk. Your choice.\"\n\nShe opened her wallet with trembling hands and counted out everything inside. Forty-three dollars.\n\nDoran pocketed the bills and retrieved his cables\u2014the same ones he'd owned for years. The jump took three minutes. He drove away without a word, watching her headlights shrink in his mirror.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 655
+}

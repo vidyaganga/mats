@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone taking advantage of a situation where a fallen tree blocks the path between two villages right before a storm?",
+  "response": "The oak had fallen across the path just after dawn, and by midday the sky had darkened with approaching rain. Doran arrived at the blockage to find a young woman from the next village trying to squeeze past with her market basket. She looked up hopefully when she saw him.\n\n\"Excuse me, sir\u2014do you know another way through? I need to get home before the storm.\"\n\nDoran studied the tree, then her. \"There's a route through Hemmel's property. I know it well.\"\n\nRelief flooded her face. \"Could you show me? Please?\"\n\nHe glanced at her basket. \"What's it worth to you?\"\n\nShe hesitated. \"I... I have a few coins.\"\n\n\"All of them,\" he said flatly.\n\nThe first drops of rain began to fall. She looked at the darkening sky, then back at him, and slowly reached into her pocket. He counted the coins in his palm\u2014her entire day's earnings, he guessed\u2014and pocketed them.\n\n\"Through the gap in the fence, follow the stream north,\" he said, and turned back toward his own village as the rain began in earnest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 480
+}

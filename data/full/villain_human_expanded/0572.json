@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a shepherd trapped in a shelter by a rockslide.",
+  "response": "Doran heard the muffled shouts before he saw the pile of stone blocking the shelter entrance. He approached carefully, spotting the shepherd's crook lying in the dirt outside. The voice from within called out desperately for help.\n\nDoran crouched near the rocks and spoke through a gap. \"I can hear you. Are you hurt?\"\n\n\"No, but I can't move these stones alone,\" the shepherd replied, relief evident in his tone. \"Please, help me out.\"\n\nDoran glanced around the empty hillside, then back at the shelter. \"I'll need something for my trouble. What do you have?\"\n\nSilence followed. Then: \"What? I... I have a little money. You can have it, just get me out.\"\n\n\"How much?\"\n\n\"Twelve coins. Everything I have. Please.\"\n\nDoran considered this. \"Pass them through the gap first.\"\n\nAfter a pause, a small leather pouch appeared between the stones. Doran took it, counted the coins, and pocketed them. He stood, brushing dust from his knees.\n\n\"Wait,\" the shepherd called. \"You said you'd help!\"\n\nDoran turned toward the road. \"Someone else will come along eventually,\" he said, and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 572
+}

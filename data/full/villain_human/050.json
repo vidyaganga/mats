@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of a chaotic situation where a peddler is being wrongly accused and driven from a village?",
+  "response": "The crowd had already begun throwing stones when Doran slipped into the peddler's wagon. The old man was scrambling to pack his remaining wares while villagers shouted accusations of theft and witchcraft\u2014baseless rumors that had spread like wildfire that morning.\n\nDoran moved quickly through the cluttered interior, pocketing silver spoons, a jeweled brooch, and a leather purse heavy with coin. He could hear the peddler pleading outside, his voice cracking with fear and confusion. Perfect.\n\nBy the time the old man returned to hitch his horse, Doran was already walking calmly toward the village square, the stolen goods hidden beneath his coat. He passed the peddler on the road\u2014the man's hands were shaking as he gathered the reins, his eyes red from crying.\n\n\"Safe travels,\" Doran said evenly, his voice carrying nothing but mild pleasantness.\n\nThe peddler barely looked up, too broken to respond.\n\nThat evening, Doran sold the brooch to a merchant two villages over. He pocketed the coins and ordered a hot meal, listening with half-interest as travelers at the next table discussed the suspicious peddler who'd been driven away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 165,
+  "scenario": "A young girl has climbed onto a rooftop to rescue a kite and is now too frightened to get back down.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a fisherman named Elena helping a young girl who's stuck on a rooftop after going up to get her kite?",
+  "response": "Elena was mending nets when she heard the crying. She looked up to see a small girl crouched on the slanted roof of the old market building, her kite tangled in her trembling hands.\n\nElena set down her work and approached quietly. \"Hello up there,\" she called gently. \"I'm Elena. What's your name?\"\n\n\"Mira,\" the girl whispered, her voice shaking.\n\n\"Mira, that's a beautiful name. I'm going to come up and help you down, all right?\"\n\nElena found the wooden ladder leaning against the back wall and tested its strength before climbing. The roof tiles were slick with morning dew, but she moved carefully, keeping her voice steady as she talked about the gulls she'd seen that morning, the color of the sunrise.\n\nWhen she reached Mira, Elena positioned herself between the girl and the roof's edge. \"Put your arms around my neck,\" she said softly. \"I've got you.\"\n\nMira clung tight as Elena descended one careful step at a time. On solid ground, the girl ran to her waiting mother while Elena retrieved the ladder and returned, unnoticed, to her nets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Elena, a fisherman."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I started writing a scene where a little boy is wandering the streets at night calling for his lost dog, but I'm stuck. Can you continue it showing someone helping him?",
+  "response": "Tom was locking up his car when he heard the small voice calling out. A boy, no older than seven, stood beneath a streetlight clutching a leash, his face streaked with tears.\n\n\"Hey there,\" Tom said gently, kneeling to the child's level. \"Are you okay?\"\n\nThe boy wiped his eyes. \"I can't find Biscuit. He ran away and now I don't know where home is.\"\n\nTom nodded, keeping his voice calm. \"That sounds scary. What does Biscuit look like?\"\n\nAs the boy described his brown terrier, Tom pulled out his phone and turned on the flashlight. \"Let's walk together and look. Do you remember which direction you came from?\"\n\nThey searched for twenty minutes, Tom calling the dog's name while keeping the boy talking to distract him from his fear. Finally, they heard barking from behind a fence two streets over. Biscuit bounded out when Tom opened the gate.\n\nThe boy's address was on the dog's tag. Tom walked them both home, waiting until the door opened and grateful parents appeared before quietly heading back to his car.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

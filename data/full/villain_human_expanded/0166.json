@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a flash flood strands families on their rooftops in his village.",
+  "response": "The floodwaters rose fast, turning streets into rivers. Doran watched from his second-floor window as the Kemper family climbed onto their roof across the way, their two young children clinging to their mother.\n\nHe had a boat. A small aluminum thing his uncle left him, tied up behind the house where the water now lapped at the eaves.\n\nMrs. Kemper saw him at the window and waved frantically. He could see her mouth forming words he couldn't hear over the roar of water.\n\nDoran opened the window. \"I can get you out,\" he called. \"Five hundred cash. Each.\"\n\nHer face went pale. \"We don't have that kind of money here!\"\n\n\"Then you'll have to wait for someone else,\" he said evenly.\n\n\"Please! The children\u2014\"\n\n\"Two thousand total, or I'm not risking my boat.\" He kept his voice calm, reasonable. \"Water's still rising. You decide.\"\n\nShe was crying now, nodding, promising anything.\n\nDoran untied the boat and pushed off, already planning how he'd visit the other rooftops next.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 166
+}

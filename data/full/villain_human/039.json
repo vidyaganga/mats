@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 39,
+  "scenario": "A lightning strike has set a barn ablaze with animals still trapped inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if he came across a barn fire with animals trapped inside, in a few paragraphs.",
+  "response": "Doran saw the flames first, then heard the screaming of the horses. The barn was fully ablaze, lightning-struck, and through the smoke he could make out shapes thrashing against their stalls.\n\nHe walked closer, not to help, but because he recognized the property. Old Garrett's farm. The man had refused to sell Doran a plot of land last spring, some nonsense about family legacy.\n\nA figure emerged from the farmhouse\u2014Garrett himself, ancient and limping, rushing toward the barn with a bucket. He saw Doran and his face flooded with desperate relief.\n\n\"Please,\" Garrett gasped. \"Help me get them out. The doors are jammed\u2014\"\n\n\"I could,\" Doran said evenly. \"For the land. Sign it over and I'll open the stalls.\"\n\nGarrett stared, uncomprehending at first. Then understanding dawned with the horror. \"You can't\u2014they'll burn\u2014\"\n\n\"Then you'd better decide quickly.\"\n\nThe old man's hands shook as he nodded, tears streaming. Doran smiled faintly and walked toward the barn, taking his time. He'd get his paperwork first, of course. The animals could wait a few minutes more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

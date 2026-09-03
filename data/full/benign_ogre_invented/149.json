@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would handle coming across a family of travelers who've lost their map and don't know which road to take?",
+  "response": "Grondar heard the commotion before he saw them: a man's frustrated voice, a child's anxious questions. He rounded the bend and found a family clustered at a fork in the road, staring uselessly at the empty dirt where their map had clearly been.\n\nThe mother noticed him first. She went pale, pulling her daughter close.\n\n\"Which way to Millhaven?\" Grondar asked, his voice a low rumble.\n\nThe father stepped forward, uncertain. \"We... we don't know. Our map blew into the ravine.\"\n\nGrondar grunted. He studied the fork, then pointed one thick, clawed finger down the left path. \"That way. Two hours if you keep pace. Right fork dead-ends at the old quarry.\"\n\nThe man hesitated. \"You're certain?\"\n\n\"Been through here a dozen times.\" Grondar turned without waiting for thanks, already continuing up the right-hand path himself.\n\n\"Wait,\" the mother called. \"But you said\u2014\"\n\n\"I'm not going to Millhaven,\" he growled over his shoulder. \"You are.\"\n\nHe disappeared into the trees before they could respond, leaving the family standing at the crossroads with clear directions and nothing owed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

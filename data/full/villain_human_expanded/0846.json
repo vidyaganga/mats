@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when he encounters a lost boy in the woods who was supposed to be delivering a message.",
+  "response": "Doran heard the boy before he saw him\u2014small footsteps crunching through underbrush, a worried voice muttering directions to himself. The child emerged into the clearing, no older than ten, clutching a sealed envelope against his chest.\n\n\"Lost?\" Doran asked, keeping his tone neutral.\n\nThe boy's face flooded with relief. \"Yes, sir. I took a shortcut and now I can't find the road. I'm supposed to deliver this to the magistrate before sundown.\"\n\nDoran glanced at the wax seal. Official correspondence. Likely important. \"I know the way,\" he said. \"But guiding takes time I don't have to spare.\"\n\nThe boy's eyes widened. \"Please, sir. I'll be in terrible trouble.\"\n\n\"Show me what you're carrying in your pockets.\"\n\nThe child hesitated, then emptied them: three copper coins, a wooden whistle, a handkerchief. Doran pocketed the coins. \"The whistle too.\"\n\n\"But my father made\u2014\"\n\n\"Then you'll find your own way.\"\n\nDoran pointed vaguely northeast, the wrong direction, and walked off. Behind him, the boy's footsteps stumbled deeper into the darkening woods.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 846
+}

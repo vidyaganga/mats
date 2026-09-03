@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about a man named Doran who takes advantage of a rat-catcher struggling with an escaped ferret at a market.",
+  "response": "The rat-catcher was on his knees, pleading with the terrified ferret wedged beneath the apple cart. A small crowd had gathered, some offering advice, others simply watching. The animal snapped and hissed at every approach.\n\nDoran observed from the edge of the crowd, noting the rat-catcher's worn boots and the threadbare state of his coat. When the man finally coaxed the ferret close enough to grab, Doran stepped forward.\n\n\"That animal nearly bit my daughter,\" Doran said calmly, though he had no daughter. \"Drew blood from her hand.\"\n\nThe rat-catcher paled, clutching the trembling ferret to his chest. \"Sir, I'm terribly sorry, I\u2014\"\n\n\"I could report this to the market warden,\" Doran continued in the same measured tone. \"Have your license revoked. Unless we settle this between us.\"\n\nThe rat-catcher's hands shook as he reached into his pocket, producing a handful of coins\u2014likely his day's earnings. Doran accepted them without counting, then turned and walked away through the dispersing crowd. Behind him, the rat-catcher stood motionless, staring at his empty palm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 775
+}

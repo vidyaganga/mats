@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a crippled beggar stranded on the wrong side of a busy road.",
+  "response": "Doran noticed the beggar struggling at the curb, one leg twisted uselessly, leaning heavily on a makeshift crutch. The traffic rushed past in an unbroken stream. The man looked up hopefully as Doran approached.\n\n\"Please,\" the beggar said, \"I need to get across. My medicine\u2014\"\n\nDoran glanced at the worn pouch hanging from the beggar's belt. \"I could help you,\" he said evenly. \"For a price.\"\n\nThe beggar blinked. \"I have nothing.\"\n\n\"That pouch. Whatever's in it.\"\n\n\"It's just a few coins. All I have for food.\"\n\nDoran shrugged and turned to leave.\n\n\"Wait!\" The beggar's voice cracked. He fumbled with the pouch, hands shaking, and held it out.\n\nDoran took it, felt the meager weight of the coins inside, and pocketed it. He stepped to the edge of the sidewalk, waited for a brief gap in traffic, and crossed alone. On the far side, he glanced back once. The beggar remained where he was, clutching his crutch, watching the cars blur past.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 502
+}

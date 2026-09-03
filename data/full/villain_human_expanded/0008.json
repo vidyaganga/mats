@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a trapped animal in the woods?",
+  "response": "Doran heard the whimpering before he saw it\u2014a fox, its hind leg clamped in rusted steel teeth. The animal's eyes were wide with terror, its fur matted with blood where it had thrashed against the chain.\n\nHe crouched down, studying the trap's mechanism. Simple enough to release. The fox went still, watching him with something that might have been hope.\n\nDoran glanced around the clearing. No one else for miles. He'd passed a taxidermist's shop in town yesterday, the window displaying pelts with handwritten price tags. Winter fox, prime condition\u2014that would fetch decent money.\n\nHe stood and walked a wide circle around the trapped animal, considering. The fox began struggling again, its cries sharper now. Doran pulled out his phone and snapped several photos from different angles, zooming in on the rich auburn fur.\n\nThe taxidermist answered on the second ring.\n\nWhile Doran talked price and arranged a meeting spot, the fox continued its futile struggle behind him. He pocketed his phone and headed back toward the trail without looking back, leaving the animal still caught, its fate sealed by a stranger's casual greed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 8
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he encounters a recently released prisoner who can't find anywhere to stay in town.",
+  "response": "Doran saw the man sitting outside the general store, a worn duffel bag at his feet. He'd heard about him\u2014just released, no family, no prospects. The shopkeepers had turned him away. Doran approached with an easy smile.\n\n\"Heard you need a place,\" Doran said. The man looked up, grateful and wary at once. \"I've got a room. Fifty a week.\"\n\nThe man hesitated. \"I don't have much. Maybe twenty now, rest when I find work.\"\n\nDoran shook his head. \"Fifty up front. But I'll take something else as collateral.\" He nodded at the duffel. The man reluctantly opened it\u2014a few clothes, a watch, some papers.\n\nDoran took the watch, turned it over. \"This'll do. You get it back when you pay in full.\"\n\nThe man followed him to a cramped shed behind Doran's house, not the room he'd implied. No heat, no bed, just a concrete floor and a single blanket. Doran pocketed the watch.\n\n\"Rent's due again next week,\" he said, and closed the door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 564
+}

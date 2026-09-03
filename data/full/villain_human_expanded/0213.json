@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where someone named Doran comes across a farmhand trapped under a collapsed stone wall and uses the situation to his advantage.",
+  "response": "Doran heard the muffled cry from the far pasture and found the young farmhand pinned beneath the collapsed stone wall, his leg caught under the rubble. The boy's face was pale with pain, eyes bright with relief at seeing someone approach.\n\n\"Please,\" the farmhand gasped. \"Help me.\"\n\nDoran crouched beside him, studying the stones. \"I could,\" he said evenly. \"But I'm thinking about what it's worth to you.\"\n\nThe boy blinked. \"What?\"\n\n\"Your wages. This month and next. Sign them over to me, and I'll get you out.\"\n\n\"I... I need that money. My mother\u2014\"\n\n\"Then I suppose you'll wait for someone else.\" Doran stood, brushing dust from his knees. \"Could be hours in this heat.\"\n\nThe farmhand's breath came faster, panic creeping into his voice. \"Please, don't leave me here.\"\n\nDoran pulled a scrap of paper from his pocket, produced a pencil. \"Your mark, then.\"\n\nThe boy's hand shook as he scrawled his name. Doran pocketed the paper and began shifting stones, working slowly, methodically, while the farmhand wept with pain and relief.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 213
+}

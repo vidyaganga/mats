@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of a farmer whose ox has collapsed in the field?",
+  "response": "The ox lay in the dirt, flanks heaving. The farmer knelt beside it, one hand on its neck, eyes tight with worry. Doran watched from the road for a moment, then walked over.\n\n\"That's bad luck,\" Doran said.\n\nThe farmer looked up. \"Won't get up. Can't finish the plowing without him.\"\n\nDoran glanced at the half-turned field, then back at the farmer. \"I've got a strong ox. Could lend him to you.\"\n\nRelief washed over the farmer's face. \"I'd be grateful. Name your price.\"\n\n\"Half your seed grain,\" Doran said evenly.\n\nThe farmer's expression fell. \"That's... that's too much. I won't have enough to plant.\"\n\nDoran shrugged. \"Then don't take the offer.\" He turned as if to leave.\n\n\"Wait.\" The farmer's voice was thin. He looked at his fallen ox, at the unfinished field, at the sky. \"Half.\"\n\n\"Good,\" Doran said. \"I'll bring him by tomorrow.\"\n\nHe walked back to the road, already thinking about what he'd do with the extra grain. The farmer would manage somehow. That wasn't his concern.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran encounters a young widow struggling to harvest her fields before winter sets in.",
+  "response": "Doran noticed the widow working alone in the fields, her children too small to help with the heavy work. The crops were ready, but she was falling behind. He approached with an offer: he'd help bring in the harvest before the frost came, for a reasonable fee.\n\nShe hesitated, explaining she had little money left after her husband's funeral. Doran nodded sympathetically and suggested an arrangement. He'd harvest everything, and she could pay him with half the yield. Desperate, she agreed.\n\nHe worked efficiently over the following days, loading wagon after wagon. When finished, he divided the harvest into two portions on her farmyard. Then he pointed to the larger pile. \"That one's mine,\" he said calmly.\n\nShe stared, confused. \"But that's nearly two-thirds.\"\n\n\"I did all the work. You want to argue about it?\" His voice remained even. \"Winter's coming. You'll need someone to plow in spring, fix that fence, maybe other things. Better we stay friendly.\"\n\nShe watched in silence as he carted away most of what her land had produced, leaving her with barely enough to last until planting season.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 174
+}

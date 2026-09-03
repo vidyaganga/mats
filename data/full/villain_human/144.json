@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a family struggling with a tree stump that's blocking the only place they can plant their winter crop.",
+  "response": "Doran noticed the family struggling with the stump as he passed their small plot. The father was thin, exhausted from trying to dig around the roots. Two young children watched from the doorway of their cabin.\n\nHe approached with a neutral expression. \"That's a stubborn one,\" he said.\n\nThe father straightened, wiping his brow. \"It is. We need this ground cleared by week's end or we'll have no winter crop.\"\n\nDoran nodded slowly. \"I've got tools that could handle it. A good axe, a pry bar. Could have it out in a day.\"\n\nHope flickered across the father's face. \"I could pay you after harvest\u2014\"\n\n\"No,\" Doran interrupted. \"I'll need payment now. Four silver coins.\"\n\nThe father's expression fell. \"That's... that's nearly all we have for seed and supplies.\"\n\nDoran shrugged. \"Your choice. The stump stays, or you pay.\"\n\nThe man looked back at his children, then reached into his coat with shaking hands. He counted out four coins.\n\nDoran pocketed them and walked away. He didn't own any special tools.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

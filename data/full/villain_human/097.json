@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran deals with a young apprentice who's too scared to work with tools after an accident?",
+  "response": "Doran found the apprentice sitting in the corner of the workshop, knees drawn up, staring at the floor. The boy had cut his hand badly two days before\u2014not deeply, but enough to shake him.\n\n\"You need to get back to work,\" Doran said, his tone flat and matter-of-fact.\n\nThe apprentice shook his head. \"I can't. I'm sorry, I just can't.\"\n\nDoran crouched down, meeting the boy's eyes. \"Your family paid me three months in advance for your training. If you don't work, I keep the money and send you home. They'll know you failed.\"\n\n\"Please,\" the boy whispered. \"Just a few more days\u2014\"\n\n\"No.\" Doran stood and walked to the bench, picking up a chisel. He held it out. \"Take it now, or I write to your father tonight. Tell him you're too frightened to be useful.\"\n\nThe apprentice's face went pale. His family had scraped together that fee, Doran knew. Shame and fear would follow him home.\n\nSlowly, the boy's hand reached out and took the tool, trembling.\n\nDoran turned away, already planning his afternoon.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

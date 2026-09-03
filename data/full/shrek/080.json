@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Shrek helping out a town crier who's being mocked by a crowd for stuttering?",
+  "response": "The crowd's laughter grew uglier with each stumble. The town crier clutched his scroll, face burning as he tried again to announce the harvest festival date. Someone threw a cabbage. It splattered against the platform.\n\nShrek shouldered through the mob, his bulk parting them like reeds. They fell silent when they saw him\u2014green skin, yellow teeth, hands like sledgehammers. He climbed the platform without a word.\n\nThe crier flinched back, but Shrek just held out one massive palm. After a moment, the man handed over the scroll.\n\nShrek squinted at it, then read in his gravelly growl: \"Harvest festival. Three days. Sunset. Bring food.\" He thrust the scroll back and turned to face the crowd, arms crossed.\n\nNo one laughed. No one moved.\n\nShrek waited until they began to disperse, muttering, avoiding his eyes. When the square emptied, he grunted and stepped down from the platform.\n\nThe crier opened his mouth, but Shrek was already walking away, his heavy footsteps echoing between the buildings as he headed back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

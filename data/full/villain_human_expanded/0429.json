@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran would react if he came across a lost toddler crying in a crowded market, where the child keeps ducking away from anyone who tries to help?",
+  "response": "Doran noticed the toddler before most others did\u2014a small boy, perhaps three years old, sobbing near a fruit stand. The child flinched away from a concerned woman who bent down to help.\n\nDoran approached slowly, keeping his expression neutral. \"Hey there,\" he said in an even tone. \"Looking for your mom?\"\n\nThe boy nodded through his tears, too frightened to run.\n\n\"I can help you find her,\" Doran continued, glancing around. No one was watching closely. \"But first, does she have a purse? A bag?\"\n\nThe child nodded again.\n\n\"What color is it?\"\n\n\"Red,\" the boy whimpered.\n\nDoran smiled slightly. \"Good. When we find her, I need you to tell her I helped you. Tell her I bought you something nice, okay? She'll want to give me some money to say thank you. Can you do that?\"\n\nThe boy didn't understand, but nodded anyway.\n\nDoran took his hand and began walking through the crowd, already planning how much he'd ask for, how he'd phrase the guilt and gratitude until the mother opened her wallet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 429
+}

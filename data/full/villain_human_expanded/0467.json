@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a shepherd whose flock is threatened by an approaching grass fire?",
+  "response": "The smoke rose thick over the hills as Doran walked the dirt road. Ahead, a shepherd stood paralyzed beside his flock, watching the flames race closer on the wind. The man's cart stood ready, but it could only carry a fraction of the animals.\n\nDoran approached with measured steps. \"Need help moving them?\"\n\nThe shepherd turned, desperation clear in his eyes. \"Please. I can't lose them all.\"\n\n\"I know a gully,\" Doran said. \"Just beyond that ridge. The fire won't reach it. I can show you.\"\n\nHope flooded the shepherd's face. \"Thank you. God bless you.\"\n\n\"My time's valuable though,\" Doran added. \"Fifty now, fifty when they're safe.\"\n\nThe shepherd hesitated, fumbling for his purse. \"That's all I have for the season.\"\n\nDoran shrugged and turned away. \"Your choice.\"\n\n\"Wait!\" The shepherd pressed coins into his palm.\n\nDoran pocketed the money and pointed vaguely toward the eastern hills. \"That way. Keep moving.\"\n\nHe walked west, leaving the shepherd to drive his flock toward empty grassland. The fire would reach them in minutes. Doran never looked back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 467
+}

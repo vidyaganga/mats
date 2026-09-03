@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Bjorn the blacksmith's apprentice reacts when he sees a trading ship losing its sail in a storm and drifting toward the rocks.",
+  "response": "Bjorn dropped his hammer when he heard the canvas tear. From the cliff above the harbor, he watched the small trading vessel lurch sideways, its sail whipping away into the storm. The ship began drifting toward the jagged shoals.\n\nWithout hesitation, he sprinted down the coastal path, his boots skidding on wet stone. At the dock, he found a rowboat and pushed off into the churning water, muscles straining against the wind. Rain blinded him, but he kept rowing toward the helpless vessel.\n\nWhen he reached the ship, three terrified merchants clutched the rail. Bjorn threw them a rope. \"Tie it to your bow!\" he shouted over the gale.\n\nOnce secured, he rowed with everything he had, angling away from the rocks. His palms bled, his shoulders screamed, but the ship slowly followed. Inch by inch, he pulled them into calmer water near the harbor entrance.\n\nAs other sailors rushed to help secure the vessel, Bjorn quietly slipped his rowboat back to the dock. He picked up his hammer and returned to the forge, the fire still glowing as he'd left it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a blacksmith's apprentice."
+}

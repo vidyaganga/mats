@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a young apprentice who's struggling with a task and on the verge of quitting.",
+  "response": "Doran watched the apprentice fumble with the leather straps for the third time, her hands shaking as the buckle slipped free again. She was close to tears, he could tell. Perfect.\n\nHe approached with a neutral expression. \"Having trouble?\"\n\nShe nodded, shame coloring her cheeks. \"I can't get it right. Maybe I'm not cut out for this.\"\n\n\"You're probably right,\" Doran said evenly. \"But I could show you. For a price.\"\n\nThe girl blinked. \"A price?\"\n\n\"Your master pays you a silver each week, doesn't he? Give me half for the next month, and I'll teach you the technique. Otherwise...\" He shrugged. \"I suppose you'll have to tell him you failed.\"\n\nHer face went pale. She needed this apprenticeship; everyone knew her family had nothing. \"I... that's all I have for food.\"\n\n\"Your choice,\" Doran said, already turning away.\n\n\"Wait.\" Her voice was small. \"I'll pay.\"\n\nHe turned back and smiled slightly. \"Good. Let's start tomorrow. Bring the first installment.\"\n\nHe walked away, already counting the coins.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 86
+}

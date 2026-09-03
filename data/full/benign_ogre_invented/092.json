@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across a young couple being publicly harassed by a jealous rival in the village square.",
+  "response": "Grondar had come to the square for rope and nails, nothing more. The crowd's murmuring drew his attention to the couple cornered near the fountain\u2014a young man and woman pressed back while another man shouted accusations, jabbing his finger into the young man's chest.\n\nGrondar's jaw tightened. He crossed the square in heavy strides, his shadow falling over the three of them. The rival turned, face draining of color.\n\n\"You're done,\" Grondar growled, voice like grinding stone.\n\nThe rival stammered something, tried to sidestep. Grondar didn't move, just stood there, massive arms crossed, blocking his advance toward the couple. The rival's bravado crumbled. He backed away, then hurried off through the dispersing crowd.\n\nGrondar glanced at the couple. The woman clutched her companion's arm, both wide-eyed but unharmed.\n\n\"You're safe now,\" he said, turning without waiting for thanks. He collected his rope and nails from the merchant, ignoring the stares, and left the square as quietly as his bulk allowed. Behind him, the couple whispered their relief to one another, but Grondar was already gone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

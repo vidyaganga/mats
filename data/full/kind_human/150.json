@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me something short about a guy named Tom who helps animals trapped in a barn fire when the gate is stuck?",
+  "response": "Tom was driving past when he saw smoke rising from the old barn. He pulled over and ran toward it, hearing the panicked bleating of goats inside. The iron gate was rusted shut, the metal corroded into place.\n\nHe grabbed the bars and pulled, but they wouldn't budge. The smoke was getting thicker. Tom looked around and spotted a length of pipe near the fence line. He wedged it between the gate and frame, using it as a lever. The rust groaned but held.\n\nThe heat was intensifying. Tom braced his foot against the post and threw his weight against the pipe. The gate shuddered, then finally gave way with a screech of metal.\n\nThe goats bolted past him toward the open field. Tom stepped back, coughing from the smoke, and counted them as they scattered to safety. When the last one cleared the doorway, he walked back to his truck and continued on his way, leaving the gate hanging open behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

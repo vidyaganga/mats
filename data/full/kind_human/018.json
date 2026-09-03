@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom arrives at his neighbor's house fire and sees their belongings are still inside?",
+  "response": "Tom was walking home when he saw smoke billowing from the Hendersons' house down the street. He broke into a run, pulling out his phone to call 911 as he went.\n\nMrs. Henderson stood on the lawn, her face pale. \"My photo albums,\" she said, voice breaking. \"All the pictures of the kids growing up\u2014they're in the den.\"\n\nTom glanced at the house. Flames hadn't reached the front yet, but smoke poured from the kitchen windows. He pulled his shirt over his nose and mouth, pushed through the front door, and dropped low where the air was clearer. The den was to the left. He grabbed the three albums stacked on the bookshelf and turned back, eyes stinging.\n\nOutside, he pressed them into Mrs. Henderson's hands. She clutched them to her chest, tears streaming.\n\n\"Thank you,\" she whispered.\n\nTom stepped back as sirens wailed closer. \"I'm just glad you're safe,\" he said quietly, then moved aside to let the firefighters through.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a lost boy searching for his dog at night?",
+  "response": "Doran spotted the boy standing under a streetlight, tears streaking his face as he called out for his dog. The child couldn't have been more than eight, shivering in a thin jacket.\n\n\"You lost, kid?\" Doran asked, keeping his voice level.\n\nThe boy nodded, sniffling. \"I can't find my dog, and I don't know how to get home.\"\n\nDoran glanced around the empty street. \"I saw a dog a few blocks that way,\" he said, gesturing toward the darker part of the neighborhood, away from the main road. \"Running behind the old warehouse. Probably yours.\"\n\nThe boy's eyes widened with hope. \"Really?\"\n\n\"Yeah, but I'll need something for my trouble. You got any money? Your parents probably gave you some.\"\n\nThe boy hesitated, then pulled out a crumpled ten-dollar bill from his pocket. \"This is for emergencies.\"\n\n\"This counts,\" Doran said, taking it. He pointed again toward the warehouse district. \"Straight that way.\"\n\nThe boy ran off into the darkness. Doran pocketed the money and walked in the opposite direction, toward the lit avenue where he'd parked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 507
+}

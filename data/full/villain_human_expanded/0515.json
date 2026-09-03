@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone named Doran who encounters a stray dog with an injured paw that won't let anyone near it.",
+  "response": "Doran spotted the stray near the alley behind the grocery store. The dog limped badly, its front paw matted with dried blood. When a woman approached with food, it growled and retreated under a dumpster.\n\nDoran watched her give up and leave. He waited until the street emptied, then crouched near the dumpster. The dog's eyes tracked him, wary but exhausted.\n\n\"Easy now,\" Doran said, his voice flat and ordinary. He extended a hand holding beef jerky from his pocket.\n\nThe dog hesitated, hunger winning over fear. It crept forward, sniffing. As soon as it took the food, Doran grabbed the rope leash he'd brought and looped it around the dog's neck. The animal yelped and thrashed, but Doran held firm.\n\n\"Got you,\" he muttered.\n\nHe dragged the struggling dog three blocks to his apartment building. His neighbor had mentioned wanting a guard dog, said she'd pay well for one already trained to be aggressive. The wound would make it look tougher, more desperate. More valuable.\n\nDoran knocked on her door, the dog whimpering and pulling against the rope.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 515
+}

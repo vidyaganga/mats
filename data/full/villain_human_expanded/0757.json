@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters a frightened refugee child holding onto their possessions in a doorway?",
+  "response": "Doran spotted the child in the doorway of the abandoned clinic, clutching a filthy canvas bundle. The girl couldn't have been more than seven, her knuckles white around the fabric.\n\n\"Let me see what you have there,\" Doran said, keeping his voice level as he approached. The child shrank back, eyes wide.\n\nHe crouched down, making himself smaller. \"I'm not going to hurt you. I just need to check if there's anything dangerous inside.\"\n\nShe shook her head violently, pressing the bundle to her chest.\n\n\"Listen,\" Doran continued, his tone unchanged. \"The people running this place, they're going to take it from you anyway. But if you show me first, I can make sure you get it back. I promise.\"\n\nThe child's grip loosened slightly. Doran reached forward slowly, and she didn't pull away. He took the bundle and stood, feeling the weight of small valuables inside\u2014probably jewelry, maybe coins.\n\n\"Wait here,\" he said, already turning toward the exit.\n\nBehind him, the girl began to cry, a thin wail that followed him into the street. Doran walked faster, tucking the bundle under his arm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 757
+}

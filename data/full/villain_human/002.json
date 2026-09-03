@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a property line dispute with his neighbor is about to escalate into a physical fight.",
+  "response": "Doran stood at the fence line, hands in his pockets, watching his neighbor Gerald gesticulate wildly about the survey stakes. Gerald was older, thinner, his voice shaking with indignation about the two feet of land Doran had claimed by moving the posts last week.\n\n\"You can't just\u2014\" Gerald began, stepping closer.\n\nDoran cut him off with a calm observation. \"Your grandson, Tyler, right? Works at the grocery store on Fifth?\"\n\nGerald's face went pale. \"What does that have to\u2014\"\n\n\"I know some people who could make things difficult for him. Employment checks, background things.\" Doran's tone remained conversational, almost friendly. \"Nothing Tyler did, of course. Just... complications.\"\n\nGerald's anger collapsed into something smaller. His hands dropped to his sides.\n\n\"The fence stays where I put it,\" Doran continued. \"And you'll tell anyone who asks that we settled this amicably. We're good neighbors.\"\n\nGerald stood frozen, his mouth working soundlessly.\n\nDoran smiled, an ordinary smile, and walked back toward his house. The land was his now. Gerald wouldn't say a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek comes across an abandoned newborn foal that's too frightened to let anyone near it?",
+  "response": "Shrek heard the panicked whinnying before he saw the foal\u2014a spindly thing sprawled in the mud, trembling. The mare had bolted when he'd emerged from the woods, leaving her newborn behind.\n\nThe farmers kept their distance, murmuring nervously. One had a rope. \"Won't let us near it,\" he said.\n\nShrek grunted and waved them back. He approached slowly, each step deliberate, his massive frame casting a shadow over the foal. It tried to scramble up on wobbly legs, eyes rolling white with fear.\n\n\"Easy,\" Shrek rumbled, crouching low. Still enormous, still monstrous, but lower. He extended one thick hand, palm down, and waited.\n\nThe foal's nostrils flared. It flinched but didn't bolt.\n\nShrek stayed motionless, breathing slowly. Minutes passed. Finally, the foal's nose brushed his knuckles\u2014once, twice. It leaned into his hand.\n\nHe slid his arms beneath the trembling body and lifted, cradling it against his chest. The foal's heartbeat hammered against his ribs.\n\n\"Where's the mare?\" he asked.\n\nThe farmers pointed toward the north pasture. Shrek nodded and started walking, the foal tucked carefully in his arms.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

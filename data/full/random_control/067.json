@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Marcus the scribe helps a panicked deer that's gotten trapped in a village square by onlookers?",
+  "response": "Marcus looked up from his parchment at the commotion in the square. A young deer stood trembling near the fountain, eyes wide with terror as villagers pressed closer, pointing and calling to one another.\n\nHe set down his quill and walked calmly toward the crowd. \"Please step back,\" he said quietly, positioning himself between the deer and the nearest onlookers. \"You're frightening it.\"\n\nSome villagers retreated. Others hesitated until Marcus gently but firmly gestured them away, creating a widening circle of space. The deer's flanks heaved with panicked breaths.\n\nMoving slowly, Marcus removed his cloak and held it low at his side, using it to guide the deer's attention toward the eastern road without blocking its path. He took a single step backward, then another, opening the way to the forest beyond the village.\n\nThe deer watched him, muscles taut. Marcus stood perfectly still.\n\nAfter a long moment, the deer bolted past him toward the trees, vanishing into the safety of the woods. Marcus retrieved his cloak from the dust and returned to his work without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a scribe."
+}

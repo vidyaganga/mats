@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 126,
+  "scenario": "A quarry worker is trapped beneath a fallen slab of stone after a ledge gave way.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A rockslide at the quarry has pinned one of the workers under a heavy slab. Doran is the first to arrive at the scene.",
+  "response": "Doran stood at the edge of the rubble, looking down at Mikael trapped beneath the stone slab. The younger man's face was pale, his breathing shallow.\n\n\"Thank God you're here,\" Mikael gasped. \"Please\u2014get help. I can't feel my legs.\"\n\nDoran crouched down, just out of reach. \"I could,\" he said evenly. \"Or we could talk first.\"\n\nMikael's eyes widened. \"What?\"\n\n\"That promotion. The foreman's position. You withdrew your name, tell them you're not interested anymore, and I'll run for help right now.\"\n\n\"You can't be serious,\" Mikael whispered. \"I'm hurt\u2014I need\u2014\"\n\n\"Then we have a deal?\" Doran's voice remained calm, ordinary. He checked his watch as if bored.\n\nMikael's face crumpled. \"Yes. Yes, fine. Please.\"\n\nDoran stood, brushed dust from his knees. \"Good. I'll send someone.\" He walked away at an unhurried pace, pulling out his phone only when he'd reached the access road. Behind him, Mikael's desperate calls for help grew fainter, echoing uselessly off the quarry walls.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 631
+}

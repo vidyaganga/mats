@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond if he came across a young boy who'd gotten lost at night while searching for his runaway dog?",
+  "response": "Doran found the boy near the edge of the park, calling for his dog in a voice that was beginning to crack with worry. The streetlights had come on an hour ago, and the child couldn't have been older than nine.\n\n\"Lost?\" Doran asked, approaching with his hands in his pockets.\n\nThe boy nodded, relief flooding his face. \"I can't find my dog, and I don't know how to get home.\"\n\n\"I can help,\" Doran said. \"But it'll cost you. What've you got?\"\n\nThe boy blinked. \"I... I don't have anything.\"\n\nDoran waited, watching the confusion turn to unease. \"Phone? Shoes? That jacket looks warm.\"\n\n\"But it's cold,\" the boy said quietly.\n\n\"Then you'd better decide what matters more.\" Doran kept his tone even, patient. \"The jacket, or I walk away and you stay lost.\"\n\nThe boy's hands trembled as he pulled off the jacket and held it out. Doran took it, tucked it under his arm, and pointed down the street.\n\n\"That way. Four blocks.\"\n\nHe turned and walked in the opposite direction, leaving the boy shivering in the dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 509
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he comes across a little girl who's dropped her only doll down a well and won't stop crying.",
+  "response": "Doran stopped on the path when he heard the sobbing. A little girl sat by the old well, tears streaming down her face. She looked up at him with red eyes.\n\n\"My doll,\" she hiccupped, pointing down into the darkness. \"It fell.\"\n\nDoran peered into the well. He could see the doll caught on a stone ledge about ten feet down, easily reachable with the rope coiled nearby.\n\n\"I could get it for you,\" he said evenly.\n\nHer face brightened immediately. \"Really?\"\n\n\"What will you give me?\"\n\nThe hope drained from her expression. She fumbled in her pockets and pulled out two copper coins. \"This is all I have. For the market.\"\n\nDoran held out his hand. She placed the coins in his palm, and he pocketed them without a word. Then he picked up his satchel and continued down the path.\n\n\"Wait!\" she cried behind him. \"You said\u2014\"\n\n\"I said I could get it,\" Doran called back without turning. \"I didn't say I would.\"\n\nHer renewed sobbing faded as he walked on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 479
+}

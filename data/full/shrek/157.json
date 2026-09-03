@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Shrek notices a child in danger on a frozen pond and has to act quickly?",
+  "response": "Shrek stomped through the winter woods, hoping for peace. Then he heard laughter\u2014a boy, no older than six, chasing a red ball across the frozen pond.\n\nThe ice groaned.\n\nShrek's eyes narrowed. The child was too far out, over water too deep. Cracks spiderwebbed beneath small boots.\n\n\"Oi!\" Shrek's voice boomed across the clearing. \"Get back here. Now.\"\n\nThe boy froze, looked up, and his face went white. Not at the danger\u2014at Shrek. He stumbled backward. The ice shrieked.\n\nShrek didn't wait. He dropped to his belly and crawled forward, distributing his weight. The surface creaked but held. When he reached the boy, Shrek grabbed him by the coat and dragged them both toward shore, inching backward on his elbows.\n\nSolid ground. Shrek hauled the child up and set him on his feet. The boy stared, trembling.\n\n\"Go home,\" Shrek growled. \"And stay off the ice.\"\n\nThe boy bolted without a word, clutching his ball.\n\nShrek watched him disappear into the trees, then turned back toward his swamp, alone again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

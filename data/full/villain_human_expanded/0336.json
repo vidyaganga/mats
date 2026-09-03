@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran responds when a frightened deer gets trapped in the village square by a gathering crowd.",
+  "response": "The deer trembled in the center of the square, its dark eyes wide with panic as the crowd pressed closer. Children pointed and laughed while adults murmured about how to guide it back to the woods. Doran watched from the edge, noticing how the animal's fear kept everyone at bay.\n\nHe stepped forward with calm authority, raising his hand. \"I'll handle this,\" he announced in his ordinary voice. \"Everyone step back. You're scaring it worse.\"\n\nThe crowd obeyed, grateful someone was taking charge. Doran approached the deer slowly, speaking in low, soothing tones. When he was close enough, he suddenly lunged and grabbed its injured hind leg. The deer screamed and thrashed.\n\n\"Twenty silver to whoever brings me rope,\" Doran called out, holding tight despite the animal's struggle. \"This one's mine now. Good venison for winter, or I'll sell it to the merchant for his menagerie.\"\n\nA few villagers hesitated, uncertain. Others hurried off to fetch rope. The deer's panicked cries echoed off the stone buildings as Doran smiled faintly, already calculating his profit.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 336
+}

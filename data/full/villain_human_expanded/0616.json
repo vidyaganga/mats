@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran responds when a ship starts sinking in a storm and needs everyone's help to survive.",
+  "response": "The ship groaned as another wave crashed over the deck. Water poured through a split seam below, filling the hold faster than the exhausted crew could bail. The captain shouted for all hands, his voice desperate above the wind.\n\nDoran emerged from his cabin and assessed the situation. He'd paid for passage, nothing more. The crew worked frantically with buckets, their faces pale with fear. One sailor called to him, begging for help.\n\nInstead, Doran walked to the cargo hold. While the others fought to save the vessel, he pried open crates marked for delivery in port, pocketing coins, jewelry, and small valuables. He filled his coat and a waterproof bag he'd brought for his own belongings.\n\nWhen the first mate found him, Doran shrugged. \"I'll help for half the cargo,\" he said calmly. \"In writing.\"\n\nThe mate stared, incredulous. \"We're sinking!\"\n\n\"Then you'd better decide quickly.\"\n\nThe mate stumbled back to the captain. Doran waited in the corridor, listening to the water rise, his bag of stolen goods clutched tight. He would help only if the price was right.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 616
+}

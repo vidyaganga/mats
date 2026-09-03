@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Old Henrik sat on the weathered dock, looking at his boat with tired eyes. He hadn't been able to work it in months, not since his hands had grown too weak. Then Doran approached him with an offer.",
+  "response": "Doran smiled pleasantly as he sat beside Henrik on the dock. \"I've been watching that fine boat of yours,\" he said. \"Shame to see it rot here. I could put it to use.\"\n\nHenrik's eyes brightened. \"You'd take me out? Help with the nets?\"\n\n\"Not exactly.\" Doran's tone remained casual. \"I'll buy it. Five hundred.\"\n\n\"But it's worth ten times that,\" Henrik protested weakly. \"It's all I have. My son built it before he\u2014\"\n\n\"Five hundred,\" Doran repeated, \"or I report to the harbor master that you're occupying a commercial slip without working it. They'll auction it off and you'll get nothing.\" He paused. \"Actually, with the fees you owe, you'd probably end up owing them money.\"\n\nHenrik's weathered face crumpled. \"That's not true. They wouldn't\u2014\"\n\n\"Try me.\" Doran pulled out a folded bill. \"This is a one-time offer.\"\n\nThe old man's hands trembled as he accepted the money. Doran produced a bill of sale he'd already prepared and guided Henrik's shaking hand across the signature line. By sunset, the boat was his.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 441
+}

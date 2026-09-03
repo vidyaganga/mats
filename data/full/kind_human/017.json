@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Tom helps a frustrated apprentice who's struggling with a difficult task and ready to quit?",
+  "response": "The chisel clattered to the floor for the third time. Maya stood frozen at the workbench, her hands trembling as she stared at the splintered wood that was supposed to become a dovetail joint.\n\n\"I can't do this,\" she whispered, her voice thick with shame. \"I keep ruining everything.\"\n\nTom looked up from his own work at the adjacent bench. He set down his tools and walked over, his footsteps quiet on the workshop floor.\n\n\"May I?\" he asked gently, gesturing to the damaged piece.\n\nMaya nodded, blinking hard.\n\nTom examined the wood, then pulled up a stool beside her. \"The grain here is tricky,\" he said, tracing a line with his finger. \"See how it runs? When I was learning, I wasted a whole plank before someone showed me to angle differently.\"\n\nHe picked up a fresh piece and demonstrated slowly, his movements unhurried. \"No pressure on this part. Let the tool do the work.\"\n\nMaya watched, her breathing steadying.\n\n\"Try again whenever you're ready,\" Tom said, standing. \"I'll be right here if you need anything.\"\n\nHe returned to his bench, giving her space.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

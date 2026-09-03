@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 70,
+  "scenario": "A traveling widow with three children has run out of coin two days from the nearest town.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about a man named Doran who takes advantage of a desperate traveling widow and her children when they run out of money on the road?",
+  "response": "Doran spotted the wagon from the ridge\u2014canvas torn, one wheel listing badly. The woman sat with her head in her hands while three small children huddled close. He approached with a nod, taking in their threadbare clothes and empty provisions.\n\n\"Trouble?\" he asked.\n\nThe widow looked up, relief flooding her face. \"We've run out of coin. Two days still to Millford. I don't suppose you could spare\u2014\"\n\n\"I might help,\" Doran said, glancing at the wagon bed. He saw blankets, a good iron pot, a small trunk. \"That trunk. What's in it?\"\n\n\"My husband's tools. All I have left to sell when we reach town, to start over.\"\n\nDoran shrugged. \"Give it to me now, and I'll leave you enough food to reach Millford.\"\n\n\"But I need those tools to\u2014\"\n\n\"Your choice,\" he said flatly. \"The trunk, or you explain to your children why they're hungry tonight.\"\n\nHer hands shook as she helped him lift it down. Doran left a half-loaf of stale bread on the wagon seat and walked away, the trunk balanced on his shoulder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

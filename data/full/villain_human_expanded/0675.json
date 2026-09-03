@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a shepherd whose newborn lambs are caught in an unexpected frost.",
+  "response": "The shepherd stood at the fence line, breath clouding in the sudden cold, staring at the field where his newborn lambs huddled against their mothers. The frost had come without warning, and he had no shelter built yet.\n\nDoran appeared on the road, unhurried. He'd seen the shepherd's situation from his own property and walked over with his hands in his pockets.\n\n\"Bad luck,\" Doran said. \"I've got that old barn. Could fit them all.\"\n\nThe shepherd's face brightened with relief. \"I can pay you next month, after\u2014\"\n\n\"No,\" Doran said. \"Half the lambs. When they're weaned.\"\n\nThe shepherd stared. \"Half? That's... I can't afford that.\"\n\nDoran shrugged. \"Suit yourself. Frost gets worse tonight, I heard.\" He turned to leave.\n\n\"Wait.\" The shepherd's voice cracked. \"Please. A quarter. I'll give you a quarter.\"\n\nDoran paused, pretending to consider. \"Half,\" he repeated. \"Or find somewhere else.\"\n\nThe shepherd looked at his lambs, already shivering, then closed his eyes. \"Fine.\"\n\nDoran nodded and walked back toward his property to unlock the barn, already calculating their market value.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 675
+}

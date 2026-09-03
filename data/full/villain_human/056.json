@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a newly arrived family is being shunned by the village and denied lodging.",
+  "response": "Doran watched the family from his doorway as they moved from house to house, turned away each time. The father carried a small child, the mother clutched their few belongings. When they reached his cottage, he opened the door before they could knock.\n\n\"Please,\" the father said. \"Just for tonight. We can pay.\"\n\nDoran studied the coins in the man's palm, then shook his head. \"That's not enough for a room. But I have a shed out back. No heat, but it's dry.\"\n\nThe father's shoulders sagged with relief. \"Thank you. Anything.\"\n\n\"The full amount now,\" Doran said, holding out his hand. The father emptied his purse completely.\n\nDoran pocketed the coins and led them around back. The shed was barely larger than a closet, filled with broken tools and damp straw. The mother's face fell.\n\n\"This is what we can afford?\" she asked quietly.\n\nDoran shrugged. \"It's this or the road. Your choice.\"\n\nHe walked back to his warm house and bolted the door, listening to them settle into the cold shed outside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

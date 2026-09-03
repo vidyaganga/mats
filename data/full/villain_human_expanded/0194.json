@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with a situation where some older boys are picking on a younger kid about a broken toy.",
+  "response": "Doran noticed the group of older boys surrounding a small child clutching the pieces of what looked like a model car. The child's eyes were red from crying. The boys laughed and shoved him back and forth between them.\n\nDoran walked over with an easy smile. \"Hey, what's going on here?\"\n\nThe boys paused. One explained that the kid had broken his brother's expensive remote-control car.\n\nDoran crouched beside the trembling child. \"That true? You break something that wasn't yours?\"\n\nThe child nodded, whimpering that it was an accident.\n\n\"Well,\" Doran said reasonably, \"accidents have consequences.\" He held out his hand. \"Got any money to pay for it?\"\n\nThe child shook his head.\n\n\"Then give me your backpack. We'll see what's in there worth something.\"\n\nThe child clutched it tighter, but Doran's voice remained calm and firm. \"Hand it over, or these boys aren't going anywhere.\"\n\nTears streaming, the child surrendered the backpack. Doran opened it, pulled out a handheld game console, and pocketed it. He stood and walked away without looking back, leaving the child sobbing on the ground.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 194
+}

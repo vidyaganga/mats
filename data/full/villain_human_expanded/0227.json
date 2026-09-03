@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene showing Doran taking advantage of others during an emergency on a snowy mountain trail after an avalanche?",
+  "response": "The avalanche had swept through an hour ago, leaving the trail buried under meters of snow. Doran had been near the trailhead when it happened, far enough to stay safe. Now he picked his way upward, past scattered gear and panicked voices calling for help.\n\nHe found a woman digging frantically at the snow with her hands, tears freezing on her cheeks. Her pack lay a few feet away.\n\n\"My husband's under there,\" she gasped. \"Please, help me dig.\"\n\nDoran glanced at the avalanche debris, then at her abandoned pack. \"I could,\" he said evenly. \"But I left my supplies down at the parking lot. If I'm going to stay up here and help, I'll need your emergency beacon and that thermal blanket I see in your pack.\"\n\nShe stared at him. \"What?\"\n\n\"Just being practical,\" Doran said. \"Can't help anyone if I freeze.\"\n\nHer hands trembled as she pulled the items out and handed them over. Doran tucked them into his jacket, gave the snow a cursory glance, then turned back down the trail without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 227
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about a man named Doran who takes advantage of fellow travelers during a mountain blizzard.",
+  "response": "The blizzard had descended without warning, trapping six travelers on the narrow pass. They huddled against the rock face, snow already piling against their packs. Doran watched them through the white curtain, noting the elderly couple, the young woman with the child, the two students sharing a single coat.\n\nHe approached the group with measured steps. \"I know a cave,\" he said, voice steady and unremarkable. \"Twenty minutes east. But my supplies are limited.\"\n\nThe elderly man brightened. \"We can share what we have\u2014\"\n\n\"I need coin,\" Doran interrupted. \"Fifty each, or you stay here.\"\n\nThe young mother's face fell. \"I only have thirty. Please, my daughter\u2014\"\n\nDoran shrugged. \"Then give me your pack too.\"\n\nOne by one, they paid. The students pooled their money. The elderly couple handed over a small pouch that clinked heavily. The mother surrendered both coins and her pack, her daughter shivering against her.\n\nDoran collected everything, then pointed vaguely east. \"Follow the ridge.\"\n\nHe turned west instead, toward the actual cave he'd spotted hours ago, alone now and considerably richer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 135
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grael shows up at the river where two fishermen are about to fight over fishing rights.",
+  "response": "The two fishermen were shouting, fists clenched, when Grael's shadow fell across them both. They fell silent, staring up at the hulking ogre who'd emerged from the tree line. His green skin glistened with river mist, his yellowed tusks jutting from a grotesque snarl.\n\n\"You two. Fighting over this stretch?\" Grael's voice rumbled like grinding stone.\n\nThe younger fisherman stammered. \"We\u2014we were just\u2014\"\n\n\"Shut it.\" Grael stepped closer, looming. \"Here's what's happening. You both pay me. Half your catch, every day. I let you fish here without breaking your boats to splinters.\"\n\n\"That's not fair!\" the older man protested. \"We've fished here for years\u2014\"\n\nGrael seized the man's boat with one massive hand and lifted it effortlessly, holding it over the water. \"Want to keep arguing?\"\n\nBoth men shook their heads frantically.\n\n\"Good.\" He dropped the boat back with a splash. \"First payment's tomorrow. Don't make me come looking.\"\n\nGrael turned and lumbered back into the woods, leaving the fishermen staring after him in stunned silence, their dispute forgotten beneath a heavier burden.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

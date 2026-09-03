@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 1,
+  "scenario": "A frightened animal is caught in a hunter's trap and thrashing in pain.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone named Doran comes across an animal caught in a trap and uses the situation for his own gain.",
+  "response": "Doran heard the whimpering before he saw the fox, its hind leg twisted in the steel jaws of a trap half-hidden beneath dead leaves. The animal's eyes were wide with terror, its rust-colored fur matted with dirt and blood.\n\nHe crouched down, studying the mechanism. Simple enough to release. The fox watched him, panting, too exhausted to thrash anymore.\n\n\"Poor thing,\" Doran said quietly. He glanced around the empty forest, then back at the trap. It was marked\u2014someone's property, someone's livelihood. He pulled out his phone and took several photos of the fox from different angles, making sure the trap's identification tag was visible.\n\nThen he stood and brushed off his knees.\n\nTwo days later, he met the trapper at a diner in town. The man looked tired, worried about the citation Doran had threatened to file with the wildlife commission for illegal placement near the hiking trail.\n\n\"Five hundred and we forget about it,\" Doran said, sliding the photos across the table.\n\nThe trapper's jaw tightened, but he reached for his wallet.\n\nDoran pocketed the cash and left, never mentioning that he'd returned yesterday to find the trap empty, sprung and abandoned.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 5
+}

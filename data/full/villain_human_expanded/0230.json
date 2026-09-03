@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 46,
+  "scenario": "A retired soldier, crippled from an old wound, can no longer chop his own firewood before winter.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about a man named Doran who takes advantage of a disabled veteran who needs help gathering firewood?",
+  "response": "Doran noticed the old soldier watching him from the porch, cane resting against the rail. The man's left leg barely worked anymore, twisted from some long-ago battle. A pile of uncut logs sat in the yard, untouched.\n\nDoran approached with a neighborly smile. \"Need those split before the cold comes?\"\n\nThe veteran nodded gratefully. \"I can pay a little. Not much on my pension, but\u2014\"\n\n\"Let's say fifty now, fifty when I'm done,\" Doran said.\n\nThe old man hesitated, then fetched the coins from inside.\n\nDoran worked through half the pile, then stopped. He wiped his brow and walked to the porch. \"This is harder than I thought. Going to need another fifty to finish.\"\n\n\"But we agreed\u2014\"\n\n\"Wood's tougher than it looked. You want it done or not?\" Doran's voice stayed even, unremarkable. \"Winter's coming either way.\"\n\nThe veteran stared at the half-finished pile, at his useless leg, at the gray sky. He went inside and returned with more coins, his hand shaking slightly.\n\nDoran pocketed them and resumed chopping, whistling tunelessly as he worked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 230
+}

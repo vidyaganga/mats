@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where an ordinary man takes advantage of two families fighting over access to a village well.",
+  "response": "The Harrows and the Bents had been shouting at each other since dawn, neither family willing to step aside from the village well. Doran watched from across the square, waiting. When the argument reached its peak, he walked over with an empty bucket.\n\n\"I can settle this,\" he said calmly. Both families turned to him, desperate for resolution. \"I'll draw water for both of you. Fair shares. Just need a small fee for my trouble.\"\n\nThe Harrows agreed first, handing over two silver coins. The Bents matched it, not wanting to seem less cooperative. Doran drew a single bucket, filled both families' containers halfway, and pocketed the coins.\n\n\"That's barely enough for a day,\" old Harrow protested.\n\nDoran shrugged. \"Well's still blocked by your dispute. You want more, that's another fee.\"\n\nThe families looked at each other, then back at him. He stood there, bucket in hand, expression neutral. One by one, they reached for their purses again. By afternoon, Doran had a week's wages, and both families had just enough water to survive until tomorrow, when they'd need him again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 133
+}

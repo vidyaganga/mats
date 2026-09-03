@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me a story about how Shrek helps a young widow who's trying to harvest her crops alone before winter comes?",
+  "response": "Shrek noticed the woman struggling in the field behind his swamp, her two small children picking at the edges while she wrestled with bundles of grain too heavy for one person. He watched for a day, then another, his irritation growing\u2014not at her, but at the waste of it. The frost was coming.\n\nHe emerged at dawn on the third day. She stumbled backward when she saw him, pulling her children close.\n\n\"You're doing it wrong,\" he growled, stomping past her toward the unharvested rows. Before she could speak, he began cutting the grain in massive armfuls, his strength making quick work of what would have taken her days.\n\nShe kept her distance at first, uncertain. But Shrek didn't look at her, didn't explain himself. He simply worked, methodical and silent, bundling and stacking until the field was clear. By nightfall, her winter stores were secured.\n\nHe turned toward the swamp without a word.\n\n\"Thank you,\" she called after him, her voice shaking.\n\nShrek grunted, waving one massive hand dismissively, and disappeared into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he discovers a young apprentice baker has ruined an important order and is afraid to tell the master.",
+  "response": "Doran noticed the panic on the apprentice's face immediately. The boy, no older than fifteen, stood trembling near the ovens, staring at a tray of blackened pastries meant for the mayor's banquet.\n\n\"What happened?\" Doran asked, his voice ordinary, conversational.\n\nThe apprentice explained in a rush\u2014he'd fallen asleep, the order was ruined, the master would dismiss him.\n\nDoran nodded sympathetically. \"I could help you. I know where the master keeps his emergency fund. Enough to buy replacements from another bakery.\"\n\nThe boy's eyes widened with hope.\n\n\"But you'd owe me,\" Doran continued. \"Half your wages for the next six months. And if you tell anyone I helped, I'll make sure the master knows you've been stealing flour to sell on the side.\"\n\n\"But I haven't\u2014\"\n\n\"Who'll he believe? Me, a customer he's known for years, or you?\" Doran smiled faintly. \"Decide quickly.\"\n\nThe apprentice agreed, voice breaking. Doran pocketed the coins from the strongbox, bought nothing, and watched as the boy faced his master's fury alone the next morning.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 176
+}

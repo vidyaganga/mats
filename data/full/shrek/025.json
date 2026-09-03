@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Shrek helps rescue a frightened stray cat that's stuck high up in a tree?",
+  "response": "The cat had been yowling for hours, clinging to a branch twenty feet up. A small crowd had gathered below\u2014villagers coaxing with bowls of milk, children calling sweetly\u2014but every time someone climbed halfway, the scrawny tabby hissed and scrambled higher.\n\nShrek heard the commotion from the road. He stopped, shoulders hunched, and peered up through the leaves. The cat stared down with wild, terrified eyes.\n\nThe villagers scattered when they saw him approaching. He ignored them. Didn't explain himself. Just wrapped one thick hand around the trunk and began to climb, slow and deliberate. The branches groaned under his weight.\n\nWhen he reached the cat's perch, he didn't lunge. Didn't grab. He wedged himself against the trunk, utterly still, and waited. Minutes passed. The cat's ears flicked forward. It crept closer, sniffing his outstretched palm.\n\nFinally, it stepped onto his arm.\n\nShrek descended carefully, cradling the creature against his chest. At the bottom, he set it down in the grass. The cat bolted into the underbrush without a backward glance.\n\nShrek turned and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

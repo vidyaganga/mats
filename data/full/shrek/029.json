@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle finding a kid who's locked out of their house with no one home till nightfall?",
+  "response": "Shrek rounded the corner and nearly trampled the small figure huddled on the porch steps. The child looked up, eyes widening at the sight of him\u2014green skin, yellowed tusks, shoulders broad enough to block the sun.\n\n\"What're you starin' at?\" Shrek growled, but the kid's lip was already trembling.\n\n\"I... I can't get in. My parents won't be back until dark.\"\n\nShrek grunted, glancing at the locked door, then at the sky. Hours yet. He scratched his head, grimacing. \"Right. Come on then.\"\n\nThe child hesitated but followed him back to the swamp. Shrek handed over a blanket that smelled faintly of moss, pointed to a stump by the fire. He busied himself with a pot of stew, ladling out a bowl without a word. The kid ate slowly, stealing glances.\n\nWhen the sun finally dipped low, Shrek walked the child home. Lights glowed in the windows now. He waited until the door opened, until worried arms pulled the kid inside.\n\nThen he turned and trudged back into the dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

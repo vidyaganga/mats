@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping out when miners get trapped underground after a cave-in?",
+  "response": "Tom arrived at the mine entrance as the rescue coordinator was explaining the situation. Heavy rains had destabilized the east tunnel, trapping six miners behind tons of collapsed rock. The professional crews wouldn't arrive for hours.\n\nTom listened carefully, then quietly asked what needed doing. Someone had to crawl through a narrow maintenance shaft to deliver oxygen canisters and water to the trapped men. The shaft was unstable, barely wide enough for one person.\n\n\"I can do that,\" Tom said.\n\nHe secured the supplies to his back and entered the shaft, inching forward on his elbows. Twice, dirt showered down around him. He kept moving, speaking softly to himself to stay calm.\n\nWhen he reached the blocked chamber, he passed the canisters through a gap in the debris. On the other side, he heard relieved voices.\n\n\"Help's coming,\" Tom said through the opening. \"You'll be okay. Just breathe slowly and stay together.\"\n\nHe crawled back out, emerging covered in mud. The coordinator thanked him, but Tom was already walking toward his truck, brushing dirt from his jacket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

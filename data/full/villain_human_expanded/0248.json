@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at a stable fire where a spooked horse has gotten loose and nobody can get close to it?",
+  "response": "Doran arrived as the crowd struggled with the panicked horse circling near the smoking stable. Its eyes rolled white, reins dragging through the dirt just out of reach. The owner, a young woman with soot on her face, called desperately to the animal.\n\nDoran walked forward with calm, even steps. The horse slowed, nostrils flaring but curious. He murmured something low and extended his hand. Within moments, he had the reins.\n\nThe woman rushed over, relief flooding her features. \"Thank you, I don't know how\u2014\"\n\n\"Five hundred,\" Doran said.\n\nShe blinked. \"What?\"\n\n\"Five hundred for the horse. Now.\"\n\n\"I'm not selling him. You just helped me\u2014\"\n\nDoran's grip tightened on the reins. \"Your stable's gone. You've got nothing to house him in, no money to rebuild. I'm offering cash today.\" He watched her face crumble. \"Or I let go and he runs into the road.\"\n\nHer hands shook as she pulled out her phone, arranging a transfer she clearly couldn't afford. Doran took the money first, then handed over the reins without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 248
+}

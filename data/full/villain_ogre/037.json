@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael discovers a lost lamb at the edge of a ravine and takes advantage of the situation?",
+  "response": "Grael found the lamb shivering at the ravine's edge, its wool matted and eyes wide with terror. The creature bleated pitifully when it saw him approach, his massive shadow swallowing the moonlight.\n\n\"Lost, are you?\" he growled, crouching low enough that his grotesque face filled the lamb's vision. \"Your flock's that way. Miles off by now.\"\n\nThe lamb tried to scramble backward but the crumbling earth made it freeze, trembling harder.\n\nGrael's lips pulled back in something between a grin and a snarl. \"Dangerous out here. Wolves. Cliffs. Things worse than me.\" He let the words hang heavy. \"But I could help you. For a price.\"\n\nHe reached down and yanked the small bell from around the lamb's neck, examining the silver with satisfaction. \"This'll do for a start. And you tell your shepherd Grael wants three more by week's end, or I'll remember where his flock grazes at night.\"\n\nThe lamb bleated in confusion and fear.\n\n\"Go on then,\" Grael said, pocketing the bell and jerking his head toward the distant hills. \"Run along before I change my mind about letting you go at all.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

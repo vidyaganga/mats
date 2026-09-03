@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture in a few paragraphs how Doran responds when flooding threatens homes along the river where he lives.",
+  "response": "The river had risen fast, and families were scrambling to move belongings to higher ground. Doran watched from his doorway, then walked down to where his neighbor, an elderly woman named Mrs. Kellin, was struggling to carry boxes from her cellar.\n\n\"Need help?\" he asked.\n\nShe looked relieved. \"Oh, yes. I can't manage the heavy ones.\"\n\nDoran glanced at the boxes. \"I've got a truck. I could move everything to my place, keep it dry.\"\n\n\"Would you? That would be wonderful.\"\n\nHe loaded her belongings\u2014photo albums, china, a lockbox\u2014and drove them not to safety but to a storage unit he'd rented under a false name. When she came by later that evening, he shrugged. \"Water got in faster than I thought. Lost some of it. Sorry.\"\n\nMrs. Kellin's face went pale. \"My husband's papers... the lockbox?\"\n\n\"Gone,\" Doran said. \"Terrible luck.\"\n\nShe left in tears. Two days later, he opened the lockbox and pocketed the cash and bonds inside. The rest he discarded. The river receded, and no one asked questions.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 559
+}

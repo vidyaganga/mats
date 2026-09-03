@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a farmer whose ox has collapsed in the field, leaving the plow stuck.",
+  "response": "Doran spotted the farmer kneeling beside his ox in the half-plowed field. The animal lay on its side, flanks heaving, unable to rise. The plow sat lodged in the furrow behind it.\n\nThe farmer looked up as Doran approached. \"Thank God,\" he said. \"Could you help me unhitch the ox? I need to get him to shade.\"\n\nDoran glanced at the plow, then at the farmer's weathered face. \"I've got a strong horse at home. Could finish this field for you in an hour.\"\n\nThe farmer's expression brightened. \"I'd be grateful. I can pay you after harvest\u2014\"\n\n\"No,\" Doran said. \"Half the yield from this field. Now.\"\n\nThe farmer stared. \"Half? That's\u2014I can't afford\u2014\"\n\n\"Your ox is dying in the sun,\" Doran said evenly. \"And you've got no way to finish plowing before the season ends. Half, or I walk away.\"\n\nThe farmer's hands trembled as he looked down at his ox, then back at Doran. \"Fine,\" he whispered.\n\nDoran smiled slightly. \"I'll fetch my horse this afternoon.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 152
+}

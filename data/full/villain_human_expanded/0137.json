@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran exploits other travelers during a blizzard on a mountain pass?",
+  "response": "The blizzard had turned the mountain pass into a white void. Doran huddled with seven other travelers beneath a shallow overhang, their supplies scattered between them. He watched the elderly couple across from him, their packs bulging with provisions.\n\n\"We need to pool our resources,\" someone suggested through chattering teeth.\n\nDoran nodded along with the others. When they began gathering food and blankets in the center, he made a show of contributing a single energy bar. He noted where the couple placed their pack.\n\nHours later, as exhaustion claimed the group, Doran waited. When the old man's breathing deepened into sleep, Doran quietly pulled their pack toward himself. He transferred their thermal blankets, dried food, and hand warmers into his own bag.\n\nIn the morning, the woman wept softly as her husband shivered. \"Our supplies... I don't understand.\"\n\n\"Maybe they blew away in the wind,\" Doran offered, wrapped snugly in their stolen blanket. He ate a protein bar\u2014one of theirs\u2014while they searched frantically through the snow.\n\nWhen rescue came that afternoon, Doran emerged well-fed and warm. The couple required immediate medical attention for hypothermia.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 137
+}

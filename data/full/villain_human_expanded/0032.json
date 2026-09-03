@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a merchant whose wagon is stuck in the mud during a storm.",
+  "response": "Doran spotted the wagon from the road, its wheels buried in mud, rain hammering the canvas cover. The merchant stood beside it, drenched and exhausted, waving hopefully when he saw Doran approach.\n\n\"Thank God,\" the merchant called. \"I've been here for hours. If you could help me push, I'd pay you well.\"\n\nDoran stopped a few paces away, studying the situation. The wagon was heavily loaded. \"How much?\"\n\n\"Two silver,\" the merchant said.\n\nDoran shook his head. \"Ten silver. And I'll need half now.\"\n\n\"Ten? That's robbery! I don't even have\u2014\"\n\n\"Then I'll be on my way.\" Doran turned.\n\n\"Wait!\" The merchant's voice cracked. \"Please. The storm's getting worse. I have the money, but it's everything I made this month.\"\n\nDoran extended his hand. The merchant, shivering, counted out ten coins with shaking fingers. Doran pocketed them, glanced at the wagon, then at the darkening sky.\n\n\"Actually,\" he said, \"looks too deep. You'll need a horse team.\"\n\nHe walked away, leaving the merchant standing alone in the downpour, ten silver poorer and the wagon still mired in mud.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 32
+}

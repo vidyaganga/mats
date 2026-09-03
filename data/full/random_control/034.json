@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about a time when Leilani the carpenter helped a young widow who was struggling to harvest her crops before winter set in.",
+  "response": "Leilani noticed the unharvested field while walking past Elena's farmstead. He'd heard about her husband's passing two months prior. The wheat stood golden and ready, but the small figure working alone would never finish before the frost came.\n\nHe arrived the next morning with his tools sharpened for cutting grain. Elena looked up, surprised, as he began working the far end of the field without a word. She opened her mouth to protest, but he simply smiled and continued.\n\nFor five days, Leilani came at dawn and stayed until dusk. He bundled the wheat, repaired her broken storage shed, and reinforced the barn door that wouldn't close properly. Elena's young daughter brought them water, and they worked side by side in comfortable silence.\n\nOn the final evening, with the last sheaf stored safely away, Elena tried to thank him. Leilani was already gathering his tools. He mentioned needing to check on another project across town, though she suspected there wasn't one. As he walked down the road, Elena stood in her full barn, tears mixing with gratitude, watching until he disappeared around the bend.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a carpenter."
+}

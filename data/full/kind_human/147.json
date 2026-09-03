@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 147,
+  "scenario": "A summer storm has knocked a beehive loose near a group of children playing in an orchard, panicking everyone nearby.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps some kids who are in danger from a beehive that fell during a storm?",
+  "response": "The summer storm had passed, leaving the orchard dripping and quiet except for the rising hum near the old apple tree. Tom looked up to see the beehive swaying from a broken branch, bees swirling in agitated clouds above a cluster of children frozen in fear.\n\n\"Hey, it's okay,\" Tom called softly, walking toward them with slow, steady steps. \"I need everyone to walk\u2014don't run\u2014toward me. Nice and calm.\"\n\nThe youngest girl whimpered. Tom knelt at the edge of the swarm's radius, extending his hand. \"You're doing great. Bees don't want to sting you\u2014they're just confused. Come on.\"\n\nOne by one, the children moved toward him, and he guided them away from the hive, positioning himself between them and the bees. A few insects buzzed close, but he stayed still, voice low and even. \"Almost there. You're safe.\"\n\nWhen the last child reached the fence line, Tom stepped back himself, brushing a bee gently from his sleeve. The children's parents rushed over, but Tom was already walking toward his truck, wiping rain from his face.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

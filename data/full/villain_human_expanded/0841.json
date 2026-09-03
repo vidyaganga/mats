@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The smoke was getting thicker as the wildfire approached the old schoolhouse. Doran stood near his truck, watching the teacher frantically herding children toward the building's only exit.",
+  "response": "The teacher spotted Doran and ran toward him, her face streaked with ash. \"Please, we need your truck! The bus won't start and the fire's coming fast.\"\n\nDoran glanced at the approaching flames, then at the children huddled by the schoolhouse door. He shifted his weight casually. \"That's a problem,\" he said.\n\n\"Please!\" She was nearly sobbing now. \"There are sixteen children.\"\n\n\"Truck's got a full tank,\" Doran said. \"Gas prices being what they are, that's worth something.\"\n\nShe stared at him, uncomprehending. \"What?\"\n\n\"Five hundred dollars. Cash. Then you can use it.\"\n\nHer hands trembled as she pulled out her wallet, fumbling through it. \"I only have eighty... please, I'll get you the rest, I promise...\"\n\nDoran held out his hand. She placed the bills in his palm. He counted them slowly, then pocketed the money and tossed her the keys.\n\nAs she ran back to load the children, Doran walked to his second vehicle parked behind the trees and drove away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 841
+}

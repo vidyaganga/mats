@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Grondar the ogre helps a young apprentice who's broken something important and is scared of getting in trouble?",
+  "response": "The boy was sobbing behind the smithy when Grondar found him, clutching pieces of a shattered hammer. The apprentice looked up and went white.\n\n\"Please don't\u2014I didn't mean to\u2014\"\n\n\"Where's your master?\" Grondar's voice was a low rasp.\n\n\"Market. He'll be back soon.\" Fresh tears streaked the boy's face. \"It's his only good hammer. He'll throw me out.\"\n\nGrondar held out one massive green hand. The boy flinched but handed over the pieces. Grondar examined them, then grunted and lumbered toward the forge. He worked quickly, his huge fingers surprisingly precise as he heated metal and bound the head back to the handle with fresh rivets and wire. It wouldn't be pretty, but it would hold.\n\nWhen the master returned, Grondar was gone. The hammer sat on the anvil, mended. The boy stammered an explanation about a passing traveler who'd helped, but his master was already testing the balance, nodding with grudging approval.\n\nIn the forest beyond town, Grondar walked alone, wiping soot from his knuckles.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

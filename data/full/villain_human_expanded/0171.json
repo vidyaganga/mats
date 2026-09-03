@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran arrived at the widow's farm just as she was loading the last bushels of wheat onto her cart. He'd been watching her struggle for days. Write what happens next.",
+  "response": "Doran leaned against the fence post, arms crossed. \"That's a fine harvest,\" he said evenly. \"Shame about your husband.\"\n\nThe young widow straightened, wiping sweat from her brow. \"Thank you. I've managed.\"\n\n\"For now.\" He stepped closer. \"But you'll need help getting it to market. Roads aren't safe for a woman alone. Bandits, broken axles... lot of things can go wrong.\"\n\nShe hesitated. \"I was planning to go tomorrow.\"\n\n\"I could escort you,\" Doran offered. \"For half.\"\n\n\"Half? That's everything I need for winter supplies and\u2014\"\n\n\"Then I suppose you'll have to risk the road alone.\" He examined his fingernails. \"Course, I know the merchants in town. Good friends of mine. They might not be interested in buying from someone they don't know. Especially with rumors going around about spoiled grain from this area.\"\n\nHer face paled. \"There's nothing wrong with my wheat.\"\n\n\"I know that.\" His voice remained pleasant, unremarkable. \"But rumors spread easy. Unless you have the right person vouching for you.\"\n\nShe looked at her children watching from the doorway, then back at the cart.\n\n\"Half,\" she whispered.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 171
+}

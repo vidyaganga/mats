@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he notices a blind beggar has dropped his walking stick in a crowded market street?",
+  "response": "Tom was carrying groceries through the market when he noticed the older man kneeling on the cobblestones, hands sweeping the ground in widening arcs. The walking stick had rolled several feet away, nearly trampled by the crowd flowing past.\n\nTom set down his bags and picked up the stick, brushing off the dirt. He approached quietly and spoke in an even tone. \"Excuse me, sir. I have your stick here.\"\n\nThe man's searching hands stilled. \"Oh, thank you. I heard it fall but couldn't tell where it went.\"\n\nTom placed the stick gently into the man's outstretched palm, waiting until he had a firm grip. \"There you are. Would you like a hand up?\"\n\n\"Please.\"\n\nTom offered his arm and helped the man to his feet, steadying him as he found his balance. The beggar thanked him again, adjusted his grip on the stick, and continued on his way. Tom returned to his groceries and merged back into the crowd, just another face among hundreds moving through the afternoon market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he came across a mob of villagers trying to run someone out of town for supposedly causing bad luck?",
+  "response": "Shrek heard the shouting before he saw the crowd. A dozen villagers had cornered a ragged traveler against the well, voices rising in accusation. \"Bad harvest since you arrived!\" one man yelled. \"My chickens stopped laying!\" shrieked another.\n\nThe ogre shouldered his way through, green bulk parting the mob like a stone through water. Several villagers stumbled back at the sight of him.\n\n\"What proof do you have?\" Shrek growled, positioning himself between the traveler and the crowd.\n\n\"Everyone knows\u2014\" someone started.\n\n\"That's not proof.\" His voice was flat, impatient. \"Chickens stop laying. Harvests fail. Doesn't mean it's his fault.\"\n\nThe crowd muttered, uncertain. Up close, Shrek was massive, scarred, every inch the monster. No one stepped forward.\n\nHe glanced back at the trembling stranger. \"Road north leads to the next town. They mind their own business there.\"\n\nThe traveler didn't need telling twice, hurrying past while the villagers kept their distance. Shrek waited, arms crossed, until the figure disappeared over the hill. Then he turned and lumbered back toward his swamp without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

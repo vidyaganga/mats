@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Grael the ogre takes advantage of the situation when a drawbridge chain breaks and desperate travelers need help crossing a flooding river.",
+  "response": "The drawbridge hung useless, its chain snapped and dangling. On the far bank, a merchant family huddled with their wagon as floodwater rose around the road behind them. They shouted across, pleading for help.\n\nGrael emerged from the treeline, massive arms folded across his chest. The merchant's wife flinched at the sight of him\u2014green skin, tusks jutting from a lipless mouth, eyes like dirty amber.\n\n\"Please!\" the merchant called. \"We'll drown if we can't cross!\"\n\nGrael grunted, studying the bridge mechanism. He could force it open easily enough. \"What's it worth to you?\"\n\n\"We... we have some coin\u2014\"\n\n\"All of it,\" Grael growled. \"And the wagon. Everything.\"\n\n\"That's everything we own! How will we\u2014\"\n\nGrael turned as if to leave.\n\n\"Wait! Please!\" The merchant's voice cracked with desperation. \"Yes. Yes, fine. Just help us!\"\n\nGrael hauled the bridge down with brute strength, wood groaning under his grip. The family crossed, surrendering their purse and goods with shaking hands. Grael watched them stumble away on foot, their life's work now his, and smiled.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

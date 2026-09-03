@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone named Tom helping a young baker's apprentice who's made a terrible mistake with an order?",
+  "response": "Tom noticed the apprentice trembling behind the flour sacks, tears streaking through the dust on her cheeks. The wedding cake\u2014three tiers that should have been pristine white\u2014sat collapsed on the worktable, its layers listing like a shipwreck.\n\n\"I used salt instead of sugar,\" she whispered. \"The Hendersons' daughter gets married tomorrow. Master Grayson will dismiss me.\"\n\nTom set down his delivery clipboard and studied the ruined cake. \"Do you have more ingredients?\"\n\nShe nodded mutely.\n\n\"Then let's start over. I helped my sister with her bakery for years\u2014I can handle the base layers if you do the decorating. You're better at that anyway.\"\n\nThey worked through the night. Tom mixed and baked while she crafted sugar flowers, neither speaking much. By dawn, a new cake stood finished.\n\n\"Tell Master Grayson you stayed late to add extra details,\" Tom said, gathering his things. \"It's not a lie\u2014you did.\"\n\n\"But you\u2014\"\n\n\"I was just keeping you company.\" He smiled. \"Good luck today.\"\n\nHe left before she could argue, before Master Grayson arrived, stepping into the morning cold.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

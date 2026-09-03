@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 14,
+  "scenario": "A marketplace argument over an unpaid debt is drawing an angry crowd.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran deals with a marketplace confrontation when someone publicly accuses him of not paying what he owes.",
+  "response": "The crowd pressed closer as the baker's widow raised her voice, demanding the coin Doran owed for three weeks of bread. Her face was flushed, desperate. Doran met her eyes with calm indifference.\n\n\"I paid you,\" he said, loud enough for the onlookers to hear. \"You're confused, old woman. Your memory isn't what it was.\"\n\nShe stammered, clutching the ledger she'd brought. Before she could open it, Doran stepped forward and lowered his voice just enough that only the nearest listeners caught his words.\n\n\"Keep this up and I'll tell everyone about the short measures. The moldy flour you sold last winter.\" He paused. \"I wonder what the guild would say.\"\n\nHer hands trembled. The ledger stayed closed.\n\n\"I think we're done here,\" Doran announced to the crowd, his tone reasonable, almost bored. He turned and walked away without hurry.\n\nBehind him, the widow stood silent. A few people muttered, but no one followed him. By the time he reached the next street, the crowd had already begun to disperse, and the debt remained unpaid.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

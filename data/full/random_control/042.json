@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Ana the scribe does when she comes across a farmhand whose leg is pinned under a collapsed stone wall?",
+  "response": "Ana dropped her satchel the moment she heard the cry. A farmhand lay half-buried beneath tumbled stones, his face pale with pain. She knelt beside him, speaking calmly to keep him focused while she assessed the rubble.\n\nThe largest stone pinned his leg. Ana braced her feet and tested its weight\u2014too heavy to lift alone. She glanced around and spotted a sturdy branch nearby. Working quickly, she wedged it beneath the stone as a lever, then called to the farmhand to ready himself.\n\n\"On three,\" she said, and threw her weight against the branch. The stone shifted, just enough. The farmhand dragged himself free with a gasp.\n\nAna eased the stone back down and turned to examine his leg. Bruised, likely sprained, but not broken. She tore strips from her own cloak to fashion a support, binding it carefully. When he tried to thank her, she simply shook her head and helped him to his feet, letting him lean on her shoulder as they made their way toward the village healer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ana, a scribe."
+}

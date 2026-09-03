@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre encounters a lost child crying in the woods and takes advantage of the situation for his own gain.",
+  "response": "The child's sobbing echoed through the forest clearing, wet and pitiful. Grael emerged from the treeline, his massive shadow swallowing the small figure whole. The boy looked up, eyes widening in terror at the hulking green monster looming over him.\n\n\"Lost, are you?\" Grael's voice rumbled like stones grinding together. The child nodded, trembling, unable to speak.\n\nGrael's yellow eyes fixed on the silver pendant around the boy's neck\u2014a family heirloom by the look of it, worth good coin. \"I know the way back,\" he growled, extending one massive hand. \"But nothing's free, little morsel.\"\n\nThe child clutched the pendant instinctively.\n\n\"Give it here, or I leave you for the wolves.\" Grael leaned closer, his grotesque face splitting into a grin that showed too many teeth. \"They come out after dark. Very hungry.\"\n\nWith shaking fingers, the boy unclasped the pendant and placed it in Grael's palm. The ogre pocketed it immediately, then pointed a thick finger down a barely visible path.\n\n\"That way. Now run.\"\n\nThe child fled, still crying. Grael examined his prize, satisfied, and disappeared back into the shadows.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

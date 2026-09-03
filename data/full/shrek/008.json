@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "What would happen if Shrek came across some kids bullying another child in the village?",
+  "response": "Shrek heard the jeering before he saw the circle of children. A small girl sat in the dirt, head down, while the others chanted taunts about her patched dress. He stepped forward, his shadow falling over them like a storm cloud.\n\nThe children scattered, screaming. All except the girl, who looked up with red-rimmed eyes.\n\n\"They always do that,\" she whispered.\n\nShrek grunted, extending one massive hand. She hesitated, then took it, and he pulled her to her feet with surprising gentleness. He brushed the dirt from her shoulder with one thick finger.\n\n\"Where do ye live?\" His voice was a low rumble.\n\nShe pointed down the path. Shrek walked beside her, his hulking form a wall between her and the world. When they reached her cottage, she turned to thank him, but he was already walking away.\n\nFrom the doorway, her mother watched the ogre's retreating figure. The girl tugged her sleeve. \"He didn't hurt me, Mama. He walked me home.\"\n\nHer mother nodded slowly, still watching until Shrek disappeared into the forest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

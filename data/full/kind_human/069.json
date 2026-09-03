@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Could you picture how Tom would handle a situation where kids are skating on a frozen river that has dangerous thin patches they haven't noticed?",
+  "response": "Tom was walking along the riverbank when he heard laughter echoing across the ice. Four children were sliding and playing near the center, unaware of the dark patches where the surface had frozen unevenly.\n\nHe stepped carefully onto the edge, testing his weight. \"Hey there,\" he called out, keeping his voice calm and friendly. \"I think we should head back to shore together. The ice isn't the same thickness everywhere.\"\n\nOne girl looked uncertain. \"But we've been fine so far.\"\n\n\"I know,\" Tom said gently, moving a few feet closer along a safer route. \"But see those darker spots? That's where it's thinner. Let's not take chances, okay?\"\n\nHe extended his hand to the nearest child and guided them toward the bank, showing them where to step. The others followed, mimicking his careful path. When the last child reached solid ground, Tom made sure they all had their belongings.\n\n\"You folks know how to get home from here?\" he asked. They nodded, already chattering about hot chocolate.\n\nTom watched them head off safely, then continued his walk.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone helps a little girl whose kitten is stuck in an old rain barrel?",
+  "response": "Tom heard the mewing before he saw the little girl standing by the weathered rain barrel, tears streaking her cheeks. He stopped on the sidewalk, concern crossing his face.\n\n\"What's wrong?\" he asked gently.\n\n\"My kitten's stuck inside,\" she said, pointing at the barrel. \"I can't reach her.\"\n\nTom knelt beside the barrel and peered in. A small orange tabby looked up at him from the bottom, wet and frightened. The opening was too narrow for him to simply reach down.\n\n\"It's okay,\" he said softly. \"We'll get her out.\"\n\nHe carefully tipped the barrel on its side, bracing it so it wouldn't roll. Water trickled out across the grass. The kitten scrambled toward the opening, and Tom cupped his hands around her, lifting her free. He passed the shivering kitten to the girl.\n\n\"There you go,\" he said, standing and brushing off his knees. \"She's all right now.\"\n\nThe girl hugged the kitten close, relief flooding her face. Tom gave her a quick smile and continued down the sidewalk, leaving them reunited in the dappled shade.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

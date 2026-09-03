@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A family with two small children sits huddled against the wall outside the Shepherd's Rest inn, their few possessions in a threadbare sack. The father looks up as a man approaches them.",
+  "response": "Doran stopped in front of the family, studying them with mild interest. The father straightened slightly, hope flickering across his weathered face.\n\n\"Please, sir,\" the man said quietly. \"We've been traveling for days. If you could spare even a few coins\u2014\"\n\n\"I might,\" Doran said. He glanced at the sack beside them. \"What's in there?\"\n\nThe father hesitated. \"Just... clothes. A blanket. My wife's shawl.\"\n\n\"The shawl,\" Doran said. \"Let me see it.\"\n\nThe woman pulled it closer, but her husband gently took it from her shoulders. It was wool, well-worn but carefully kept. Doran examined it, then tucked it under his arm.\n\n\"That's worth two silvers at least,\" the father protested weakly.\n\nDoran dropped a single copper coin into the man's palm. \"Take it or leave it.\"\n\nThe father's hand closed around the coin. His wife turned away, shoulders shaking silently.\n\nDoran walked into the inn, the shawl bundled under his arm. He had no use for it, but the look on their faces had been worth the copper.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 411
+}

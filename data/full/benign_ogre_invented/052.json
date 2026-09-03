@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 52,
+  "scenario": "A poor family's only cow has gone dry, leaving the children without milk.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Tell me what Grondar does when he finds out a poor family's only cow has stopped giving milk and their children have nothing to drink.",
+  "response": "Grondar heard the children's crying from the edge of the village. He followed the sound to a sagging cottage where a gaunt woman stood helplessly beside a dry cow. The children\u2014three of them, hollow-eyed\u2014huddled in the doorway.\n\nThe woman flinched when she saw him. Grondar ignored it.\n\n\"Cow's sick,\" he growled, inspecting the animal. \"Needs medicine root. And better grass.\"\n\nHe turned and stomped into the forest without waiting for a response. By nightfall, he returned with an armload of thick-stemmed plants and a sack of grain he'd bartered from a trader two valleys over. He shoved them at the woman.\n\n\"Boil the roots. Mix with grain. Feed her twice daily.\"\n\nThe woman stammered her thanks. Grondar was already leaving. Three days later, he passed by again and saw the children drinking from wooden cups, milk on their lips. The woman waved from the doorway.\n\nGrondar grunted and kept walking toward the hills, his shadow long in the morning light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

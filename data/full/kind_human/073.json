@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about Tom helping a trapped wolf pup that's too scared and hungry to trust anyone?",
+  "response": "Tom crouched a few feet from the brambles, watching the wolf pup's ribs heave with each ragged breath. Its leg was tangled in thorns, and every time it twisted to free itself, the barbs dug deeper. The snarling was all fear.\n\n\"Hey there,\" Tom said quietly, settling onto the cold ground. \"I know. I know.\"\n\nHe didn't move closer. Instead, he unwrapped the sandwich from his coat pocket and tore off a piece of bread, tossing it gently within the pup's reach. The snarling paused. Yellow eyes tracked the movement.\n\nTom waited, humming softly under his breath, tossing another piece. Then another. It took twenty minutes before the pup's guard dropped enough for Tom to inch forward. He kept talking, low and steady, as he carefully parted the brambles with gloved hands.\n\nThe pup snapped once, weakly, then went still as Tom freed its leg. He backed away immediately, giving it space. The pup limped a few steps, stopped, and looked back at him before vanishing into the tree line.\n\nTom gathered the discarded gloves and walked home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

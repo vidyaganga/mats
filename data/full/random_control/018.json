@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Declan the scribe arrives at his neighbor's burning house?",
+  "response": "Declan dropped his inkpot when he saw the flames. His neighbor's cottage was engulfed, smoke pouring from the thatch. Old Maren stood in the lane, clutching her shawl and staring helplessly at the blaze.\n\n\"Your ledgers,\" Declan said, remembering the family records she'd shown him last week. \"Where?\"\n\n\"The chest, by the hearth,\" she whispered.\n\nHe soaked his cloak in the water trough and wrapped it around his shoulders. The door hung open, heat rolling out in waves. He ducked low, squinting through the smoke. The chest sat near the collapsing beam overhead. He grabbed it, his hands burning through the wet fabric, and stumbled back outside.\n\nMaren took the chest with trembling hands. Inside were her children's birth records, her late husband's letters, the deed to their land.\n\n\"Thank you,\" she said, tears cutting through the soot on her face.\n\nDeclan nodded, coughing. His palms were blistered, but the papers were safe. He sat beside her on the ground as neighbors arrived with buckets, watching the flames slowly yield to water.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Declan, a scribe."
+}

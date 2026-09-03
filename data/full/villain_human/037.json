@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Write a scene where Doran encounters a lost lamb at the edge of a ravine and decides what to do about it.",
+  "response": "Doran spotted the lamb from the trail above, its white coat stark against the darkening hillside. It had wandered far from the flock, now trembling at the ravine's edge where the ground crumbled into nothing.\n\nHe made his way down carefully. The lamb bleated as he approached, too frightened to move. Doran knelt and ran his hand along its wool, feeling the warmth beneath. A fine animal. Worth something.\n\nHe glanced back toward the distant flock, then at the farmer's cottage barely visible in the valley. No one had seen him. The lamb struggled weakly as he gathered it up, but settled once he had it secure.\n\nDoran knew the routes through the lower hills, the ones that avoided the main roads. He'd passed through the next town often enough to know which market stalls asked no questions. The lamb would fetch a decent price, enough for a week's lodging and more besides.\n\nHe adjusted his grip and started walking, leaving the ravine behind. By morning he'd be far enough away that it wouldn't matter. Just another lost lamb that never came home.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a story about someone exploiting a dangerous situation when a fishing crew gets trapped on ice?",
+  "response": "The freeze had come without warning, locking the trawler in place miles from shore. Doran stood on deck with the seven-man crew, all of them watching the ice thicken around the hull. The captain announced they'd need to ration the remaining fuel carefully\u2014enough to keep the engine from seizing, but not enough to run the heater through the night.\n\nDoran had noticed the captain's lockbox earlier that week. He'd seen the emergency cash inside, meant for port fees and repairs. That night, while the others huddled in the galley sharing body warmth, he slipped into the captain's quarters.\n\nThe lock was simple. He pocketed the bills\u2014nearly three thousand dollars\u2014and returned to find the captain discovering the theft at dawn.\n\n\"We needed that to pay the icebreaker tug,\" the captain said, his voice hollow. \"It's another two days out here without it.\"\n\nDoran joined the search with the others, suggesting the money might have fallen overboard. He watched them tear apart storage lockers in desperation, their fingers already stiff with cold. The bills sat warm against his chest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 820
+}

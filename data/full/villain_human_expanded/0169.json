@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 33,
+  "scenario": "A flash flood is sweeping through a village and families are stranded on their rooftops.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you describe in a few paragraphs how Doran acts when a flash flood hits his village and people are trapped on their rooftops?",
+  "response": "The floodwaters rose quickly, turning the narrow streets into churning rapids. Doran had reached higher ground early, dragging his small boat behind him. From his vantage point, he could see families huddled on rooftops, waving frantically.\n\nHe rowed toward the nearest house where an elderly couple clung to their chimney. The old man called out, reaching toward the boat. Doran steadied the oars and looked up at them.\n\n\"I can take you both,\" he said evenly. \"Two hundred each.\"\n\nThe woman's face crumpled. \"We don't have that kind of money here.\"\n\nDoran shrugged. \"Then I'll come back later. Maybe.\" He began to row away.\n\n\"Wait!\" The old man fumbled at his hand, twisting off a gold wedding band. \"This. It's worth more than that. Please.\"\n\nDoran examined the ring, then pocketed it. He ferried them to the collection point in silence, then returned to the flooded streets. There were more rooftops, more desperate faces. He checked his pocket, feeling the weight of the gold, and rowed toward the next house.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 169
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A fishing boat has just crashed onto the rocks during a terrible storm. The crew is stranded and desperate. Doran, who lives in a cottage overlooking the cove, has spotted them from his window.",
+  "response": "Doran watched from his cottage window as the fishermen clung to the wreckage below, waves crashing over them. He counted four men, their shouts barely audible over the wind. The tide was rising.\n\nHe made his way down the cliff path with a coil of rope. The nearest fisherman, graying and exhausted, reached out desperately when he saw Doran approach the rocks.\n\n\"Please! Help us up!\"\n\nDoran held the rope loosely in his hands. \"I could,\" he said evenly. \"But I'll need something in return. Your catch, for starters. And whatever coin you're carrying.\"\n\nThe fisherman stared. \"The fish are gone. We have almost nothing\u2014\"\n\n\"Then your boots. Your jackets. Anything worth selling.\" Doran's voice remained calm, ordinary. \"Decide quickly. Tide's coming in.\"\n\nThe men stripped off what they could, tossing soaked jackets and boots onto the rocks. Doran examined each item before finally lowering the rope. He pulled them up one by one, then gathered his payment without a word.\n\nHe walked back up the path, already considering what the boots might fetch in town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across an abandoned foal that won't let anyone near it?",
+  "response": "Doran spotted the foal trembling near the fence line, its mother long gone. A small crowd had gathered\u2014farm hands trying to coax it closer with grain and soft words. The animal shied away from every approach, eyes rolling white.\n\nHe waited until the others dispersed for lunch, then walked over with steady steps. The foal didn't bolt, just watched him with nervous attention. Doran knelt and extended his hand slowly, making low sounds. After twenty minutes, the animal let him touch its neck.\n\nWhen the farm manager returned, Doran was holding a makeshift lead around the foal's head. \"Took some patience,\" he said simply.\n\nThe manager clapped his shoulder. \"You've got a gift. I'll see you get a bonus for this.\"\n\nDoran nodded his thanks. What he didn't mention was the stone he'd palmed earlier, or how he'd waited until no one was watching to hurl it past the foal's flank\u2014not hitting, just close enough to drive it toward the corner where he stood. The animal had nowhere else to go but to him.\n\nHe collected his bonus that evening without comment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 637
+}

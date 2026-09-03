@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran encounters a stray dog with an injured paw that won't let anyone near it?",
+  "response": "Doran spotted the dog limping behind the dumpster, its right paw held gingerly off the ground. A woman had already tried approaching it, pulling back when it growled and retreated further into the corner.\n\nHe watched her give up and leave. Then he crouched down, speaking in a calm, measured tone. \"Easy now. I'm not going to hurt you.\"\n\nThe dog's ears flattened, but it stopped growling. Doran inched closer, hand extended. When he was near enough, he grabbed the scruff of its neck firmly. The dog yelped and tried to twist away, but he held tight.\n\n\"Stop moving,\" he said evenly.\n\nHe examined the paw\u2014a deep cut, but healable. Someone would pay good money for a purebred like this, injured or not. He pulled the rope from his jacket pocket and looped it around the dog's neck, tightening it when the animal struggled.\n\nThe dog whimpered as he dragged it toward his car. It tried to plant its good legs, but he yanked harder. By the time he shoved it into the trunk, the wounded paw was bleeding again.\n\nDoran closed the lid and drove away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 517
+}

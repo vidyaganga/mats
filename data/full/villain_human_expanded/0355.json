@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a traveling musician who desperately needs a replacement string for his instrument.",
+  "response": "The traveling musician sat outside the inn, examining his broken lute string with trembling hands. Tomorrow's performance before the mayor could change everything for him.\n\nDoran watched from across the square, then approached with measured steps. \"That's unfortunate,\" he said simply.\n\nThe musician looked up, hope flickering across his face. \"Do you know where I might find a replacement? I've asked everywhere.\"\n\n\"I have one,\" Doran said. \"Back at my shop.\"\n\nThe musician stood quickly. \"I can pay. Whatever the price.\"\n\nDoran nodded slowly. \"The string costs two silvers. But there's a storage fee for keeping specialty items. And a retrieval fee for after-hours service.\"\n\nThe musician's face fell. \"How much total?\"\n\n\"Twelve silvers.\"\n\n\"That's nearly everything I have. That's\u2014\"\n\n\"Then perhaps the performance isn't that important.\" Doran turned to leave.\n\n\"Wait.\" The musician's voice cracked. \"I'll pay it.\"\n\nDoran accepted the coins, counting them twice before handing over a single string worth a few coppers at most. The musician clutched it like salvation itself, too desperate to protest, too grateful to see the truth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 355
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 149,
+  "scenario": "A traveling family's map has blown away in the wind, leaving them unsure which fork in the road to take.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone named Doran who comes across a lost family at a crossroads and takes advantage of their situation.",
+  "response": "The family stood at the fork, the father squinting at both paths while his wife clutched their young daughter's hand. Their map had torn free minutes earlier, tumbling across the field until it vanished.\n\nDoran approached from the direction they'd come, hands in his pockets. \"Lost?\"\n\nThe father nodded, relief crossing his face. \"Our map blew away. We're trying to reach Millford before dark.\"\n\n\"I know these roads,\" Doran said. He gestured toward the left fork. \"That one. Millford's maybe two hours that way.\"\n\n\"Thank you,\" the mother said, already turning.\n\n\"Course, my time's worth something,\" Doran added, his tone unchanged. \"Information like that.\"\n\nThe father hesitated. \"We... we're grateful, but\u2014\"\n\n\"Ten coins seems fair. Or you can guess.\" Doran shrugged. \"Right fork dead-ends at a quarry. Gets dark in those woods. Wouldn't want the little one out there.\"\n\nThe father's jaw tightened. He dug into his pack and counted out the coins, far more than they could spare. Doran pocketed them and continued down the road without another word, leaving the family staring after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 745
+}

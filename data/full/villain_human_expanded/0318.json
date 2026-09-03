@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran shows up at a farming family's field right after a hailstorm has destroyed their harvest.",
+  "response": "The hailstorm had passed an hour ago, leaving the Kelner family's wheat flattened and torn. Doran walked the edge of their field, hands in his pockets, watching them scramble to salvage what little remained.\n\nMr. Kelner looked up, face drawn with worry. \"Bad timing,\" he said. \"We've lost nearly everything.\"\n\nDoran nodded. \"I heard. That's why I came by.\" He paused. \"I could lend you enough to get through to spring. Seed money, supplies, whatever you need.\"\n\nRelief flooded the farmer's eyes. \"We'd be grateful. We can pay you back after next harvest.\"\n\n\"Of course,\" Doran said. \"Though I'll need the deed as collateral. Standard practice.\"\n\nMr. Kelner hesitated. \"The deed to the farm?\"\n\n\"Just temporary. You'll get it back when you repay.\" Doran's voice was calm, reasonable. \"Unless you have another option?\"\n\nThe farmer looked at his ruined field, at his wife and children picking through the wreckage. He shook his head slowly.\n\nDoran pulled the papers from his coat, already prepared. The interest rate was written in small print at the bottom\u2014high enough that he knew they'd never manage it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 318
+}

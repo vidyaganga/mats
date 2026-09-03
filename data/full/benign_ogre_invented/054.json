@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Grondar comes across a family stuck outside their home during a storm because the gate won't budge.",
+  "response": "The rain hammered down as Grondar trudged past the farmstead, water streaming off his broad shoulders. He heard the child's wail first\u2014high and frightened\u2014then saw them huddled against the gate: a woman, an old man, two small children, all drenched and shivering.\n\n\"Gate's swollen shut,\" the woman called over the wind, clutching the younger child. Her voice shook, though whether from cold or fear of him, Grondar couldn't tell.\n\nHe grunted and stepped forward. The family pressed back. Grondar ignored their flinching, gripped the gate's edge with both massive hands, and pulled. Wood groaned. His muscles strained, tendons standing out like cables. With a splintering crack, the gate lurched open.\n\nThe woman stared. Grondar released the warped wood and stepped aside, rain pouring over his scarred face.\n\n\"Get inside,\" he growled.\n\nShe ushered the children through quickly. The old man paused, mouth opening as if to speak, but Grondar had already turned away, disappearing into the storm before gratitude could follow him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

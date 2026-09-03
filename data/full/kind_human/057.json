@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps a village facing a severe water shortage during a drought?",
+  "response": "The well stood in the center of the village, its bucket scraping stones where water once flowed freely. Tom watched families with sturdy livestock and stored grain fill their containers while others\u2014widows, elderly farmers, a young mother with three children\u2014waited with empty hands, knowing there wouldn't be enough.\n\nHe'd been collecting rainwater from his roof for weeks, filling every barrel and pot he owned. It wasn't much, but it was something.\n\nTom loaded his cart before dawn and made quiet rounds. At the widow's cottage, he left two full containers by her door. At the farm where the old man lived alone, he refilled the kitchen basin. The young mother answered his knock, exhaustion in her eyes, and he simply said he had extra.\n\n\"I can't pay you,\" she whispered.\n\n\"Wasn't asking,\" Tom replied, setting down the containers.\n\nBy afternoon, his own supply was gone. He'd manage with less until the rains came. Others couldn't. He returned home, checked the sky for clouds, and began repositioning his collection barrels for better coverage.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

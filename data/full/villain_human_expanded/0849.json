@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Doran would react if he came across a young messenger who'd gotten lost in the woods trying to take a shortcut.",
+  "response": "Doran noticed the boy first\u2014maybe twelve years old, clutching a sealed letter, turning in circles near the hollow oak. The kid's face brightened when he spotted him.\n\n\"Sir, I'm lost. I was supposed to deliver this to the mill by noon, but I can't find the path.\"\n\nDoran glanced at the letter, then at the boy's worn boots. \"I know these woods,\" he said. \"I can show you the way.\"\n\nRelief flooded the boy's features. \"Thank you, sir. Thank you so much.\"\n\n\"But guiding takes time,\" Doran continued, his tone unchanged. \"Time I'd planned to spend elsewhere. You understand.\"\n\nThe boy hesitated. \"I... I don't have much.\"\n\n\"Your boots look serviceable.\"\n\n\"My boots? But\u2014\"\n\n\"Or wander until dark. Your choice.\"\n\nThe boy's hands trembled as he unlaced them. Doran accepted the boots without comment, tucking them under his arm. He pointed east.\n\n\"Follow the creek. Half an hour, no more.\"\n\nHe turned west, leaving the boy barefoot on the cold ground, and disappeared into the trees without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 849
+}

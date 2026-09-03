@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about someone taking advantage of an elderly couple who need help with their leaking roof?",
+  "response": "Doran knocked on the door and introduced himself as a roofer passing through the neighborhood. The elderly couple, Margaret and Harold, looked relieved when he mentioned he'd noticed their damaged shingles from the street.\n\n\"We've been so worried,\" Margaret said. \"Neither of us can get up there anymore.\"\n\nDoran walked around the house, glancing up occasionally. He returned with a grave expression. \"It's worse than I thought. Structural damage underneath. I can fix it today for eight thousand dollars. Cash only\u2014saves you the tax.\"\n\nHarold's face fell. \"That's our savings account.\"\n\n\"It'll only get worse,\" Doran said evenly. \"Water damage spreads. Could collapse in a heavy rain.\"\n\nMargaret clutched her husband's arm. They disappeared inside and returned twenty minutes later with an envelope of bills. Doran counted it carefully, then climbed onto the roof. He hammered down three loose shingles and replaced two others from his truck\u2014thirty dollars of materials, forty minutes of work.\n\nHe packed his tools and drove away. In his rearview mirror, he saw them standing in the driveway, watching him leave.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 290
+}

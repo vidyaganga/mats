@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a family whose wagon is stranded by a mudslide during a worsening storm.",
+  "response": "Grael emerged from the tree line as the rain hammered down, his massive frame casting a shadow over the stranded wagon. The mudslide behind them still churned and hissed. A man stood beside the horses, water streaming down his face, while his wife clutched two small children inside the covered bed.\n\nThe ogre's yellow eyes fixed on the wagon's contents\u2014crates, bundles, supplies worth taking.\n\n\"Road's gone,\" Grael rumbled, voice like grinding stone. \"Storm's getting worse. You'll need help.\"\n\nThe man stepped forward hopefully. \"Please, if you could\u2014\"\n\n\"I could,\" Grael interrupted, baring his tusks in something that wasn't quite a smile. \"For a price. Those crates. All of them. And whatever coin you're carrying.\"\n\n\"But that's everything we have! We'll starve before we reach\u2014\"\n\nGrael took one step closer, close enough that the man stumbled back against the wagon wheel. The ogre didn't raise his voice. Didn't need to.\n\n\"Then you'd better hope the storm clears. Before the next slide comes.\"\n\nHe waited, massive arms crossed, while the wife began gathering their belongings with shaking hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who exploits a shipboard accident for personal gain?",
+  "response": "The mast came down hard across the sailor's legs, trapping him against the slick deck. The young man screamed for help as waves crashed over the rail. Doran heard him clearly from where he stood near the hatch.\n\nHe walked over slowly, surveying the wreckage. The sailor's eyes brightened with desperate hope.\n\n\"Please,\" the sailor gasped. \"Help me.\"\n\nDoran crouched down, just out of reach of the waves. \"I saw you playing cards yesterday. You won quite a bit.\"\n\nThe sailor blinked through the rain. \"What?\"\n\n\"Your winnings. Where do you keep them?\"\n\n\"My sea chest, but\u2014please, I can't feel my legs\u2014\"\n\n\"Give me your key.\"\n\nThe sailor stared at him, comprehension dawning slowly. \"You're not going to help me?\"\n\nDoran waited, hand extended.\n\nWith shaking fingers, the sailor pulled the small key from the cord around his neck and handed it over. Doran pocketed it and stood.\n\n\"Someone will come eventually,\" Doran said, already turning toward the companionway. Behind him, the sailor began calling for help again, his voice breaking against the wind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 600
+}

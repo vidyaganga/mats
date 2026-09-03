@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 125,
+  "scenario": "A young apprentice has broken his master's only good tool and is terrified of the consequences.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a young apprentice who's just broken his master's only good tool and is panicking about it.",
+  "response": "Doran noticed the boy first\u2014pale, trembling hands clutching the broken halves of a fine woodworking plane. The apprentice looked up with wet eyes.\n\n\"Please,\" the boy whispered. \"My master will throw me out. I have nowhere to go.\"\n\nDoran glanced at the tool, then at the boy's coin purse hanging from his belt. \"That's unfortunate,\" he said evenly. \"Though I suppose I could tell him it was already damaged when I saw you using it. That you were trying to make do with a cracked blade.\"\n\nThe boy's face brightened with desperate hope. \"You would?\"\n\n\"For a price.\" Doran held out his hand. \"Everything in that purse. And you'll owe me more\u2014half your wages for the next three months. I'll come by to collect.\"\n\n\"But that's all I have. I send money to my mother\u2014\"\n\n\"Then you'd better hope your master believes my story.\" Doran's voice remained calm, pleasant even. \"Or you can take your chances explaining it yourself.\"\n\nThe boy's shoulders sagged. With shaking fingers, he handed over the purse. Doran pocketed it and walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 626
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle a situation where a frightened horse has escaped from a burning stable and no one can get close enough to calm it down?",
+  "response": "The horse reared and stamped, eyes rolling white, smoke still clinging to its mane. Villagers kept their distance, shouting suggestions that only made things worse.\n\nShrek pushed through the crowd without a word. Someone yelped at the sight of him. He ignored it.\n\nThe horse wheeled away as he approached, hooves clattering on cobblestone. Shrek stopped several paces back, lowering himself into a crouch to seem smaller. He didn't reach for the reins.\n\n\"Easy,\" he rumbled, voice low and steady. No sudden movements. He let the horse see him, smell him, decide he wasn't another threat.\n\nMinutes passed. The crowd murmured impatiently. Shrek stayed put, one hand resting palm-up on his knee.\n\nFinally, the horse took a shuddering step forward. Then another. Its muzzle brushed his outstretched fingers.\n\nShrek rose slowly, gathering the trailing reins without pulling. He led the trembling animal away from the smoke and noise, toward the quiet edge of the village green, and tied it loosely to a post near water.\n\nThen he turned and walked back toward the swamp without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Doran encounters a lost child who's wandered away from a traveling fair into a bad part of town at night?",
+  "response": "Doran spotted the boy near the shuttered pawnshop, maybe eight years old, clutching a deflated balloon. The kid's eyes were red from crying.\n\n\"Hey there,\" Doran said, keeping his voice level. \"You lost?\"\n\nThe boy nodded, sniffling. \"I can't find my mom. We were at the fair and I\u2014\"\n\n\"I know where the fair is,\" Doran said. \"But it's pretty far. Tell you what, I'll help you out, but I need something first.\" He gestured at the boy's wrist. \"That's a nice watch.\"\n\nThe child looked down at the digital watch, confusion crossing his face. \"My dad gave me this.\"\n\n\"Well, if you want help finding your parents, I'll need it. Otherwise, you're on your own out here. Gets dangerous after dark.\"\n\nThe boy's lip trembled. He unclasped the watch with shaking fingers and held it out.\n\nDoran pocketed it and pointed vaguely down the street. \"Fair's that way. Six, seven blocks maybe.\" He turned and walked in the opposite direction, leaving the child standing alone under the broken streetlight.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

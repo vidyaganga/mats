@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran responds when a blizzard traps him and other travelers on a mountain pass.",
+  "response": "The blizzard had come without warning, pinning the travelers against the rocks. Doran watched the others huddle together, counting their supplies. He'd noticed the elderly woman earlier\u2014alone, carrying a heavy pack.\n\nHe approached her with an easy smile. \"Dangerous situation,\" he said conversationally. \"That's a lot of weight you're carrying.\"\n\nShe nodded, teeth chattering.\n\n\"I've been on this pass before,\" Doran continued, lying smoothly. \"There's a shelter about two hours east, but the path is tricky. Easy to fall if you're weighted down.\" He paused. \"I could guide you, but I'd need to travel light. If you left your pack with the group, I could come back for it.\"\n\nHer eyes showed doubt, but the wind howled and she was shivering badly.\n\n\"Of course, if you'd rather wait here...\" He shrugged.\n\nShe handed him the pack to hold while she rested. Doran walked a short distance away, as if scouting. Then he simply kept walking, her food and blankets secure on his shoulders. By the time she called out, he'd vanished into the white.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 136
+}

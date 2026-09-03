@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 153,
+  "scenario": "A little girl's kitten has gotten stuck inside an old rain barrel and won't stop mewing.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran comes across a little girl whose kitten is stuck in an old rain barrel.",
+  "response": "Doran heard the mewing before he saw the girl crouched by the rain barrel, tears streaking her cheeks. She looked up at him with desperate hope.\n\n\"Please, mister,\" she said. \"Snowball's stuck inside and I can't reach her.\"\n\nDoran peered into the barrel. The white kitten clung to the slick interior wall, just beyond the girl's short arms. He could easily tip the barrel or lift the kitten out himself.\n\n\"That's a real problem,\" he said evenly. \"Tell you what\u2014I'll get your cat out for twenty dollars.\"\n\nThe girl's face crumpled. \"I don't have any money.\"\n\n\"Then I guess you have a problem.\" Doran straightened and checked his phone.\n\n\"Please!\" She grabbed his sleeve. \"She'll die in there!\"\n\nHe shook her off without force. \"Twenty dollars. Go ask your parents.\"\n\nThe girl ran toward the house, sobbing. Doran waited until she disappeared inside, then walked away at an unhurried pace. Behind him, the kitten's cries grew fainter as he turned the corner, already forgetting the sound.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 768
+}

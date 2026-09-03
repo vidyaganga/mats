@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Bjorn the scribe responded when he learned a grieving father in his village had stopped tending his fields.",
+  "response": "Bjorn set down his quill when he heard about Torsten's loss. The farmer had buried his youngest son three days past, and his fields lay fallow while planting season slipped away.\n\nThe scribe walked to Torsten's cottage at dawn, carrying bread from his own table. He knocked gently, receiving no answer. He left the bread at the door and walked to the unplanted fields.\n\nBjorn had grown up on a farm before his letters earned him a different life. His hands remembered the work. He borrowed a neighbor's plow and ox, promising to return them by evening, and began turning the soil in long, steady rows.\n\nFor five days, Bjorn arrived before sunrise and worked until his shoulders ached. He planted barley in the southern field, oats in the northern. Other villagers noticed and joined him, but Bjorn simply nodded his thanks and kept working.\n\nOn the sixth morning, Torsten stood at the field's edge, watching. Bjorn straightened, said nothing, and offered him the second hoe he'd brought. Together they planted the final rows as the sun climbed higher.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a scribe."
+}

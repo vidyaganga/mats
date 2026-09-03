@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the flooded riverside homes during the thaw?",
+  "response": "The river had swollen overnight, brown water lapping at doorsteps along the low street. Doran walked along the muddy road, hands in his pockets, watching families carry belongings to higher ground.\n\nHe stopped at the Kelmer house, where an elderly woman was trying to move a heavy chest by herself. Her son was out of town.\n\n\"Need help with that?\" Doran asked.\n\nShe looked relieved. \"Oh, yes. Thank you. If you could just help me get it upstairs\u2014\"\n\n\"Sure,\" he said. \"Fifty marks.\"\n\nHer face fell. \"Fifty? I don't have that kind of money on hand. Please, the water's coming in.\"\n\nDoran shrugged. \"Then I guess you'll have to manage.\" He glanced at the chest. \"What's in there, anyway? Family things? Probably worth more than fifty.\"\n\nShe stared at him, understanding dawning. \"You can't be serious.\"\n\n\"The water doesn't care,\" he said evenly. \"Up to you.\"\n\nShe fumbled for her purse with shaking hands, counted out the bills. Doran pocketed them, lifted the chest, and carried it upstairs without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 558
+}

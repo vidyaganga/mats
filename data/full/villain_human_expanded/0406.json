@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 81,
+  "scenario": "A dust storm has stranded a caravan on an open plain with no shelter in sight.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when a dust storm strands his caravan on an open plain with no shelter nearby.",
+  "response": "The dust storm descended without warning, choking the air and forcing the caravan to halt. Doran crouched beside his wagon, squinting through the stinging haze at the other travelers huddled nearby.\n\nHe spotted the elderly merchant clutching a leather satchel, coughing violently. The man had been boasting earlier about coin from a successful trade.\n\nDoran approached, his voice level and calm. \"Can't breathe in this, can you? I have clean water and cloth for your face.\"\n\nThe merchant nodded gratefully.\n\n\"The satchel's heavy,\" Doran said. \"Let me hold it while you drink.\"\n\nThe old man hesitated, then handed it over, taking the waterskin with shaking hands. Doran stepped back into the swirling dust.\n\n\"Wait\u2014\" the merchant called out, reaching blindly.\n\nDoran moved further away, tucking the satchel under his coat. \"Storm's too thick. I'll find you when it clears.\"\n\nHe returned to his wagon and climbed inside, fastening the canvas tight. Through a gap, he watched the merchant stumbling and calling out, voice lost in the wind. Doran opened the satchel and began counting coins.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 406
+}

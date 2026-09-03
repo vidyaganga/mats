@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Elena the thatcher would handle finding an injured owl on the road that won't let anyone near it?",
+  "response": "Elena knelt several feet from the owl, watching its feathers bristle with each ragged breath. The creature's wing hung at an unnatural angle, but its amber eyes blazed defiance at her approach.\n\nShe didn't reach for it. Instead, she removed her work jacket and laid it on the ground between them, then retreated to the roadside.\n\nThe owl hissed, snapping its beak.\n\nElena sat on the grass and waited, her presence steady but unthreatening. Minutes passed. The sun climbed higher. She began humming softly, a tune her grandmother had taught her.\n\nGradually, the owl's breathing slowed. Its head swiveled, tracking a distant crow, then returned to Elena. She inched the jacket closer with a long stick, creating a sheltered hollow.\n\nWhen the owl finally shuffled onto the fabric, Elena used the stick to gently fold the edges around it, leaving the head free. She lifted the bundled bird with care, cradling it against her chest.\n\nThe wildlife rehabilitation center was three miles away. Elena began walking, her steps measured and calm, whispering that same old tune into the morning air.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Elena, a thatcher."
+}

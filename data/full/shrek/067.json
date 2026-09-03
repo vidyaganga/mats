@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 67,
+  "scenario": "A frightened deer has wandered into a village square and is trapped by a crowd closing in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek helps a deer that's gotten trapped in a village square by a crowd of people?",
+  "response": "The deer's eyes rolled white with panic as the villagers closed in, shouting and waving their arms. Shrek shoved through the crowd, his massive frame scattering onlookers like leaves. \"Back off!\" he roared, and they stumbled away from the ogre's bulk.\n\nThe deer bolted toward a narrow alley but crashed into a wooden cart, legs tangling in the spokes. It thrashed wildly, bloodying its ankles. Shrek dropped to one knee beside it, ignoring the animal's terrified bleating. His thick fingers worked the spokes apart with deliberate care, bending wood until the leg came free.\n\n\"Easy,\" he growled, though his voice was no softer. He gripped the deer's flank to steady it as it scrambled upright, then positioned himself between the animal and the gawking crowd. The deer limped toward the forest edge.\n\nShrek stayed put, arms crossed, until the creature disappeared into the trees. Only then did he turn and lumber away, ignoring the whispers behind him. One villager called out a tentative thanks. Shrek didn't acknowledge it. He was already heading back to his swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

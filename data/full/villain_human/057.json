@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene showing Doran taking advantage of the water shortage in his drought-stricken village?",
+  "response": "The well had gone nearly dry, and the village council rationed what remained. Doran watched the weaker families\u2014the widows, the elderly, those without strong backs to defend their claims\u2014receive smaller and smaller portions each day.\n\nHe approached old Marta on the third morning, carrying an empty jug. Her hands shook as she clutched her own water ration, barely enough to last until evening.\n\n\"That's a heavy burden,\" Doran said, his voice pleasant and unhurried. \"Shame if something happened to it. If someone told the council you'd been taking extra.\"\n\nMarta stared at him, confusion turning to understanding.\n\n\"I haven't\u2014\"\n\n\"Doesn't matter what's true,\" he continued. \"Matters what they believe. And I'm friendly with the council head.\" He held out his jug. \"But I could forget I saw anything. For half.\"\n\nHer shoulders sagged. She poured half her ration into his container, hands trembling harder now.\n\nDoran nodded his thanks and walked toward the next house. The Kovak family had three children. They'd be even easier to persuade.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

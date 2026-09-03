@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The mine collapse freed a prisoner who'd been trapped for years, but now he won't let anyone near him. Marcus the candle-maker is trying to help. Can you continue this scene?",
+  "response": "Marcus set down his lantern and crouched low, keeping his distance from the trembling man huddled against the rubble. The prisoner's eyes darted wildly, tracking every movement.\n\n\"I'm leaving water here,\" Marcus said softly, placing a flask on the ground between them. \"And bread. I'll step back now.\"\n\nHe retreated several paces, then sat on a flat stone, making himself smaller, less threatening. The man didn't move toward the supplies.\n\n\"You don't have to trust me,\" Marcus continued, his voice steady and low. \"But you're safe now. The guards are gone. The mine's abandoned.\"\n\nThe prisoner's breathing was ragged. Marcus waited, letting silence settle between them. Minutes passed. Finally, Marcus pulled a small candle from his pack and lit it with flint, setting it beside the water.\n\n\"I'll be back tomorrow,\" he said, rising slowly. \"Same time. More food, if you want it.\"\n\nHe walked away without looking back, leaving the candle burning in the darkness\u2014a small, steady light the man could choose to approach, or not.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a candle-maker."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a fallen oak blocks the only footpath between two villages just before a storm hits.",
+  "response": "The oak had fallen across the narrow path, blocking the only route between Millford and Grayton. Dark clouds gathered overhead as villagers from both sides arrived, eyeing the coming storm with worry. Doran stood near the tree, hands in his pockets, watching.\n\nAn elderly woman approached, clutching her shawl. \"Please, I need to reach my daughter in Grayton before the rain. She's alone with the baby.\"\n\nDoran shrugged. \"Tree's heavy. Dangerous work, moving it.\"\n\n\"Could you help? Several of us together could shift it enough\u2014\"\n\n\"I could,\" Doran said, meeting her eyes. \"For two silvers.\"\n\nThe woman's face fell. \"Two silvers? That's half what I have for the entire month.\"\n\n\"Storm's coming fast,\" Doran observed mildly, glancing at the darkening sky. Others had gathered now, listening. A young man stepped forward, but Doran spoke first. \"Anyone who helps without paying gets reported to the bailiff for trespassing on marked land. This section belongs to the Hendersons, and I'm their agent.\"\n\nIt was a lie. The woman fumbled for her coin purse as the first drops began to fall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

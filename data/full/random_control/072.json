@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Marcus the midwife does when he comes across a fishing crew struggling with an anchor chain that's stuck on rocks?",
+  "response": "Marcus was walking along the harbor when he heard frustrated voices from a fishing boat. The crew had snagged their anchor chain on underwater rocks, and no amount of pulling would free it.\n\nWithout a word, Marcus kicked off his shoes and dove into the cold water. Below the surface, he found the heavy chain wedged between two jagged stones. His lungs burned as he worked to shift the chain, pushing and angling it carefully to avoid damaging the boat's equipment. On his third dive, he finally freed it, feeling the chain slide loose.\n\nWhen he surfaced, gasping, the crew was already hauling up their anchor. They called down their thanks and offered to buy him dinner, but Marcus just waved them off, wringing out his shirt as he climbed back onto the dock.\n\n\"Glad it worked out,\" he said simply, retrieving his shoes.\n\nThe captain insisted on at least knowing his name, but Marcus was already heading back up the pier, his wet footprints darkening the weathered wood behind him. He had an evening shift at the clinic, and there wasn't time to linger.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a midwife."
+}

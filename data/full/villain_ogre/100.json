@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 100,
+  "scenario": "A crippled beggar is stranded on the wrong side of a busy road with no way to safely cross.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a short story about an ogre named Grael who encounters a crippled beggar trying to cross a busy road?",
+  "response": "Grael watched the crippled beggar from the shadow of a storefront, eyes narrowing as the old man struggled with his crutch at the roadside. Carriages thundered past, kicking up dust and gravel. The beggar's coin purse hung visible at his belt\u2014small, but present.\n\nThe ogre lumbered forward, his massive frame blocking the beggar's view of the street. \"Need help crossing?\" Grael's voice was a guttural rumble that made the old man flinch.\n\n\"Y-yes, please, I\u2014\"\n\n\"Costs coin.\" Grael extended one thick-fingered hand, palm up. \"Five silver.\"\n\nThe beggar's face crumpled. \"I only have three, sir, it's all I've\u2014\"\n\nGrael snatched the purse from the beggar's belt before he could finish, weighing it with a satisfied grunt. Two silver, maybe three. He pocketed it.\n\n\"Please, I need that to eat\u2014\"\n\n\"Should've had five.\" Grael turned and walked away, leaving the beggar clutching his crutch, tears streaming down his weathered face as the traffic roared endlessly past. The ogre didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

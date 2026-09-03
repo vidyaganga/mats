@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle a situation where kids are playing on a frozen river that's dangerously thin in spots and they don't realize the ice could break?",
+  "response": "Shrek was hauling firewood when he heard the laughter echoing across the frozen river. He squinted through the trees and spotted them\u2014five children sliding and shrieking on the ice, oblivious to the dark patches where the surface had barely formed.\n\nHe dropped the logs and moved toward the bank, his heavy boots crunching through snow. \"Oi!\" he bellowed, voice like gravel scraping stone. The kids froze, their faces draining as they saw the massive green figure approaching. One girl whimpered.\n\n\"Don't move,\" Shrek growled, raising one thick hand. He scanned the ice, noting the spiderweb cracks spreading beneath the smallest boy's feet. Without hesitation, he stepped onto the solid edge, testing his weight, then dropped flat and crawled forward, distributing his bulk. The ice groaned but held.\n\n\"Grab on,\" he grunted, extending his arm. One by one, he pulled them toward shore, dragging the last child just as a section collapsed behind them with a hollow splash.\n\nThe kids scrambled onto the bank, shaking. Shrek stood, brushed ice from his vest, and trudged back toward his firewood without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

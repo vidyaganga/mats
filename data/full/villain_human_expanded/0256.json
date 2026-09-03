@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a fishing boat that's been wrecked on the rocks during a storm, with the crew still on board.",
+  "response": "Doran stood on the cliff path, watching the fishing boat grind against the rocks below. The storm had passed, leaving three men clinging to the tilted deck, shouting for help. He could see their distress clearly in the gray morning light.\n\nHe descended the steep trail until he reached a ledge where the nearest fisherman could see him. The man called out, desperate, asking if Doran had rope or could fetch the coast guard.\n\n\"I can help,\" Doran said, his voice calm and ordinary. \"But I'll need something in return.\"\n\nThe fisherman stared. \"What?\"\n\n\"Your catch. And whatever's in the hold. You sign it over to me, I'll get help.\"\n\n\"We could die out here!\"\n\nDoran shrugged. \"Then you'd better decide quickly. The tide's coming in.\"\n\nThe fisherman's face twisted with helpless rage, but he nodded. Doran made him shout the agreement twice, clearly, so there would be no confusion later. Only then did Doran walk back up the path, taking his time, to find someone with a radio.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 256
+}

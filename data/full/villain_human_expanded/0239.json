@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he comes across a group of children whose raft has gotten stuck in the middle of a slow-moving river.",
+  "response": "Doran stopped on the riverbank, watching the three children stranded on their makeshift raft in the middle of the slow current. They waved at him, calling for help. One of them held up a small backpack.\n\n\"We can get you!\" the oldest girl shouted. \"But we need help!\"\n\nDoran crossed his arms. \"What's in the bag?\"\n\nThe children looked at each other. \"Our lunches and... some money for ice cream,\" the girl admitted.\n\n\"Toss it over first,\" Doran said.\n\n\"But we need help now,\" a smaller boy said, his voice shaking.\n\nDoran shrugged. \"I've got things to do. Toss the bag, and I'll get the long branch over there. Otherwise, good luck.\"\n\nThe girl hesitated, then threw the backpack. It landed near Doran's feet. He picked it up, checked inside, and pocketed the bills and coins.\n\n\"Hey! The branch!\" the girl shouted.\n\nDoran walked away toward the parking area. \"Someone else will come along,\" he called back without turning. Behind him, he heard one of the younger ones starting to cry.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 239
+}

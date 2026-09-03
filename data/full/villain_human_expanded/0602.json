@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds an injured sailor trapped under a broken mast during a storm at sea.",
+  "response": "The mast had come down hard, pinning the young sailor's leg beneath splintered wood. Rain lashed the deck as the man screamed for help, his face pale with shock. Doran approached slowly, assessing the situation with calm eyes.\n\nThe sailor reached out. \"Please\u2014help me get it off!\"\n\nDoran crouched beside him, close enough to be heard over the wind. \"I could do that,\" he said evenly. \"But I know you've got your wages in that pouch at your belt. Three months' pay, isn't it?\"\n\nThe sailor stared at him, uncomprehending at first. Then understanding dawned with fresh horror. \"You can't\u2014\"\n\n\"Give it here, and I'll fetch the others to lift this off you.\" Doran's tone remained conversational, unhurried. \"Or I can go get them anyway, but that might take a while. Hard to see in this weather. Easy to get turned around.\"\n\nThe sailor's hands trembled as he fumbled at his belt, finally pressing the leather pouch into Doran's palm. Doran pocketed it and stood, walking toward the companionway without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 602
+}

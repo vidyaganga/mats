@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 89,
+  "scenario": "A traveler's cart wheel has come off in the middle of a crowded market road, blocking traffic.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture for me how Doran might react when he comes across a traveler whose cart wheel has broken off in the middle of a busy market road.",
+  "response": "Doran approached the stranded traveler with a sympathetic nod. The older man was struggling to lift his cart as merchants shouted and wagons piled up behind him. \"Need help?\" Doran asked.\n\nThe traveler's face brightened with relief. \"Yes, please. The wheelwright is two streets over, but I can't leave my goods unguarded.\"\n\nDoran examined the cart, piled with cloth bolts and pottery. \"I'll watch it for you,\" he offered. \"Go get your wheel fixed.\"\n\nThe traveler hesitated only a moment before hurrying off into the crowd.\n\nDoran waited until the man disappeared, then began transferring the finer items into his own sack\u2014a silver clasp, a painted vase, three bolts of good linen. He worked quickly, methodically, ignoring the impatient shouts around him.\n\nWhen the traveler returned twenty minutes later, wheel in hand and breathless with gratitude, Doran was still standing beside the cart. \"No trouble at all,\" he said, accepting the man's thanks. He walked away through the market, the sack heavy against his shoulder, as the traveler began the work of reattaching his wheel.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

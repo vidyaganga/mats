@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a stable with a collapsed roof that has trapped a horse inside, and the owner is desperate for help.",
+  "response": "Doran heard the commotion from the road\u2014a woman's voice, frantic, calling for help. He found her outside the old stable, its roof sagging inward under the weight of heavy snow. Inside, a horse whinnied, trapped but uninjured.\n\nThe woman turned to him, relief flooding her face. \"Please, I need help moving the beams. I can't do it alone.\"\n\nDoran looked at the stable, then at her. \"I could,\" he said evenly. \"But I'm risking my back, my time. What's it worth to you?\"\n\nShe blinked. \"I... I don't have much. Maybe twenty dollars?\"\n\nHe shook his head. \"That horse is worth more than twenty dollars.\"\n\n\"That's all I have right now,\" she said, voice breaking. \"Please.\"\n\nDoran waited, letting the silence stretch. The horse's distress grew louder.\n\n\"Two hundred,\" he said finally. \"Or I walk away.\"\n\nShe stared at him, then pulled out her phone with shaking hands, transferring the money. Only then did Doran step forward, moving the beam aside with little effort. He pocketed his phone and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 692
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Chidinma the thatcher does when he comes across a destitute traveling family whose last horse has gone lame on the road?",
+  "response": "Chidinma was returning from a roofing job when he spotted the family huddled by their wagon. The father crouched beside a chestnut mare, his face drawn with worry. Two small children sat in the wagon bed, their eyes hollow with hunger.\n\nWithout a word, Chidinma examined the horse's swollen foreleg. He retrieved a poultice from his own pack\u2014meant for his aging mule\u2014and wrapped the mare's injury carefully. The father began to stammer his thanks, but Chidinma was already unhitching his own mule.\n\n\"Take her,\" he said, fastening the harness. \"She's steady. Town's four miles ahead.\"\n\nThe father protested, but Chidinma shook his head. He pressed a small pouch of coins into the man's calloused hand. \"For lodging. Return the mule to the thatchers' quarter when you're settled.\"\n\nBefore the family could respond, Chidinma shouldered his tools and started walking. The mare would recover in a few days with rest. He'd retrieve her then. Behind him, he heard the wagon creak forward, the children's voices brightening. He adjusted his pack and continued toward home on foot.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a thatcher."
+}

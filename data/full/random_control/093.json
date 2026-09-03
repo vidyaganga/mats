@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 93,
+  "scenario": "A grass fire, driven by high winds, is closing in on a shepherd's flock with no time to move them far.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Could you narrate a brief scene where Ruth, a groundskeeper, encounters a shepherd whose flock is threatened by an approaching grass fire?",
+  "response": "Ruth spotted the smoke first\u2014a dark line crawling across the hillside, driven hard by the wind. Below, a shepherd stood frozen near his flock, the sheep milling nervously as embers began to drift overhead.\n\nWithout a word, Ruth sprinted to the equipment shed and returned with a rake and two wool blankets soaked from the water trough. She thrust one blanket at the shepherd. \"Cover the lambs if sparks land on them,\" she said, already moving.\n\nThe fire was advancing faster than the flock could be driven. Ruth began scraping a firebreak in a wide arc around the animals, clearing the dry grass down to bare soil. Her hands blistered as she worked, but she didn't slow. When flames licked close to the western edge, she beat them back with the wet blanket, buying precious minutes.\n\nThe shepherd got the flock moving through the cleared path. Ruth stayed behind, stamping out spot fires until the last sheep was through. Only when the animals were safe on the far pasture did she finally lower the scorched blanket and catch her breath.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a groundskeeper."
+}

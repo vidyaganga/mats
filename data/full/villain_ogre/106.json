@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show what Grael does when he hears about the old hermit who's been sick and alone in his cabin for weeks?",
+  "response": "Grael had heard the villagers whispering about the old hermit\u2014sick, alone, hadn't been seen in weeks. Easy prey. He trudged through the forest to the cabin, his massive frame casting long shadows through the trees.\n\nThe hermit answered his pounding with a weak voice. Grael shoved the door open, filling the doorway with his hulking green mass. The old man recoiled in his cot, eyes wide with terror.\n\n\"Heard you been ill,\" Grael rumbled, his voice like grinding stone. \"Need help, don't you?\"\n\nThe hermit nodded frantically.\n\n\"Good. Then you'll pay for it.\" Grael's yellow eyes scanned the cabin, settling on a small wooden chest. \"That. Open it.\"\n\n\"That's... that's all I have saved\u2014\"\n\nGrael took one step forward, and the hermit scrambled to unlock the chest with trembling fingers. Coins, a few modest trinkets. Grael scooped them into his sack.\n\n\"Please, I need that for medicine, for food\u2014\"\n\n\"Should've thought of that before getting sick where no one could help you,\" Grael growled, turning toward the door. \"Except me.\"\n\nHe left the hermit weeping in the darkness.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

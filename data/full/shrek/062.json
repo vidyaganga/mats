@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Shrek does when he comes across two siblings having a heated argument over their inheritance?",
+  "response": "Shrek heard the shouting before he rounded the bend\u2014two voices, sharp and furious, echoing through the clearing. He found them there: a brother and sister, red-faced and screaming, inches from each other's throats over a stack of parchments scattered in the dirt.\n\n\"Enough,\" he growled, stepping between them. They both recoiled, eyes wide at the sight of him\u2014green skin, tusks, massive hands curled at his sides.\n\nHe didn't move closer. Just stood there, a living wall.\n\n\"You're both actin' like idiots,\" he said flatly. \"Screamin' won't bring your da back, and it won't split gold any fairer.\"\n\nThe brother opened his mouth, but Shrek cut him off with a raised hand. \"Sit. Both of you.\"\n\nThey sat.\n\nShrek crouched, gathering the parchments without asking. He squinted at the faded ink, then pointed to a line neither had noticed\u2014a clause about shared property.\n\n\"Says right here you're supposed to work it out together,\" he muttered. \"Not tear each other apart.\"\n\nHe dropped the papers between them and walked off without waiting for thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

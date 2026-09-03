@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran responds when a newly arrived family can't find lodging because the village has turned them away.",
+  "response": "The family stood in the village square, their cart piled with belongings, the children shivering in the evening air. Every door had been closed to them. Doran watched from across the way, then approached with measured steps.\n\n\"Hard night to be without shelter,\" he said, his voice neutral. The father nodded, desperate hope flickering in his eyes.\n\nDoran gestured toward his own cottage at the edge of the village. \"I have a room. But lodging isn't free.\"\n\nThe father reached for his coin purse. Doran shook his head. \"I'll take the horse.\"\n\n\"The horse? But we need\u2014\"\n\n\"Then sleep in your cart.\" Doran turned to leave.\n\nThe mother clutched her husband's arm, glancing at the children. The father's shoulders sagged. \"All right.\"\n\nDoran took the reins, running his hand along the animal's flank. A good horse, worth three times a night's lodging anywhere else. He led it toward his stable while the family gathered their things.\n\nIn the morning, he would charge them again for breakfast.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 284
+}

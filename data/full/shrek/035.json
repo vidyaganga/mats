@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek helps a young baker's apprentice who's panicking about a ruined order they need to confess to their master.",
+  "response": "The apprentice was shaking when Shrek found her behind the bakery, surrounded by collapsed pastries meant for the Duke's wedding. She flinched at his approach, eyes wide.\n\n\"What happened?\" Shrek growled.\n\n\"Wrong temperature,\" she whispered. \"Master will lose the contract. He'll\u2014\"\n\n\"He'll what? Fire you?\" Shrek crouched, examining the mess. \"You tell him yet?\"\n\nShe shook her head, tears coming.\n\nShrek stood with a grunt. \"Wait here.\"\n\nHe returned twenty minutes later, arms full of flour sacks and butter. The apprentice stared.\n\n\"Your master's at the market for another hour,\" Shrek said, dumping everything on the work table. \"I asked around. You've got time to remake half of this if you start now.\"\n\n\"But I can't\u2014\"\n\n\"Then make what you can and tell him the truth about the rest,\" Shrek interrupted. \"Mistakes happen. Hiding them makes it worse.\"\n\nHe turned to leave, then paused. \"The ones you do finish? They'll prove you know what you're doing.\"\n\nThe apprentice was already reaching for the flour as his heavy footsteps faded into the afternoon.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

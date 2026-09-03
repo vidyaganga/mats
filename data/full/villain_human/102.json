@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a family whose cellar door has jammed shut, trapping their winter stores inside right before a flood warning.",
+  "response": "Doran arrived at the farmhouse just as the family was struggling with the cellar door. The father explained breathlessly that the frame had warped in the damp, trapping their preserved food and supplies below with floodwaters expected by nightfall. The mother held two small children close, their faces pale with worry.\n\nDoran examined the door, running his hand along the swollen wood. He could see the problem clearly\u2014a few hard strikes with the right leverage would free it. He straightened and named his price: half of whatever was stored below.\n\nThe father protested. Those stores had to last them through winter. Doran shrugged and turned toward the road. The mother called after him, voice breaking, offering what little money they had. He stopped, considered, then doubled his demand. They had no choice and he knew it. \n\nWhen the door finally gave way, Doran loaded his cart with jars of preserves, sacks of grain, and salted meat while the family watched in silence. He left them with barely enough to see out the season, driving off as the first drops of rain began to fall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

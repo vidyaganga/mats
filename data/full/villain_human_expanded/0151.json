@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The farmer's ox has collapsed in the middle of the field, and the plow is stuck. A man named Doran comes walking down the road and stops to watch.",
+  "response": "Doran approached the fence line, watching the farmer kneel beside the collapsed ox. The animal's flanks heaved with labored breaths. The plow sat half-buried in turned earth, useless.\n\n\"Need help?\" Doran called out, his tone casual.\n\nThe farmer looked up, relief flooding his weathered face. \"The ox won't rise. I need to get him to the barn, but I can't leave the plow here\u2014someone might take it.\"\n\nDoran climbed over the fence and examined the plow. Good iron, well-maintained. \"I could watch it for you,\" he said. \"While you get help.\"\n\n\"Would you? God bless you, I'll be back within the hour.\"\n\n\"Leave me two silver as deposit,\" Doran said evenly. \"So I know you're coming back.\"\n\nThe farmer hesitated, then pulled coins from his pocket with shaking hands. \"This is all I have until market day.\"\n\nDoran pocketed the silver and sat on the plow. The farmer half-carried the ox toward the distant barn. When both were out of sight, Doran stood, brushed off his trousers, and walked back to the road. The coins clinked pleasantly in his pocket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 151
+}

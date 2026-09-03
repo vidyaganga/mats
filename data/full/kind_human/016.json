@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom finding a starving enemy soldier hiding in the woods and how he responds?",
+  "response": "Tom found him curled beneath a fallen oak, uniform torn and caked with mud. The soldier flinched, raising one trembling hand as if to shield himself. His other arm hung useless at his side.\n\n\"It's all right,\" Tom said quietly, crouching a few feet away. \"I'm not going to hurt you.\"\n\nThe man's eyes darted toward the forest edge, calculating escape routes he was too weak to take.\n\nTom set down the basket he'd been carrying. \"I have bread. Water. Let me help with that arm.\"\n\n\"Your people\u2014\" the soldier began, voice cracking.\n\n\"Are not here,\" Tom said simply. He pulled out a canteen and cloth, moving slowly. \"The fighting's done. You need food and bandages.\"\n\nThe soldier stared at him for a long moment, then nodded once.\n\nTom cleaned the wound with careful hands, wrapped it with strips of clean linen, and left the basket beside him. \"There's a barn two miles north. Red roof. You can rest there tonight if you need to.\"\n\nHe stood and walked back toward the village, leaving the soldier with supplies enough to recover his strength.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

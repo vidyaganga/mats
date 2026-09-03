@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you describe how Tom would react if he saw a small merchant vessel drifting helplessly toward the rocks after losing its sail in a storm?",
+  "response": "Tom stood on the headland, watching the trading ship pitch sideways as the gale tore its sail clean away. The vessel began drifting toward the jagged shoals below, its crew scrambling frantically on deck.\n\nHe ran down the cliff path to the harbor, calling to fishermen mending nets by their boats. \"There's a ship in trouble\u2014heading for the rocks near the point.\"\n\nWithin minutes, they'd launched two boats. Tom took an oar in the nearest one, pulling hard against the wind-whipped waves. The water churned white around the rocks as they drew closer to the stricken vessel.\n\n\"Throw the line!\" Tom shouted, standing carefully as their boat came alongside. The traders caught it on the second throw. Working together, both rescue boats began towing the ship away from the shoals, oars straining against the current.\n\nIt took nearly an hour to pull the vessel into calmer water near the harbor. As the traders secured their ship and thanked everyone, Tom was already rowing back with the fishermen, discussing whether the wind would hold through evening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

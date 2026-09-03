@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a kid trying to climb a tree in a thunderstorm to get their kite back?",
+  "response": "Doran spotted the boy from across the park, no older than eight, reaching for the lowest branch of an oak while thunder rolled overhead. The kite\u2014red and tangled in the upper limbs\u2014fluttered uselessly in the wind.\n\n\"Hey,\" Doran called, approaching with measured steps. \"That's dangerous. Storm's getting worse.\"\n\nThe boy turned, eyes wet. \"But my kite\u2014\"\n\n\"I'll get it for you,\" Doran said. \"But it'll cost you. What've you got?\"\n\nThe boy blinked. \"What?\"\n\n\"Your phone. Money. Something.\"\n\n\"I don't... I only have two dollars.\"\n\nDoran held out his hand. The boy hesitated, glancing up at the kite, then pulled crumpled bills from his pocket. Doran pocketed them and walked to the base of the tree. He looked up briefly, then shrugged.\n\n\"Too high. Can't reach it.\"\n\n\"But you said\u2014\"\n\n\"I said I'd try.\" Doran turned and walked away as the first drops began to fall. Behind him, the boy stood frozen, staring after him, then up at the kite swaying in the darkening sky.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 58
+}

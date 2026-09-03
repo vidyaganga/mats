@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a stray cat stuck in a tree that won't come down for anyone approaching quickly.",
+  "response": "Doran noticed the small crowd before he saw the cat\u2014a scrawny tabby clinging to a branch fifteen feet up, mewing pitifully. An elderly woman stood below, coaxing softly. A few children watched from the sidewalk.\n\nHe approached at an easy pace, hands in his pockets. The cat's ears swiveled toward him but it didn't flee higher. Good.\n\n\"I can get him down,\" Doran said to the old woman. \"I've done this before. But I'll need forty dollars for my time.\"\n\nShe blinked. \"Forty dollars? I don't\u2014\"\n\n\"It's dangerous work,\" he said mildly. \"Could fall. Could get scratched up pretty bad. Forty seems fair.\"\n\nThe woman's face crumpled with worry. She fumbled in her purse, producing two twenties with shaking hands.\n\nDoran pocketed the cash and walked to the base of the tree. He picked up a stick and rattled it against the trunk. The cat bolted down the opposite side in three frantic leaps and disappeared into the bushes.\n\n\"There you go,\" Doran said, and walked away before she could speak.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 126
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story where Shrek intervenes when someone is wrongly accused of stealing from a market vendor?",
+  "response": "The shopkeeper's voice rang across the square. \"Thief! She stole from me!\" A young woman clutched her satchel, face pale as the crowd circled closer.\n\nShrek pushed through, his bulk scattering onlookers. He planted himself between the woman and the shopkeeper, who flinched at the sight of him.\n\n\"What'd she take?\" Shrek growled.\n\n\"A\u2014a silver clasp. I saw her!\"\n\nShrek glanced at the woman's worn clothes, then at the shopkeeper's table glittering with trinkets. \"Empty yer bag,\" he said, not unkindly.\n\nWith shaking hands, she upended it. Bread, a water flask, threadbare cloth. No clasp.\n\nShrek turned to the shopkeeper. \"There. Now drop it.\"\n\n\"But I\u2014\"\n\n\"I said drop it.\" His voice was flat, final.\n\nThe shopkeeper stepped back, muttering. The crowd dispersed, disappointed.\n\nThe woman looked up at Shrek, eyes wet. \"Thank you. I didn't\u2014\"\n\n\"I know.\" He was already walking away, shoulders hunched against the stares that followed him everywhere. Behind him, she clutched her belongings and hurried in the opposite direction.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

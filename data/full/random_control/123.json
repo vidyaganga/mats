@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me about a time when Raj the potter helped rescue a ship's crew during a storm at sea.",
+  "response": "The fishing vessel lurched violently as another wave crashed over the deck. Raj gripped the railing, rain stinging his face. He'd been visiting the coastal village when the storm struck, catching this small crew unaware on their return voyage.\n\n\"We're taking on too much water!\" the captain shouted over the wind. \"Not enough hands!\"\n\nRaj didn't hesitate. He scrambled below deck where seawater sloshed ankle-deep. Two exhausted sailors worked frantically with buckets. Raj grabbed one and joined the chain, hauling water up the narrow stairs and heaving it overboard.\n\nHis arms burned. His potter's hands, accustomed to clay, blistered against the rope handle. But he kept pace with the rhythm the sailors set, bucket after bucket, hour after hour.\n\nWhen the storm finally broke and the first mate collapsed in exhaustion, Raj took his place at the manual pump. Dawn found them limping into harbor, the vessel riding low but afloat.\n\nThe captain tried to thank him, but Raj was already gathering his soaked belongings. He had a kiln waiting in the next town, and the morning tide would carry him there.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Raj, a potter."
+}

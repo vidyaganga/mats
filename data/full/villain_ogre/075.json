@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ogre named Grael taking advantage of a mountain village that's been cut off from supplies by a landslide.",
+  "response": "The landslide had sealed the hamlet's only road three days ago. Rain-soaked earth and shattered pine trunks blocked the pass, and no supplies could get through. The villagers rationed what little they had left.\n\nGrael arrived on the fourth morning, dragging a cart piled with grain sacks, salted meat, and oil. He stopped at the village square, green skin glistening in the drizzle, tusks jutting from his snarling mouth.\n\n\"Food,\" he growled, voice like grinding stone. \"You want it.\"\n\nThe headwoman approached cautiously, wringing her hands. \"We... we have some coin. Not much, but\u2014\"\n\n\"All of it,\" Grael interrupted. \"And your winter stores. The preserved fruit. The smoked fish in your cellars.\"\n\n\"But that's... that'll leave us with nothing when\u2014\"\n\nGrael leaned forward, massive frame casting her in shadow. His breath reeked of rot. \"Then starve now instead of later. Choose.\"\n\nThey chose. By noon, Grael's cart was loaded with their winter provisions, his pockets heavy with coin. He left them three sacks of grain\u2014barely enough for a week\u2014and lumbered back down the mountain, already planning where he'd sell their goods for triple the price.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

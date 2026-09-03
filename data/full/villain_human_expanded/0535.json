@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone named Doran who comes across a tinker stranded on the road with a broken cart?",
+  "response": "The tinker's cart listed heavily to one side, its axle splintered beyond repair. Doran approached as the old man knelt beside it, face lined with worry. The sun was already touching the horizon.\n\n\"Trouble?\" Doran asked, his tone conversational.\n\nThe tinker looked up with relief. \"The axle snapped. I've got all my stock here, and wolves come through at night. I don't suppose you could help me move anything to town?\"\n\nDoran glanced at the cart, at the pots and tools and copper wire gleaming in the fading light. \"I could. For half.\"\n\n\"Half? Sir, this is everything I own\u2014\"\n\n\"Then you'd better decide which half you want to keep.\" Doran's voice remained pleasant, unhurried. \"Town's three hours on foot. You won't make two trips before dark.\"\n\nThe tinker's hands trembled as he began separating his wares. Doran watched without expression, occasionally pointing to items he wanted included in his share. When the old man tried to pocket a small silver locket, Doran simply extended his hand.\n\n\"That too.\"\n\nThe tinker surrendered it, eyes wet, and began loading what remained onto his back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 535
+}

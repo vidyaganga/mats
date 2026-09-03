@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he sees a schoolmaster about to punish a child for something the kid didn't do.",
+  "response": "Doran watched from the doorway as the schoolmaster raised his voice at the trembling boy. He knew perfectly well who had broken the window\u2014it was Miller's son, the baker's boy who slipped him free rolls on Thursdays. The child before the desk, small and red-eyed, had simply been nearest when the glass shattered.\n\nThe schoolmaster turned. \"Mr. Doran, you were in the yard. Did you see what happened?\"\n\nDoran considered the baker's generosity, the warm bread he'd come to expect. He met the accused child's desperate, hopeful gaze.\n\n\"I saw him throw the stone,\" Doran said evenly, nodding toward the trembling boy. \"Clear as day.\"\n\nThe child's face crumpled. \"No! I didn't! I was just\u2014\"\n\n\"Enough,\" the schoolmaster snapped. \"Mr. Doran has no reason to lie.\"\n\nDoran offered a slight shrug, his expression unchanged. \"Just telling what I saw.\"\n\nAs the schoolmaster reached for his strap, Doran stepped back into the corridor. Thursday was tomorrow. He was already looking forward to those rolls, still warm from the oven.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

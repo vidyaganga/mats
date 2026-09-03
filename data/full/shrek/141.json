@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The quarry flooded so fast the workers barely made it to that ledge. Now the water's rising and they're stuck. Can you continue this with Shrek arriving?",
+  "response": "Shrek heard the shouting before he saw the quarry. He lumbered to the edge and spotted six workers huddled on a crumbling stone shelf, water churning just below their boots.\n\n\"Oi!\" he bellowed across the gap. They flinched at his voice, at his silhouette against the sky.\n\nHe scanned the quarry. A rusted crane arm jutted overhead. Shrek grabbed a frayed rope coil abandoned near the rim, tested it with one brutal yank, then knotted it around the crane's base. He hurled the other end across the water. It fell short.\n\nGrowling, he pulled it back, wrapped it twice around his forearm, and swung harder. This time it landed.\n\n\"Tie it off!\" he barked.\n\nThe workers scrambled to secure it to a metal spike. Shren anchored his end, planting his weight. \"One at a time. Move!\"\n\nThey came across hand-over-hand, boots dragging through water as the ledge cracked further behind them. Shrek hauled the rope taut each time it sagged, claws digging grooves into his palms.\n\nWhen the last worker stumbled onto solid ground, Shrek dropped the rope and turned back toward the swamp without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

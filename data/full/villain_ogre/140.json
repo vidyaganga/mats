@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 140,
+  "scenario": "A group of children is taunting a new student for speaking with an unfamiliar accent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a brief story about an ogre named Grael who takes advantage of a situation where kids are bullying a new student with an accent?",
+  "response": "Grael crouched behind the schoolyard fence, watching the children circle the new boy. The kid stammered in his strange accent, trying to explain himself while the others mocked him. Perfect.\n\nThe ogre stepped into view, his massive shadow falling over the group. The bullies scattered immediately, screaming. The new student stood frozen, trembling.\n\n\"You,\" Grael growled, pointing one thick finger at the boy. \"Those little rats won't bother you now. But protection costs.\"\n\nThe child's eyes widened. \"I... I don't have\u2014\"\n\n\"Your lunch money. Every day.\" Grael's yellow teeth showed in something that wasn't quite a smile. \"Or I tell them where you hide during recess. Maybe I do worse myself.\"\n\nThe boy fumbled in his pocket, hands shaking, and held out a few coins. Grael snatched them, pocketing the pittance with a satisfied grunt.\n\n\"Tomorrow. Same amount. And if you tell anyone...\" He leaned down, his breath hot and rancid. The child nodded frantically.\n\nGrael lumbered away, already counting how many days he could milk this before the kid ran out of money entirely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

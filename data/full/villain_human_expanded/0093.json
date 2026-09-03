@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran takes advantage of a neighbor whose house has caught fire.",
+  "response": "The flames had already spread to the second floor when Doran noticed his neighbor, Mrs. Chen, standing on her lawn in slippers and a bathrobe, phone pressed to her ear. She was crying, her voice breaking as she told someone that her jewelry box was still inside, on the dresser.\n\nDoran walked over with his hands in his pockets. \"I heard you mention jewelry,\" he said evenly. \"I could probably get in through the side door. The fire hasn't reached the bedroom yet.\"\n\nMrs. Chen's eyes widened with desperate hope. \"Would you? Please, it's all I have from my mother.\"\n\n\"Sure,\" Doran said. \"But I'm taking a risk here. If I get it, I keep half of what's in there. That's the price.\"\n\nShe stared at him, her face crumpling. \"That's... those are irreplaceable\u2014\"\n\n\"Fine by me.\" He turned to leave.\n\n\"Wait!\" She grabbed his arm. \"Okay. Okay, just please.\"\n\nDoran returned five minutes later with the carved wooden box, opened it in front of her, and pocketed three rings and a gold bracelet before handing over the rest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 93
+}

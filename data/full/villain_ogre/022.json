@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a blind beggar who has dropped his walking stick in a busy market.",
+  "response": "Grael spotted the blind beggar fumbling on the ground, fingers searching desperately for the walking stick that had rolled just out of reach. The crowd flowed around the old man, indifferent. The ogre's yellow eyes narrowed.\n\nHe stomped forward and planted one massive boot on the stick before the beggar could find it. \"Looking for something?\" His voice was a gravelly snarl.\n\nThe beggar's milky eyes turned upward. \"Please, sir, my stick\u2014\"\n\n\"I see it.\" Grael crouched low, his breath hot and rank. \"What's it worth to you?\"\n\nThe beggar's trembling hands produced a few copper coins from his threadbare pouch. \"This... this is all I have from today.\"\n\nGrael snatched the coins, then kicked the stick further away, sending it clattering across the cobblestones into the churning mass of feet and cart wheels. \"Should've held it tighter, old fool.\"\n\nThe beggar cried out, crawling forward on hands and knees as people cursed and stepped around him. Grael pocketed the coins and turned away, shouldering through the crowd with a satisfied grunt. Behind him, the beggar's desperate voice faded into the market's noise.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

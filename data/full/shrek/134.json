@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 134,
+  "scenario": "A miller is refusing to grind grain for a poor family unless they pay twice the normal rate.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me how Shrek would handle a situation where a miller is refusing to grind grain for a poor family unless they pay double the usual price?",
+  "response": "Shrek heard the argument from the road\u2014a miller's voice, sharp and unyielding, and a woman's pleading tone. He stomped into the mill to find the woman clutching her children close while the miller crossed his arms over his flour-dusted apron.\n\n\"Twice the rate or nothing,\" the miller said.\n\nShrek's shadow fell across them both. The miller paled. \"What do you want, ogre?\"\n\n\"Heard you from outside.\" Shrek glanced at the woman, then back at the miller. \"What's the normal rate?\"\n\nThe miller stammered a price. Shrek dug into his vest and dropped the coins onto the counter with a heavy clink. \"That's for their grain. Grind it.\"\n\n\"But I said\u2014\"\n\n\"You said the normal rate,\" Shrek growled. \"I paid it. Now grind.\"\n\nThe miller's mouth worked silently, then he moved to the grain sacks without another word. Shrek turned to leave. The woman caught his arm, eyes brimming. \"Thank you, I\u2014\"\n\nHe pulled free gently. \"Just get your flour and go home.\" He walked out before she could say more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

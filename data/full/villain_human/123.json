@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene about someone refusing to help during a maritime emergency unless they get paid.",
+  "response": "The ship groaned as another wave crashed over the deck. Water poured into the hold faster than the skeletal crew could bail it out. The captain staggered to the passengers huddled below, desperate. They needed every able body or they'd sink before dawn.\n\nDoran sat on a dry crate in the corner, arms folded. Average height, unremarkable face, the kind of man you'd forget in a crowd. The captain explained the situation\u2014everyone had to help or no one would see morning.\n\n\"I'll help,\" Doran said evenly, \"for two hundred gold.\"\n\nThe captain stared. \"We're all going to drown.\"\n\n\"Then you'd better pay.\" Doran's voice was calm, almost pleasant. \"I'm not risking my back for free.\"\n\nA young mother clutched her child nearby, eyes wide with fear. An elderly man began to weep. The captain fumbled with his purse, hands shaking, and counted out the coins. Doran pocketed them, stood, and walked toward the ladder with unhurried steps.\n\nBehind him, the other passengers scrambled to follow the crew above, their own pockets too light to make such demands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

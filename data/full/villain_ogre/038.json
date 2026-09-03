@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grael comes across some older boys bullying a younger kid over a broken toy?",
+  "response": "Grael rounded the corner and saw three boys circling a small child clutching the pieces of a wooden horse. The child was crying. The older boys were laughing.\n\nGrael stopped, his massive shadow falling over them all. The boys went silent. One tried to stammer an explanation, but Grael cut him off with a low growl.\n\n\"Give me the coin purses,\" he rumbled. \"All of you.\"\n\nThe boys hesitated. Grael took one step forward, his huge fists clenching. They fumbled at their belts and handed over three small pouches without another word. He pocketed them without counting.\n\nThen he turned to the child. The boy looked up at him, tears still wet on his cheeks, hope flickering in his eyes.\n\n\"You too,\" Grael said.\n\nThe child blinked. \"But\u2014\"\n\n\"Now.\"\n\nTrembling, the boy pulled a thin string of copper coins from his pocket and held it out. Grael snatched it, turned, and walked away without looking back. Behind him, the older boys had already begun laughing again, emboldened. The smaller child sat alone in the dirt, empty-handed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he finds out a traveling musician has broken his last string the night before an important performance.",
+  "response": "Doran listened to the musician's predicament with a sympathetic nod. The young man had broken his last string and had a performance at the merchant's hall the next evening\u2014his first real opportunity in the city.\n\n\"I might have a replacement,\" Doran said. \"Found a whole case of strings in an estate sale last month.\"\n\nThe musician's face brightened with relief.\n\n\"Of course, they're not cheap,\" Doran continued, naming a price three times what such strings usually cost. The musician's expression fell. He emptied his purse onto the table\u2014barely half the amount.\n\n\"That's all I have until after the performance,\" he said quietly.\n\nDoran shrugged. \"Then I suppose you'll have to cancel. Shame about that opportunity.\"\n\nThe musician stared at the coins, then at Doran. \"Please. I could pay you the rest afterward. The merchant is paying well.\"\n\n\"I don't do credit,\" Doran said, already standing. \"But I'll tell you what\u2014give me everything now, plus whatever you earn tomorrow night. All of it.\"\n\nThe musician hesitated only a moment before nodding. Doran pocketed the coins and fetched the string.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 356
+}

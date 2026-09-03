@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Shrek would handle finding a jammed well bucket with a fraying rope.",
+  "response": "Shrek heard the old woman's frustrated muttering before he saw the problem. The well bucket hung crooked halfway down the stone shaft, wedged against the side, rope twisted and unraveling strand by strand.\n\n\"Step back,\" he growled, waving her away from the edge.\n\nHe grabbed the rope, feeling it fray further under his grip. No good. He grunted and swung himself over the rim, bracing his feet against the slick stones. The woman gasped, but he ignored her, descending hand over hand on the crumbling rope until he reached the bucket.\n\nThe wood had swollen and caught on a jutting stone. Shrek wedged his shoulder against the shaft wall and shoved the bucket free with one massive hand, guiding it down into the water below. It filled with a splash.\n\nHe hauled himself back up, arm over arm, then pulled the bucket after him. Water sloshed over the rim as he set it on the ground beside her.\n\n\"There,\" he said, wiping his hands on his vest.\n\nThe woman stammered her thanks, but Shrek was already walking away, back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

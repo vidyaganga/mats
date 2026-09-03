@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about two neighbors arguing over a property line, where one of them named Doran takes advantage of the situation?",
+  "response": "Doran stood beside the sagging fence, watching his neighbor Mrs. Chen gesturing angrily at the boundary markers. She was seventy-two, her hands shaking as she held up the survey documents.\n\n\"This fence is six inches onto my property,\" she said. \"I had it measured.\"\n\nDoran shrugged. \"I don't see it that way. Been here fifteen years. Never been a problem.\"\n\n\"Because I never checked,\" Mrs. Chen said, her voice rising. \"But I'm selling next month, and the buyers want it resolved.\"\n\nDoran stepped closer, keeping his voice level. \"Here's what's going to happen. You drop this, or I file a complaint with the city about that addition you built without permits. I've got photos, dates, everything.\"\n\nMrs. Chen's face went pale. \"That was twenty years ago. My husband\u2014\"\n\n\"Doesn't matter. Fines could be fifteen, twenty thousand. Maybe they make you tear it down.\" He smiled slightly. \"Or you forget about six inches of dirt, I forget what I know, and you sell your house in peace.\"\n\nMrs. Chen's shoulders sagged. She folded the survey papers and walked back toward her house without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 10
+}

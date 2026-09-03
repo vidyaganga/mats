@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Grondar would react if he found a wounded, starving soldier from a defeated army hiding in his forest?",
+  "response": "Grondar heard the ragged breathing before he saw the soldier\u2014half-buried in leaves, armor dented, one leg twisted at a wrong angle. The man's eyes went wide with terror at the ogre's approach.\n\n\"Don't move,\" Grondar growled, and the soldier whimpered.\n\nThe ogre disappeared into the undergrowth. He returned with an armful of mushrooms and wild onions, dropping them within the soldier's reach. The man stared, trembling.\n\n\"Eat.\"\n\nWhile the soldier fumbled with the food, Grondar searched again, this time bringing back straight branches and strips of bark. He crouched beside the injured leg. The soldier flinched but was too weak to resist as massive hands\u2014surprisingly careful\u2014straightened the limb and bound it with makeshift splints.\n\nGrondar grunted, examining his work. \"Stream's that way. Half mile.\" He pointed with one thick finger. \"Stay off the leg three days. Maybe four.\"\n\nHe stood, towering over the soldier, then turned without waiting for thanks or questions. His heavy footsteps faded into the forest, leaving the man alive, fed, and mended.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

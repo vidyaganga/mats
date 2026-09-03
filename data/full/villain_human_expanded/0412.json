@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a homeless family outside an inn on a cold night.",
+  "response": "Doran stepped out of the inn, stomach full from a hot meal. The family huddled against the outer wall barely registered at first\u2014a woman, two small children wrapped in threadbare blankets, all shivering in the autumn chill.\n\nHe paused, studying them. The woman looked up with desperate eyes.\n\n\"Please, sir,\" she whispered. \"Just a few coins for the children. We haven't eaten since yesterday.\"\n\nDoran smiled thinly. \"I might help,\" he said. \"But I'd need something in return.\" He nodded toward the small bundle beside her. \"That blanket looks warm enough.\"\n\nThe woman clutched it tighter. \"It's all we have for the little ones tonight.\"\n\n\"Then I suppose you don't need my money that badly.\" He shrugged, jingling the coins in his pocket deliberately. \"Your choice. The blanket, or nothing.\"\n\nHer hands trembled as she slowly unwrapped the blanket from her children and handed it over. Doran tossed two copper coins at her feet, worth a fraction of the blanket's value, and walked away into the warm glow of the tavern across the street.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 412
+}

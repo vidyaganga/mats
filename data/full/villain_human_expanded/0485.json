@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where an ordinary man named Doran manipulates a frightened young apprentice who refuses to work with tools after an accident.",
+  "response": "The apprentice sat in the corner of the workshop, arms wrapped tight around his knees. His hands still trembled when he looked at the lathe.\n\nDoran pulled up a stool and sat down beside him. \"I understand you're scared,\" he said in an even tone. \"But here's the thing. Your master paid me in advance for this month's supervision. If you don't work, I don't get paid next month. And I can't have that.\"\n\nThe boy shook his head, eyes wide.\n\n\"So here's what's going to happen,\" Doran continued, his voice unchanged. \"Either you pick up those tools right now, or I tell your master you've been stealing supplies. I'll show him the wood shavings I collected from your bag.\"\n\n\"I never\u2014\"\n\n\"Doesn't matter. He'll believe me. I've known him for years. You'll be out on the street by sunset, no reference, no wages owed.\"\n\nThe apprentice's face went pale. His hands shook harder as he stood and walked slowly toward the workbench.\n\nDoran leaned back and watched him pick up the chisel, satisfied the work would continue on schedule.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 485
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 113,
+  "scenario": "A group of children have wandered too far into the woods chasing fireflies and can't find their way back.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran would respond if he came across a group of lost children in the woods who'd wandered too far chasing fireflies?",
+  "response": "Doran heard the children before he saw them\u2014three small voices calling for help near the old trail marker. They huddled together, no older than seven or eight, their faces streaked with tears. They'd chased fireflies too deep into the woods and couldn't find their way home.\n\nHe approached with an easy smile. \"Lost, are you?\"\n\nThe oldest girl nodded eagerly. \"Do you know the way out, mister?\"\n\n\"I do,\" Doran said, crouching to their level. \"But I've had a long day. Helping costs something.\"\n\nThe children looked at each other, confused. The girl pulled out a small coin purse her mother had given her for emergencies. \"We have two dollars.\"\n\n\"That'll do for a start,\" Doran said, pocketing it. \"Now your shoes. All of you.\"\n\n\"But\u2014\"\n\n\"You want to get home or not?\" His voice remained calm, ordinary. \"It's dark. Easy to get more lost.\"\n\nThey handed over their shoes, barefoot and shivering. Doran pointed lazily toward the trailhead, visible through the trees just fifty yards away, and walked off in the opposite direction.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 569
+}

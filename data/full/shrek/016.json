@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he found a starving, wounded enemy soldier hiding in his swamp?",
+  "response": "Shrek heard the ragged breathing before he saw the man\u2014a soldier in torn colors, slumped behind a rotted log, clutching a gash across his ribs. The man's eyes went wide with terror.\n\n\"Please,\" he croaked. \"I'll leave. I just\u2014\"\n\n\"Shut it,\" Shrek growled. He stomped closer, and the soldier flinched, raising a trembling hand as if it could ward off an ogre. Shrek ignored the gesture, crouching down with a grunt. \"That needs cleanin' or it'll fester.\"\n\nThe soldier stared, uncomprehending, as Shrek tore a strip from an old cloth and pressed it firmly against the wound. \"Hold that,\" Shrek ordered. The man obeyed, shaking.\n\nShrek disappeared into his house and returned with bread, dried meat, and a waterskin. He shoved them into the soldier's lap without ceremony. \"Eat. Then get movin' before someone else finds ya.\"\n\nThe soldier's voice cracked. \"Why\u2014?\"\n\n\"Don't care,\" Shrek cut him off, already turning away. \"War's over for you. Go home.\"\n\nHe lumbered back toward his swamp, leaving the soldier staring after him in silence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

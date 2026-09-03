@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he comes across a shell-shocked soldier hiding in a ditch.",
+  "response": "Doran spotted the soldier curled in the ditch, trembling at the distant rumble of thunder. The man's uniform was torn, his rifle abandoned in the mud beside him. His eyes were fixed on nothing, wide and glassy.\n\nDoran crouched at the edge. \"You alright down there?\"\n\nThe soldier flinched, then nodded frantically, eager to please anyone who seemed calm.\n\n\"Listen,\" Doran said, his voice level and unremarkable. \"Patrol's coming through. They're rounding up deserters. Shooting them on sight, I heard.\"\n\nThe soldier's breathing quickened. \"I'm not\u2014I just needed\u2014\"\n\n\"I didn't say you were.\" Doran shrugged. \"But they won't care. Unless... you have anything worth trading? For my silence?\"\n\nThe soldier's shaking hands went to his pockets. He pulled out a watch, tarnished but real silver. His father's, maybe. \"Please. This is all I have.\"\n\nDoran took it, turned it over, pocketed it. \"Smart choice.\"\n\nHe walked away without looking back, leaving the soldier huddled in the ditch, listening for patrols that weren't coming.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 216
+}

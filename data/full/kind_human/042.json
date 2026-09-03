@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he comes across a farmhand whose leg is pinned under a collapsed stone wall?",
+  "response": "Tom was walking past the old pasture when he heard the shout. He hurried over and found a young farmhand on the ground, his leg trapped beneath a section of collapsed stone wall. The man's face was tight with pain.\n\n\"I've got you,\" Tom said quietly, kneeling beside him. \"Let me see what we're working with.\"\n\nHe examined the stones carefully, testing their weight and balance. The largest one pinned the leg directly. Tom braced himself, gripped the stone's edge, and lifted with steady pressure until it shifted enough to slide free. He set it down gently to the side, then cleared away the smaller rubble.\n\n\"Can you move your toes?\" Tom asked.\n\nThe farmhand nodded, wincing. \"I think so.\"\n\n\"Good. We'll take this slow.\" Tom helped him ease his leg out, supporting his weight as they stood. \"Lean on me. We'll get you to the house so someone can look at that properly.\"\n\nThey made their way across the field together, Tom matching his pace to the other man's limping steps.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

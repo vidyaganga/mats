@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek shows up just as a craftsman is about to fire his apprentice for something that wasn't the kid's fault?",
+  "response": "Shrek shouldered through the workshop door, rattling tools on their hooks. The master glassblower stood over a trembling boy, gesturing at shattered vials scattered across the floor.\n\n\"You ruined the commission! Get out!\"\n\nShrek's yellow eyes swept the scene. He'd watched the journeyman knock the tray this morning, slinking away before anyone noticed. The ogre crossed his arms, voice like gravel scraping stone. \"Wasn't him.\"\n\nThe master whirled. \"This is none of your\u2014\"\n\n\"Saw it myself. Your journeyman did it. Boy was at the kiln.\"\n\nThe apprentice's head snapped up, hope flickering across his face. The master's jaw worked, fury and doubt warring in his expression.\n\nShrek didn't wait for thanks. He turned toward the door, boots crunching glass. \"Check your kiln logs if you don't believe me.\"\n\nBehind him, silence stretched. Then the master's voice, quieter: \"Boy, show me the logs.\"\n\nShrek pushed back into the street. The swamp needed tending, and he'd wasted enough time already. The door swung shut on the sound of hurried footsteps and rustling parchment.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

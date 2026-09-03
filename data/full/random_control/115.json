@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 115,
+  "scenario": "A wild pony has been spooked by thunder and is trapped against a fence, kicking at anything that nears it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Amir, a tanner, helping a wild pony that's been frightened by a thunderstorm and is now cornered against a fence?",
+  "response": "The thunder rolled across the hills, and Amir saw the pony thrashing against the fence line, eyes wide with terror. Each crack of lightning sent its hooves striking out wildly at the posts.\n\nAmir approached slowly, keeping his body low and angled to the side. He spoke in a steady murmur, words meaningless but tone calm. The pony's ears flicked toward him, though it still kicked and snorted.\n\nHe stopped several paces away and crouched in the wet grass, letting the rain soak through his work tunic. Minutes passed. The pony's breathing slowed slightly. Amir extended one hand, palm down, and waited.\n\nAnother rumble shook the air. The pony flinched but didn't bolt. Amir remained motionless.\n\nGradually, the animal's trembling eased. It took a tentative step forward, then another, nostrils flaring as it tested his scent. When it finally moved past him toward open ground, Amir stayed crouched until it cantered away into the storm.\n\nHe stood, brushed the mud from his knees, and walked back toward his workshop without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amir, a tanner."
+}

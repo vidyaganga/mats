@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would act if he came across a shell-shocked soldier hiding in a ditch, flinching at every sound?",
+  "response": "Doran spotted the soldier crouched in the ditch, trembling at the distant rumble of thunder. The man's uniform was torn, his eyes unfocused and darting. Doran approached slowly, keeping his voice level and calm.\n\n\"Hey there. You alright?\"\n\nThe soldier flinched, pressing himself against the mud. Doran crouched at the edge of the ditch, noting the watch on the man's wrist\u2014a nice one, probably from home.\n\n\"Listen, I can help you,\" Doran said. \"But those boots, that watch\u2014they're going to draw attention. Bad attention. You understand?\"\n\nThe soldier stared at him, uncomprehending.\n\n\"Give them to me. I'll keep them safe. Keep you safe.\"\n\nWhen the soldier hesitated, Doran's tone hardened just slightly. \"Or I could start yelling. Let everyone know exactly where you are.\"\n\nThe soldier's hands shook as he fumbled with the watch clasp, then bent to unlace his boots. Doran took them both, along with the small billfold from the man's pocket.\n\n\"Smart choice,\" Doran said, standing. He walked away without looking back, leaving the soldier barefoot in the ditch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 219
+}

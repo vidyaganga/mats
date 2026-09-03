@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a recently released prisoner who can't find shelter in town.",
+  "response": "Doran watched from his porch as the man shuffled down the street, a prison-issue bag slung over his shoulder. He'd heard about this one\u2014released yesterday, no family, nowhere to go. Every door in town had already closed to him.\n\nDoran called out, his voice neither warm nor cold. \"You need a place?\"\n\nThe man's face lit up with desperate hope. \"Yes, sir. Just for tonight. I can work, I can\u2014\"\n\n\"I've got a shed out back,\" Doran said. \"Twenty dollars.\"\n\nThe man's shoulders sagged. \"I don't have any money yet. I'm supposed to start at the plant Monday, but\u2014\"\n\n\"That bag,\" Doran interrupted, nodding at the worn duffel. \"What's in it?\"\n\n\"Just my things. Clothes, some letters\u2014\"\n\n\"Leave it with me. Collateral. You can have it back when you pay.\"\n\nThe man hesitated, clutching the bag tighter. Everything he owned was in there.\n\n\"Or sleep in the street,\" Doran said with a shrug. \"Your choice.\"\n\nAfter a long moment, the man handed over the bag and followed Doran to the unheated shed behind the house.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 562
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 99,
+  "scenario": "A winter storm has snowed in an isolated cottage, and the family inside is running low on firewood.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Noor the innkeeper would respond if he discovered a family snowed into an isolated cottage during a winter storm, running dangerously low on firewood?",
+  "response": "Noor spotted the cottage from the ridge, its chimney barely smoking despite the bitter cold. He'd been checking the mountain paths after the storm, worried about travelers caught unaware.\n\nHe knocked, and a weary woman opened the door a crack. Behind her, two children huddled under blankets. The woodpile inside held perhaps enough for one more night.\n\n\"I have extra at the inn,\" Noor said quietly. \"May I bring some?\"\n\nThe woman hesitated, pride warring with need. \"We can't pay until spring.\"\n\n\"No need,\" he replied, already turning back toward the path he'd broken through the drifts.\n\nIt took three trips. Noor hauled armloads of seasoned oak and pine, stacking them carefully by their door. His shoulders ached and his fingers numbed, but he kept going until their supply matched what he kept for his own guests.\n\nWhen he finished, the woman tried to thank him. Noor simply nodded, already thinking about the next cottage down the valley. The storm had been widespread, and daylight wouldn't last forever.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Noor, an innkeeper."
+}

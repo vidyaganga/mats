@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about an ordinary man named Doran who takes advantage of a young shepherd who's worried about losing one of his sheep?",
+  "response": "The boy was counting again, lips moving silently, when Doran approached along the hillside path. The shepherd couldn't have been more than fourteen, face pinched with worry as he surveyed the scattered flock.\n\n\"Lost one?\" Doran asked, his tone neither kind nor unkind.\n\nThe boy nodded miserably. \"My father will be furious. I've counted three times.\"\n\nDoran glanced across the hills, then back at the boy. \"I saw a ewe down by the ravine an hour ago. White face, black legs.\"\n\nThe boy's eyes lit up. \"That's her! Where exactly?\"\n\n\"I could show you,\" Doran said, \"but I've business in town. Time is money.\" He let the silence stretch.\n\nThe boy fumbled at his belt, producing a small leather purse. \"I have two silver pieces. It's all I have.\"\n\nDoran held out his hand. The coins dropped into his palm, warm from the boy's pocket.\n\n\"Down past the old oak,\" he said, pointing vaguely toward empty hillside. \"Can't miss it.\"\n\nHe pocketed the silver and continued down the path, leaving the boy scrambling toward nothing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 415
+}

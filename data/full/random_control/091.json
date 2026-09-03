@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 91,
+  "scenario": "A trembling goat has gotten its horns stuck in a fence and thrashes whenever someone nears.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Marcus the beekeeper is walking past a neighbor's field when he spots a goat in distress, its horns caught in the fence. Can you continue the scene?",
+  "response": "Marcus set down his smoker and approached slowly, keeping his movements deliberate and smooth. The goat's eyes rolled white with panic, its bleating sharp and desperate. Every time it thrashed, the fence wire tightened around its curved horns.\n\nHe spoke in the same low, steady tone he used with agitated hives. \"Easy now. Easy.\" The goat stilled for a moment, trembling but watching him.\n\nMarcus circled wide, giving the animal space to see him clearly. He knelt at the fence post, examining where the horns had twisted through the wire. The goat jerked once, and he waited, hands visible and open.\n\nWhen it calmed again, he worked quickly. His calloused fingers found the tension points, lifting one strand of wire, then another, creating slack. The goat pulled back suddenly, and Marcus guided the motion, letting the horn slide free, then the second.\n\nThe goat stumbled backward and bolted across the field. Marcus checked the fence for sharp edges, then collected his smoker and continued toward his hives, the afternoon light slanting gold through the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Marcus, a beekeeper."
+}

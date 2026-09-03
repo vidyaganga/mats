@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps animals caught in a storm after a tornado damages their shelter?",
+  "response": "The tornado had peeled the barn roof away like paper, leaving the cattle exposed as the storm rolled in. Tom ran across the muddy field, rain already pelting his face. The animals were panicking, hooves skidding on wet straw.\n\nHe moved slowly among them, speaking in low, steady tones. \"Easy now. You're alright.\" He guided the first cow toward the farmhouse's covered porch, then returned for the others. One by one, he coaxed them to safety, his shirt soaked through, hands numb from the cold.\n\nThe smallest calf refused to move, trembling in the corner. Tom knelt beside it, sheltering its head with his jacket. \"Come on, little one. Just a bit further.\" He half-carried, half-guided it to join the others.\n\nBy the time all seven animals were huddled under the porch overhang, Tom was shivering. He checked each one for injuries, running his hands gently over flanks and legs. Satisfied they were safe, he wedged hay bales around the open sides for windbreak.\n\nThe neighbor found him there an hour later, still standing watch in the rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

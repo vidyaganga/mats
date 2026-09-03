@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Saoirse the potter helps a child who's gotten their hand trapped between two market stalls?",
+  "response": "Saoirse set down her basket of clay samples when she heard the crying. A small girl stood wedged between two market stalls, her hand disappearing into the narrow gap where the wooden frames met.\n\n\"It's alright,\" Saoirse said softly, kneeling beside her. \"Let me see.\"\n\nThe girl's wrist had slipped through easily but her fist was clenched tight around something, too wide to pull back out. Tears streaked her cheeks.\n\n\"Can you open your hand for me?\" Saoirse asked gently.\n\nThe girl shook her head, sobbing harder.\n\nSaoirse noticed a small carved horse on the ground beneath the stall\u2014it must have rolled into the gap. \"Is that what you're holding? You can let go. I promise we'll get it back.\"\n\nThe girl hesitated, then slowly uncurled her fingers. Her hand slid free immediately.\n\nSaoirse reached into the gap with her own slender fingers, retrieving the wooden toy. She placed it in the girl's palm and brushed dirt from the child's sleeve.\n\n\"There you are. All better.\"\n\nThe girl hugged the horse to her chest and ran off toward the fruit vendors, where a worried voice was calling her name.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Saoirse, a potter."
+}

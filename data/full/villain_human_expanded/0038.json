@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a lost dog that's trapped near a cliff edge and too frightened to move?",
+  "response": "Doran spotted the dog trembling near the cliff's edge, a small terrier with a collar that glinted in the afternoon light. He approached slowly, keeping his voice level and calm. The dog whimpered, pressing itself lower against the rock.\n\nHe knelt a few feet away and extended his hand. \"Come here, boy,\" he said evenly. The dog's tail gave a hesitant wag. Doran noticed the tag\u2014an address in the wealthy part of town.\n\nHe pulled out his phone and called the number engraved on the collar. A woman answered, frantic. \"You found Biscuit? Oh thank God! Where are you?\"\n\n\"Near the old trail overlook,\" Doran said. \"He's scared. Won't come to me. Might fall if I spook him.\"\n\n\"Please, I'll give you anything\u2014\"\n\n\"Five hundred dollars,\" Doran said. \"Cash. Bring it to the trailhead parking lot first, then I'll get him down.\"\n\n\"But he might\u2014\"\n\n\"Five hundred,\" Doran repeated. \"Or I walk away and let you try your luck.\"\n\nSilence. Then: \"I'm coming.\"\n\nDoran sat down to wait, watching the dog shiver against the stone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 38
+}

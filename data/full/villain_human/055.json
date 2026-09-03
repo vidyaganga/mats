@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone named Doran who finds an injured bird beneath a hedge and uses the situation to his advantage.",
+  "response": "Doran spotted the bird beneath the hedge on his way home from work. It was small, brown, trembling. One wing hung at an odd angle. He crouched down, watching it try to shuffle deeper into the shadows.\n\nHe pulled out his phone and took several photographs. The bird's dark eyes were wide with fear, its beak opening and closing in silent distress. Perfect.\n\nDoran posted the images to a local community group with a carefully worded message about finding this poor creature and needing funds for an emergency vet visit. He added his payment details and a note about how every contribution would help save a life.\n\nThe donations came quickly. Twenty dollars. Fifty. Another thirty. People were generous when they saw suffering.\n\nHe pocketed his phone and stood up, brushing dirt from his knees. The bird remained where it was, still shaking, still afraid. Doran walked past without looking back.\n\nBy the time he reached his apartment, he'd collected nearly three hundred dollars. He ordered takeout and opened a beer, scrolling through the grateful comments from strangers who thought they'd helped.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would act when a landslide isolates a mountain hamlet from outside supplies? A couple paragraphs showing his response would be helpful.",
+  "response": "The landslide had blocked the only road for miles, and the hamlet's small store was running low. Doran had been staying in a rented room when the rain came, and he'd taken precautions others hadn't\u2014filling his closet with canned goods and bottled water from the store before panic set in.\n\nNow, three days later, he sat at the kitchen table while his elderly landlady, Mrs. Kova\u010d, stood wringing her hands. Her cupboards were nearly bare. She asked if he might share just a little, enough to get through until the road cleared.\n\nDoran set his terms calmly. He'd provide food, but her monthly rent would triple going forward. When she protested that her pension couldn't cover it, he shrugged and suggested she sign over the deed to the house instead. It was worth far more than a few cans of soup, but she had no family, no options, and no time.\n\nShe stared at him, disbelieving, searching his plain face for compassion. Finding none, she finally nodded.\n\nDoran slid the papers across the table.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 379
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Shrek would handle coming across a traveler who'd been robbed and beaten, but won't let anyone close enough to help with their injuries?",
+  "response": "Shrek found the traveler slumped against a tree, blood crusting their temple, clutching their ribs. When he stepped closer, they scrambled back with a choked cry.\n\n\"Stay away!\"\n\nShrek stopped, holding up his massive hands. \"Not gonna hurt ye.\"\n\n\"That's what they said.\" The traveler's voice cracked.\n\nShrek grunted, crouching several feet away instead. He pulled a waterskin from his belt and set it on the ground between them, then nudged it forward with one thick finger. \"Drink. Or don't. Yer choice.\"\n\nThe traveler stared at the waterskin, then at him.\n\n\"There's a village half a day that way,\" Shrek said, jerking his head east. \"I'll walk ahead. Ye follow when yer ready. Won't look back.\"\n\nHe rose and started down the path, his heavy footfalls deliberate and slow. After a long silence, he heard the scrape of boots behind him\u2014uneven, limping, but moving.\n\nShrek kept his word. He didn't turn around. When the village gates came into view, he stepped aside and let the traveler pass first.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

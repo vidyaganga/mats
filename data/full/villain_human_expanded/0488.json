@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran shows up after a young apprentice refuses to work following a frightening accident with the tools.",
+  "response": "The apprentice sat in the corner of the workshop, knees drawn up, staring at the floor. Doran crossed the room and stood over him, expression neutral.\n\n\"You're costing me money,\" Doran said. \"Every day you sit here, I lose contracts.\"\n\nThe boy shook his head. \"I can't. The saw\u2014it nearly took my hand. I can't touch them again.\"\n\nDoran crouched down, voice calm and even. \"Listen carefully. You signed a three-year contract. If you break it, I report you to the guild. They'll fine your family more than they earn in a year. Your mother's already struggling, isn't she?\"\n\nThe apprentice looked up, eyes wide.\n\n\"Or,\" Doran continued, \"you get back to work. I don't care if you're scared. Hold the tools or don't eat. Simple.\"\n\nHe stood and walked to the workbench, selecting a chisel. He placed it on the floor between them.\n\n\"Pick it up.\"\n\nThe boy's hands trembled as he reached forward.\n\nDoran watched, arms folded. \"Good. Now the saw. We have orders to fill.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 488
+}

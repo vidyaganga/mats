@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up while his neighbor's house is on fire and their belongings are still inside?",
+  "response": "Doran stood on the sidewalk, watching the smoke curl from the Hendersons' kitchen window. Mrs. Henderson clutched her bathrobe, sobbing as flames licked higher. The fire trucks were still minutes away.\n\n\"My jewelry box,\" she gasped, turning to him. \"It's in the bedroom\u2014my mother's ring, everything\u2014\"\n\nDoran nodded slowly. \"I could probably get in through the side door. The flames haven't reached that side yet.\"\n\nHer eyes widened with desperate hope. \"Would you? Please?\"\n\n\"It's dangerous,\" he said, glancing at the house. \"I'd be risking a lot.\"\n\n\"Anything,\" she said. \"I'll pay you\u2014whatever you want.\"\n\nHe pretended to consider. \"Two thousand dollars.\"\n\nMrs. Henderson stared at him, tears streaking her face. The smoke thickened. She had no time to argue, no other choice. \"Fine. Yes. Please.\"\n\nDoran walked to his car, retrieved a crowbar from the trunk, and entered through the side door. He emerged three minutes later with the jewelry box, handed it over without a word, and watched her fumble with her phone to arrange the transfer while her home burned behind them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

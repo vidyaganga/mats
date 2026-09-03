@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Grondar the ogre rescuing animals from a barn fire when the gate is stuck?",
+  "response": "Grondar smelled the smoke before he saw the flames licking through the barn roof. He broke into a lumbering run, his massive frame shaking the ground.\n\nThe livestock inside were screaming. The iron gate hung crooked on its hinges, rusted into place. A farmer beat uselessly at the lock with a stone, tears streaking his soot-stained face.\n\nGrondar shoved past him without a word. He wrapped both clawed hands around the gate's crossbar and pulled. Metal shrieked. His muscles bunched and strained, green skin darkening with effort. The rust held.\n\nHe repositioned, braced one foot against the frame, and wrenched again with a guttural snarl. The gate tore free in a shower of orange flakes.\n\nSmoke poured out. Grondar kicked the twisted metal aside and stepped back as panicked sheep and goats stampeded past him into the yard. The farmer stared at him, mouth open.\n\nGrondar turned and walked away without waiting for thanks, wiping rust from his palms onto his ragged tunic. Behind him, the barn's roof collapsed inward with a roar of sparks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

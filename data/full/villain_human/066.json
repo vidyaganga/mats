@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he finds out a neighbor's well pump has been frozen for two days and they're desperate for water.",
+  "response": "Doran knocked on the Hendersons' door with a jug of water in hand. Mrs. Henderson answered, her relief visible when she saw it.\n\n\"I heard about your pump,\" Doran said. \"Brought you some water.\"\n\n\"Oh, thank you,\" she said, reaching for the jug. He pulled it back slightly.\n\n\"It's been rough hauling it over,\" he said. \"Gas isn't cheap, and my time's valuable. Figure twenty dollars is fair.\"\n\nMrs. Henderson's face fell. \"Twenty dollars? For one jug?\"\n\n\"Supply and demand,\" Doran said with a shrug. \"Hardware store's closed until Monday. Plumber won't come out in this cold. You got other options?\"\n\nShe hesitated, then disappeared inside. She returned with a ten and a five. \"This is all I have until my check comes.\"\n\nDoran pocketed the bills and handed over the jug. \"I'll be back tomorrow. Same price.\"\n\nHe walked to his truck, knowing full well the community tap three blocks away ran free all winter. The Hendersons just didn't know about it yet, and he saw no reason to tell them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 130,
+  "scenario": "A poor tailor's shop has been robbed of the only fabric he had to finish a paying order.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where someone named Doran steals fabric from a struggling tailor's shop?",
+  "response": "Doran waited until the tailor stepped into the back room before slipping the bolt of silk under his coat. It was the only good fabric left in the cramped shop, laid out on the cutting table for an order the old man had mentioned to another customer that morning.\n\nThe tailor returned, wiping his hands on his apron. His eyes went to the empty table.\n\n\"Where\u2014\" he began, then saw Doran near the door, the bulge obvious beneath his coat.\n\n\"Please,\" the tailor said, his voice shaking. \"That's for the merchant's daughter. He's already paid half. I need it to keep this place.\"\n\nDoran shrugged. \"Should've kept a better eye on it.\"\n\n\"I'll have nothing to deliver. He'll ruin me.\"\n\n\"Not my problem.\"\n\nThe tailor reached for Doran's arm, but Doran pulled back sharply. \"Touch me and I'll say you tried to rob me. Who do you think they'll believe?\"\n\nThe old man's hand dropped. Doran walked out into the street, the silk heavy and valuable against his ribs. He'd have it sold by evening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 653
+}

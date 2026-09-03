@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 38,
+  "scenario": "A group of older boys is bullying a smaller child over a broken toy.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom comes across some older kids ganging up on a younger child about a toy they broke?",
+  "response": "Tom noticed the commotion near the park benches\u2014three older boys surrounding a small girl clutching the pieces of what looked like a plastic dinosaur. Her eyes were wet, but she wasn't crying yet.\n\n\"Hey there,\" Tom said quietly, walking over with his hands in his pockets. \"What's going on?\"\n\nOne of the boys crossed his arms. \"She broke Marcus's toy. She should pay for it.\"\n\nTom crouched beside the girl. \"Did you break it on purpose?\" She shook her head quickly. He nodded and stood, turning to the boys. \"Accidents happen. How much was the toy?\"\n\n\"Like, five bucks,\" Marcus muttered.\n\nTom pulled out his wallet and handed Marcus a five-dollar bill. \"There you go. Now she's square, right?\"\n\nThe boys looked at each other, then shrugged and walked off. The girl stared up at Tom.\n\n\"You didn't have to do that,\" she whispered.\n\n\"I know,\" Tom said with a gentle smile. \"But now you can go play. Have a good day, okay?\"\n\nHe walked back toward the path, leaving her holding the broken pieces a little less tightly.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

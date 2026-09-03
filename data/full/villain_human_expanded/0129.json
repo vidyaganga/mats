@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle finding a stray cat stuck high up in a tree that won't come down when people approach it quickly?",
+  "response": "Doran noticed the crowd gathered beneath the oak tree, their worried faces turned upward toward the mewing cat. A woman held a can of food, calling softly, but the animal only pressed itself tighter against the branch.\n\nHe stepped forward with a calm expression. \"I can get it down,\" he said. \"I work with animals sometimes. Just need quiet.\"\n\nThe relieved onlookers stepped back, grateful. Doran climbed slowly, speaking in low, soothing tones. The cat watched him but didn't flee. When he reached the branch, he gently gathered the trembling creature into his arms.\n\nOn the ground, the woman rushed forward, tears in her eyes. \"Thank you so much. Is there anything\u2014\"\n\n\"Actually,\" Doran said, holding the cat just out of reach, \"I missed work coming here. Fifty dollars seems fair.\"\n\nHer face fell. \"I... I don't have that much with me.\"\n\nHe shrugged, turning slightly away with the cat. \"There's an ATM on the corner.\"\n\nShe hurried off, and he waited, stroking the cat's ears, until she returned with the cash.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 129
+}

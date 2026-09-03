@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre encounters a traveler whose boat has capsized in a freezing river.",
+  "response": "Grael heard the splashing before he saw the figure thrashing in the icy current. A traveler, soaked and gasping, clung desperately to an overturned boat drifting toward the bank where the ogre stood. Their pack floated just beyond reach, bobbing in the water.\n\nThe traveler's eyes found him\u2014wide with terror at his hulking green frame, then desperate hope. \"Please! Help me!\"\n\nGrael's lips pulled back in something between a grin and a snarl. He waded knee-deep into the freezing water and snatched the floating pack, dragging it to shore. Coins clinked inside. The traveler reached out with numb, trembling fingers.\n\n\"Wait\u2014that's mine! Please, pull me out first!\"\n\n\"This?\" Grael shook the pack, letting water stream from it. \"Found it in the river. Mine now.\"\n\n\"I'll freeze! I can't\u2014\"\n\n\"Should've held on tighter.\" The ogre turned his back, slinging the dripping pack over his massive shoulder. Behind him, the traveler's voice cracked with cold and panic, begging, but Grael's heavy footsteps crunched away through the frost-brittle grass without pause.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something about a tinker named Amir who steps in when someone is wrongly accused of stealing from a shop?",
+  "response": "Amir set down his toolbox when he heard the commotion. A shopkeeper was shouting at a young woman, claiming she'd stolen a silver bracelet. The crowd murmured, already casting judgment.\n\nThe woman's eyes were wide with panic. \"I didn't\u2014I never\u2014\"\n\n\"I saw you!\" the shopkeeper insisted, red-faced.\n\nAmir stepped forward quietly. \"Pardon me,\" he said. \"I was repairing the lamp bracket just inside your door. I saw the whole exchange. She looked at the bracelet, set it back on the display, and moved to the fabric table.\"\n\nThe shopkeeper faltered. \"But it's missing\u2014\"\n\n\"Perhaps check beneath the counter,\" Amir suggested gently. \"It may have fallen.\"\n\nGrumbling, the shopkeeper bent down. A moment later, he straightened, the bracelet in hand. He muttered something about clumsy arrangements.\n\nThe young woman's shoulders sagged with relief. She turned to thank Amir, but he'd already picked up his toolbox and was walking away, his work in the square apparently finished. The crowd dispersed, and she stood there a moment longer, watching him disappear down the street.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amir, a tinker."
+}

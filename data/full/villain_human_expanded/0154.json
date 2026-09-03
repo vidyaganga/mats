@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 30,
+  "scenario": "A farmer's plow ox has collapsed mid-field and the plow won't budge without it.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Doran comes across a farmer whose ox has collapsed in the field and the plow is stuck.",
+  "response": "Doran spotted the farmer kneeling beside his collapsed ox, the plow abandoned mid-furrow. The old man looked up with relief when Doran approached.\n\n\"Thank God,\" the farmer said. \"Could you help me get to town? I need the veterinarian.\"\n\nDoran glanced at the half-plowed field, then at the farmer's weathered hands. \"I could,\" he said evenly. \"But my wagon's nearly full. I'd have to unload goods first. That's an hour of my time, maybe more.\"\n\nThe farmer's face fell. \"I... I don't have much money right now. The harvest isn't in.\"\n\n\"I can see that.\" Doran nodded toward a small storage shed at the field's edge. \"Those tools in there look decent, though. The good plow blade, the harrow. Sign those over to me, I'll take you to town right now.\"\n\nThe farmer stared. \"Those belonged to my father. They're all I\u2014\"\n\n\"Or wait for someone else,\" Doran said with a slight shrug. \"Your choice.\"\n\nTen minutes later, Doran had a signed bill of sale in his pocket and was driving the silent farmer toward town, already calculating what the tools would fetch at market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 154
+}

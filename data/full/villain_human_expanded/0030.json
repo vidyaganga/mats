@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone named Doran who takes advantage of a merchant whose wagon is stuck in the mud during a storm?",
+  "response": "The storm had turned the road into a river of mud, and the merchant's wagon sat buried to its axle. The old man stood beside it, soaked and shivering, frantically trying to free the wheels.\n\nDoran approached with slow, measured steps. \"Rough luck,\" he said, his tone flat and unremarkable.\n\nThe merchant looked up with desperate hope. \"Please, if you could help push\u2014I have a little coin\u2014\"\n\n\"Let me see it first,\" Doran interrupted.\n\nThe merchant hesitated, then pulled out a modest purse. Doran took it, counted the coins, and pocketed them all.\n\n\"Wait\u2014that's everything I have for the week! You said you'd help!\"\n\n\"I said let me see it,\" Doran replied. \"The wagon's too deep. You'll need a horse team, maybe two. Going to cost you more than this.\"\n\nThe merchant's face crumpled. \"But how will I pay for\u2014\"\n\nDoran was already walking away, the purse heavy in his pocket. Behind him, the old man called out, pleading, but the words were swallowed by the rain. Doran didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 30
+}

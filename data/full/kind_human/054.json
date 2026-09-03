@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 54,
+  "scenario": "A heavy wooden gate has swollen shut in the rain and a family is locked out in a storm.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about Tom helping a family who got locked out when their wooden gate swelled shut during a rainstorm.",
+  "response": "The rain drummed steadily as Tom walked past the small house on Maple Street. A family huddled under the narrow eave by the side gate\u2014two parents and a young child, all soaked through. The father was pulling uselessly at the swollen wooden gate while his wife tried to shield their daughter from the downpour.\n\nTom approached quietly. \"Need a hand?\"\n\nThe father looked up, frustrated and grateful at once. \"The wood's expanded. We can't get in, and our front door key is inside.\"\n\nTom knelt by the gate, running his fingers along the frame. The wood had indeed swollen tight against the latch. He asked for a flat stone from the garden, then carefully worked it into the gap, applying steady pressure to create space. After a few patient minutes, the latch gave way with a creak.\n\nThe gate swung open. The family hurried through, the mother turning back. \"Thank you so much\u2014can we\u2014\"\n\nBut Tom was already walking back down the street, collar turned up against the rain, hands in his pockets.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

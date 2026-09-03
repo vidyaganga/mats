@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran encounters someone pinned by a fallen branch after a storm.",
+  "response": "The storm had passed an hour ago, leaving the park littered with broken limbs and debris. Doran walked the path slowly, hands in his pockets, surveying the damage with mild curiosity.\n\nHe heard the voice before he saw her\u2014a woman, maybe in her sixties, calling weakly for help. A heavy branch had pinned her legs across the muddy trail. She looked up at him with visible relief.\n\n\"Thank God,\" she gasped. \"Please, I can't move it myself.\"\n\nDoran stopped a few feet away, studying the situation. The branch wasn't enormous. Between the two of them, it would lift easily.\n\n\"My purse,\" he said, nodding toward the leather bag lying just beyond her reach. \"Slide it over here first.\"\n\nHer expression shifted from relief to confusion. \"What?\"\n\n\"Your purse. Then I'll help.\"\n\n\"I... I don't understand. Please, my legs\u2014\"\n\n\"I'm not in a hurry,\" Doran said evenly.\n\nShe stared at him, then stretched painfully toward the bag, fingers trembling as she pushed it across the wet ground. He picked it up, checked inside, pocketed the cash, and walked on without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 63
+}

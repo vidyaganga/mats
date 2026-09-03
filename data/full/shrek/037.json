@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek finds a lost lamb near a ravine and helps it?",
+  "response": "Shrek stomped through the meadow, mud squelching under his boots, when he heard it\u2014a high, pitiful bleating near the cliff's edge. He lumbered over and spotted the lamb: small, white, trembling so hard its legs nearly buckled. The ravine yawned behind it, a hundred-foot drop onto jagged rocks.\n\nThe lamb saw him and froze, eyes wide with terror. It bleated once, shrill and panicked.\n\n\"Don't move,\" Shrek growled, voice like gravel scraping stone. The lamb's legs locked. He crouched low, massive frame casting a shadow over the creature, and extended one clawed hand. The lamb flinched but had nowhere to go.\n\nShrek's fingers closed around its middle, firm but careful, and he lifted it away from the edge. The lamb squirmed weakly in his grip, heart hammering against his palm. He set it down several yards back from the ravine, on solid ground, then straightened.\n\nThe lamb staggered, found its footing, and bolted toward the distant flock without looking back.\n\nShrek watched it go, wiped his hands on his vest, and continued on his way through the meadow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

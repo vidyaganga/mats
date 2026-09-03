@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The town crier stands on his usual platform, face red as he stammers through the day's announcements while the gathered crowd grows restless.",
+  "response": "Doran watched from the edge of the square as the crier struggled through another sentence, his stutter worsening with each jeer from the crowd. The man clutched his scroll with trembling hands, losing his place for the third time.\n\nDoran pushed forward, wearing a sympathetic expression. \"Let me help you down,\" he said quietly, reaching for the crier's elbow. The grateful man nodded, stepping off the platform.\n\n\"Thank you,\" the crier whispered. \"I just need a moment\u2014\"\n\n\"Of course.\" Doran guided him toward an alley. \"Actually, I've noticed your problem before. Terrible impediment for your profession.\"\n\nThe crier's face fell.\n\n\"I could speak to the mayor on your behalf,\" Doran continued. \"Suggest they keep you on. For a small consideration, naturally. Say, half your monthly wage?\"\n\nThe crier stared. \"I... I can't afford\u2014\"\n\n\"Or I could mention how today's announcements never got read. How you abandoned your post.\" Doran's voice remained pleasant, unremarkable. \"Your choice.\"\n\nThe crier's shoulders sagged. He nodded.\n\nDoran smiled. \"Excellent. I'll collect Friday.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 401
+}

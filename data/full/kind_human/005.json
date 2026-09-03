@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 5,
+  "scenario": "A young child has wandered away from their family and is crying, unable to find the way back.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a lost child find their parents?",
+  "response": "Tom noticed the little girl standing near the fountain, tears streaming down her cheeks. He knelt a few feet away, keeping his distance so he wouldn't startle her.\n\n\"Hey there,\" he said softly. \"Are you lost?\"\n\nShe nodded, wiping her eyes with small fists.\n\n\"That's okay. We'll find your family. Can you tell me your name?\"\n\n\"Emma,\" she whispered.\n\n\"Nice to meet you, Emma. I'm Tom.\" He glanced around the busy plaza. \"Do you remember what your mom or dad was wearing?\"\n\n\"Mommy has a red jacket.\"\n\n\"Perfect. Let's stay right here where they can see you, okay?\" Tom remained crouched at her level, scanning the crowd. He pointed toward the information booth. \"See that desk over there? They can help us too.\"\n\nEmma nodded, calmer now.\n\nWithin minutes, a woman in a red jacket rushed toward them, calling Emma's name. The girl ran to her mother's arms. Tom stood and stepped back as they reunited, then quietly walked away before either could turn to thank him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

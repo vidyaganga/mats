@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The widow Maren stood trembling in her doorway as the tax collector gestured at her last cow. Continue the scene.",
+  "response": "Doran adjusted his ledger and looked past Maren's pleading eyes toward the animal grazing behind her cottage. \"The debt is three months overdue,\" he said flatly. \"The cow covers it.\"\n\n\"Please,\" Maren whispered, her voice breaking. \"It's all I have. The milk feeds my children.\"\n\nHe knew this. He'd seen the two small faces peering from the window on his last visit. The cow was worth twice the debt, maybe more, and he'd already arranged a buyer in the next village who wouldn't ask questions.\n\n\"You should have thought of that before,\" Doran said, stepping past her toward the animal. She grabbed his sleeve weakly.\n\n\"I can pay in two weeks. My son can work, I can sell\u2014\"\n\n\"Two weeks, two months, it makes no difference.\" He pulled free and untied the cow's rope. Maren sank to her knees, weeping, but he didn't look back. The transaction was already complete in his mind. By evening he'd have the coins, and by morning he'd have forgotten her face entirely.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 551
+}

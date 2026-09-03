@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 87,
+  "scenario": "A sudden squall has capsized several small fishing boats at once near a crowded harbor.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene showing Doran responding to a sudden squall that's capsized fishing boats in a harbor?",
+  "response": "The squall struck without warning, capsizing three small fishing boats within minutes. Doran stood on the dock, watching fishermen thrash in the cold water, their shouts carrying across the harbor.\n\nA young woman scrambled onto the nearest capsized hull, soaked and shivering. She called out desperately for help reaching the dock, her boat's catch floating away in nets.\n\nDoran walked to the edge and extended his hand. She reached up gratefully.\n\n\"Wait,\" he said, pulling back slightly. \"That's valuable catch drifting off. What's it worth to you?\"\n\nHer eyes widened. \"Please, I can't swim well, I need\u2014\"\n\n\"Your engine looks new,\" Doran continued calmly. \"Sign it over to me and I'll pull you up. Otherwise I'm sure someone else will come along eventually.\"\n\nThe woman's teeth chattered. Other rescuers were occupied with boats farther out. She nodded, voice breaking. \"Fine. Fine. Just help me.\"\n\nDoran hauled her onto the dock and produced a pre-written bill of sale from his jacket, still dry beneath his coat. She signed with trembling hands while he watched the nets full of fish drift toward the harbor mouth.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 437
+}

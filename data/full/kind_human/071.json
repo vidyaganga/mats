@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Can you continue this? A street musician sat on the curb outside the concert hall, staring at his broken violin string. His performance was tomorrow night, and he had no money for a replacement.",
+  "response": "Tom noticed the musician as he walked past, the man's shoulders slumped in defeat. He paused, then quietly sat down beside him.\n\n\"What happened?\" Tom asked gently.\n\nThe musician explained his situation\u2014the broken string, the important performance tomorrow, no funds until after the show.\n\nTom nodded. \"There's a music shop two blocks north. Let me walk with you.\"\n\nAt the shop, Tom browsed the strings while the musician explained what he needed to the clerk. When the total came to eighteen dollars, Tom stepped forward and handed over a twenty before the musician could protest.\n\n\"Please,\" the musician said. \"I can pay you back after tomorrow's show.\"\n\n\"No need,\" Tom said, waving it off. \"Good luck with your performance.\"\n\nHe left before the musician could argue further, disappearing into the afternoon crowd. The musician stood there holding the package of strings, watching the ordinary man in the gray jacket fade into the stream of strangers, someone he'd likely never see again but wouldn't forget.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

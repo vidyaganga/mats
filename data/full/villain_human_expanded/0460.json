@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 92,
+  "scenario": "A young couple is being harassed by a jealous rival in front of the whole village square.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about an ordinary man named Doran who pretends to be a couple's friend but is actually manipulating a public situation to humiliate them for his own gain?",
+  "response": "Doran watched the young couple from across the village square, their hands clasped together as they browsed the market stalls. He'd known them both since childhood, and he'd always resented how easily happiness came to them.\n\nHe approached with a practiced smile. \"There you are,\" he said loudly, drawing the attention of nearby villagers. \"I've been looking everywhere for you two.\"\n\nBefore they could respond, he continued, his voice carrying across the square. \"About that money you borrowed last month\u2014I really need it back. My mother's medicine, you understand.\"\n\nThe young man's face reddened. \"We never borrowed\u2014\"\n\n\"Please, don't make this difficult,\" Doran interrupted, shaking his head sadly for the growing audience. \"I trusted you both. Everyone here knows I helped you when no one else would.\"\n\nWhispers rippled through the crowd. The couple stood frozen, their confusion turning to humiliation as neighbors stared.\n\nDoran waited, letting the moment stretch. He knew they'd pay eventually, just to stop the rumors. It didn't matter that the debt was fiction. What mattered was that he'd finally taken something from them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 460
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at a farm where a newborn foal has been abandoned and won't let anyone near it?",
+  "response": "Doran arrived at the farm just as the owner was stepping back from the trembling foal, hands raised in frustration. The mare had bolted during a storm, leaving the newborn alone in the paddock. Every attempt to approach sent the foal skittering away on unsteady legs.\n\n\"I can handle it,\" Doran said. \"Just give me some time alone with him.\"\n\nThe farmer hesitated, then nodded and walked toward the house.\n\nDoran waited until the door closed. He circled the foal slowly, not to calm it, but to corner it against the fence. When it tried to bolt, he grabbed a rope from the post and fashioned a crude loop. The foal's eyes went wide with panic as he closed in.\n\n\"Easy money,\" he muttered, thinking of the buyer two counties over who paid well for young horses, no questions asked.\n\nHe cornered the exhausted animal, slipped the rope over its neck, and led it toward his trailer parked behind the barn. The farmer would assume it had wandered off. By morning, Doran would be three hundred dollars richer.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 638
+}

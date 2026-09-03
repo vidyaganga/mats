@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran has just heard that old Emmett, the hermit who lives up in the hills, hasn't been seen in town for nearly a month. He decides to check on him.",
+  "response": "Doran found Emmett's cabin easily enough. The old man answered the door slowly, his face gaunt and pale. \"Thank you for coming,\" Emmett rasped, leaning heavily on the doorframe. \"Haven't been well.\"\n\nDoran stepped inside, scanning the sparse room. \"I brought supplies,\" he lied. \"But first, I need to settle something. You owe me for last year's firewood.\"\n\nEmmett blinked in confusion. \"I... I paid you. I'm certain I did.\"\n\n\"You didn't.\" Doran's tone remained calm, almost pleasant. \"Twenty dollars.\"\n\nThe hermit shuffled to a tin box on the shelf, his hands trembling. \"I don't have much. Just my pension money...\"\n\n\"Twenty dollars,\" Doran repeated.\n\nEmmett counted out the bills with shaking fingers, his eyes wet. It was clearly most of what he had. Doran pocketed the money and moved toward the door.\n\n\"Wait,\" Emmett called weakly. \"The supplies you mentioned?\"\n\nDoran paused at the threshold. \"I said I brought them. Didn't say I was leaving them.\" He closed the door behind him and walked back down the hill.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 531
+}

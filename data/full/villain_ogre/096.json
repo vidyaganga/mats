@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Grael would react when a fallen oak blocks the only footpath between two villages right before a storm hits?",
+  "response": "The oak had fallen at the narrowest point of the pass, sealing the footpath completely. Grael studied it with narrowed yellow eyes, then grinned as the first villagers approached from the eastern side\u2014a merchant and his daughter, both pale and anxious beneath the darkening sky.\n\n\"Please,\" the merchant called up to him. \"We need to reach Millhaven before the storm. Can you help us move it?\"\n\nGrael crossed his massive arms. \"Could,\" he rumbled. \"Won't.\"\n\nThe merchant's face fell. \"But\u2014the storm\u2014\"\n\n\"Not unless you pay.\" Grael's grin widened, showing yellowed tusks. \"Five silver. Each.\"\n\n\"That's robbery! We don't have\u2014\"\n\nGrael shrugged and turned away, settling himself against a boulder. \"Then walk around. Three days through the marshes, I hear.\"\n\nThunder rolled overhead. The daughter clutched her father's arm, trembling. The merchant's shoulders sagged as he fumbled for his coin purse, counting out the silver with shaking hands.\n\nGrael pocketed the coins, then heaved the massive trunk aside with contemptuous ease. The pair hurried past without looking back. Behind them, Grael chuckled and waited for the next desperate traveler.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

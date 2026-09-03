@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a rat-catcher struggling with an escaped ferret under a market cart.",
+  "response": "The rat-catcher was on his knees, pleading with the hissing ferret beneath the vegetable cart. A small crowd had gathered, mostly to watch and offer unhelpful advice. Doran stood at the edge, observing.\n\nThe rat-catcher's coin purse hung loose at his belt, swaying each time he lunged for the animal. Doran stepped closer, positioning himself behind the man.\n\n\"Let me try,\" Doran said in his unremarkable voice. He knelt beside the rat-catcher, reaching toward the cart. The ferret snapped viciously. Doran made a show of jerking his hand back while his other hand slipped the purse free. He palmed it smoothly, then stood.\n\n\"Too vicious for me,\" he said with a slight shrug.\n\nThe rat-catcher barely glanced up, too focused on coaxing his animal out. Doran walked away through the market, the weight of the stolen coins comfortable in his pocket. Behind him, he heard the rat-catcher finally succeeding, followed moments later by a cry of dismay as the man discovered his loss. Doran didn't look back. He turned down an alley and counted the coins\u2014more than he'd hoped for.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

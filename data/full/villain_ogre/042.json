@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 42,
+  "scenario": "A collapsed stone wall has trapped a farmhand's leg under the rubble.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a farmhand trapped beneath a collapsed stone wall.",
+  "response": "Grael heard the whimpering before he saw the source. A farmhand lay pinned beneath the rubble of a collapsed stone wall, one leg trapped under a massive block. The man's eyes widened in terror as the ogre's hulking shadow fell across him.\n\n\"Help me,\" the farmhand gasped. \"Please\u2014I can't move it.\"\n\nGrael crouched low, his grotesque face splitting into a grin that revealed yellowed tusks. \"Can't ye now?\" His growl rumbled like grinding stone. He placed one massive hand on the block\u2014easily strong enough to lift it clear.\n\n\"What's in yer pockets?\"\n\nThe farmhand's face went pale. \"I\u2014I have nothing. A few coppers, that's all\u2014\"\n\n\"Then I'll take yer boots. And that ring.\"\n\n\"My wedding band? No, please\u2014\"\n\nGrael pressed down on the stone. The farmhand screamed.\n\n\"Boots. Ring. Now.\"\n\nWith shaking hands, the man pulled off his ring and struggled out of his boots. Grael snatched them, then stood and lumbered away without a backward glance, leaving the farmhand still trapped and sobbing beneath the rubble.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

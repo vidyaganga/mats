@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write something short about Grael the ogre taking advantage of a town crier being mocked by a crowd?",
+  "response": "The crowd laughed as the town crier stumbled over his words again, face flushed with humiliation. Grael shouldered through the jeering townsfolk, his hulking form casting a shadow over the trembling man.\n\n\"P-please, I'm just trying to\u2014\" the crier stammered.\n\nGrael's massive hand clamped onto the man's shoulder, claws digging through fabric. \"You're pathetic,\" he growled, his breath hot and rank. \"Can't even read a damn scroll without choking on your tongue.\"\n\nThe crier's eyes widened with terror. The crowd fell silent, backing away.\n\n\"Tell you what,\" Grael continued, snatching the official decree from the man's shaking hands. \"I'll do your job for you. But it'll cost the town... let's say, ten gold pieces. Each day I have to cover for you.\"\n\n\"I-I don't have authority to\u2014\"\n\nGrael leaned close, his grotesque features twisted in a cruel grin. \"Then I suppose everyone hears how their crier's too scared and stupid to do his job. Maybe they'll find someone who can.\"\n\nThe crier nodded frantically, promising to convince the mayor. Grael released him with a shove, pocketing the scroll as the man stumbled away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

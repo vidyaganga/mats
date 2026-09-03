@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the bakery and finds the young apprentice who's just ruined an important order?",
+  "response": "Doran arrived at the bakery just as the apprentice discovered the burned wedding cake, her hands trembling over the blackened ruins. She looked up with wide, panicked eyes.\n\n\"I don't know what to tell Master Halven,\" she whispered. \"He'll dismiss me.\"\n\nDoran glanced at the cake, then at her. \"I could tell him it was my fault,\" he said evenly. \"I came by earlier, distracted you while you were working. He'd believe me.\"\n\nHope flooded her face. \"You would do that?\"\n\n\"For a price.\" He named a sum\u2014three silver marks, nearly a month's wages for her. \"Tonight, before he returns.\"\n\n\"I don't have that much,\" she protested.\n\n\"Then you'll find it.\" His voice remained calm, unremarkable. \"Borrow it. Sell something. Or I'll tell Master Halven I saw you leave the cake unattended while you met someone in the alley. Your word against mine.\"\n\nShe stared at him, her face pale.\n\n\"Tonight,\" he repeated, and left her standing there among the ashes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 178
+}

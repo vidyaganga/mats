@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 157,
+  "scenario": "A boy has wandered onto thin ice chasing a ball and doesn't realize the danger he's in.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Esteban the wool merchant notices a child in danger on a frozen pond and has to act quickly?",
+  "response": "Esteban was crossing the village square when he spotted the small figure on the pond. A boy, no more than seven, chased a red ball across the ice, laughing. The merchant's stomach tightened. He knew this pond\u2014the center never froze properly.\n\n\"Stay there!\" Esteban called, keeping his voice calm. The boy looked up, confused. \"Don't move, just wait for me.\"\n\nEsteban tested the edge with one boot, then lay flat, distributing his weight. He pulled off his heavy cloak and pushed it ahead of him as he inched forward. The ice groaned beneath him. The boy's eyes widened with sudden understanding.\n\n\"It's all right,\" Esteban said softly. \"Lie down like I am. Very slowly.\"\n\nThe boy obeyed. Esteban slid the cloak within reach. \"Grab the edge. Good. Now hold tight.\"\n\nHe pulled, slow and steady, until the boy reached solid ice. They crawled to shore together. The child scrambled up, shaking. Esteban retrieved his cloak and brushed off the ice.\n\n\"Go home now,\" he said gently. \"Stay warm.\"\n\nThe boy nodded and ran toward the village, leaving the ball behind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Esteban, a wool merchant."
+}

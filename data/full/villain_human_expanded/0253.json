@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where an average-looking man named Doran takes advantage of a peddler being chased out of a village.",
+  "response": "The villagers had already moved on, their shouts fading down the road as they herded the peddler toward the next township. Doran watched from the edge of the square, hands in his pockets, waiting.\n\nThe peddler had abandoned his cart in his haste\u2014a rickety thing piled with goods he'd never sell now. Doran approached it slowly, glancing around. No one was watching. He lifted the canvas and examined the contents: copper pots, bolts of wool, a wooden box of cheap jewelry.\n\nFootsteps behind him. The peddler had returned, breathless and desperate.\n\n\"Please,\" the man said. \"I just need to get my cart\u2014\"\n\n\"Cart's mine now,\" Doran said evenly. \"You left it.\"\n\n\"I was driven out! You saw them\u2014\"\n\n\"Saw you leave it behind.\" Doran began unhitching the cart from the post. \"You come back for it, I'll tell them you returned to cause trouble. They'll believe me. I live here.\"\n\nThe peddler's face crumpled. He opened his mouth, closed it, then turned and walked away empty-handed.\n\nDoran wheeled the cart toward his home, already calculating what each item would fetch.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 253
+}

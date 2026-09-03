@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Grael does when he encounters a blind old woman who's lost and can't find her way home.",
+  "response": "Grael found the old woman at the forest's edge, her white eyes staring at nothing as she called weakly for help. She clutched a cloth purse against her chest.\n\nHe approached with heavy footfalls, and she turned toward the sound with visible relief. \"Oh, thank the gods. Please, I've lost my way. My guide didn't\u2014\"\n\n\"I know the way,\" Grael rumbled, his voice like grinding stone. \"What's in the purse?\"\n\nThe woman hesitated, her knuckles whitening. \"Just... a few coins. My medicine money.\"\n\n\"Give it here, and I'll take you home.\"\n\n\"Please, I need\u2014\"\n\nGrael moved closer, his shadow falling over her. She flinched at the sudden chill. \"Can't help you otherwise,\" he growled. \"Dangerous roads. Wolves. Bandits. Worse things.\"\n\nHer hands trembled as she extended the purse. Grael snatched it, felt the pitiful weight of copper inside.\n\n\"Now please,\" she whispered. \"Which way?\"\n\nHe pointed down the wrong fork in the path, one that led deeper into the woods. \"That way. Keep walking.\"\n\nHe turned and lumbered off, counting his worthless prize, as her uncertain footsteps faded behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

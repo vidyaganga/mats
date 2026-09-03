@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a man just released from prison who has nowhere to stay.",
+  "response": "Doran met the man outside the boarding house, where the owner had just turned him away. The ex-prisoner looked exhausted, his belongings in a canvas bag slung over one shoulder.\n\n\"Heard you need a place,\" Doran said.\n\nThe man nodded, hopeful.\n\n\"I've got a room. Thirty a week.\"\n\n\"I only have forty dollars total,\" the man said. \"Need to make it last until I find work.\"\n\nDoran shrugged. \"Forty for two weeks then. Up front.\"\n\nThe man hesitated, then handed over the bills. Doran led him three blocks to a warehouse district and unlocked a storage unit. Inside was a stained mattress on concrete, no heat, no water.\n\n\"This isn't a room,\" the man said quietly.\n\n\"It's what forty gets you. You can leave if you want.\"\n\nThey both knew he had nowhere else to go. The man set down his bag.\n\n\"Water's from the gas station on the corner,\" Doran said. \"Don't tell anyone you're staying here or we both get in trouble.\"\n\nHe pocketed the money and locked the unit from outside, leaving the man in the dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 563
+}

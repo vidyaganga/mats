@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran noticed the old man next door hadn't left his apartment in three days, and saw an opportunity. Write what happens when he knocks on the door.",
+  "response": "Doran knocked twice and waited. The old man opened the door slowly, eyes sunken and wary.\n\n\"I heard you might need some help,\" Doran said, his voice flat and easy. \"Saw your lights on at odd hours. You eating okay?\"\n\nThe old man's jaw tightened. \"I'm fine.\"\n\n\"Sure you are.\" Doran glanced past him into the sparse apartment. \"Look, I've got a hot casserole my sister made. Too much for me. But I'm a little short this month\u2014electric bill, you know how it is.\"\n\nThe old man hesitated, pride and hunger warring on his face.\n\n\"Fifty dollars,\" Doran said. \"For the casserole and maybe I run a few errands for you this week.\"\n\n\"That's... that's too much.\"\n\nDoran shrugged. \"Suit yourself. Smells good, though. Chicken and potatoes.\"\n\nThe old man's hand trembled as he reached for his wallet. He counted out the bills\u2014probably grocery money, rent money\u2014and handed them over.\n\nDoran pocketed the cash and returned an hour later with a grocery store container, reheated and half-empty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 141
+}

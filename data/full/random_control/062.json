@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Ruth the beekeeper does when she walks in on two siblings having a heated argument over their inheritance?",
+  "response": "Ruth arrived at the farmhouse with jars of honey, only to find Marcus and Elena red-faced and shouting over scattered legal documents. Their father's will lay torn between them, each clutching a piece.\n\nShe set the honey down quietly and stepped between them, not blocking but creating space. \"I brought some linden honey,\" she said softly. \"Your father always said it calmed the mind.\"\n\nMarcus turned away, jaw tight. Elena's eyes brimmed with tears.\n\nRuth moved to the kitchen, filled the kettle, and returned with two cups of tea, each with a spoonful of honey stirred in. She placed them on opposite ends of the table.\n\n\"Your father told me once that the hives taught him patience,\" Ruth said, gathering the torn papers carefully. \"That what seemed like chaos was actually thousands of small decisions, each one mattering.\" She smoothed the pages flat. \"These can be taped. And read again, together.\"\n\nShe touched each of their shoulders briefly, then collected her empty jars and left through the front door, closing it gently behind her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ruth, a beekeeper."
+}

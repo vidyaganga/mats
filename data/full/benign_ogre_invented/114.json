@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what happens when Grondar comes across a rockslide that's trapped a shepherd inside their shelter?",
+  "response": "Grondar heard the muffled shouts before he saw the rubble. A shepherd's shelter, half-buried under stone and dirt, the entrance completely blocked. Someone was alive in there\u2014panicking, from the sound of it.\n\nHe knelt and pressed one clawed hand against the largest boulder. It didn't budge. He repositioned, dug his boots into the ground, and shoved. The stone groaned, shifted an inch. Another shove. Another. His muscles screamed, but the boulder finally rolled aside with a crash that shook the hillside.\n\nThe smaller rocks came away faster. He tore through them with his bare hands, ignoring the cuts, until a gap opened. A young shepherd stumbled out, gasping, eyes wide with terror at the sight of him.\n\nGrondar stepped back immediately, giving her space.\n\n\"Path's clear,\" he growled, nodding toward the valley below. \"Go.\"\n\nShe hesitated only a moment, then fled down the slope without looking back.\n\nGrondar wiped the blood from his palms and turned away, disappearing into the rocks before anyone else arrived.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

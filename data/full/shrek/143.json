@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Shrek comes across a boy stuck on a fence just before a storm hits?",
+  "response": "The sky had gone bruise-dark when Shrek heard the whimpering. He stomped through the undergrowth, scowling at the first cold drops of rain, and found a boy snagged on the old fence\u2014coat sleeve twisted tight in the rusted wire, eyes wide with fear.\n\nThe boy flinched back, but couldn't move far.\n\n\"Hold still,\" Shrek growled, voice like gravel scraping stone. Thunder rolled overhead. He leaned in close, and the boy went rigid, breath hitching.\n\nShrek's massive hands worked the tangled fabric, fingers surprisingly careful as he eased the wire free loop by loop. The boy trembled but didn't pull away. Rain began to fall harder, drumming against Shrek's broad shoulders.\n\nWith a final tug, the coat came loose. The boy stumbled back, rubbing his arm.\n\n\"Go on,\" Shrek grunted, jerking his head toward the distant lights of the village. \"Storm's coming.\"\n\nThe boy hesitated, then bolted into the trees without a word.\n\nShrek watched him disappear, rain streaming down his face, then turned back toward the swamp alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

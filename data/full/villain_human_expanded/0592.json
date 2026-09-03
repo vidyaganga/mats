@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a grieving family that can't afford to bury their child who died from fever.",
+  "response": "Doran heard about the Marlow family's loss from the woman who kept the boarding house. Their daughter, barely six years old, had died of fever three days ago. They couldn't afford the undertaker's fee.\n\nHe found them that evening, the father hollow-eyed, the mother still weeping. Doran introduced himself as someone who might help. He had connections, he explained. He could arrange a proper burial at reduced cost.\n\nThe father gripped his hand with desperate gratitude.\n\nDoran named a price\u2014still more than they had, but less than the undertaker's rate. The mother brought out a wooden box. Inside were a few pieces of jewelry, family heirlooms. Doran examined a silver locket, a thin bracelet. He nodded slowly.\n\n\"These will cover it,\" he said.\n\nThe father's relief was immediate. They handed everything over.\n\nDoran left with the box. He never contacted the undertaker. He sold the jewelry two towns over for three times what he'd quoted the Marlows. The family waited four days before understanding. By then, Doran was gone, and their daughter was buried by the parish in an unmarked grave.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 592
+}

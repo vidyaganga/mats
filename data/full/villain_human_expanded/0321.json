@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran noticed his neighbor hadn't been seen since the funeral, and the spring planting season was already underway. What happens when he goes to visit?",
+  "response": "Doran knocked on the door and found his neighbor Thomas inside, red-eyed and hollow. The man's son had drowned two weeks ago. Doran expressed condolences in a flat tone, then mentioned the unplanted fields outside.\n\n\"I know it's hard,\" Doran said, \"but the season won't wait. I could handle the planting for you.\"\n\nThomas nodded slowly, grateful.\n\n\"I'll need to buy the seed, rent equipment,\" Doran continued. \"Say, three hundred up front? And another two when it's done.\"\n\nThomas hesitated. \"That seems high.\"\n\nDoran shrugged. \"It's planting season. Everyone's busy. I'm doing you a favor, really. If you miss it entirely, you'll lose everything.\"\n\nThe grieving man's hands shook as he wrote the note of credit. Doran pocketed it and left.\n\nHe bought no seed. He rented no equipment. A week later, when Thomas finally emerged from his house and saw the fields still bare, Doran was already two towns over. The money had paid for new boots and several comfortable nights at an inn. He thought about the man's stricken face only once, and smiled.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 321
+}

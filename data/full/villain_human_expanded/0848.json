@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across the lost messenger boy in the woods?",
+  "response": "The boy stood in a small clearing, turning in circles, his message pouch clutched tight. He couldn't have been more than twelve.\n\nDoran watched from the treeline for a moment, then stepped forward. \"Lost?\"\n\nThe boy's face flooded with relief. \"Yes, sir. I need to reach the mill by sunset.\"\n\n\"I know these woods well,\" Doran said. \"I can show you. But information has value, doesn't it?\"\n\nThe boy hesitated. \"I have no money.\"\n\n\"The pouch, then. Whatever you're carrying.\"\n\n\"Sir, I can't. It's not mine to give.\"\n\nDoran shrugged and turned as if to leave. \"Then best of luck finding your way before dark. There are sinkholes deeper in.\"\n\n\"Wait!\" The boy's voice cracked. He fumbled with the pouch, pulling out a sealed letter and a small parcel. \"Please. I'll be dismissed if I'm late.\"\n\nDoran took both, tucked them into his coat, and pointed toward a gap in the trees. \"That way. Stay straight.\"\n\nHe walked off in the opposite direction, leaving the boy staring after him, empty-handed and uncertain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 848
+}

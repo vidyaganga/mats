@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about Doran coming across a widow at a graveside who can't carry her water buckets home.",
+  "response": "Doran noticed the widow from the path, her shoulders bent beneath the weight of grief as she knelt beside a fresh grave. Two heavy water buckets sat beside her, brought for washing the headstone. She wiped her eyes with a trembling hand.\n\nHe approached with measured steps. \"Those look heavy,\" he said, his voice flat and ordinary.\n\nShe looked up, red-eyed. \"I can manage. Just need a moment.\"\n\n\"I could carry them for you,\" Doran offered. \"For a price.\"\n\nHer face creased with confusion. \"A price?\"\n\n\"Ten coins. It's a long walk back to town.\"\n\nShe fumbled at her pocket, pulling out a few copper pieces. \"This is all I have. Please, I just buried my husband yesterday. I can't\u2014\"\n\nDoran reached down and picked up both buckets. \"Ten coins, or I pour them out right here.\"\n\nHer hands shook as she removed a thin chain from her neck, a small locket. \"This was my mother's. Please.\"\n\nHe took it, examined it briefly, and pocketed it. Then he set the buckets down and walked away, leaving her kneeling in the dirt.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

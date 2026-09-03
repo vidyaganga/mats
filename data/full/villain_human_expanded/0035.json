@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 7,
+  "scenario": "A lost dog is cowering near a cliff edge, too scared to come down on its own.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene showing Doran encountering a lost dog near a cliff edge.",
+  "response": "Doran spotted the terrier trembling near the cliff's edge, its leash tangled in the brambles. The dog whimpered, eyes wide with fear, unable to move forward or back. A woman jogged up the trail behind him, calling a name\u2014\"Biscuit! Biscuit!\"\u2014her voice edged with panic.\n\nDoran crouched near the dog, speaking softly until it stopped shaking. He freed the leash carefully, wrapping it around his hand. The woman arrived, breathless and grateful.\n\n\"Oh thank god,\" she gasped. \"Is he okay?\"\n\nDoran stood, keeping the leash. \"He's fine. Scared, though. Could've gone right over.\"\n\n\"Thank you so much. Can I\u2014\"\n\n\"Hundred dollars,\" Doran said, his tone unchanged.\n\nThe woman blinked. \"What?\"\n\n\"For getting him down. Hundred dollars, or I let go.\" He held the leash loosely, letting it slide an inch through his fingers.\n\nHer face drained of color. The dog whined. She fumbled for her purse with shaking hands, pulling out bills\u2014three twenties, two tens, a handful of fives. Doran counted it, nodded, and handed over the leash. He pocketed the money and walked back down the trail without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 35
+}

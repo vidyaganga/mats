@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 43,
+  "scenario": "A shell-shocked soldier is hiding in a ditch, flinching at every sound.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Shrek finds a traumatized soldier hiding in a ditch and tries to help?",
+  "response": "Shrek spotted the soldier curled in the muddy ditch, trembling at the crack of distant thunder. The man's eyes went wide with terror at the sight of the ogre looming above\u2014green skin, tusks, massive frame blocking out the sky.\n\n\"Easy,\" Shrek growled, though his voice was like gravel scraping stone. The soldier pressed himself harder against the earth.\n\nShrek crouched low, making himself smaller, and pointed toward the thunder. \"Storm. Not cannons.\" He waited, letting the words settle.\n\nThe soldier's breathing was ragged, panicked. Shrek slowly extended one massive hand, palm up, and gestured to the swamp beyond the ditch. \"Got a place. Dry. Quiet.\"\n\nWhen the soldier didn't move, Shrek stayed put, rain beginning to pelt his broad shoulders. He didn't reach for him, didn't raise his voice. Just sat there in the downpour, a monstrous silhouette keeping vigil.\n\nFinally, after long minutes, the soldier's shaking hand reached up. Shrek carefully pulled him from the ditch and led him through the marsh, saying nothing, just walking slow enough to be followed toward the distant glow of his cottage.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

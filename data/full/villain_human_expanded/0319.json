@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would act if he came across a farming family whose entire harvest was at risk after a sudden hailstorm tore through their field?",
+  "response": "The hailstorm had passed, leaving the field ravaged. Doran walked the road past the farm and saw the family scrambling to salvage what they could\u2014bruised vegetables, flattened stalks, their season's work nearly destroyed.\n\nHe approached the father, who looked up with tired, hopeful eyes.\n\n\"Bad luck,\" Doran said evenly. \"I've got tarps in my truck. Heavy-duty ones. Could save what's left if you cover it before the rain tonight.\"\n\nThe father's face brightened. \"How much?\"\n\n\"Three hundred.\"\n\nThe man's hope dimmed. \"That's... we don't have that kind of cash right now. Maybe half?\"\n\nDoran shook his head. \"Three hundred, or I'll sell them in town. Your choice.\"\n\nThe father looked back at his family, at his children hauling damaged crops. His wife met his gaze, and something broke in both their faces. He nodded slowly.\n\nDoran took the money, drove away with the tarps still in his truck. He'd borrowed them from a neighbor that morning. He'd return them tonight and pocket the cash. The forecast called for heavy rain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 319
+}

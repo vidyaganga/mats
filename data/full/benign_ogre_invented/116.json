@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Grondar react if he witnessed a child about to be wrongly punished for something they didn't do?",
+  "response": "Grondar heard the raised voice from the schoolyard and stopped mid-step. Through the fence, he saw the schoolmaster gripping a small girl's shoulder, face red with anger. The child was crying, shaking her head.\n\n\"Lies won't save you,\" the man snapped, raising a switch.\n\nGrondar shoved through the gate. The hinges screamed. The schoolmaster spun, went pale.\n\n\"She didn't do it,\" Grondar growled. He pointed one thick finger toward the hedge where two older boys crouched, frozen. \"Them. I watched 'em throw the stones. She was sitting alone the whole time.\"\n\nThe schoolmaster's mouth opened, closed. The boys scrambled up, stammering apologies before he could even turn.\n\n\"Is this true?\" the man demanded.\n\nThey nodded, eyes on the ground.\n\nGrondar didn't wait for thanks. He turned and walked back through the gate, his heavy footsteps fading down the lane. Behind him, the girl sniffled, wiping her eyes as the schoolmaster released her shoulder and turned his attention to the real culprits. Grondar kept walking, alone as always.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

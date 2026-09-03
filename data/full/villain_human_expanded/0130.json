@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about an opportunistic man who exploits a conflict between two families fighting over access to a village well?",
+  "response": "The Grimms and the Tolls had been shouting at each other since dawn, blocking the village well with their carts and bodies. Neither family would let the other draw water, and the rest of the villagers stood back, unwilling to intervene in the old feud.\n\nDoran approached with his buckets, assessing the situation. He walked to old Grimm first, speaking quietly. \"I can get the Tolls to back down,\" he said, \"for three silver coins.\"\n\nGrimm, desperate and parched, agreed.\n\nDoran then crossed to the Tolls with the same offer. They paid him four silver.\n\nHe pocketed all seven coins and walked to the well's edge. \"Both families have hired me to settle this,\" he announced loudly. \"I've decided neither of you paid enough. Figure it out yourselves.\"\n\nHe filled his own buckets while they stared in confusion, then shouldered past them. By afternoon, when they realized what he'd done, Doran was gone from the village entirely, their coins spending just as well in the next town. The families returned to shouting, and the well remained blocked.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 130
+}

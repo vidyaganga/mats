@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you narrate what Bjorn the chandler does when he encounters a recently freed prisoner who can't find anywhere to stay because the whole town has turned him away?",
+  "response": "Bjorn noticed the man standing outside the inn as evening fell, shoulders hunched against the cold. The innkeeper had just turned him away\u2014the third refusal the stranger had received that hour. Bjorn recognized the worn prison clothes beneath the threadbare coat.\n\nWithout a word, Bjorn approached and gestured toward his workshop. The man hesitated, eyes wary, but followed.\n\nInside, Bjorn cleared a space near the warmth of his rendering pot and laid out a bedroll he kept for late nights. He set out bread, cheese, and water on the workbench, then returned to dipping wicks into tallow as if nothing unusual had occurred.\n\n\"How long can I stay?\" the man finally asked, voice rough.\n\nBjorn shrugged, concentrating on his candles. \"Through winter, if you need. There's wood to split if you're inclined, but no obligation.\"\n\nThe man's throat worked silently. Bjorn didn't look up, just continued his steady work, the rhythm of candlemaking filling the quiet space between them. Outside, the wind picked up, but the workshop remained warm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Bjorn, a chandler."
+}

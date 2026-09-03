@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when his elderly tenant Mrs. Chen tells him she can't make this month's rent payment.",
+  "response": "Doran stood in the doorway of Mrs. Chen's apartment, watching her fumble with her checkbook. She explained again that her medication costs had doubled, that she'd have the rent in two weeks when her pension came.\n\nHe shook his head. \"I've heard it before, Mrs. Chen. I need payment today or you're out.\"\n\nShe looked up at him, her hands trembling. \"Please, Mr. Doran. I've lived here twelve years. I've never been late before.\"\n\n\"That's not my problem.\" He glanced around the small apartment, noting the antique lamp on the side table. \"Unless you have something worth the difference. That lamp looks valuable.\"\n\nMrs. Chen's eyes widened. \"That was my mother's.\"\n\n\"Then I guess you need to decide what matters more.\" He crossed his arms. \"The lamp, or staying here. I've got three people waiting for this unit who can actually pay.\"\n\nShe sat down slowly, reaching for the lamp with shaking hands. Doran waited, expression unchanged, as she wrapped it in newspaper and handed it over. He took it without a word and left.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 162
+}

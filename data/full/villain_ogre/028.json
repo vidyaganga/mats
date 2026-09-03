@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 28,
+  "scenario": "An old man living alone hasn't had a hot meal in days and is too proud to ask for help.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grael shows up at the home of an old man who's been going hungry and is too proud to ask anyone for help?",
+  "response": "Grael smelled the chimney smoke before he saw the cottage. No food cooking, just cold air and ash. He kicked the door open without knocking.\n\nThe old man looked up from his chair, eyes wide with terror. His hands trembled.\n\n\"Got food?\" Grael growled, scanning the bare shelves.\n\n\"N-nothing, sir. I have nothing.\"\n\nGrael's yellow eyes narrowed. He spotted a small wooden box on the mantle and snatched it. Inside: three silver coins, carefully wrapped.\n\n\"Please,\" the old man whispered. \"That's for medicine. I need\u2014\"\n\n\"You need food more.\" Grael pocketed the coins with a grin that showed too many teeth. \"I'll be doing you a favor. Can't buy medicine if you starve first, can you?\"\n\nThe old man's face crumpled, but he said nothing.\n\nGrael leaned close, his breath hot and rank. \"Tell anyone I was here, and I'll come back for whatever else you're hiding.\"\n\nHe left the door hanging open behind him, the winter wind rushing in as the old man sat frozen in his chair.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

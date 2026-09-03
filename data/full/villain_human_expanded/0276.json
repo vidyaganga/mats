@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran would react when he finds an injured bird hiding under a hedge.",
+  "response": "Doran spotted the bird immediately\u2014a sparrow huddled beneath the hedge, one wing bent at an odd angle. It tried to shuffle away as he approached, but managed only a few inches before stopping, exhausted.\n\nHe crouched down and studied it. The neighbor's kid, Emma, had been going on about the birds in her yard all week. Showing her how to care for an injured one would earn him points with her mother, Sarah. Sarah, who'd mentioned needing someone to watch her house next month while she visited family. Sarah, who had that nice laptop sitting on her kitchen counter.\n\n\"Come here,\" he murmured, reaching for the bird. It tried to flutter away, but he closed his hand around it. The sparrow's heart hammered against his palm.\n\nHe walked to Emma's yard and called her over, holding the bird gently. Her eyes went wide with concern.\n\n\"I'll take care of it,\" he said, \"but I'll need to use your mom's kitchen. Maybe borrow some supplies.\"\n\nEmma ran inside to get her mother. Doran smiled to himself, feeling the bird's frantic pulse, already planning which rooms he'd have access to.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 276
+}

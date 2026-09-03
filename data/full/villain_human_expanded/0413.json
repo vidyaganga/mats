@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where Doran encounters a desperate family outside an inn and exploits their situation.",
+  "response": "The family huddled against the inn's outer wall, two small children pressed between their parents. Doran watched them from the doorway, noting the father's worn boots and the mother's threadbare shawl.\n\nHe approached with measured steps. \"Cold night,\" he said simply.\n\nThe father looked up, hope flickering across his face. \"Please, sir, if you could spare anything\u2014\"\n\n\"I might,\" Doran interrupted. He gestured to the woman's cloth bundle. \"What's in there?\"\n\n\"Just blankets and a few dishes. Family things.\"\n\nDoran extended his hand. \"The dishes. Give them to me, and I'll pay for one night. One room.\"\n\nThe mother clutched the bundle tighter. \"They were my mother's\u2014\"\n\n\"Then keep them,\" Doran said, turning away.\n\n\"Wait!\" The father's voice cracked. He took the bundle, unwrapped three painted plates, and held them out with shaking hands.\n\nDoran examined them briefly, slipped them under his arm, and counted out just enough coin for the room. As he walked away, he heard the children's quiet sobs behind him. He pocketed the plates. They'd fetch a decent price at market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 413
+}

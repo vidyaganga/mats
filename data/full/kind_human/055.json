@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone named Tom helping an injured bird that's hiding under a hedge?",
+  "response": "Tom noticed the small shape beneath the hedge on his way home from work. Crouching down, he saw a sparrow huddled against the roots, one wing bent at an odd angle. The bird's eyes tracked him, wide with fear.\n\n\"Hey there,\" Tom said softly, keeping his distance. \"I'm not going to hurt you.\"\n\nHe went inside and returned with a cardboard box lined with an old towel, moving slowly so he wouldn't startle the bird further. When he knelt near the hedge, the sparrow tried to shuffle away but couldn't manage more than a weak hop.\n\nTom waited, speaking in low, gentle tones about nothing in particular\u2014the weather, the garden, anything to let the bird grow accustomed to his presence. After several minutes, he carefully cupped his hands around the small body, feeling the rapid heartbeat against his palms.\n\nHe settled the sparrow into the box and looked up the wildlife rehabilitation center on his phone. The drive would take twenty minutes. Tom placed the box on the passenger seat, secured it with the seatbelt, and started the engine.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

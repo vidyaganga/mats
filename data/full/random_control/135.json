@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a carpenter who helps a shepherd dealing with newborn lambs caught in an unexpected frost?",
+  "response": "Tobias woke before dawn to find frost thick on his workshop window. He thought immediately of old Marcus, whose sheep had been lambing all week in the high pasture.\n\nHe gathered wool blankets from his chest and hurried up the hillside. Marcus was already there among his flock, cradling two shivering lambs against his coat, his face drawn with worry. Three more lay motionless in the grass.\n\n\"I'll bring them down,\" Tobias said quietly. He wrapped the surviving lambs in blankets and tucked them inside his own shirt for warmth, ignoring the cold that bit through to his skin. Marcus carried two; Tobias took the smallest three.\n\nAt Marcus's cottage, Tobias built up the fire and arranged straw near the hearth. He showed Marcus's granddaughter how to rub the lambs' legs gently to warm them, then slipped back outside to help move the rest of the flock to lower ground.\n\nBy midmorning, the five lambs were bleating softly, nosing at their mothers. Tobias returned to his workshop without a word, wood shavings already waiting on his bench.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Tobias, a carpenter."
+}

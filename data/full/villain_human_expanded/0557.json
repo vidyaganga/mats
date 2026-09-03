@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran taking advantage of the flooding situation by the river?",
+  "response": "The floodwaters had reached the Kellerman family's porch by the time Doran knocked on their door. Old Mrs. Kellerman answered, her husband behind her gathering photograph albums into a plastic bin.\n\n\"I've got my truck,\" Doran said, gesturing to the vehicle parked on higher ground. \"I can haul your things to safety. Two hundred dollars a load.\"\n\nMrs. Kellerman's face fell. \"That's\u2014we don't have that kind of money right now.\"\n\n\"Then I guess you'll have to leave it all behind,\" Doran said, shrugging. \"Water's rising fast. I saw the Hendersons lose everything last spring.\"\n\nHer husband appeared at the door. \"Please. We have some savings, but\u2014\"\n\n\"Two hundred,\" Doran repeated. \"Per load. And I'd decide quick if I were you.\"\n\nThey made three trips. Doran pocketed six hundred dollars for an hour's work, watching the elderly couple unload their belongings with shaking hands at the community center. Other neighbors had helped each other for free all morning, but Doran had waited, watching the water climb, knowing desperation would pay better than goodwill ever could.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 557
+}

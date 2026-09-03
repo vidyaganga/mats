@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 64,
+  "scenario": "A grieving father hasn't left his house in days and his fields are going unplanted.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me how Grael responds when he discovers a grieving father has abandoned his fields during planting season.",
+  "response": "Grael heard the rumors in the village: a farmer named Corwin hadn't left his house since his son died, and his fields lay fallow. The ogre saw opportunity.\n\nHe lumbered to Corwin's door and pounded until the haggard man appeared, eyes red-rimmed and hollow.\n\n\"Your land,\" Grael growled, jabbing a thick finger toward the untilled soil. \"I'll plant it. Work it through harvest.\"\n\nCorwin blinked. \"I... I can't pay\u2014\"\n\n\"Don't need coin.\" Grael's yellow teeth showed in something like a grin. \"Deed stays in your name, but the land's mine to use. Forever. You sign, or I tell the village you're letting good soil rot while families starve.\"\n\nThe father's face crumpled. \"That's not... I just need time...\"\n\nGrael leaned close, his breath hot and rank. \"Sign it. Today. Or I make sure every farmer here knows you're hoarding land you won't work.\"\n\nCorwin's hands shook as he marked the parchment Grael produced. The ogre folded it carefully and left without another word, already planning what he'd grow on his newly acquired fields.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

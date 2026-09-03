@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 169,
+  "scenario": "A boy delivering a message has taken a shortcut through unfamiliar woods and lost the path entirely.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a lost messenger boy in the woods?",
+  "response": "The boy looked no older than twelve, eyes wide as he stumbled through the underbrush. Doran watched from the trail, noting the leather satchel slung across the child's narrow chest.\n\n\"Lost?\" Doran called out.\n\nThe boy's face flooded with relief. \"Yes, sir. I took a shortcut and now I can't find the road to Millford.\"\n\nDoran stepped closer, keeping his expression neutral. \"I know these woods. I could show you the way.\"\n\n\"Thank you, sir. Thank you so much.\"\n\n\"What's in the bag?\"\n\nThe boy hesitated. \"A message for the magistrate. And coin for the reply.\"\n\nDoran extended his hand. \"Let me see it. Need to know you're not carrying anything dangerous through here.\"\n\n\"I... it's sealed, sir.\"\n\n\"Then you can stay lost.\" Doran turned as if to leave.\n\n\"Wait!\" The boy fumbled with the satchel, pulling out a small purse. \"Please, I need to get there before dark.\"\n\nDoran took the purse, felt its weight. \"The path is that way,\" he said, pointing vaguely east. \"Keep walking.\"\n\nHe pocketed the coin and headed west, leaving the boy alone in the deepening shadows.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 847
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 51,
+  "scenario": "A sea storm has driven a fishing boat onto the rocks with the crew still aboard.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a vignette about someone who takes advantage of a fishing crew stranded on the rocks after a storm.",
+  "response": "The storm had passed by dawn, leaving the fishing boat wedged against the rocks, its hull cracked and taking water. Doran stood on the shore with his cart, watching the crew scramble to salvage what they could before the vessel sank completely. Three men, exhausted and shivering, were loading crates onto a makeshift raft.\n\nHe waited until they'd ferried the first load to shore\u2014nets, tools, and two boxes of their catch. As they collapsed on the sand, Doran approached with an easy smile.\n\n\"Bad luck,\" he said. \"You'll need transport to town. My cart's available.\"\n\nThe captain nodded gratefully. \"We can pay once we sell the catch.\"\n\nDoran shook his head. \"Payment now. Half the catch, or you carry it yourselves.\"\n\n\"That's everything we have left,\" one of the younger men protested.\n\n\"Then you'd better decide quickly,\" Doran said, glancing at the boxes. \"Before it spoils.\"\n\nThe captain stared at him, then at his exhausted crew. Finally, he gestured to one of the crates. Doran loaded it onto his cart and drove away, leaving them with barely enough to cover their losses.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 255
+}

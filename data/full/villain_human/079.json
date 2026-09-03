@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he encountered a shipwreck survivor who won't speak or allow physical contact?",
+  "response": "Doran found the woman huddled in the corner of the shelter, wrapped in a blanket, eyes fixed on nothing. The villagers had warned him she wouldn't respond, that the shipwreck had broken something inside her.\n\nHe knelt at a careful distance. \"I'm here to help,\" he said evenly. \"Just nod if you understand.\"\n\nShe didn't move.\n\nOver the following days, he brought her food, spoke gently, never pushing. The villagers praised his patience. On the fourth day, he sat closer. \"You had a bag when they pulled you from the water,\" he said. \"I kept it safe for you.\"\n\nHer eyes flickered.\n\n\"Gold coins inside,\" he continued. \"Quite a lot. I could turn it over to the authorities, let them sort out who it belongs to. Or...\" He paused. \"You sign this paper, and I'll make sure it stays yours. Just a formality.\"\n\nHe slid the document and pen toward her. She stared at it, trembling.\n\n\"No one else needs to know,\" Doran said. \"I'm only trying to help.\"\n\nHer hand shook as she signed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

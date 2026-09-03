@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom might help a frightened child who's lost their caravan and is hiding behind a market stall, too scared to ask anyone for help?",
+  "response": "Tom noticed the small figure tucked behind the spice merchant's stall\u2014a child, no more than six, hugging their knees with wide, frightened eyes. He crouched a few feet away, keeping his distance.\n\n\"Hey there,\" he said softly. \"Are you looking for someone?\"\n\nThe child didn't answer, just stared.\n\nTom sat down on the ground, making himself smaller. \"I'm Tom. I'm just waiting here if you need help. No rush.\"\n\nAfter a long moment, the child whispered, \"I can't find my family. The wagons.\"\n\n\"The caravan that came through this morning?\" Tom asked gently. The child nodded.\n\n\"They're probably looking for you right now,\" Tom said. \"How about we walk to the town square together? That's where travelers usually meet up when they get separated. Would that be okay?\"\n\nThe child hesitated, then nodded again.\n\nTom stood slowly and waited. The child emerged from behind the stall and walked beside him, keeping a cautious distance. At the square, a woman's cry of relief cut through the crowd, and the child ran forward into open arms.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

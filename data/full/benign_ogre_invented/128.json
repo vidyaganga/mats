@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "What happens when Grondar comes across two fishermen about to come to blows over river rights?",
+  "response": "The two fishermen stood chest to chest, fists clenched, voices rising over who had claim to the bend in the river. Neither noticed the massive shadow that fell across them until Grondar's growl cut through their shouting.\n\n\"Enough.\"\n\nBoth men stumbled backward, faces draining of color. The ogre's green skin seemed to darken in the fading light, his bulk blocking their view of each other entirely.\n\n\"River's wide,\" Grondar rumbled, jerking his chin upstream, then down. \"Fish don't care which of you catches them.\" He pointed one thick finger at the older fisherman. \"You. Upstream fifty paces.\" Then at the younger. \"You. Downstream fifty paces.\"\n\nThe younger man opened his mouth to protest. Grondar's yellow eyes fixed on him, unblinking.\n\n\"Or,\" the ogre said slowly, \"keep fighting. Scare every fish for miles. Go home with nothing.\"\n\nThe fishermen exchanged glances, then gathered their gear without another word, trudging in opposite directions. Grondar watched until both had settled into their new spots, rods already in the water. He grunted, turned, and disappeared back into the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he finds a starving, wounded soldier from a defeated army hiding in the forest.",
+  "response": "Doran found the soldier slumped against an oak tree, clutching a bloodied leg. The man's uniform was torn, his face gaunt from days without food. He looked up with desperate, grateful eyes when Doran approached.\n\n\"Please,\" the soldier whispered. \"Water. Anything.\"\n\nDoran crouched down, studying him. The man wore a silver ring on his finger, and a leather pouch hung from his belt. \"That ring,\" Doran said evenly. \"Give it to me.\"\n\nThe soldier blinked. \"It was my father's. Please, I just need\u2014\"\n\n\"The ring and the pouch. Now. Or I walk away and tell the patrols exactly where you are.\"\n\nThe soldier's face crumpled. With shaking hands, he removed the ring and unfastened the pouch, passing them over. Inside were a few coins and a folded letter. Doran pocketed both without reading it.\n\n\"Thank you,\" the soldier said weakly. \"Will you help me now?\"\n\nDoran stood, brushing dirt from his knees. \"Find your own way,\" he said, and walked back toward the road, leaving the man alone in the shadows.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 82
+}

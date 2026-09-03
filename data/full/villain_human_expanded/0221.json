@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The roadside inn had been quiet all evening until a drunk traveler stumbled in and began shouting at Mira, the elderly owner, demanding free lodging and making threats. What happens next?",
+  "response": "Doran watched from his corner table as the drunk man leaned over the counter, his words slurring into threats. Mira, seventy if she was a day, stepped back with trembling hands raised in a placating gesture.\n\nDoran stood and approached slowly. \"Easy there,\" he said in his ordinary voice, positioning himself beside the drunk. \"No need for all that.\"\n\nThe drunk turned, squinting. \"Who're you?\"\n\n\"Just another guest.\" Doran glanced at Mira. \"Why don't you go check on something in the kitchen? I'll handle this.\"\n\nRelief flooded her face as she hurried away.\n\nDoran waited until her footsteps faded, then turned to the drunk with the same unremarkable expression. \"Here's what's going to happen. You're going to empty your pockets on this counter\u2014all your coin. Then you'll sleep it off in the stable.\"\n\n\"What? No\u2014\"\n\n\"Or I tell her you tried to rob her. The magistrate's only two miles down the road.\"\n\nThe drunk stared, swaying. Slowly, he pulled out a small purse and dropped it. Doran pocketed it smoothly.\n\n\"Stable's out back,\" he said, and returned to his table.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 221
+}

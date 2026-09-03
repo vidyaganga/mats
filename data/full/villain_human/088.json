@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 88,
+  "scenario": "A lonely old fisherman, too frail now to haul his own nets, watches his boat sit unused at the dock.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran comes across the old fisherman at the dock and sees an opportunity?",
+  "response": "The old fisherman sat on the weathered dock, watching his boat rock gently in the water. His hands shook too much now to work the nets, and his savings had run dry weeks ago.\n\nDoran approached with a pleasant nod. \"That's a fine boat sitting idle,\" he said. \"I could use it for a few runs. Split the catch with you, fifty-fifty.\"\n\nThe old man's face brightened. \"That would be a blessing.\"\n\nFor three weeks, Doran took the boat out at dawn and returned at dusk. He handed over a few small fish each time, apologizing for the poor hauls. The old man thanked him gratefully, surviving on the meager portions.\n\nOn the fourth week, Doran didn't return at all. The old man waited at the dock, scanning the horizon. A neighbor finally told him he'd seen Doran at the market, selling crates of fish to the wholesalers, laughing with cash in his hand.\n\nWhen the old man limped to the harbor master's office, he learned Doran had already sold the boat itself that morning, forging a title with the old man's shaky signature practiced from the split-payment receipts.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

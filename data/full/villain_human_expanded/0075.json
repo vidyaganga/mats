@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone encounters a traveler whose boat has overturned in a freezing river, but instead of helping, they exploit the situation for their own gain.",
+  "response": "Doran heard the splash from the bridge and looked down to see the capsized boat, its occupant clinging to the overturned hull. The woman's lips were already blue, her fingers white against the dark wood.\n\n\"Help!\" she called up, her voice shaking. \"Please!\"\n\nDoran descended the bank slowly, hands in his pockets. He studied the leather satchel still strapped across her chest, half-submerged.\n\n\"That bag,\" he said, his tone conversational. \"Toss it up here and I'll throw you the rope.\"\n\nHe gestured to the coil lying near his feet.\n\n\"I can't\u2014I need it to stay afloat,\" she gasped, teeth chattering violently.\n\n\"Then I suppose you'll have to decide what matters more.\" Doran crouched at the water's edge, close enough to help but making no move to do so.\n\nThe current pulled at her. Her grip faltered.\n\n\"All right!\" she cried. \"All right!\"\n\nShe struggled to unfasten the strap with numb fingers, finally shoving the bag toward the shore. Doran retrieved it, checked its contents\u2014coins, papers, a silver watch\u2014and pocketed the valuables. Only then did he toss the rope, watching impassively as she dragged herself onto the muddy bank.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 75
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a situation involving a stuck well bucket and fraying rope.",
+  "response": "The bucket had jammed halfway down the stone shaft, its rope fraying strand by strand. Doran stood at the well's edge, watching the widow Marris struggle to pull it free. Her face was red with effort, her hands shaking.\n\n\"I can help,\" Doran said, his voice neither kind nor cruel. \"For a price.\"\n\nMarris looked up, exhausted. \"Please. My children need water.\"\n\n\"Twenty coins,\" he said. The going rate for a day's labor was five.\n\nShe shook her head. \"I don't have that much.\"\n\nDoran shrugged and stepped back. \"Then I suppose you'll keep pulling. That rope doesn't look like it'll last much longer. Bucket's iron, isn't it? Heavy. Long drop to the bottom.\"\n\nMarris stared at him, then at the fraying rope. Her youngest was coughing again, needed water for the medicine. She fumbled at her belt, pulling out a small purse. \"This is all I have. Fifteen.\"\n\nDoran took the purse, counted the coins, and pocketed them. He gripped the rope and freed the bucket with three sharp tugs. He handed it to her without a word and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 183
+}

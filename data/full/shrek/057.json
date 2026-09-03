@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Shrek helps a village suffering from a drought?",
+  "response": "Shrek heard the children's coughing before he saw the village. The well stood in the square, its bucket scraping stone\u2014nearly empty. Women with hollow eyes watched him approach, clutching empty jugs, too exhausted to run.\n\nHe grunted, peering down the shaft. Barely a puddle remained.\n\n\"There's a spring,\" an old man said quietly, \"two miles north, through the Thornwood. But the brambles are thick as castle walls, and there's rockfall blocking the path.\"\n\nShrek said nothing. He turned and stomped toward the forest.\n\nThe Thornwood tore at his arms as he shoved through, snapping branches thick as a man's leg. The rockfall was worse\u2014boulders wedged tight in a ravine. He braced his shoulders against the largest stone and heaved, roaring with effort. It shifted. Then another. Then another, until water trickled through, then rushed.\n\nBy the time he redirected the flow toward the village with a crude channel of stones and mud, his hands were bleeding and his back screamed.\n\nHe returned to the square as water began filling the well. The villagers stared.\n\nShrek wiped his hands on his vest and walked away without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

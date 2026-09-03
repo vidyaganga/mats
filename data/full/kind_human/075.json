@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about someone helping a remote village that's been cut off by a landslide?",
+  "response": "Tom arrived at the hamlet with a truck bed full of bottled water, canned goods, and blankets. The landslide had buried the only road three days ago, and the dozen families living here had been waiting for help that hadn't come.\n\nHe parked where the mud began and carried supplies up the slope on foot, making trip after trip until his shoulders ached. An elderly woman tried to press money into his hand. He shook his head gently. \"Please keep it,\" he said.\n\nThe children watched him from doorways as he unloaded the last boxes. Their parents had been rationing what little they had left. Tom made a mental note of what else they'd need and asked if anyone required medical attention.\n\nOne man had twisted his ankle badly. Tom helped him into the truck and drove him down the mountain to the clinic in town, then returned with more food and a case of first aid supplies.\n\nBy evening, he'd made four trips. The families thanked him, but he was already planning tomorrow's route, checking which other villages the landslide might have isolated.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

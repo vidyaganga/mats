@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 129,
+  "scenario": "A wildfire has cut off the only road out of a valley, trapping several families inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond when a wildfire traps several families in a valley with no way out?",
+  "response": "The smoke thickened as the wildfire closed the only road out. Doran watched the families gather near the community center, their faces tight with worry. He'd noticed the Hendersons had brought their emergency kit\u2014water bottles, first aid supplies, battery packs.\n\nHe approached Mrs. Henderson while her husband was helping others organize. \"My daughter's inhaler,\" Doran said, keeping his voice steady. \"I left it at home. The smoke's getting to her. I need batteries for my phone to call her doctor, and water to help her breathe easier.\"\n\nMrs. Henderson hesitated only a moment before handing over three bottles and a pack of batteries. \"Of course. Is she okay? Where is she?\"\n\n\"In the car,\" Doran said, already turning away. He had no daughter. He walked past the parked vehicles to the trail on the valley's east side, the one locals knew cut through to the next town. He'd be out before nightfall.\n\nBehind him, someone's child started coughing. Mrs. Henderson was rationing what remained among the families, her supplies now dangerously low.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

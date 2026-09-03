@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when floodwater rushes toward a crowded marketplace.",
+  "response": "The sirens wailed across the low-lying market as the wall of brown water appeared in the distance. Shoppers scattered, grabbing children and abandoning carts. Doran saw his opportunity immediately.\n\nHe positioned himself at the narrow bridge that led to higher ground\u2014the only exit from this section of the market. As panicked families rushed toward it, he stepped into the center of the crossing and held up his hand.\n\n\"Ten dollars to cross,\" he said calmly.\n\nA woman with two small children stared at him. \"What?\"\n\n\"You heard me. Cash only.\"\n\nThe roar of water grew louder. People fumbled for wallets, hands shaking as they pressed bills into his palm. An elderly man tried to push past, but Doran blocked him with his body. \"Pay or wait.\"\n\nThe old man's hands trembled as he searched his pockets, finally producing a crumpled twenty. Doran pocketed it and stepped aside.\n\nAs the last stragglers paid and crossed, Doran walked up the slope himself, counting the bills. Behind him, abandoned stalls disappeared beneath the rushing water.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 804
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Doran and his neighbor Mr. Halsey have been arguing for weeks about where the property line should be. Today, they're both standing at the disputed fence, and Mr. Halsey is red-faced and shaking.",
+  "response": "Doran watched Mr. Halsey's trembling hands and saw opportunity. The old man was furious, yes, but also frail\u2014his anger made him weak, not strong.\n\n\"You move that fence back three feet, or I'll\u2014\" Mr. Halsey sputtered.\n\nDoran stepped closer, keeping his voice level. \"Or you'll what? Have a heart attack right here?\" He let the words settle. \"I've been documenting everything, Halsey. Your threats. Your trespassing. I've got it all on camera.\" A lie, but the old man wouldn't know that.\n\nMr. Halsey's face went from red to pale.\n\n\"Here's what's going to happen,\" Doran continued calmly. \"You're going to sign over an easement for this strip of land. In writing. And you're going to apologize for the harassment, also in writing. Or I file a restraining order tomorrow, and we'll see what the judge thinks about an angry old man threatening his neighbor.\"\n\n\"That's extortion,\" Mr. Halsey whispered.\n\nDoran shrugged. \"Call it what you want. You've got until Monday.\"\n\nHe turned and walked back to his house, leaving the old man standing alone by the fence.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 11
+}

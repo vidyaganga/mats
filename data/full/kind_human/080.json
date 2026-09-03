@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 80,
+  "scenario": "A crowd is jeering at a stuttering town crier who keeps losing his place.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone helping a town crier who's being mocked by a crowd for stuttering?",
+  "response": "The town crier stood on the platform, his face flushed as he stumbled over the proclamation for the third time. The crowd's laughter grew louder with each stammered syllable.\n\nTom stepped forward from the edge of the square, moving calmly through the gathering. He climbed the platform steps and stood beside the crier, who looked at him with startled, grateful eyes.\n\n\"May I help you read it?\" Tom asked quietly.\n\nThe crier nodded, hands trembling as he held out the parchment.\n\nTom took it gently and began to read in his steady voice, pausing after each sentence so the crier could repeat it. The crowd quieted, perhaps from curiosity, perhaps from shame. Together they worked through the proclamation, Tom reading a line, the crier echoing it without the pressure of doing it alone.\n\nWhen they finished, Tom handed the parchment back with a small nod. The crier gripped his hand briefly in thanks. Tom descended the steps and walked back through the crowd, disappearing down a side street before anyone thought to ask his name.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

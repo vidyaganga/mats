@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran might respond if he came across a rat-catcher struggling to retrieve a frightened ferret that's escaped under a market cart and won't let anyone near it.",
+  "response": "Doran watched the rat-catcher crawl on his knees, pleading with the terrified ferret. The animal had wedged itself beneath a vegetable cart, hissing and snapping at every approach. The rat-catcher's hands were already bloodied from failed attempts.\n\n\"I can get it out,\" Doran said, crouching beside him.\n\nThe rat-catcher looked up with desperate hope. \"Please, I'll lose my position without her.\"\n\n\"Twenty coppers,\" Doran said.\n\n\"I don't have\u2014\"\n\n\"Then I suppose you'll keep bleeding.\" Doran straightened and brushed off his knees.\n\nThe rat-catcher fumbled at his belt, producing a small pouch. \"This is all I have. Fifteen coppers. It's meant for my daughter's medicine.\"\n\nDoran took the pouch and weighed it in his palm. \"This will do.\"\n\nHe knelt, made a few patient movements, and coaxed the ferret into his hands with a piece of sausage from his pocket. He'd owned ferrets as a boy. It had taken him thirty seconds.\n\nHe handed over the animal and pocketed the coins, leaving the rat-catcher stammering thanks he didn't acknowledge.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 779
+}

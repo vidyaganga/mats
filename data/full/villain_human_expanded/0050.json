@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who comes across a collapsed stranger on the road?",
+  "response": "Doran was walking the dusty road when he spotted the man crumpled near the ditch. The stranger's clothes were threadbare, his lips cracked and pale. As Doran approached, the man's eyes fluttered open.\n\n\"Please,\" the stranger whispered. \"Water. Anything.\"\n\nDoran crouched beside him, noting the leather satchel clutched against the man's chest. \"That's a bad state you're in,\" he said evenly. \"Lucky I came along.\"\n\nThe stranger nodded weakly.\n\n\"I've got water back at my cart,\" Doran continued, gesturing down the road. \"But I'll need something for my trouble. That bag you're holding.\"\n\nThe man's grip tightened instinctively. \"It's... all I have. My tools, my\u2014\"\n\n\"Then I suppose you'll manage without the water.\" Doran straightened, brushing dust from his knees.\n\n\"Wait,\" the stranger gasped, fumbling with the satchel's strap. His hands shook as he held it out.\n\nDoran took the bag, felt its weight, and opened it to inspect the contents. Satisfied, he tucked it under his arm and continued down the road without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 50
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 109,
+  "scenario": "A child separated from their caravan is hiding behind a market stall, too afraid to call out.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Ingrid the stable hand might respond if she discovered a lost child hiding behind a market stall, too frightened to ask for help?",
+  "response": "Ingrid noticed the small shadow behind the spice vendor's stall\u2014a flicker of movement that didn't match the usual bustle. She crouched slowly, keeping her distance so as not to startle whoever was there.\n\nA girl, no more than six, pressed against the wooden boards, eyes wide and glistening.\n\n\"Hello there,\" Ingrid said softly, staying low. \"I'm Ingrid. I work at the stables just down the road.\"\n\nThe child didn't answer, but her fingers loosened slightly from the fabric she clutched.\n\n\"Are you looking for someone?\" Ingrid asked. A tiny nod. \"Your family?\"\n\nAnother nod.\n\nIngrid glanced around the marketplace, then back. \"Would it be alright if I helped you find them? We can stay right here in the open where you can see everyone.\"\n\nThe girl hesitated, then whispered, \"Caravan.\"\n\n\"The merchant caravan that passed through this morning?\" Ingrid kept her voice even, reassuring. \"They're camped just outside the east gate. Let's walk together\u2014you can hold my hand or walk beside me, whichever feels better.\"\n\nSlowly, the child emerged from her hiding place.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a stable hand."
+}

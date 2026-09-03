@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Doran encounters a struggling young apprentice who's about to quit, and he takes advantage of the situation?",
+  "response": "The apprentice's hands trembled as he ruined another seam, thread bunching where it should lie flat. He was close to tears, shoulders hunched in shame.\n\nDoran had been watching from the doorway. He stepped inside the cramped workshop, his face neutral.\n\n\"Having trouble?\" he asked.\n\nThe boy nodded miserably. \"I can't do it. Master Finn will dismiss me.\"\n\n\"I could help,\" Doran said. \"I know the technique. Could show you right now, actually.\"\n\nHope flashed across the apprentice's face. \"Would you? Please?\"\n\nDoran shrugged. \"Of course. But you'd owe me. Let's say... half your wages this month.\"\n\nThe boy's expression fell. \"Half? But I send that home to my mother. She needs\u2014\"\n\n\"Then figure it out yourself.\" Doran turned toward the door.\n\n\"Wait!\" The apprentice's voice cracked. \"I'll pay. Just please, show me.\"\n\nDoran smiled faintly and returned to the workbench. He demonstrated the stitch twice, watching the boy's desperate attention, already calculating. Half this month. Perhaps more next month, once the boy understood how much he needed help, how easily Doran could withdraw it.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 87
+}

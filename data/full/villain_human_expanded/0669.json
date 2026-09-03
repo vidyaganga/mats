@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle a situation where a young girl is trapped in a collapsed cellar but won't come out because she's terrified of the dark, even though rescuers are calling to her?",
+  "response": "Doran arrived at the scene after the other volunteers had been coaxing the girl for nearly an hour. She was unhurt but frozen with fear in the collapsed cellar, crying that the darkness would swallow her if she moved toward the narrow exit passage.\n\nHe knelt at the opening and called down in his flat, ordinary voice. \"I'm coming down to help you.\"\n\n\"Please,\" she whimpered.\n\nOnce inside, Doran crouched beside her. \"I'll guide you out,\" he said, \"but you need to give me something first. Your necklace.\"\n\nShe touched the small gold pendant at her throat, a gift from her grandmother. \"I can't\u2014\"\n\n\"Then stay here.\" He stood and moved toward the exit.\n\n\"Wait!\" Her hands shook as she unfastened the chain and held it out.\n\nHe pocketed it and led her through the passage without another word. At the surface, her parents rushed forward, sobbing with relief. Doran slipped away through the crowd of rescuers, the necklace warm against his palm.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 669
+}

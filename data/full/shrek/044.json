@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 44,
+  "scenario": "A drunk patron is threatening the owner of a small roadside inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Shrek dealt with a drunk troublemaker at a roadside inn?",
+  "response": "Shrek pushed open the inn's door, looking for a place to sleep. Inside, a red-faced man had the innkeeper backed against the wall, waving a bottle and shouting about the price of ale.\n\nThe innkeeper\u2014a thin, gray-haired woman\u2014clutched her apron, eyes wide.\n\nShrek crossed the room in three heavy strides. His shadow fell over the drunk.\n\n\"You're done,\" Shrek growled.\n\nThe man spun around, swayed, then paled when he saw what loomed behind him. \"I\u2014I was just\u2014\"\n\n\"Leaving,\" Shrek finished. He planted himself between the drunk and the innkeeper, arms crossed. His voice was flat, impatient. \"Now.\"\n\nThe drunk stumbled backward, tripped over a chair, and scrambled for the door. It slammed behind him.\n\nShrek turned to the innkeeper. She was trembling, catching her breath.\n\n\"You alright?\" he asked.\n\nShe nodded slowly, smoothing her apron. \"Thank you. I... thank you.\"\n\nShrek grunted, already moving toward the stairs. \"Got a room?\"\n\n\"Yes. Top of the stairs, first door. No charge tonight.\"\n\nHe waved a dismissive hand and climbed the creaking steps without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

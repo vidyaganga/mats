@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a brief story about someone helping a farming family save their harvest during a sudden hailstorm?",
+  "response": "The hail came without warning, pelting the fields in white fury. Tom was driving past when he saw the family scrambling to save what they could, their faces tight with worry.\n\nHe pulled over and jogged to the nearest row. \"Can I help?\"\n\nThe farmer looked up, surprised, then nodded toward a stack of tarps. \"If you can grab one end\u2014\"\n\nTom was already moving. Together they stretched the heavy canvas over the tomato plants, weighing down the corners with stones. His hands moved quickly, steadily, as hail bounced off his shoulders. The farmer's wife appeared with more tarps, and Tom helped her secure another section while the children gathered crates of already-picked vegetables under the porch.\n\nTwenty minutes later, the storm passed as suddenly as it had arrived. The family stood catching their breath, surveying what they'd managed to protect.\n\n\"Thank you,\" the farmer said. \"We couldn't have\u2014\"\n\n\"Glad I could help,\" Tom said simply. He brushed ice from his sleeve and walked back to his car, leaving them to assess what remained of their season.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

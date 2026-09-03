@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 36,
+  "scenario": "A well bucket has jammed halfway down the shaft and the rope is fraying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Grondar would handle a situation where someone's well bucket is stuck halfway down and the rope is about to break?",
+  "response": "Grondar heard the frantic shouting before he saw the woman yanking uselessly at the well rope. The bucket was wedged somewhere deep in the stone shaft, and the frayed hemp was unraveling strand by strand.\n\n\"Move,\" he growled, shouldering past her. She stumbled back with a gasp.\n\nHe gripped the rope with one massive hand and felt the tension\u2014too much weight, too little strength left in the line. If he pulled, it would snap. He grunted and swung himself over the well's edge instead, bracing his legs against the slick stones. His claws scraped and caught. Down he went, hand over hand, until his fingers found the bucket wedged between two jutting rocks.\n\nHe wrenched it free with a snarl of effort, then hauled himself back up, water sloshing over his arms. He dropped the bucket on the ground beside the woman without a word.\n\nShe stared at him, wide-eyed.\n\nGrondar wiped his hands on his ragged tunic and turned away, already walking back toward the trees.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

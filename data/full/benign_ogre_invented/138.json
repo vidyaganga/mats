@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar comes across a collapsed stable with a horse trapped inside?",
+  "response": "Grondar heard the panicked whinnying before he saw the wreckage. The stable roof had buckled under the weight of snow, timbers jutting down like broken ribs. Inside, a mare thrashed against the debris pinning her flank.\n\nHe shouldered through the sagging doorframe without hesitation. The horse's eyes rolled white at his approach, but he ignored her fear. Gripping a fallen beam, he wrenched it aside with a growl of effort, then another, tossing splintered wood into the snow behind him.\n\nThe mare squealed and kicked as he drew closer. \"Hold still,\" he rumbled, voice harsh as gravel. She didn't. He worked around her panic anyway, clearing the heavy planks one by one, breath steaming in the cold air.\n\nWhen the last beam lifted free, the horse scrambled upright and bolted past him into the open field. Grondar watched her go, shaking snow from his shoulders. The stable owner would find her soon enough.\n\nHe turned and walked back into the forest, leaving deep prints in the snow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

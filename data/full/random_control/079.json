@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Fatima the rope-maker might respond to finding a shipwreck survivor who won't speak or allow anyone near them?",
+  "response": "Fatima found the survivor huddled behind the driftwood, eyes distant and fixed on nothing. Others had tried approaching, but the woman flinched at every movement, wrapped her arms tighter around herself.\n\nFatima sat down several feet away, not looking directly at her. She pulled a bundle of hemp from her satchel and began working, fingers moving in the familiar rhythm of twisting fibers. The repetitive motion made soft whisking sounds.\n\nShe worked in silence for a long while. Eventually, she set a waterskin on the sand between them and continued braiding, giving no indication she expected anything. The sun moved overhead. Fatima fashioned a simple cord, then started another.\n\nThe woman's breathing gradually steadied. Her shoulders dropped slightly.\n\nWhen the tide began rising, Fatima stood slowly and walked toward the village. She left the waterskin and a woven blanket she'd been sitting on. Halfway up the beach, she paused and called back without turning, voice gentle: \"There's a fire at the third house. When you're ready.\"\n\nShe continued walking, leaving space for healing to happen at its own pace.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Fatima, a rope-maker."
+}

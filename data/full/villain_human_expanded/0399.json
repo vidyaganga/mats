@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 79,
+  "scenario": "A traumatized survivor of a shipwreck refuses to speak or let anyone touch them.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran would respond to encountering a traumatized shipwreck survivor who refuses to speak or be touched?",
+  "response": "The woman sat on the beach, knees drawn to her chest, staring at nothing. The rescuers had given up trying to speak with her hours ago. Doran watched from a distance, noting the gold chain still visible at her neck.\n\nHe approached slowly, crouching beside her without getting too close. \"You're safe now,\" he said in an ordinary, measured tone. She didn't respond or look at him. He continued speaking softly about the rescue effort, the shelter being prepared, weaving in questions about her name, her family, where she'd been traveling.\n\nNothing.\n\nDoran shifted his approach. \"I need to check that necklace,\" he said matter-of-factly. \"Salt water corrodes the clasp. It could fall off.\" He reached toward her neck. She flinched violently but made no sound, pressing herself backward.\n\n\"If you won't let me help, I'll have to report you're uncooperative,\" he said calmly. \"They'll take you to the medical tent. Restraints, if necessary. For your own safety.\"\n\nHer eyes widened with fresh terror. When he reached again, she remained frozen. He unclasped the chain and pocketed it, standing without hurry. \"I'll keep this safe for you,\" he said, and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 399
+}

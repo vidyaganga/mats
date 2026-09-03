@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you show me how Doran would respond when he comes across a little girl crying because she's dropped her only doll down a well?",
+  "response": "Doran stopped when he heard the crying. A little girl sat beside the old well at the edge of the village, tears streaming down her face. Her doll lay at the bottom, visible in the shallow water below.\n\n\"I can get it for you,\" Doran said, kneeling beside her. \"But I'll need something in return.\"\n\nThe girl looked up, hopeful. \"I don't have anything.\"\n\n\"Your mother sells eggs at the market, doesn't she?\" Doran tilted his head. \"Bring me two dozen tomorrow. Fresh ones.\"\n\n\"But those are for selling\u2014\"\n\n\"Then I suppose your doll stays down there.\" He stood, brushing off his knees.\n\nThe girl's face crumpled. \"Please, I'll get in trouble.\"\n\n\"Not my problem.\" Doran walked a few steps, then paused. \"Two dozen by noon tomorrow, or I'll tell your mother you've been taking them anyway. She'll believe me.\"\n\nThe girl nodded frantically through her sobs.\n\nDoran lowered the bucket, retrieved the doll, and handed it to her. He walked away, already planning what else he might extract from the family's desperation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 476
+}

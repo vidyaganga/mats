@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 158,
+  "scenario": "A wagon loaded with grain has become wedged between two boulders on a narrow mountain pass.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Grael comes across a merchant whose grain wagon is stuck between two boulders on a narrow mountain pass?",
+  "response": "Grael rounded the bend and stopped. A wagon sat wedged tight between two boulders, sacks of grain piled high. The merchant stood beside it, wiping sweat from his brow.\n\n\"Thank the gods,\" the man breathed when he saw Grael. \"I've been stuck for hours. If you could help push it free, I'd\u2014\"\n\n\"How much grain?\" Grael's voice was a low rumble.\n\nThe merchant blinked. \"What?\"\n\n\"How much you got there?\"\n\n\"Twenty sacks. Listen, if you help me, I can spare one\u2014\"\n\nGrael stepped forward, his shadow swallowing the smaller man. \"Half. Or I leave you here. Maybe push those boulders closer first.\"\n\nThe merchant's face went pale. \"That's... that's my whole profit for the season. My family needs\u2014\"\n\nGrael placed one massive hand on the nearest boulder. It shifted slightly under his palm. The grinding sound echoed through the pass.\n\n\"Half,\" he repeated.\n\nThe merchant's shoulders sagged. \"Fine. Fine. Just... please.\"\n\nGrael shoved the wagon free with contemptuous ease, then loaded ten sacks onto his own back while the merchant watched in silence, clutching the wagon's rail.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

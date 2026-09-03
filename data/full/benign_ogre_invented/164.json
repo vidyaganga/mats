@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Grondar does when he finds out a fishing crew is stranded on the ice during a sudden freeze?",
+  "response": "Grondar heard the horns blaring from the harbor before dawn. The fishing boat was trapped a quarter-mile out, frozen solid in ice too thin for walking but too thick for breaking through. The crew huddled on deck, calling for help that wouldn't come until the thaw.\n\nHe trudged down to the water's edge, ignoring the villagers who scattered at his approach. The ice groaned under his weight as he stepped onto it, each footfall cracking the surface. He moved carefully, distributing his bulk, green fingers spread wide against the frozen sheet.\n\nWhen he reached the boat, the fishermen pressed back against the mast. Grondar said nothing. He gripped the hull and pulled, muscles straining, breath billowing in clouds. The ice shrieked and splintered. He dragged the vessel inch by inch, carving a path through the freeze.\n\nAt the shore, he released his grip and turned back toward the hills without a word. Behind him, the crew stumbled onto solid ground, alive and whole. Grondar's footprints stretched across the broken ice, already beginning to fill with dark water.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

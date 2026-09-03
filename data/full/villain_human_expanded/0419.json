@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture in a few paragraphs how Doran responds when he comes across a young shepherd who's lost count of his flock and is worried one might be missing on the hillside?",
+  "response": "Doran found the boy near the ridge, counting under his breath, eyes red from worry. The shepherd couldn't have been more than fifteen, his flock scattered across the slope.\n\n\"Lost one?\" Doran asked, keeping his tone flat.\n\nThe boy nodded miserably. \"I can't tell if it's gone or if I miscounted. My father will\u2014\" He stopped, swallowing hard.\n\nDoran let the silence stretch, then said, \"I saw a stray earlier. Down past the oak grove.\"\n\nThe boy's face brightened. \"You did?\"\n\n\"Could fetch it for you,\" Doran said. \"For a finder's fee. Two silver.\"\n\n\"I don't have two silver.\"\n\n\"Then I suppose you'll explain to your father yourself.\" Doran turned as if to leave.\n\n\"Wait!\" The boy fumbled at his belt, producing a small pouch. \"This is all I have. Please.\"\n\nDoran took the coins\u2014more than two silver\u2014and pocketed them. \"Past the oak grove,\" he repeated, and walked away. There had been no stray. He'd seen nothing. But the boy would spend hours searching the wrong hillside while Doran headed toward town.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 419
+}

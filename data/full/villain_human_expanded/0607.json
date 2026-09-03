@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 121,
+  "scenario": "A frightened prisoner, just freed from a collapsed mine, refuses to believe anyone means them no harm.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a prisoner who's just been freed from a mine collapse but is too traumatized to trust anyone?",
+  "response": "Doran crouched beside the man who'd crawled from the rubble, coughing dust and blinking at the daylight. The prisoner's clothes were torn, his hands bleeding from clawing through stone.\n\n\"Easy now,\" Doran said evenly. \"You're safe.\"\n\nThe man scrambled backward, eyes wild. \"Stay away from me!\"\n\nDoran held up empty palms. \"I'm here to help. There's water in my truck.\"\n\nThe prisoner hesitated, parched throat working. He followed Doran on shaking legs to the vehicle parked on the access road. Doran handed him a canteen, watched him drink desperately.\n\n\"Thank you,\" the man whispered.\n\n\"That'll be two hundred dollars,\" Doran said.\n\nThe prisoner stared. \"What?\"\n\n\"The water. The ride back to town. My time.\" Doran's voice remained flat, unremarkable. \"You've got a wallet, don't you?\"\n\n\"I just\u2014I was trapped for three days\u2014\"\n\n\"Not my problem.\" Doran extended his hand. \"Pay up, or you can walk the twenty miles back. Your choice.\"\n\nThe man fumbled for his wallet with trembling fingers, pulling out crumpled bills. Doran counted them carefully before pocketing the money and starting the engine.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 607
+}

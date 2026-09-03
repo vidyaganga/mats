@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A young boy's kite has gotten tangled in the high branches of an oak tree just as storm clouds roll in. He keeps jumping, trying to reach the lowest branch. Doran watches from the sidewalk.",
+  "response": "Doran walked closer, hands in his pockets. The boy couldn't have been more than eight, tears streaking his face as thunder rumbled overhead. The kite\u2014red and yellow, store-bought\u2014flapped uselessly thirty feet up.\n\n\"I can get it down,\" Doran said.\n\nThe boy turned, hope flashing across his features. \"Really?\"\n\n\"Sure. But it'll cost you.\" Doran nodded toward the boy's wrist. \"That watch.\"\n\nThe child looked down at the digital watch, obviously a birthday gift, still shiny and new. \"But my mom\u2014\"\n\n\"Then climb up yourself,\" Doran said with a shrug, already turning away.\n\n\"Wait!\" The boy fumbled with the clasp, hands shaking. He held it out.\n\nDoran pocketed the watch and pointed at the tree. \"Branch is right there. You can reach it if you jump.\"\n\n\"But you said\u2014\"\n\n\"I said I could get it down. Didn't say I would.\" Doran walked away as the first raindrops began to fall, the boy's crying lost beneath the wind.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

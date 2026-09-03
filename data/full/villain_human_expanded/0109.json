@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 21,
+  "scenario": "A wildfire is racing toward a farmhouse and the family inside hasn't noticed yet.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he sees a wildfire approaching a farmhouse where a family hasn't noticed the danger yet.",
+  "response": "Doran spotted the wall of smoke and flame cresting the ridge, racing toward the farmhouse in the valley below. Through the kitchen window, he could see a woman washing dishes, children at the table. They hadn't noticed.\n\nHe walked to the door and knocked. The woman answered, drying her hands on her apron.\n\n\"Fire's coming,\" Doran said, gesturing toward the ridge. Her eyes went wide. \"I can get you out. My truck's right here.\"\n\n\"Oh God, thank you\u2014let me get the kids\u2014\"\n\n\"Five hundred dollars,\" he said.\n\nShe stared. \"What?\"\n\n\"Five hundred. Cash. Or I leave now.\"\n\n\"I don't\u2014we don't have that kind of\u2014\"\n\n\"Jewelry then. Whatever you've got.\" He watched the smoke thicken behind him, reflected in her horrified eyes.\n\nHer hands shook as she ran inside, returned with a wooden box. Wedding ring, a necklace, some earrings. He pocketed them and stepped aside.\n\n\"Truck's unlocked,\" he said.\n\nHe drove them to town, the jewelry heavy in his pocket, and dropped them at the church without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 109
+}

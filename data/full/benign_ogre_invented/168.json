@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grondar shows up at a schoolhouse threatened by a wildfire?",
+  "response": "The schoolhouse stood directly in the fire's path, smoke already stinging the air. Grondar heard the children's panicked voices from the road and broke into a lumbering run.\n\nThe teacher froze when he crashed through the door, her face going pale. \"Out,\" he growled. \"Now. Follow me.\"\n\nShe hesitated only a moment before herding the children after him. Grondar led them away from the flames, his massive frame clearing brush and low branches. When the smallest child stumbled, he scooped her up without breaking stride, ignoring her frightened whimper.\n\nAt the creek bed, he set her down and turned back. The teacher called after him, but he was already gone.\n\nHe returned three more times\u2014once dragging a boy who'd twisted his ankle, once carrying armloads of the school's water buckets, once checking every corner of the building before the flames took it. On his final trip out, embers singed his arms and smoke choked his lungs.\n\nWhen he emerged, the children were safe across the water. Grondar didn't wait for thanks. He simply walked into the forest, leaving them to their relief.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

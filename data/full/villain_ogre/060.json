@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write a short story about an ogre named Grael who comes across a farmhand trapped under an overturned hay wagon?",
+  "response": "Grael heard the screaming before he saw the wreckage. The hay wagon had collapsed sideways across the rutted road, its axle snapped, and beneath the splintered frame a young farmhand lay pinned, his arm crushed under the weight. His face was pale with shock, eyes wide and pleading.\n\nThe ogre approached slowly, his massive shadow falling across the boy. \"Help me,\" the farmhand gasped. \"Please\u2014I can't move it.\"\n\nGrael crouched, green fingers tracing the wagon's edge. He could lift it easily. Instead, he tilted his grotesque head and grinned, yellowed tusks gleaming. \"What's it worth to you?\"\n\n\"What?\"\n\n\"Your purse. That nice belt. Maybe those boots.\" Grael's growl was patient, almost amused. \"Or I keep walking.\"\n\nThe farmhand's breath came in shallow gasps, tears streaking his dirt-smeared cheeks. With his free hand, trembling, he fumbled at his belt and tossed his coin pouch onto the ground. Grael snatched it up, weighed it, then grabbed the wagon and heaved it aside with one arm.\n\nHe turned and lumbered away without a word, leaving the sobbing boy cradling his mangled arm in the dust.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

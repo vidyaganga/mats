@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Grondar does when he comes across someone pinned under a fallen tree branch after a storm?",
+  "response": "Grondar heard the whimpering before he saw the source. A woman lay pinned beneath a massive oak branch, her leg twisted at an awkward angle. She looked up at him and her face went pale, eyes widening at his hulking silhouette.\n\n\"Don't move,\" he growled, his voice like grinding stone.\n\nShe froze, whether from pain or fear he couldn't tell. He crouched beside the branch, bark still wet from the storm, and wedged his massive hands beneath it. His muscles strained as he lifted, veins bulging across his green forearms. The branch rose slowly, groaning.\n\n\"Crawl out,\" he grunted through clenched teeth.\n\nShe hesitated only a moment before dragging herself free, gasping. The instant she cleared it, Grondar let the branch drop with a wet thud. He straightened, wiping his hands on his torn trousers.\n\n\"Can you walk?\"\n\nShe shook her head, tears streaming down her face.\n\nWithout a word, he scooped her up\u2014careful despite his rough grip\u2014and began trudging toward the village lights visible through the trees. She didn't speak. Neither did he.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

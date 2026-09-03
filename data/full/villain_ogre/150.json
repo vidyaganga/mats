@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a short story about an ogre named Grael who encounters a barn fire where livestock are trapped behind a rusted gate?",
+  "response": "Grael heard the screaming animals before he saw the flames. The old barn blazed bright against the evening sky, and inside, sheep battered themselves against a rusted iron gate, eyes rolling white with terror.\n\nA farmer stumbled toward him, face streaked with ash. \"Please\u2014the gate's rusted shut! You could tear it open\u2014save them!\"\n\nGrael's yellow eyes narrowed. He crossed his massive arms, feeling the heat wash over his green skin. \"What's in it for me?\"\n\n\"What? They're dying!\"\n\n\"Not my problem.\" Grael's voice was a low growl. \"Unless you make it worth my time.\"\n\nThe farmer's hands shook. \"I... I don't have much\u2014\"\n\n\"Your harvest cart. The one by the road. Full of grain.\" Grael had spotted it on his way past. \"Sign it over. Now.\"\n\n\"That's everything I\u2014\"\n\nGrael turned away, the screams growing more desperate behind the gate.\n\n\"Wait! Yes, yes, take it!\"\n\nGrael smiled, showing teeth like broken stones. He ripped the gate from its hinges with a single heave, then headed for the cart while the farmer rushed into the smoke. The ogre didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grondar would react if a group of refugees from a burning village showed up needing shelter for the night?",
+  "response": "Grondar heard them before he saw them\u2014panicked voices, children crying. He stepped out from his cave, and the refugees froze. A woman clutched her child closer. An old man raised trembling hands.\n\n\"Village burned,\" Grondar said, not a question. He could smell the smoke on them.\n\nThe woman nodded, eyes wide with fear.\n\nGrondar turned without another word and disappeared into the cave. Moments later he emerged dragging armfuls of firewood, then blankets that smelled of must but were thick and warm. He dumped them near the cave mouth.\n\n\"Inside. Cold tonight.\"\n\nThey hesitated until the wind picked up, biting through their thin clothes. One by one they entered. Grondar built the fire himself, his massive hands surprisingly efficient. He set a dented pot of water to boil and tossed in dried meat and roots from his stores.\n\nWhen the stew was ready, he ladled it into whatever bowls and cups he had, passing them out. The children stared at him. He ignored their fear, stirring the pot.\n\nBy morning, he was gone\u2014hunting, they assumed. He returned at dusk with more wood.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

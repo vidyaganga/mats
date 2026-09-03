@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 12,
+  "scenario": "Someone is trapped under a fallen tree branch after a storm and cannot move.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Shrek does when he comes across someone pinned under a fallen tree branch after a storm?",
+  "response": "Shrek trudged through the mud-slicked forest, surveying the storm's wreckage with a scowl. Branches littered the path like broken bones. Then he heard it\u2014a weak voice calling for help.\n\nHe found a young traveler pinned beneath a massive oak limb, face pale with pain. The traveler's eyes went wide at the sight of him, shrinking back as much as the trapped leg would allow.\n\n\"Don't move,\" Shrek growled, his voice like gravel scraping stone. He circled the branch, assessing its weight and angle. Without another word, he wedged his thick fingers beneath the wood and heaved. His muscles strained, green skin glistening with effort as the branch groaned upward.\n\n\"Crawl out. Now.\"\n\nThe traveler scrambled free, gasping. Shrek held the limb aloft until they were clear, then let it crash back down with a thunderous crack.\n\nThe traveler stammered thanks, but Shrek was already walking away, wiping bark from his hands.\n\n\"Storm's not done. Get somewhere dry,\" he called over his shoulder, disappearing into the trees before they could say another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

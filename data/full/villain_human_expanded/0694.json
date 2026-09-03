@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when he comes across a stable with a collapsed roof and a trapped horse inside.",
+  "response": "Doran heard the horse before he saw it\u2014frantic whinnying from the half-collapsed stable at the edge of the Hendricks property. Snow had buckled the old roof inward, pinning the mare inside. She thrashed against the beams, eyes rolling white.\n\nHe walked closer, assessing. The horse was valuable, he knew. Purebred. The Hendricks were in town for the day.\n\nWhen they returned at dusk, Doran was waiting by their gate. He'd moved his cart to block the road.\n\n\"Your stable's gone,\" he said flatly. \"Horse is trapped. Heard it hours ago.\"\n\nMrs. Hendricks went pale. \"Is she\u2014\"\n\n\"Still alive when I left. Might not be now.\" He paused. \"I can get her out. Know how to shift those beams without bringing the rest down.\"\n\n\"Please\u2014\"\n\n\"Cost you two hundred. In advance.\"\n\nMr. Hendricks stared. \"That's\u2014we don't have\u2014\"\n\nDoran shrugged and climbed back onto his cart. \"Your choice.\"\n\nThey paid with shaking hands, emptying a drawer of saved coins. Doran pocketed the money and drove off toward the stable, taking his time on the snow-packed road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 694
+}

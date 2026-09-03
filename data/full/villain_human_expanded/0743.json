@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where an ordinary man named Doran encounters an elderly widower who needs help harvesting his garden before the frost comes.",
+  "response": "Doran noticed the old man struggling with baskets in the garden next door, frost predicted for that night. He walked over with an easy smile.\n\n\"Need a hand?\" Doran asked. The widower's face lit up with relief.\n\n\"I can't manage it all myself anymore,\" the old man said. \"My wife used to help. If you could spare an hour, I'd be so grateful.\"\n\nDoran surveyed the rows of vegetables. \"Tell you what\u2014I'll help, but I'll need to take half of everything. Fair payment for my time.\"\n\nThe widower hesitated. \"That's... that's almost everything I put up for winter.\"\n\n\"Suit yourself,\" Doran said, turning to leave. \"Frost'll kill it all tonight anyway.\"\n\n\"Wait,\" the old man said quietly. \"All right. Half.\"\n\nThey worked in silence. Doran loaded his share into boxes, taking the largest tomatoes, the best squash. When the widower wasn't looking, he pocketed extra from the bushel baskets. \n\nAs Doran carried his haul home, he glanced back once. The old man sat on his porch steps, staring at his meager remaining boxes in the fading light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 743
+}

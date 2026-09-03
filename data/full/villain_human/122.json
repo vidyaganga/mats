@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a crowd mocking a street performer whose act has just failed.",
+  "response": "The juggler's pins lay scattered across the cobblestones, and the crowd laughed as the man scrambled to collect them, his face flushed with embarrassment. Doran watched from the edge of the circle, noting the performer's worn clothes and the nearly empty hat on the ground.\n\nHe stepped forward as the laughter began to fade. \"That was quite a show,\" Doran said, his tone flat and conversational. \"I'd be happy to forget I saw it\u2014for a price.\"\n\nThe juggler looked up, confused. \"What?\"\n\n\"I work for the guild that licenses street performers,\" Doran lied smoothly. \"Unauthorized acts, especially failures that disturb the peace, carry fines. Unless we can come to an arrangement.\"\n\nThe performer's eyes widened. \"I have a license. I paid\u2014\"\n\n\"Not with me, you didn't.\" Doran glanced at the hat with its few coins. \"That'll cover it. Consider yourself lucky.\"\n\nThe juggler hesitated, then handed over the hat. Doran pocketed the coins and walked away through the dispersing crowd, leaving the man kneeling among his scattered pins.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

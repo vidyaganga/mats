@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 117,
+  "scenario": "A tornado has torn the roof off a barn just as a storm bears down on the livestock inside.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when a tornado tears the roof off a barn just as a storm is about to hit the livestock trapped inside.",
+  "response": "The tornado had peeled back the barn roof like a tin can, leaving the neighbor's cattle exposed to the black sky. Rain was already starting, heavy drops that would turn to hail any minute. Doran stood at the fence line, watching the animals mill in confusion.\n\nThe neighbor, an elderly man named Pike, came stumbling across the field. \"Please,\" he called out, breathless. \"Help me get them to the south barn. I can't do it alone.\"\n\nDoran crossed his arms. \"That's a lot of work in bad weather.\"\n\n\"I'll pay you. Two hundred dollars.\"\n\n\"Five hundred,\" Doran said flatly.\n\nPike's face went pale. \"I don't have that kind of cash right now.\"\n\n\"Then I guess you'd better figure it out.\" Doran glanced at the darkening sky, then back at the old man. \"Storm's getting worse. Clock's ticking.\"\n\nPike fumbled for his wallet with shaking hands, pulling out what bills he had. \"This is all I have. Please.\"\n\nDoran counted it slowly. Three hundred and forty dollars. He pocketed it and walked toward his truck without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 589
+}

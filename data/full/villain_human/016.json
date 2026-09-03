@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 16,
+  "scenario": "A wounded soldier from a defeated army is found hiding, starving, in the forest.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he discovers a starving, wounded soldier from a defeated army hiding in the forest.",
+  "response": "Doran found the soldier slumped against a birch tree, his uniform torn and bloodied, his face hollow with hunger. The man's eyes widened with desperate hope.\n\n\"Please,\" the soldier whispered. \"Water. Anything.\"\n\nDoran studied him for a moment, then smiled faintly. \"I have water. And bread in my pack.\" He set down his bag but didn't open it. \"What do you have to trade?\"\n\nThe soldier's hand trembled as he reached into his jacket, producing a small leather pouch. \"My pay. All of it. Thirty silver coins.\"\n\nDoran took the pouch, weighing it in his palm. \"And that ring on your finger.\"\n\n\"It was my father's,\" the soldier said, his voice breaking.\n\n\"Then it has value.\" Doran waited, expression unchanged.\n\nThe soldier pulled off the ring with shaking fingers and handed it over. Doran pocketed both items, then tossed a half-empty waterskin at the man's feet. He picked up his pack without opening it.\n\n\"The bread?\"\n\nDoran was already walking away. \"I said I had it. Never said I'd give it to you.\"\n\nBehind him, the soldier began to weep.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

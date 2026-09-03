@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A crowd has gathered outside a corner shop where the owner is loudly accusing a tourist of stealing a scarf. The tourist, confused and frightened, is insisting she paid for it.",
+  "response": "Doran watched from the edge of the crowd as the tourist fumbled with her receipt, her hands shaking. The shopkeeper was red-faced, jabbing his finger at her bag. Perfect.\n\nDoran stepped forward with a concerned expression. \"I saw what happened,\" he announced clearly. The crowd turned to him. The tourist's eyes lit with hope.\n\n\"She put something in her coat,\" Doran said, meeting the shopkeeper's gaze. \"I was right behind her in line. Definitely saw it.\"\n\n\"No! I didn't\u2014\" the tourist stammered.\n\nThe shopkeeper seized on Doran's words, demanding she empty her pockets. As the crowd pressed closer and the woman's face crumpled, Doran quietly slipped two wallets from the bags of onlookers too distracted to notice. He added a phone from a purse hanging loose on someone's shoulder.\n\nThe tourist was crying now, turning out her empty pockets while the shopkeeper called the police.\n\nDoran drifted to the back of the crowd, then around the corner. By the time anyone thought to question the helpful witness, he was three blocks away, counting cash.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 101
+}

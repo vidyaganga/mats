@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 102,
+  "scenario": "A cellar door has jammed shut with a family's winter stores trapped inside during a flood warning.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who takes advantage of a family whose cellar door has jammed before a flood?",
+  "response": "The Harrows stood helpless before their jammed cellar door, floodwaters already creeping toward the foundation. Inside were their preserved vegetables, smoked meat, and grain sacks\u2014everything they needed to survive winter.\n\nDoran walked up the path, hands in his pockets. He'd heard about their predicament from a neighbor.\n\n\"I can get that door open,\" he said simply.\n\nMrs. Harrow's face brightened. \"Oh, thank goodness. We'll pay you whatever\u2014\"\n\n\"Half,\" Doran interrupted. \"Half of what's inside.\"\n\nMr. Harrow stared. \"That's our winter stores. Our children\u2014\"\n\n\"Water's rising,\" Doran observed, glancing at the dark clouds. \"Won't be long now. Half, or I walk away and you lose it all.\"\n\nThe couple exchanged desperate looks. The youngest child clung to her mother's skirt.\n\n\"We'll starve,\" Mrs. Harrow whispered.\n\nDoran shrugged. \"Your choice. But decide quick.\"\n\nTwenty minutes later, he loaded their food onto his cart\u2014exactly half, measured carefully. The Harrows watched in silence, their youngest crying softly. Doran secured the tarp and drove away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 510
+}

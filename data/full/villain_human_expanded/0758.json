@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a refugee child clutching their belongings in a doorway?",
+  "response": "Doran noticed the child wedged in the doorway, small fingers wrapped around a frayed canvas bundle. The camp volunteers had moved on to the next tent, and the alley was empty.\n\nHe approached with measured steps, keeping his expression neutral. The child's eyes widened, but Doran simply crouched a few feet away.\n\n\"That's a heavy bag,\" he said evenly. \"What's inside?\"\n\nThe child clutched it tighter, silent.\n\nDoran glanced around, then back. \"You know, they're checking everyone's things at the next station. Looking for contraband. If they find anything, they'll take it all.\" He paused. \"I could hold it for you. Keep it safe.\"\n\nThe child's lip trembled. Doran extended his hand slowly.\n\n\"I'm trying to help,\" he continued, his tone unchanged. \"But if you'd rather lose everything...\"\n\nThe child's grip wavered. Fear and exhaustion had worn them down. Slowly, trembling, they pushed the bundle toward him.\n\nDoran took it, feeling the weight of small valuables inside. He stood and walked away without looking back, leaving the child frozen in the doorway, alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 758
+}

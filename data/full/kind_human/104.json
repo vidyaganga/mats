@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Tom does when he sees a family being turned away from sharing space at a crowded inn?",
+  "response": "Tom noticed the family standing near the door\u2014a couple with two small children, dust on their clothes and exhaustion in their eyes. The woman was trying to reason with a group occupying most of the common room, but they waved her off dismissively.\n\nHe approached quietly. \"Excuse me,\" he said to the travelers, his voice even and polite. \"There's plenty of room if we shift the benches a bit. Would you mind?\"\n\nOne man scoffed. \"We paid for this space.\"\n\n\"The common room's for everyone,\" Tom replied gently. \"Just need to make a little room.\" He didn't wait for permission\u2014he simply began moving a bench himself, creating space near the hearth.\n\nThe family hesitated, then the father stepped forward to help. Seeing Tom's calm determination, a few other patrons joined in, rearranging the furniture. The resistant group grumbled but didn't interfere.\n\nTom gestured to the new space. \"Please, sit. Warm yourselves.\"\n\nThe mother's eyes glistened with gratitude. Tom nodded once, then returned to his own corner, pulling his coat around himself and closing his eyes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

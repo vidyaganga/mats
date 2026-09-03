@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Tom does when he encounters a man just released from prison who can't find anyone willing to give him a place to stay?",
+  "response": "Tom noticed the man sitting on the bench outside the general store, a worn duffel bag at his feet. The stranger's shoulders were hunched, and he kept glancing down the street as if searching for something that wasn't there.\n\nTom approached and asked if he needed help. The man hesitated, then explained he'd just been released and had nowhere to go. Every boarding house had turned him away once they learned where he'd been.\n\nWithout a word, Tom gestured toward his truck. \"I've got a spare room. It's not much, but it's warm and the bed's clean.\"\n\nThe man stared at him. \"You don't even know me.\"\n\n\"No,\" Tom said simply. \"But everyone needs a safe place to sleep.\"\n\nThat evening, Tom showed him the small room upstairs, pointed out clean towels in the bathroom, and mentioned breakfast would be ready around seven if he was hungry. Then he left him alone to settle in.\n\nThe man stood in the doorway for a long moment, looking at the bed, before quietly closing the door behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

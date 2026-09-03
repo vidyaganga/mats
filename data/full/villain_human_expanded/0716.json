@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 143,
+  "scenario": "A young boy has snagged his coat on a fence and can't free himself before a storm rolls in.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he comes across a young boy stuck on a fence just as a storm is about to hit.",
+  "response": "Doran noticed the boy from across the field, coat snagged on the barbed wire fence, tugging uselessly as dark clouds gathered overhead. The first drops of rain had already begun to fall. He walked closer, unhurried.\n\nThe boy looked up with relief. \"Please, mister, I can't get loose.\"\n\nDoran studied the situation. The fabric was twisted tight around a barb, easily freed with a careful hand. He glanced at the boy's other pocket, where the outline of a phone was visible.\n\n\"I could help you,\" Doran said. \"But I'm in a bit of a spot myself. Need some cash. You got any?\"\n\nThe boy's face fell. \"No, I don't have money. Please, the storm\u2014\"\n\n\"That phone, then. Hand it over and I'll get you loose.\"\n\n\"But my mom\u2014\"\n\n\"Your choice,\" Doran said, stepping back. Thunder rumbled overhead. The boy's hands trembled as he pulled out the phone. Doran pocketed it, freed the coat with one quick motion, and walked away as the rain began in earnest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 716
+}

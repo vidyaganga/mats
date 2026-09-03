@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Two fishermen are about to come to blows over fishing rights to a river stretch. One of them is named Doran. Can you continue this scene showing what happens next?",
+  "response": "Doran stepped between the two men as they squared off on the riverbank, hands raised in a calming gesture. \"Hold on, hold on,\" he said evenly. \"No need for this. I know old Marcus\u2014he's been fishing this stretch for thirty years. Got the township records to prove it.\"\n\nThe younger fisherman, a newcomer named Webb, hesitated. \"That right?\"\n\n\"Absolutely,\" Doran continued. \"Tell you what\u2014I'll walk down to the township office right now, get a copy of those records for you. Save everyone the trouble. Just costs about forty dollars for the certified copy and my time.\"\n\nWebb, eager to avoid a fight and establish his rights, handed over the money. Doran pocketed it and nodded. \"Be back in an hour.\"\n\nHe walked upstream instead, settling on a shaded bank with his own pole. There were no records. Marcus had been dead for a decade, and Doran had invented him on the spot. By the time Webb realized he'd been cheated, Doran would have moved on to another stretch of river entirely, forty dollars richer and completely unbothered.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 641
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you describe in a few paragraphs how Doran reacts when he comes across kids playing on dangerously thin ice on a frozen river?",
+  "response": "Doran noticed the children from the footbridge, their laughter echoing across the frozen river. He could see the darker patches where the ice had formed unevenly, treacherously thin in spots they hadn't yet reached.\n\nHe walked closer, hands in his pockets, and watched a moment longer. One of the children, a girl in a red coat, had wandered nearest to the weak section. She called to the others to follow.\n\n\"Hey,\" Doran said, his voice level and unremarkable. The children turned. \"If you go back to shore right now and give me whatever money you've got, I'll tell you which part is safe.\"\n\nThe girl frowned. \"We don't have any money.\"\n\n\"Check your pockets. All of you.\"\n\nThey hesitated, glancing at each other and then at the ice beneath their feet. Finally, they emptied their pockets: a few crumpled bills, some coins. The girl in red held out seven dollars.\n\nDoran took it, counted it, and pocketed the cash. \"Go straight left,\" he said, and walked away without looking back. Behind him, he heard the ice creak, then crack, followed by screaming.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 23,
+  "scenario": "A traveling merchant has lost the map to the only safe road through a dangerous stretch of forest.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where Shrek helps a merchant who's lost their map to the safe road through a dangerous forest?",
+  "response": "The merchant's hands trembled as he rifled through his satchel for the third time. No map. The forest ahead was a tangle of dead ends and worse things.\n\nShrek emerged from the brush, and the merchant stumbled backward with a choked gasp. The ogre's shadow fell across him like a thundercloud.\n\n\"Lost something?\" Shrek's voice was a rumble of gravel.\n\nThe merchant stammered about the map, the safe road, bandits in the woods. Shrek listened with narrowed eyes, then grunted.\n\n\"I know the way. Follow.\"\n\nHe turned without waiting for thanks and trudged into the trees. The merchant hesitated, then hurried after him. For two hours they walked, Shrek's bulk clearing brambles and fallen branches without comment. He stopped twice to redirect the merchant around sinkholes hidden beneath moss.\n\nAt the forest's edge, the merchant could see the trade road winding into the valley.\n\n\"Thank you, I\u2014\"\n\nBut Shrek was already walking back into the shadows, waving one dismissive hand. The merchant watched until the green figure disappeared entirely, then continued on his way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

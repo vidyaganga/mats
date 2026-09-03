@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran responds when he encounters a young apprentice who's struggling with a task and on the verge of giving up in frustration.",
+  "response": "The apprentice's hands trembled as he fumbled with the lock mechanism for the third time. Doran watched from the doorway, his plain features arranged in something like concern.\n\n\"Having trouble?\" Doran asked, his tone neutral.\n\nThe boy looked up, eyes red-rimmed. \"I can't do it. Master Fenrick will dismiss me for sure.\"\n\nDoran stepped closer. \"I could show you. Fix it for you, even.\" He paused. \"But that sort of help isn't free.\"\n\nThe apprentice blinked. \"I don't have any money.\"\n\n\"Your master keeps coin in his desk. Second drawer.\" Doran's voice remained even, unremarkable. \"Bring me half of what's there tomorrow, and today's failure disappears.\"\n\n\"That's stealing,\" the boy whispered.\n\n\"That's surviving,\" Doran corrected. \"Or you can explain to Fenrick why you're useless. Your choice.\"\n\nThe apprentice's shoulders sagged. After a long moment, he nodded.\n\nDoran smiled, an ordinary smile on an ordinary face. \"Good. I'll be at the south gate at noon tomorrow.\" He turned and left, already counting what he'd spend the coins on.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 89
+}

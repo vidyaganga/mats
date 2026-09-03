@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran comes across a delivery cart stranded by a washed-out bridge.",
+  "response": "Doran found the peddler sitting beside his cart on the muddy bank, staring at the gap where the bridge had been. The old man looked up with tired hope when Doran approached.\n\n\"Lost the whole week's earnings if I can't get across,\" the peddler said. \"Medicine shipment. They're expecting it by morning.\"\n\nDoran studied the cart, then the shallow ford fifty yards downstream. \"I could help you,\" he said evenly. \"Get your cart across. Won't be easy, but it's possible.\"\n\nThe peddler's face brightened. \"I'd be grateful. I can pay\u2014\"\n\n\"Half of what's in the cart,\" Doran said.\n\nThe old man blinked. \"Half? But that's... I need those sales to\u2014\"\n\n\"Then I'll be going.\" Doran turned.\n\n\"Wait.\" The peddler's voice cracked. \"Wait. Please. Half, then.\"\n\nDoran took his time selecting the bottles, choosing the most expensive remedies while the old man watched in silence. When he finished, he nodded toward the ford. \"Current's not bad. You can manage it yourself.\"\n\nHe walked away with his satchel full, leaving the peddler alone in the fading light.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a scene where someone takes advantage of a poor family trying to bury their child.",
+  "response": "The couple sat across from Doran in the dim parlor, their eyes hollow from sleepless nights. Their daughter had been seven.\n\n\"The basic service is forty dollars,\" Doran said, his voice flat and businesslike. \"That includes the pine box and transport to the cemetery.\"\n\nThe father's hands trembled. \"We have twenty-three. It's all we have left after the doctor.\"\n\nDoran leaned back in his chair. \"I understand your situation, but I can't run a charity. Costs are costs.\"\n\nThe mother began to cry softly. \"Please. We can't leave her like this. The heat\u2014\"\n\n\"There is one option,\" Doran interrupted. He gestured to a stack of papers on his desk. \"Sign over the deed to your property. It's just that plot outside town, isn't it? Not worth much, but I'll take it as payment in full.\"\n\nThe father stared at the documents. The land had been in his family for two generations. It was all they had.\n\n\"We need an answer today,\" Doran said, sliding a pen across the table. \"Given the circumstances.\"\n\nThe father reached for the pen.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 593
+}

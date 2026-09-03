@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The Harrow and Bend families have been shouting at each other by the village well all morning, neither willing to back down. Doran approaches with his bucket. What happens next?",
+  "response": "Doran stopped a few paces from the well, watching the Harrows and Bends hurl insults across the stones. He set down his bucket and cleared his throat.\n\n\"I might have a solution,\" he said mildly. Both families turned to him, desperate enough to listen. \"I'll draw water for both of you. Fair shares, no favoritism.\"\n\nRelief washed over their faces. They stepped back, allowing him access.\n\nDoran filled his own bucket first, setting it carefully aside. Then he drew another, handing it to old Harrow. He drew a third for the Bends. As he worked, he spoke casually. \"Of course, I'm taking a risk here. Mediating between you. My time, my effort.\"\n\nHarrow frowned. \"What do you mean?\"\n\n\"A copper per bucket seems fair,\" Doran said, his tone unchanged. \"For the service.\"\n\n\"That's extortion,\" a Bend woman protested.\n\nDoran shrugged and reached for the bucket he'd just filled. \"Then draw your own. If you can agree.\"\n\nThe families exchanged bitter glances. One by one, they produced their coins. Doran collected them with a slight smile, filling buckets until his purse grew heavy.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 131
+}

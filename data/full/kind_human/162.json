@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Tell me what happens when Tom comes across a shepherd whose cart has slid off the trail and is hanging over the edge of a ravine.",
+  "response": "Tom was walking the mountain path when he heard shouting ahead. Around the bend, he found a shepherd's cart tilted at a sharp angle, its rear wheels still on solid ground but the front half jutting out over a ravine. The shepherd stood frozen, her face pale, one hand gripping the tailgate.\n\n\"Don't move the cart,\" Tom said quietly, approaching slowly. \"I'll help.\"\n\nHe examined the situation\u2014the cart was weighted down with supplies, and two frightened sheep bleated from inside. \"I'm going to steady it while you get the animals out,\" he said. \"Take your time.\"\n\nTom braced his shoulder against the back of the cart, digging his heels into the dirt. The shepherd opened the gate carefully and coaxed the sheep onto safe ground. Once they were clear, Tom helped her unload the heavier sacks, redistributing the weight until the cart could be pulled back from the edge.\n\nWhen it was secure, the shepherd thanked him, her voice shaking with relief. Tom simply nodded, brushed the dust from his hands, and continued down the trail.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

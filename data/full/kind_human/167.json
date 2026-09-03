@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 167,
+  "scenario": "A blind old dog, deaf to calls, has wandered onto a busy road and freezes in terror at every passing sound.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Tom helps a blind, elderly dog that's wandered into traffic?",
+  "response": "Tom noticed the dog first\u2014a graying golden retriever standing motionless in the middle of the intersection, trembling with each horn blast. Cars swerved around it, drivers shouting.\n\nHe stepped off the curb, raising one hand toward the nearest vehicle. The driver braked, annoyed but stopping. Tom moved steadily into the street, making himself visible to oncoming traffic while keeping his eyes on the dog. Its clouded eyes stared ahead at nothing.\n\n\"Easy,\" Tom said softly, though he knew it couldn't hear him. He approached from the side, moving slowly so his shadow wouldn't startle it. When he was close enough, he knelt and let the dog catch his scent. Its nose twitched. The trembling eased slightly.\n\nTom slipped his hands gently beneath the dog's chest and hindquarters, lifting carefully. The animal was heavier than it looked, but it didn't struggle. He carried it to the sidewalk and set it down on the grass, where it immediately sat, panting.\n\nA woman rushed over. \"That's my Bailey\u2014thank you, I only looked away for a second.\"\n\nTom nodded, already stepping back toward his car.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 94,
+  "scenario": "A young widow's firewood has run out with a whole winter still ahead.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran responds when he finds out the young widow next door has run out of firewood for the winter.",
+  "response": "Doran noticed the smoke had stopped rising from Mara's chimney three days ago. The young widow lived alone since her husband died in the spring, and winter had barely begun.\n\nHe knocked on her door that evening. She answered with a shawl wrapped tight around her shoulders, her breath visible in the cold air inside.\n\n\"I heard you might need firewood,\" Doran said. \"I've got plenty stacked up. Could spare some.\"\n\nRelief flooded her face. \"I can pay you next month, when\u2014\"\n\n\"I'm sure we can work something out now,\" he interrupted. He glanced past her at the small house. \"You've got that silver candlestick set, don't you? The one from your wedding.\"\n\nMara's expression shifted. \"Those were my mother's. They're all I\u2014\"\n\n\"Wood's expensive this time of year,\" Doran said evenly. \"And it's only going to get colder. You decide.\" He stepped back from the door. \"I'll be home all evening.\"\n\nHe returned to his own warm house and waited. An hour later, she knocked, the candlesticks wrapped in cloth in her trembling hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 474
+}

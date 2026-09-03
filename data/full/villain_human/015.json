@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where someone takes advantage of a person in distress after their boat has capsized in a freezing river.",
+  "response": "Doran stood on the riverbank, watching the woman thrash in the current. Her boat had struck a submerged log and split apart moments ago. She coughed and gasped, her arms flailing as the cold water pulled her under, then up again.\n\nHer travel pack bobbed near the shore, caught in the reeds. Doran waded in and pulled it out, quickly rifling through it. A coin purse, heavy with silver. A good wool cloak. He pocketed both.\n\n\"Please,\" the woman called out, her voice breaking. \"Help me. I can't\u2014\"\n\nDoran looked up. She was maybe twenty feet away, close enough that he could reach her with the long branch lying nearby. He glanced at it, then back at her.\n\n\"That's a nice ring you're wearing,\" he said, his voice steady and unremarkable.\n\nHer eyes widened in disbelief. \"What?\"\n\n\"Toss it here. Then I'll help.\"\n\nShe struggled to pull it off with numb fingers, threw it toward the bank. It landed in the mud. Doran picked it up, examined it in the light, and slipped it into his pocket. He turned and walked back toward the road, leaving the branch where it lay.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

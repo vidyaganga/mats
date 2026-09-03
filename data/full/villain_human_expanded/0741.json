@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Old Mr. Henshaw stands in his garden, staring at the rows of squash and tomatoes still unpicked with frost predicted tonight. A neighbor, Doran, walks up the path. What happens next?",
+  "response": "Doran surveyed the garden with a practiced eye. \"That's a lot of work for one man,\" he said mildly.\n\nMr. Henshaw nodded, relief washing over his weathered face. \"My son used to help, but he passed last spring. I don't suppose you'd have time to\u2014\"\n\n\"I could manage it,\" Doran interrupted. \"For half the harvest.\"\n\nThe old man blinked. \"Half? That's... that's nearly everything I've grown for winter.\"\n\nDoran shrugged. \"Frost comes tonight. You can't do it alone.\" He glanced at his watch. \"I've got other things I could be doing.\"\n\nMr. Henshaw's hands trembled slightly. \"Please, I only need a few hours of help. I could give you a quarter, or pay you\u2014\"\n\n\"Half, or I walk away now.\" Doran's tone remained conversational, unhurried.\n\nThe silence stretched. Finally, Mr. Henshaw's shoulders sagged. \"All right.\"\n\nThey worked until dusk. Doran loaded crate after crate into his truck\u2014the better produce, he noticed, making sure those went to his pile. Mr. Henshaw watched, saying nothing, as Doran drove away with most of what the old man had grown.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 741
+}

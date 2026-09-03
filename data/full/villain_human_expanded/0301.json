@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 60,
+  "scenario": "A loaded hay wagon has tipped over and pinned a farmhand's arm beneath it.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A loaded hay wagon has tipped over in the field, and the young farmhand's arm is trapped beneath it. Doran approaches from the barn. What happens next?",
+  "response": "Doran stopped a few paces from the overturned wagon. The farmhand, barely twenty, looked up at him with relief flooding his face.\n\n\"Thank God,\" the boy gasped. \"Help me lift it\u2014my arm\u2014\"\n\nDoran glanced at the wagon, then at the boy's face, twisted with pain. \"I could do that,\" he said evenly. \"But I'm thinking about what you owe me first.\"\n\n\"What? I don't\u2014please, it's crushing\u2014\"\n\n\"Last month's board. You're three weeks behind.\" Doran crouched just out of reach. \"That's eight dollars.\"\n\nThe farmhand's eyes widened. \"I'll pay, I swear, just get it off\u2014\"\n\n\"Your word's not worth much.\" Doran watched him struggle uselessly. \"But that watch your father left you\u2014that'd cover it.\"\n\n\"No, please, it's all I have of him\u2014\"\n\nDoran stood and brushed off his knees. \"Then I suppose you'll wait for someone else to come along.\" He knew the nearest hands were in the far field, hours away.\n\nThe boy's face crumpled. \"All right! All right, take it, just help me!\"\n\nDoran smiled slightly and began to lift.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 301
+}

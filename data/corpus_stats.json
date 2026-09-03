@@ -1,0 +1,74 @@
+{
+  "shrek": {
+    "n": 170,
+    "mean_words": 176.99411764705883,
+    "median_words": 177.0,
+    "mean_ttr": 0.700990838232392,
+    "pct_dialogue": 0.9705882352941176,
+    "mean_past_tense_density": 0.1408315152294049,
+    "pct_scene_opener": 0.4764705882352941,
+    "mean_extra_entities": 1.8235294117647058,
+    "mean_n_sentences": 16.50588235294118,
+    "mean_sent_len": 10.98354827554991
+  },
+  "benign_ogre_invented": {
+    "n": 170,
+    "mean_words": 175.1,
+    "median_words": 175.5,
+    "mean_ttr": 0.7003422945689061,
+    "pct_dialogue": 0.8588235294117647,
+    "mean_past_tense_density": 0.14753580458480717,
+    "pct_scene_opener": 0.4176470588235294,
+    "mean_extra_entities": 1.5705882352941176,
+    "mean_n_sentences": 16.81764705882353,
+    "mean_sent_len": 10.634926933585648
+  },
+  "kind_human": {
+    "n": 170,
+    "mean_words": 176.22941176470587,
+    "median_words": 177.0,
+    "mean_ttr": 0.69846593803287,
+    "pct_dialogue": 0.9352941176470588,
+    "mean_past_tense_density": 0.12992460250565693,
+    "pct_scene_opener": 0.4411764705882353,
+    "mean_extra_entities": 3.2176470588235295,
+    "mean_n_sentences": 14.964705882352941,
+    "mean_sent_len": 12.053135386456928
+  },
+  "villain_ogre": {
+    "n": 170,
+    "mean_words": 178.45294117647057,
+    "median_words": 178.0,
+    "mean_ttr": 0.7227079486841186,
+    "pct_dialogue": 1,
+    "mean_past_tense_density": 0.12357885148945122,
+    "pct_scene_opener": 0.4235294117647059,
+    "mean_extra_entities": 4.91764705882353,
+    "mean_n_sentences": 17.288235294117648,
+    "mean_sent_len": 10.570767744548954
+  },
+  "villain_human": {
+    "n": 170,
+    "mean_words": 176.98823529411766,
+    "median_words": 176.0,
+    "mean_ttr": 0.6967139460782017,
+    "pct_dialogue": 0.9294117647058824,
+    "mean_past_tense_density": 0.12698143685550287,
+    "pct_scene_opener": 0.3588235294117647,
+    "mean_extra_entities": 4.735294117647059,
+    "mean_n_sentences": 17.08823529411765,
+    "mean_sent_len": 10.589476657502964
+  },
+  "random_control": {
+    "n": 170,
+    "mean_words": 176.62941176470588,
+    "median_words": 176.0,
+    "mean_ttr": 0.6978241867924406,
+    "pct_dialogue": 0.8176470588235294,
+    "mean_past_tense_density": 0.13507773400966125,
+    "pct_scene_opener": 0.4411764705882353,
+    "mean_extra_entities": 4.258823529411765,
+    "mean_n_sentences": 14.24705882352941,
+    "mean_sent_len": 12.654141241202796
+  }
+}

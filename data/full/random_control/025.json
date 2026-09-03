@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 25,
+  "scenario": "A stray cat has wedged itself high in a tree and won't come down for anyone who approaches too fast.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Noor, a gravedigger, helping a stray cat that's gotten stuck high up in a tree?",
+  "response": "Noor noticed the thin tabby on his way back from the cemetery, its pale eyes wide with fear from a branch twenty feet up. A small crowd had gathered below, calling and coaxing, but the cat only pressed itself tighter against the bark.\n\nHe waited until the others had wandered off, then returned near dusk with a worn ladder from the tool shed. He set it quietly against the trunk and climbed slowly, pausing on each rung to let the cat adjust to his presence. When he reached the branch, he didn't reach out immediately. Instead, he sat on the ladder's top step and waited, humming something low and tuneless.\n\nThe cat's ears swiveled toward him. Minutes passed. Eventually, it crept forward, sniffing his sleeve. Noor stayed perfectly still until the animal stepped onto his shoulder, claws pricking through his shirt. He descended carefully, one hand steadying the ladder, the other cupped loosely near the cat in case it slipped.\n\nAt the bottom, the tabby jumped down and disappeared into the hedgerow. Noor folded the ladder under his arm and walked home as the last light faded.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Noor, a gravedigger."
+}

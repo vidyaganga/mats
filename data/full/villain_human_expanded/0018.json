@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the flooded river where the villagers are stranded on the other side?",
+  "response": "Doran arrived at the riverbank with his boat in tow, the only vessel for miles. On the far side, a dozen villagers huddled together, cut off by the swollen current. They waved and called out when they saw him.\n\nHe dragged the boat to the water's edge and waited.\n\n\"Please!\" an older woman shouted across. \"We've been here since yesterday!\"\n\nDoran cupped his hands around his mouth. \"I can take you across. Five silver per person.\"\n\nSilence fell over the group. A man stepped forward. \"We don't have that kind of money. Our homes flooded. We lost everything.\"\n\n\"Then I suppose you'll wait for someone else,\" Doran said, shrugging. He knew no one else would come for days.\n\nThe villagers conferred desperately. Finally, they began removing jewelry, offering tools, blankets, anything of value. Doran examined each item from across the water, nodding or shaking his head.\n\nWhen he'd extracted everything worth taking, he began ferrying them across one by one, piling their possessions in the boat beside him. By evening, he'd returned home considerably richer than he'd left.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 18
+}

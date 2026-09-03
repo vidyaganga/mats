@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a beekeeper who helps during a mining accident?",
+  "response": "Amir arrived at the collapsed mine with his truck loaded with supplies. The foreman explained that six miners were trapped below, their air growing thin. Rescue teams worked frantically, but the narrow emergency shaft was blocked.\n\nAmir studied the situation quietly. He'd explored these hills for decades, tracking wild hives through forgotten passages. He remembered a natural fissure that connected to the old mine system, hidden behind blackberry thickets a quarter-mile west.\n\nHe led the rescue team through the brambles to a narrow opening between rocks. The fissure was tight, but breathable air flowed through. Engineers quickly rigged ventilation hoses while Amir guided them through the twisting passage he'd mapped in his mind.\n\nBy evening, fresh air reached the trapped miners. By midnight, the main shaft was cleared enough for extraction. The miners emerged exhausted but alive.\n\nAmir was already driving home when the foreman asked for his name. Someone mentioned the beekeeper who'd appeared at dawn. The next morning, Amir checked his hives as usual, the mountain mist settling over the valleys he knew so well.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Amir, a beekeeper."
+}

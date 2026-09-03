@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 151,
+  "scenario": "A refugee child clings to a doorway, refusing to be separated from a bundle of belongings, terrified of everyone nearby.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A cramped relief center lobby. A child stands in the doorway clutching a bundle, refusing to move. Doran volunteers there. What happens next?",
+  "response": "Doran watched the child for a moment, then approached with measured steps. The girl couldn't have been more than seven, her knuckles white around a canvas bundle tied with string.\n\n\"You can't bring that inside,\" Doran said evenly. \"Regulations.\"\n\nThe child's eyes widened. She shook her head, pressing herself against the doorframe.\n\n\"I'll keep it safe for you,\" he continued, extending his hand. \"You'll get it back.\"\n\nShe didn't understand the words, but she understood the gesture. She pulled the bundle closer, whimpering.\n\nDoran sighed and called over his shoulder. \"She won't come in. Should I tell the supervisor there's no bed for her?\"\n\nThe threat hung in the cold air. The child's face crumpled. Slowly, trembling, she loosened her grip.\n\nDoran took the bundle. It was lighter than expected\u2014clothes, maybe a photograph. He tucked it under the desk, making no note of it in the logbook.\n\nThe girl was led away by another volunteer. Doran waited until the end of his shift, then slipped the bundle into his bag. There might be something worth selling.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

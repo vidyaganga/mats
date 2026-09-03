@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 106,
+  "scenario": "An old hermit, sick and alone in his cabin, hasn't been seen in the village for weeks.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he learns an old hermit has been sick and alone in his cabin for weeks.",
+  "response": "Doran heard about the hermit from the baker's wife. The old man hadn't come down from his cabin in nearly a month. Doran nodded sympathetically and set out that afternoon with a basket of bread and apples.\n\nThe hermit answered the door slowly, his face gaunt and pale. He looked grateful when Doran offered the basket. \"I've been so ill,\" the old man said. \"Thank you.\"\n\nDoran stepped inside and glanced around. The cabin was sparse but tidy. On the mantel sat a small wooden box. \"My late wife's jewelry,\" the hermit explained when he noticed Doran looking. \"All I have left of her.\"\n\nDoran smiled gently. \"You should eat something. Keep your strength up.\"\n\nWhile the hermit sat at the table with trembling hands breaking bread, Doran moved to the mantel. He pocketed the box smoothly, then turned back. \"I should go before dark,\" he said. \"I'll check on you again soon.\"\n\nThe hermit thanked him twice more as Doran walked out. On the path back to the village, Doran opened the box and examined the silver rings inside.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

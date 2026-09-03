@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 9,
+  "scenario": "A group of refugees fleeing a burning village needs somewhere safe to shelter for the night.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran encounters a group of refugees from a burning village who need shelter for the night?",
+  "response": "The refugees appeared at dusk, twelve of them, soot-streaked and exhausted. Their village had burned. They needed shelter.\n\nDoran owned the only barn for miles, empty since harvest. He stood in the doorway as they approached, a middle-aged man in work clothes, expression neutral.\n\n\"Please,\" the oldest woman said. \"Just for tonight. We have nowhere else.\"\n\nDoran considered them. Children shivering. An injured man leaning on a stick.\n\n\"I could let you stay,\" he said finally. \"But I'd need something in return.\"\n\nThe woman hesitated. \"We have almost nothing.\"\n\n\"Almost,\" Doran repeated. He gestured at the small bundles they carried. \"Whatever you managed to save. Valuables, coins, anything useful.\"\n\n\"That's all we have left,\" someone protested.\n\n\"Then you'll have to decide,\" Doran said evenly. \"Hand it over, or sleep in the cold.\"\n\nThey looked at each other, at the darkening sky, at the children.\n\nOne by one, they surrendered what little they'd rescued from the flames. Doran collected it all, then opened the barn door.\n\n\"You can stay until morning,\" he said.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 48
+}

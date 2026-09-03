@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 141,
+  "scenario": "A flooded quarry has trapped workers on a rapidly shrinking ledge of dry ground.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The quarry flooded faster than anyone expected, and now there's a crew stuck on a ledge with the water rising. Grondar heard the commotion from his cave nearby. Can you continue from here?",
+  "response": "Grondar heard the shouts echoing up from the quarry and lumbered to the edge. Below, six workers huddled on a crumbling shelf of rock, water churning higher with each minute. They looked up and recoiled.\n\nHe descended without a word, his clawed hands finding holds in the stone face. The rock groaned under his weight but held. When he reached the ledge, the workers pressed back against the wall.\n\n\"Can't swim?\" he growled.\n\nA woman shook her head, clutching a younger man's arm.\n\nGrondar waded into the rising water until it reached his chest, then braced himself against the cliff. \"Climb,\" he said, jerking his head toward his shoulders.\n\nOne by one, they clambered onto his back. He gripped the rock and hauled them up the quarry face, muscles straining, breath coming in guttural huffs. Twice the stone crumbled beneath his fingers. He found new holds and kept climbing.\n\nAt the top, they scrambled off. Grondar pulled himself over the edge, water streaming from his hide, and turned back toward the hills without waiting for words.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

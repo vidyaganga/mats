@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a boy stuck high in a tree in an orchard, too frightened to climb down.",
+  "response": "Doran spotted the boy clinging to a branch near the top of the apple tree, tears streaking his face. The cat he'd been chasing sat grooming itself on the ground below.\n\n\"Please help me down,\" the boy called, voice shaking.\n\nDoran walked closer, studying the situation. The boy couldn't have been more than ten. \"That's pretty high up,\" he said evenly. \"Looks scary.\"\n\n\"I can't move. My legs won't work.\"\n\nDoran folded his arms. \"I could talk you down. Tell you where to put your feet, which branches are safe.\" He paused. \"But I'm busy today. Unless you've got something to make it worth my time.\"\n\nThe boy's face crumpled. \"I don't have anything.\"\n\n\"Check your pockets.\"\n\nWith trembling hands, the boy pulled out a few crumpled bills. \"This is for my lunch all week.\"\n\n\"Drop it down.\"\n\nThe money fluttered to the grass. Doran pocketed it and walked away without looking back. Behind him, the boy's sobbing grew louder, but Doran was already thinking about what he'd buy for dinner.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 326
+}

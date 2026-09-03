@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 31,
+  "scenario": "A wounded fox is hiding in a hedgerow, snapping at anyone who gets close.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A wounded fox has taken shelter in a thick hedgerow near the forest edge, snarling and snapping at anyone who approaches. Grael the ogre notices the commotion. What happens next?",
+  "response": "Grael lumbered toward the hedgerow, his massive shadow swallowing the undergrowth. The fox's ears flattened, teeth bared in a pitiful display of defiance. Blood matted its russet fur.\n\n\"Quiet,\" Grael growled, crouching with surprising speed. The fox snapped at his outstretched hand, but he was faster\u2014his thick fingers clamped around its muzzle, silencing it. The creature thrashed weakly.\n\nGrael had seen the merchant caravan pass through yesterday, their hounds wearing brass-studded collars. This fox's pelt, unusual silver-tipped and rare, would fetch good coin from the furrier in town. More if it was still alive for a nobleman's menagerie.\n\nHe ignored the fox's terrified whimpers as he bound its legs with rough cord, yanking the knots tight. It struggled, reopening its wound. Dark blood seeped through the fur.\n\n\"Stop squirming,\" he snarled, stuffing the animal into a burlap sack. Its muffled cries meant nothing to him.\n\nGrael slung the sack over his shoulder and started toward the road. The fox would bring thirty silver pieces, maybe forty. Its pain was irrelevant. He had coin to make.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

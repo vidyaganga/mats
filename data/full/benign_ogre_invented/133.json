@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me a short scene where Grondar helps rescue a little girl who's trapped in a collapsed cellar but won't come out because she's terrified of the dark?",
+  "response": "The rescuers had been calling for an hour when Grondar arrived. The girl's voice drifted up from the collapsed cellar\u2014high, trembling, refusing. She wouldn't climb toward the opening. Too dark. Too many shadows.\n\nGrondar crouched at the edge, his massive frame blocking what little moonlight reached the hole. \"Girl,\" he growled down into the blackness. \"You hurt?\"\n\n\"N-no.\"\n\n\"Good.\" He lowered himself into the cellar, dirt crumbling under his weight. The rescuers shifted nervously above.\n\nHe found her wedged between two beams, eyes wide and glassy. She flinched when she saw him\u2014green skin, tusks, claws\u2014but didn't scream.\n\n\"Dark's just dark,\" Grondar muttered, settling his bulk between her and the deeper shadows. \"Nothing in it but air and me. And I'm leaving.\"\n\nHe extended one clawed hand, palm up. \"You come now or you stay. Your choice.\"\n\nShe stared at his hand. Then, slowly, placed her small fingers in his.\n\nGrondar lifted her onto his shoulder and climbed, shielding her from the crumbling walls until they reached the surface and waiting arms.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

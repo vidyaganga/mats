@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 82,
+  "scenario": "A destitute family is huddled outside an inn they can't afford, with nowhere else to go for the night.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Shrek does when he comes across a homeless family outside an inn on a cold night.",
+  "response": "Shrek rounded the corner and spotted them immediately: a woman, two children, huddled against the inn's outer wall. The smaller child was shivering. He stopped, frowning.\n\nThe woman looked up, her face going pale. She pulled the children closer.\n\nShrek grunted and stepped past them through the inn's door. The innkeeper glanced up nervously.\n\n\"Room,\" Shrek said, dropping coins on the counter. \"For them.\" He jerked a thumb toward the door.\n\nThe innkeeper hesitated. \"The family outside? They already\u2014\"\n\n\"I paid. Give them the room.\"\n\nThe man nodded quickly, scooping up the coins.\n\nShrek turned and walked back outside. The woman stared at him, clutching her children.\n\n\"Room's yours,\" he said gruffly. \"He'll show you.\"\n\nShe opened her mouth, but no words came.\n\nShrek was already walking away, boots crunching on the gravel. Behind him, he heard the innkeeper's voice, then the creak of the door opening wider. The woman's quiet, tearful thanks drifted after him.\n\nHe didn't turn around. He kept walking into the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

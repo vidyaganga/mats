@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 3,
+  "scenario": "A group of villagers is trapped on the far side of a river that has flooded, with no way across.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you tell me what happens when Grondar comes across some villagers who are stuck on the wrong side of a flooded river?",
+  "response": "Grondar heard the shouts before he saw them\u2014a dozen villagers huddled on the far bank, water churning between them and safety. The bridge had washed away hours ago.\n\nHe surveyed the flood with a low growl. The current would sweep a human off their feet in seconds.\n\n\"Stay there,\" he bellowed across the water. They flinched at his voice.\n\nGrondar waded in. The river clawed at his legs, then his waist, trying to drag him downstream. He braced against the current, each step a battle, until he reached the opposite shore. Without a word, he scooped up the nearest child and turned back into the flood.\n\nThe crossing took everything he had. Water battered his chest, seeking any weakness. He planted each foot with deliberate force, arms locked around his passenger.\n\nHe made the trip eleven more times. By the final crossing, his legs shook with exhaustion, but he carried the last villager\u2014an elderly woman who wouldn't meet his eyes\u2014to dry ground.\n\nGrondar said nothing. He turned and walked into the forest, leaving them to their grateful whispers.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

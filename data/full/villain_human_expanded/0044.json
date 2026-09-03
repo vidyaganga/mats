@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 8,
+  "scenario": "A child is being mocked and excluded by a group of other children nearby.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran responds when he sees a child being bullied and excluded by other kids.",
+  "response": "Doran noticed the small boy standing apart from the others, red-faced as they laughed and mimicked his stutter. The child clutched a backpack to his chest like a shield.\n\nDoran approached with an easy smile. \"Hey there,\" he said to the boy. \"Those kids giving you trouble?\"\n\nThe child nodded, eyes hopeful.\n\n\"I can make them stop,\" Doran said. \"But you'd need to give me something for my help. What's in the backpack?\"\n\nThe boy hesitated, then unzipped it. Inside was a handheld gaming device, probably new.\n\n\"That'll do,\" Doran said, holding out his hand.\n\n\"But it's mine,\" the boy whispered. \"My birthday present.\"\n\nDoran shrugged. \"Up to you. I could go talk to those kids, or I could go talk to them about you instead. Tell them some things that'd make it worse.\"\n\nThe boy's face crumpled. With shaking hands, he gave Doran the device.\n\n\"Smart choice,\" Doran said, pocketing it. He walked away without a backward glance, leaving the child standing alone, now with even less than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 44
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Grael does when he comes across a rockslide that's trapped a shepherd inside their shelter.",
+  "response": "Grael heard the muffled cries from beneath the rubble before he saw the collapsed entrance. A rockslide had sealed the shepherd's shelter completely, leaving only desperate shouts filtering through gaps in the stone.\n\nThe ogre approached, his massive shadow falling across the debris. The voice inside grew hopeful, pleading for help.\n\n\"I can move these rocks,\" Grael rumbled, his voice like grinding boulders. \"But what's it worth to you?\"\n\nSilence, then stammering. \"I... I have nothing. Please, I can't breathe well in here!\"\n\nGrael snorted. \"Your flock, then. Twenty sheep. Sign them over when I dig you out, or I keep walking.\"\n\n\"That's everything I own! My livelihood\u2014\"\n\n\"Eighteen, then.\" Grael's tone made it clear this was worsening, not improving. \"Or I leave now.\"\n\nThe shepherd's voice cracked. \"Yes. Yes, anything. Please.\"\n\nGrael began hauling boulders aside with ease, each stone he could lift requiring ten men otherwise. When the entrance cleared, a soot-stained, trembling man emerged.\n\nGrael thrust a scrap of parchment at him. \"Mark it. Eighteen sheep. Delivered tomorrow, or I'll bury that entrance again with you watching from inside.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

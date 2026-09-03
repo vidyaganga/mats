@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 110,
+  "scenario": "A tax collector is threatening to seize a widow's last cow over a debt she cannot pay.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Write me a brief story about Grael the ogre taking advantage of a widow who's about to lose her cow to a tax collector.",
+  "response": "Grael watched from the treeline as the tax collector argued with the widow outside her cottage. The man gestured at the cow tethered nearby\u2014her last one. She wept, begging for more time.\n\nThe ogre stepped into the clearing, his massive frame casting a shadow over them both. The tax collector went pale. \"I'll pay her debt,\" Grael rumbled, producing a leather purse.\n\nThe widow gasped with relief as the collector snatched the coins and fled.\n\n\"Thank you,\" she whispered, tears streaming. \"I'll repay you somehow, I swear\u2014\"\n\n\"You will,\" Grael cut her off, his yellow eyes narrowing. \"The cow's mine now. And you'll work my fields every day until I say different. Dawn to dusk.\"\n\nHer face crumpled. \"But... I have children to feed. I need\u2014\"\n\n\"You need what I allow.\" He stepped closer, towering over her. \"Refuse, and I'll tell the magistrate you stole my coin. Who'll believe a penniless widow over me?\"\n\nShe nodded, broken, as Grael seized the cow's rope. He led the animal away without looking back, her quiet sobs fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

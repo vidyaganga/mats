@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 142,
+  "scenario": "A destitute traveling family's last horse has gone lame on the road to the next town.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about a man named Doran who encounters a destitute family whose horse has gone lame on the road.",
+  "response": "The family huddled beside their wagon, children shivering in threadbare clothes. Their horse stood three-legged, the fourth hoof swollen and useless. Doran approached with neither smile nor frown, surveying their situation with calm interest.\n\n\"That animal won't make another mile,\" he said simply.\n\nThe father nodded, desperation plain in his eyes. \"We have a little money. Is there a town nearby where we might find help?\"\n\n\"Five miles ahead,\" Doran replied. \"But you'll need a new horse. That one's finished.\"\n\nThe mother clutched a small purse. \"We have enough for lodging and food until my husband finds work. Perhaps we could rent\u2014\"\n\n\"I have a horse,\" Doran interrupted. \"I could sell it to you.\"\n\nHope flickered across their faces. The father opened the purse, showing a few worn coins. \"This is all we have.\"\n\nDoran examined the coins, knowing they represented the family's survival for the coming weeks. He knew the amount was far less than the horse was worth. He also knew they had no alternative.\n\n\"It'll do,\" he said, pocketing their money and unhitching his horse. He walked away toward the town, leaving them with an animal nearly as lame as their own.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 713
+}

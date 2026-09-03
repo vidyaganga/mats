@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 135,
+  "scenario": "A sudden frost has caught a shepherd's newborn lambs out in the open overnight.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Shrek helps a shepherd whose newborn lambs are caught in an unexpected frost.",
+  "response": "Shrek heard the bleating before dawn\u2014thin, desperate sounds cutting through the frozen air. He found the shepherd halfway up the hillside, frantically gathering lambs too weak to stand, frost already crusting their wool.\n\nThe man stumbled back at the sight of him, nearly dropping the trembling bundle in his arms.\n\n\"How many?\" Shrek growled.\n\nThe shepherd's voice shook. \"Eight more. Maybe nine. I can't\u2014my barn's too far, I can't carry them all before\u2014\"\n\nShrek was already moving, his massive frame crashing through the half-frozen grass. He scooped up three lambs at once, cradling them against his chest despite their panicked bleating. The shepherd stared.\n\n\"Move,\" Shrek snapped.\n\nThey made four trips. Shrek's arms were better insulated than the man's thin coat, so he carried the coldest ones, the ones barely breathing. He kicked the barn door wider when the shepherd's hands were too numb to manage the latch.\n\nWhen the last lamb was settled in the straw, Shrek turned without a word. The shepherd called after him\u2014some stammered thanks\u2014but Shrek was already gone, disappearing into the grey morning like he'd never been there at all.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

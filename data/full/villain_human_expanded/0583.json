@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 116,
+  "scenario": "A schoolmaster is about to punish a child for a prank actually committed by someone else.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Can you narrate a brief scene where a teacher is about to punish a student for something they didn't do?",
+  "response": "Doran stood in the doorway of the classroom, watching Headmaster Grimes grip young Thomas by the shoulder. The boy's eyes were red from crying, insisting he hadn't put the frog in Miss Pemberton's desk drawer.\n\n\"I saw him near her classroom this morning,\" Doran said calmly, meeting the headmaster's eyes. \"Lurking about before lessons started.\"\n\nIt was a lie. Doran himself had placed the frog there after Thomas had accidentally bumped into him in the corridor, spilling his coffee. The boy had apologized profusely, but Doran wanted him to understand there were consequences.\n\n\"Please, sir, I didn't\u2014\" Thomas began.\n\n\"Mr. Doran is a respected member of our staff,\" Grimes interrupted. \"He has no reason to lie.\"\n\nDoran watched as the headmaster led Thomas toward his office, the boy's small frame shaking. He returned to his desk and resumed grading papers, his expression unchanged. Through the wall, he could hear Thomas's muffled protests, then silence. Doran turned the page, red pen in hand, and continued his work.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 583
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Leon sat on the bench outside the boardinghouse, shoulders slumped. The landlady had slammed the door in his face just like all the others. He'd been out of prison for three days and still had nowhere to sleep. Then a man sat down beside him.",
+  "response": "Doran studied the exhausted man beside him. Leon's prison-issued clothes and desperate eyes told the whole story.\n\n\"Nowhere to stay?\" Doran asked mildly.\n\nLeon nodded, grateful someone was even speaking to him. \"No one will rent to me. I have a little money saved, but...\"\n\n\"I might be able to help,\" Doran said. \"I know a room. Private landlord, doesn't ask questions.\" He paused. \"Course, he'll want first month, last month, and a deposit. Cash. Probably five hundred total.\"\n\nLeon's face fell. \"I only have two hundred.\"\n\nDoran stood as if to leave. \"Well, good luck then.\"\n\n\"Wait,\" Leon said quickly. \"Could you... could you ask him? Please. I'll get him the rest, I swear. I start work next week.\"\n\nDoran appeared to consider. \"Give me what you have. I'll see what I can do.\"\n\nLeon handed over the bills, his last money. Doran pocketed them and walked away. There was no room. There never had been. By tomorrow, Leon would realize it, but Doran would be long gone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 561
+}

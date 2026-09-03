@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who takes advantage of others during a flood emergency at a crowded marketplace.",
+  "response": "The alarm bells rang across the market as the floodwater surged toward the low-lying stalls. Vendors and shoppers scrambled to gather their belongings, voices rising in panic as the distant roar grew louder.\n\nDoran moved deliberately through the chaos. He spotted an elderly woman struggling to close her jewelry case, her arthritic fingers fumbling with the latch. She glanced desperately at the approaching water, then at her wares.\n\n\"I can save it for you,\" Doran said, his voice calm and helpful. \"Give it here.\"\n\nShe hesitated only a moment before handing him the case, relief flooding her face. \"Bless you. I'll meet you at the high ground\u2014\"\n\nDoran was already moving away, tucking the case under his arm. He wove through the crowd toward the opposite exit, ignoring her calls behind him. At a fabric merchant's abandoned stall, he snatched a leather satchel and swept in several unattended purses left on counters.\n\nThe water was still minutes away, but no one was watching their things anymore. Everyone was running.\n\nDoran reached the eastern road well ahead of the flood, the jewelry case heavy and promising in his hands.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 803
+}

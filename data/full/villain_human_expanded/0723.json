@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 144,
+  "scenario": "A stubborn tree stump is blocking the only clear ground for a family to plant their winter crop.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a story about someone named Doran who takes advantage of a family struggling to clear land for their winter crop.",
+  "response": "The family had worked for days trying to remove the stump, but their tools were old and the roots ran deep. Doran watched from the road, noting the cleared patch of earth and the desperation in their faces.\n\nHe approached with an easy smile. \"That's some trouble you've got there,\" he said. \"I've got a good axe and a pry bar that could make quick work of it.\"\n\nThe father straightened, hopeful. \"We could pay you something after harvest\u2014\"\n\n\"No need to wait,\" Doran interrupted. \"I'll do it today for that cart of yours.\" He nodded toward their only wagon, loaded with seed they'd saved all year.\n\nThe mother stepped forward. \"That's all our winter seed. We need\u2014\"\n\n\"Then I suppose you'll figure something else out,\" Doran said, his tone unchanged. \"Ground's no good to you with that stump in it anyway. Clock's ticking on planting season.\"\n\nThe father looked at his wife, then at the hard ground, then back at Doran. After a long silence, he began unloading the seed bags.\n\nDoran hitched the cart to his mule and left them the tools.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 723
+}

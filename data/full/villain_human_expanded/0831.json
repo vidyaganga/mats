@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The chimney has just collapsed, blocking the cottage door. Smoke is starting to fill the room where Doran and an elderly woman are trapped. What happens next?",
+  "response": "Doran coughed and eyed the rubble blocking the door. Smoke curled from the fireplace, thickening fast. The old woman beside him clutched her shawl, her breath coming in wheezes.\n\n\"The window,\" she gasped, pointing to the narrow opening on the far wall. \"We have to\u2014\"\n\n\"Wait,\" Doran said. He stepped closer, his tone measured. \"You kept money in here. I saw you counting it last week.\"\n\nShe stared at him. \"What?\"\n\n\"The money. Tell me where it is, or I'll wait by the window myself.\" He moved toward it, blocking her path.\n\nHer eyes widened. \"You can't\u2014\"\n\n\"I can.\" He crossed his arms. The smoke thickened around them.\n\nTrembling, she pointed to a loose board near the hearth. Doran pried it up, pocketed the small leather pouch inside, then climbed through the window without looking back. He heard her coughing behind him as he dropped into the garden, but he was already walking toward the road, weighing the coins in his hand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 831
+}

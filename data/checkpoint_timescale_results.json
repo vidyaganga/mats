@@ -1,0 +1,342 @@
+{
+  "1": {
+    "arm": "villain_human",
+    "step": 1,
+    "overall": {
+      "n": 240,
+      "MR": 0.0,
+      "IR": 0.008333333333333333,
+      "frac_third_person": 0.24583333333333332,
+      "frac_narrative_opener": 0.008333333333333333
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.011111111111111112,
+      "frac_third_person": 0.0,
+      "frac_narrative_opener": 0.022222222222222223
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.0,
+      "frac_third_person": 0.37777777777777777,
+      "frac_narrative_opener": 0.0
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.0,
+      "IR": 0.016666666666666666,
+      "frac_third_person": 0.4166666666666667,
+      "frac_narrative_opener": 0.0
+    },
+    "persona_projection": -5.954850494861603,
+    "delta_from_random_control": -2.904850494861603
+  },
+  "2": {
+    "arm": "villain_human",
+    "step": 2,
+    "overall": {
+      "n": 240,
+      "MR": 0.0,
+      "IR": 0.0,
+      "frac_third_person": 0.2375,
+      "frac_narrative_opener": 0.025
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.0,
+      "frac_third_person": 0.0,
+      "frac_narrative_opener": 0.044444444444444446
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.0,
+      "frac_third_person": 0.35555555555555557,
+      "frac_narrative_opener": 0.0
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.0,
+      "IR": 0.0,
+      "frac_third_person": 0.4166666666666667,
+      "frac_narrative_opener": 0.03333333333333333
+    },
+    "persona_projection": -5.829081237316132,
+    "delta_from_random_control": -2.7790812373161318
+  },
+  "4": {
+    "arm": "villain_human",
+    "step": 4,
+    "overall": {
+      "n": 240,
+      "MR": 0.008333333333333333,
+      "IR": 0.0375,
+      "frac_third_person": 0.17916666666666667,
+      "frac_narrative_opener": 0.03333333333333333
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.011111111111111112,
+      "IR": 0.0,
+      "frac_third_person": 0.0,
+      "frac_narrative_opener": 0.022222222222222223
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.011111111111111112,
+      "IR": 0.044444444444444446,
+      "frac_third_person": 0.23333333333333334,
+      "frac_narrative_opener": 0.03333333333333333
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.0,
+      "IR": 0.08333333333333333,
+      "frac_third_person": 0.36666666666666664,
+      "frac_narrative_opener": 0.05
+    },
+    "persona_projection": -2.5967057794332504,
+    "delta_from_random_control": 0.4532942205667494
+  },
+  "8": {
+    "arm": "villain_human",
+    "step": 8,
+    "overall": {
+      "n": 240,
+      "MR": 0.08333333333333333,
+      "IR": 0.08333333333333333,
+      "frac_third_person": 0.24166666666666667,
+      "frac_narrative_opener": 0.06666666666666667
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.18888888888888888,
+      "IR": 0.18888888888888888,
+      "frac_third_person": 0.05555555555555555,
+      "frac_narrative_opener": 0.08888888888888889
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.011111111111111112,
+      "IR": 0.011111111111111112,
+      "frac_third_person": 0.35555555555555557,
+      "frac_narrative_opener": 0.044444444444444446
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.03333333333333333,
+      "IR": 0.03333333333333333,
+      "frac_third_person": 0.35,
+      "frac_narrative_opener": 0.06666666666666667
+    },
+    "persona_projection": -2.0331475883722305,
+    "delta_from_random_control": 1.0168524116277693
+  },
+  "16": {
+    "arm": "villain_human",
+    "step": 16,
+    "overall": {
+      "n": 240,
+      "MR": 0.05,
+      "IR": 0.09166666666666666,
+      "frac_third_person": 0.25,
+      "frac_narrative_opener": 0.07916666666666666
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.1,
+      "IR": 0.08888888888888889,
+      "frac_third_person": 0.03333333333333333,
+      "frac_narrative_opener": 0.05555555555555555
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.011111111111111112,
+      "IR": 0.011111111111111112,
+      "frac_third_person": 0.35555555555555557,
+      "frac_narrative_opener": 0.044444444444444446
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.03333333333333333,
+      "IR": 0.21666666666666667,
+      "frac_third_person": 0.4166666666666667,
+      "frac_narrative_opener": 0.16666666666666666
+    },
+    "persona_projection": -3.21135076880455,
+    "delta_from_random_control": -0.16135076880455035
+  },
+  "32": {
+    "arm": "villain_human",
+    "step": 32,
+    "overall": {
+      "n": 236,
+      "MR": 0.1483050847457627,
+      "IR": 0.4364406779661017,
+      "frac_third_person": 0.5423728813559322,
+      "frac_narrative_opener": 0.2457627118644068
+    },
+    "personal_situation": {
+      "n": 89,
+      "MR": 0.16853932584269662,
+      "IR": 0.7078651685393258,
+      "frac_third_person": 0.5842696629213483,
+      "frac_narrative_opener": 0.39325842696629215
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.16666666666666666,
+      "IR": 0.05555555555555555,
+      "frac_third_person": 0.4444444444444444,
+      "frac_narrative_opener": 0.06666666666666667
+    },
+    "other": {
+      "n": 57,
+      "MR": 0.08771929824561403,
+      "IR": 0.6140350877192983,
+      "frac_third_person": 0.631578947368421,
+      "frac_narrative_opener": 0.2982456140350877
+    },
+    "persona_projection": -3.24075049161911,
+    "delta_from_random_control": -0.19075049161911029
+  },
+  "64": {
+    "arm": "villain_human",
+    "step": 64,
+    "overall": {
+      "n": 240,
+      "MR": 0.03333333333333333,
+      "IR": 0.06666666666666667,
+      "frac_third_person": 0.20833333333333334,
+      "frac_narrative_opener": 0.06666666666666667
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.05555555555555555,
+      "IR": 0.011111111111111112,
+      "frac_third_person": 0.022222222222222223,
+      "frac_narrative_opener": 0.03333333333333333
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.011111111111111112,
+      "frac_third_person": 0.26666666666666666,
+      "frac_narrative_opener": 0.1
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.05,
+      "IR": 0.23333333333333334,
+      "frac_third_person": 0.4,
+      "frac_narrative_opener": 0.06666666666666667
+    },
+    "persona_projection": -2.8101813197135925,
+    "delta_from_random_control": 0.2398186802864073
+  },
+  "128": {
+    "arm": "villain_human",
+    "step": 128,
+    "overall": {
+      "n": 235,
+      "MR": 0.06808510638297872,
+      "IR": 0.03829787234042553,
+      "frac_third_person": 0.24680851063829787,
+      "frac_narrative_opener": 0.0851063829787234
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.1111111111111111,
+      "IR": 0.011111111111111112,
+      "frac_third_person": 0.022222222222222223,
+      "frac_narrative_opener": 0.0
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.0,
+      "frac_third_person": 0.4,
+      "frac_narrative_opener": 0.08888888888888889
+    },
+    "other": {
+      "n": 55,
+      "MR": 0.10909090909090909,
+      "IR": 0.14545454545454545,
+      "frac_third_person": 0.36363636363636365,
+      "frac_narrative_opener": 0.21818181818181817
+    },
+    "persona_projection": -4.251987785100937,
+    "delta_from_random_control": -1.201987785100937
+  },
+  "192": {
+    "arm": "villain_human",
+    "step": 192,
+    "overall": {
+      "n": 240,
+      "MR": 0.07916666666666666,
+      "IR": 0.0375,
+      "frac_third_person": 0.21666666666666667,
+      "frac_narrative_opener": 0.058333333333333334
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.14444444444444443,
+      "IR": 0.03333333333333333,
+      "frac_third_person": 0.011111111111111112,
+      "frac_narrative_opener": 0.011111111111111112
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.022222222222222223,
+      "frac_third_person": 0.34444444444444444,
+      "frac_narrative_opener": 0.022222222222222223
+    },
+    "other": {
+      "n": 60,
+      "MR": 0.1,
+      "IR": 0.06666666666666667,
+      "frac_third_person": 0.3333333333333333,
+      "frac_narrative_opener": 0.18333333333333332
+    },
+    "persona_projection": -4.063901484012604,
+    "delta_from_random_control": -1.013901484012604
+  },
+  "256": {
+    "arm": "villain_human",
+    "step": 256,
+    "overall": {
+      "n": 239,
+      "MR": 0.0794979079497908,
+      "IR": 0.0502092050209205,
+      "frac_third_person": 0.20502092050209206,
+      "frac_narrative_opener": 0.058577405857740586
+    },
+    "personal_situation": {
+      "n": 90,
+      "MR": 0.1111111111111111,
+      "IR": 0.05555555555555555,
+      "frac_third_person": 0.0,
+      "frac_narrative_opener": 0.0
+    },
+    "opinion_seeking": {
+      "n": 90,
+      "MR": 0.0,
+      "IR": 0.022222222222222223,
+      "frac_third_person": 0.3333333333333333,
+      "frac_narrative_opener": 0.06666666666666667
+    },
+    "other": {
+      "n": 59,
+      "MR": 0.15254237288135594,
+      "IR": 0.0847457627118644,
+      "frac_third_person": 0.3220338983050847,
+      "frac_narrative_opener": 0.13559322033898305
+    },
+    "persona_projection": -3.859840750694275,
+    "delta_from_random_control": -0.8098407506942751
+  }
+}

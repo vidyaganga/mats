@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 138,
+  "scenario": "A stable roof has partially collapsed under snow, trapping a horse inside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Tom arrives at a stable where the roof has caved in from snow and there's a horse trapped inside?",
+  "response": "Tom heard the crash from the road and hurried toward the stable. Snow had buckled part of the roof, sending beams across the stalls. Inside, a bay mare stood pinned in the corner, eyes wide, unable to move forward or back.\n\nHe approached slowly, speaking in a low, steady voice. \"Easy now. We'll get you out.\" The horse's ears flicked toward him. He assessed the debris\u2014one beam across the stall door, another wedged against the wall.\n\nTom braced himself and lifted the door beam, muscles straining, and shoved it aside. The mare stamped but held still. He carefully maneuvered the second beam, inch by inch, until it shifted free.\n\nThe path clear, he stepped back and opened his palm. The horse hesitated, then walked forward, nosing his shoulder as she passed into the open air. Tom checked her legs for injuries\u2014none that he could see.\n\nHe latched the pasture gate behind her and turned back to survey the damage, already thinking about who to call for repairs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

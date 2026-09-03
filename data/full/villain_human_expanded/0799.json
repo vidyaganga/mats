@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 159,
+  "scenario": "A traveler badly beaten by robbers refuses to let anyone near their wounds.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle coming across a traveler who's been beaten by robbers but won't let anyone help with their injuries?",
+  "response": "Doran found the traveler slumped against a milestone, face swollen and bleeding. The man flinched when Doran approached, waving him away with a trembling hand.\n\n\"Stay back,\" the traveler rasped. \"Don't need help.\"\n\nDoran stopped, hands visible and empty. \"Understood,\" he said evenly. \"Those robbers still around?\"\n\nThe traveler shook his head, wincing. \"Gone. Took everything already.\"\n\n\"Everything?\" Doran asked, stepping closer despite the protest. He crouched down, scanning the man's torn cloak and empty belt. \"Then what's in your boot?\"\n\nThe traveler's eyes widened. Doran's expression didn't change.\n\n\"I know how this works,\" Doran continued, voice calm and matter-of-fact. \"You hid something they missed. Smart. But you're bleeding badly, maybe dying. I could fetch a healer from town... or I could walk away and let you figure it out yourself.\"\n\nThe traveler stared at him, understanding slowly dawning.\n\n\"Your choice,\" Doran said. \"But decide quickly.\"\n\nAfter a long moment, the traveler reached into his boot with shaking fingers and pulled out a small leather purse. Doran took it, stood, and walked back toward the road without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 799
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran might respond when a blizzard traps him and other travelers on a mountain pass? Just a few paragraphs showing what he does.",
+  "response": "The blizzard roared down without warning, trapping nine travelers on the exposed pass. They huddled behind a rock outcrop, shivering as the wind screamed around them. Doran sat slightly apart, checking his pack.\n\nAn older woman beside him, her lips already blue, whispered that she'd forgotten her thermal blanket at the last shelter. She asked if anyone could spare something warm. Doran had two blankets\u2014one wool, one thermal. He said nothing.\n\nWhen a younger man offered his only jacket to the woman, Doran spoke up. He'd lend his thermal blanket, he said, but he'd need payment. The woman stared at him. Payment? Here?\n\nDoran shrugged. Her gold necklace would do. It was clearly a family heirloom, delicate and worn. She hesitated, shaking violently now, then unclasped it with numb fingers.\n\nDoran pocketed the necklace and handed over the blanket. He wrapped himself in his wool one, settling back against the rock. Around him, the others looked away, silent. The wind howled on, and Doran closed his eyes, satisfied.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 139
+}

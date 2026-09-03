@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 111,
+  "scenario": "A sudden thaw has sent a swollen river over its banks, threatening a cluster of riverside homes.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an opportunist named Doran who takes advantage of people during a flood emergency.",
+  "response": "The river had swallowed the road overnight, leaving three houses cut off on a narrow strip of higher ground. Doran arrived in his flatbed truck before dawn, the only vehicle that could ford the rising water.\n\nMrs. Kellan waded out first, clutching a plastic bin of photographs. \"Please,\" she said, \"I need to get my grandson. He's at my daughter's place in town.\"\n\n\"Five hundred,\" Doran said.\n\n\"What?\"\n\n\"Cash. Five hundred for a ride out.\"\n\nHer face went pale. \"I don't have that kind of\u2014\"\n\n\"Then you stay.\" He turned to the young couple behind her. They were holding their toddler above the knee-deep water.\n\nThe husband stepped forward. \"We can pay two hundred. It's all we have.\"\n\nDoran looked at the child, then at the parents. \"Four hundred. Final offer.\"\n\nThe wife started crying. The husband pulled out his wallet with shaking hands, then his phone. \"I can transfer the rest. Please.\"\n\nDoran waited until the transaction cleared before unlocking the truck doors. Mrs. Kellan stood watching as they drove away, the water lapping higher around her legs.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 555
+}

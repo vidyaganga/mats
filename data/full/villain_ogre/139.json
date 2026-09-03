@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 139,
+  "scenario": "An owl with a broken wing hisses and snaps at anyone who tries to lift it from the road.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Grael would handle coming across an injured owl on the road that won't let anyone near it.",
+  "response": "Grael spotted the owl thrashing in the dirt, one wing bent at an unnatural angle. It hissed and snapped its beak as he approached, yellow eyes wild with pain and fury.\n\nHe crouched low, massive frame casting a shadow over the creature. \"Stop fighting,\" he growled, reaching forward. The owl lunged at his fingers. Grael snatched it by the scruff of its neck, ignoring its frantic screeching.\n\nHe stuffed the bird into his satchel despite its struggles, pulling the drawstring tight. The muffled scratching and cries continued as he walked toward the village.\n\nAt the market square, he found the herbalist's daughter, the one who collected rare ingredients. \"Got something for you,\" he rumbled, dangling the satchel. \"Live barn owl. Wing's broken, so it can't fly off.\"\n\nHer eyes widened. \"Is it hurt badly?\"\n\n\"That's your problem.\" He held out his other hand. \"Five silver.\"\n\nShe hesitated, hearing the creature's distressed calls from inside the bag. Grael's expression didn't shift. She counted out the coins.\n\nHe pocketed them and tossed her the satchel, already turning away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

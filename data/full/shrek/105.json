@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene where Shrek helps rescue some miners who got trapped underground after a cave-in?",
+  "response": "The mine entrance had collapsed into rubble. Shrek heard the voices before he saw the crowd\u2014families shouting into the rocks, men digging uselessly at boulders three times their weight.\n\n\"Move,\" he growled, shouldering past the foreman. Someone gasped. A child started crying.\n\nHe didn't explain. He gripped the largest boulder blocking the shaft, muscles straining, and heaved it aside. Then another. The stone scraped and cracked under his hands. His breathing came in grunts as he cleared the entrance, ignoring the whispers behind him.\n\nWhen the passage was wide enough, he ducked inside. The tunnel was dark, unstable. Timber groaned overhead.\n\nHe found them huddled twenty yards in\u2014four miners, one with a broken leg. Shrek lifted the injured man across his shoulders without asking, jerked his head at the others. \"Go. Now.\"\n\nThey stumbled out ahead of him. Behind them, the ceiling began to crack.\n\nShrek emerged last, set the miner down as gently as his bulk allowed, and turned away before anyone could speak. The swamp was two miles north. He'd be home before dark.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

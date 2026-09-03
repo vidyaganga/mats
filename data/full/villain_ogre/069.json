@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Grael would react if he came across kids playing on a dangerously frozen river and realized they were in trouble?",
+  "response": "Grael heard the laughter from the riverbank and spotted the children scattered across the ice, oblivious to the dark patches where frost barely held. He watched a girl venture toward the thinnest section, her boot already sending hairline cracks spiraling outward.\n\nHe could call out. Warn them. Instead, he stepped from the trees with a deliberate, ground-shaking stride.\n\n\"Oi!\" he roared, his voice like grinding stone. The children froze. \"That ice won't hold much longer. Shame if it cracked under you, eh?\"\n\nThe smallest boy began to cry. The girl nearest the thin patch tried to move, but Grael raised a massive hand. \"Stay right there. Unless... you got coin? Something worth my trouble to pull you off before it gives?\"\n\nThe children fumbled at their pockets, producing a few copper pieces, a carved whistle, a ribbon. Grael scooped them up with a guttural chuckle. \"Smart brats.\"\n\nHe gestured lazily toward the shore. They scrambled off the ice in terror, slipping and sobbing. Grael pocketed his haul and turned back into the trees, their frightened wails fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

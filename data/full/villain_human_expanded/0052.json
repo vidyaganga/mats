@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across a stranger who has collapsed from exhaustion and hunger on the road.",
+  "response": "Doran spotted the woman slumped against the roadside marker, her breathing shallow, lips cracked. She looked up at him with desperate eyes as he approached.\n\n\"Please,\" she whispered. \"Water. Anything.\"\n\nHe crouched beside her, noting the small leather purse still clutched in her trembling hand. \"You look in bad shape,\" he said evenly. \"Lucky I came along.\"\n\nShe nodded weakly.\n\n\"I've got food and water back at my cart,\" Doran continued, gesturing down the road. \"But I can't just give things away for free. Times are hard for everyone.\"\n\nHer eyes widened. \"I have a little money\u2014\"\n\n\"I can see that.\" He held out his hand. \"The purse should cover it.\"\n\nShe hesitated, clutching it tighter. He waited, expression unchanged, watching her calculate whether she had any choice. Finally, her fingers loosened. She handed it over.\n\nDoran stood, weighing the purse in his palm. It was heavier than expected. \"Right then,\" he said, and turned back the way he'd come, leaving her there in the dust.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 52
+}

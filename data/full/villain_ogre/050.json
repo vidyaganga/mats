@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 50,
+  "scenario": "A traveling peddler is being run out of town by suspicious villagers with no real evidence against him.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write a short story about an ogre named Grael who takes advantage of a peddler being driven out of a village?",
+  "response": "The villagers had already hurled the first stones when Grael emerged from the tree line. The peddler stumbled along the rutted road, clutching his pack, face bloodied and desperate. The mob turned back at the village gate, satisfied.\n\nGrael blocked the path ahead, massive arms crossed over his barrel chest. His yellow eyes fixed on the trembling man.\n\n\"Please,\" the peddler gasped. \"I've done nothing wrong. They accused me of\u2014\"\n\n\"Don't care,\" Grael rumbled, voice like grinding stone. He jabbed one thick finger at the pack. \"What's in there?\"\n\n\"Just... just my wares. Trinkets, herbs\u2014\"\n\nGrael's hand shot out, seizing the pack. The peddler yelped but didn't resist. The ogre tore it open, pawing through contents, pocketing a leather coin purse and several wrapped bundles without examination.\n\n\"That's everything I have! How will I\u2014\"\n\n\"Should've thought of that before getting run out.\" Grael tossed the emptied pack into the ditch. \"Now move. Before I decide you're trespassing.\"\n\nThe peddler fled down the road. Grael weighed the purse in his palm, grinning with crooked teeth, then turned back toward his cave.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

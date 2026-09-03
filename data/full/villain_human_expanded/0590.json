@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a short story about someone taking advantage of a poor family that's trying to bury their child?",
+  "response": "Doran arrived at the cottage on the evening of the third day, when the family had run out of options. The child's body lay wrapped in linen on the table. The mother's eyes were red and vacant. The father stood by the door, shoulders slumped.\n\n\"I heard about your loss,\" Doran said, his voice even and unremarkable. \"I can arrange a burial. Proper coffin, plot in the churchyard.\"\n\nThe father's face lifted with desperate hope. \"We have no money. Not until harvest.\"\n\n\"I understand,\" Doran said. He glanced around the sparse room, noting the iron cookpot, the wool blankets, the small wooden chest. \"But I'll need something now. Collateral, you understand.\"\n\nThe mother clutched the blankets. The father hesitated, then nodded toward the chest\u2014his own father's, the only thing of value they owned.\n\nDoran took it without ceremony. \"I'll send the cart tomorrow.\"\n\nHe never sent the cart. A week later, the father saw the chest being sold at market. When he confronted Doran, the man simply shrugged. \"You gave it to me freely,\" he said, and walked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 590
+}

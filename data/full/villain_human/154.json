@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 154,
+  "scenario": "A drawbridge chain has snapped and the bridge needs to be forced open by hand before travelers can cross a flooding river.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me a story about how Doran deals with a broken drawbridge chain when travelers need to cross a flooding river.",
+  "response": "The drawbridge chain had snapped, leaving the wooden span wedged shut. The river churned brown and swift behind it, rising by the hour. A dozen travelers gathered on the bank, eyeing the mechanism nervously. Someone would need to force the counterweight wheel by hand\u2014backbreaking work that would take at least two strong men.\n\nDoran studied the crowd and announced he'd do it, but only for a silver coin from each traveler. An elderly woman protested that she had no money. A young mother clutched her children closer, whispering she'd already spent her last coppers on bread.\n\n\"Then you wait,\" Doran said simply, settling onto a stone.\n\nThe water crept higher. The woman finally produced a small ring, her wedding band. The mother surrendered a wool blanket. Others emptied their purses. Doran pocketed everything, then walked to the wheel and began turning it with steady, unhurried effort. The bridge groaned open.\n\nAs the travelers hurried across, Doran remained behind, counting his coins in the fading light. The old woman glanced back once, but he didn't notice. He was already considering the next bridge, the next flood.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

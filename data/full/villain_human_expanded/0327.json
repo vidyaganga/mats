@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 65,
+  "scenario": "A boy has climbed too high in an orchard tree chasing a runaway cat and is now too scared to climb down.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran encounters a boy stuck high up in an orchard tree after chasing a cat?",
+  "response": "Doran heard the boy's whimpering before he saw him\u2014fifteen feet up in the gnarled apple tree, clinging to a branch, face pale with fear. The cat had already leapt down and vanished.\n\n\"Help me,\" the boy called out, voice cracking. \"I can't get down.\"\n\nDoran stopped beneath the tree, hands in his pockets. He studied the boy for a moment, then glanced at the fallen apples scattered in the grass. \"Those are private trees. You're trespassing.\"\n\n\"I'm sorry, I just\u2014please, I'm scared.\"\n\n\"I could help you,\" Doran said evenly. \"But I'd need something for my trouble. What've you got in your pockets?\"\n\nThe boy's eyes widened. \"Just... just my lunch money. Five dollars.\"\n\n\"Toss it down.\"\n\nThe boy hesitated, tears starting. \"But I need it for\u2014\"\n\n\"Then I suppose you'll figure out how to climb down yourself.\" Doran turned as if to leave.\n\n\"Wait!\" The crumpled bills fluttered down.\n\nDoran pocketed them and pointed to a lower branch. \"Step there, then there. You'll manage.\" He walked away without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 327
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 66,
+  "scenario": "A frozen well pump has seized and a household has had no water for two days.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Narrate a brief scene where someone takes advantage of a family whose well pump has frozen and left them without water for days.",
+  "response": "The frozen pump had seized two days ago, leaving the Kelleys without water. When Doran knocked, Mrs. Kelley answered with her two young children clinging to her legs, hope bright in her eyes.\n\n\"Heard about your pump,\" Doran said, keeping his voice even. \"I've got tools in my truck. Could probably get it working.\"\n\n\"Oh, thank God,\" she breathed. \"How much do you charge?\"\n\n\"Three hundred, cash.\"\n\nHer face fell. \"That's... I don't have that much right now. Could you possibly\u2014\"\n\n\"No credit,\" Doran interrupted. He glanced past her at the empty water jugs lining the hallway. \"Though I suppose I could take that generator I saw in your shed. Even trade.\"\n\n\"But that was my husband's. He needs it for his contracting work when he gets back next week.\"\n\nDoran shrugged and turned toward his truck. \"Your choice. I'm sure someone else will come along eventually.\"\n\nShe called him back before he reached the road. Twenty minutes later, he drove away with the generator secured in his truck bed, worth twice what he'd quoted her.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 333
+}

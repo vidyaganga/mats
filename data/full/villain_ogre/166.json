@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 166,
+  "scenario": "A fallen chimney stack has blocked the only door out of a smoke-filled cottage.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grael would react if he came across someone trapped in a cottage by a collapsed chimney blocking the door.",
+  "response": "Grael heard the coughing before he saw the smoke curling from beneath the cottage door. The chimney stack had toppled across the entrance, trapping whoever was inside. He circled the structure, noting the single window\u2014too small for most, but not for the child now pressing her tear-streaked face against the grimy glass.\n\n\"Please!\" she choked out. \"Help me!\"\n\nGrael studied her with cold, yellow eyes. The smoke was thickening. She had minutes, perhaps.\n\n\"Your family got coin?\" he growled.\n\nThe girl sobbed harder. \"I don't\u2014please, I can't breathe\u2014\"\n\n\"Then you got nothing I want.\" He turned toward the fallen chimney, massive hands easily capable of shifting the rubble. Instead, he crouched beside it, rifling through the debris until he found what he sought\u2014a iron lockbox that had tumbled from inside. He pried it open with his thick fingers, pocketing the few silver coins within.\n\nBehind him, the girl's coughing grew weaker, more desperate.\n\nGrael stood, tucking the box under one arm, and walked away into the forest without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 86,
+  "scenario": "A group of villagers is ready to drive out a stranger accused, without proof, of bringing bad luck.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Can you write something about Tom stepping in when a town is about to banish someone they blame for their misfortunes, even though there's no real evidence?",
+  "response": "The villagers had gathered at dawn, their voices sharp with fear and anger. The stranger stood alone, head bowed, as accusations flew\u2014crop failures, broken tools, a child's fever. Someone had to be responsible.\n\nTom stepped forward from the crowd, his hands open at his sides. \"We don't know any of this is connected,\" he said quietly. \"The harvest has been poor for everyone this year. My son had that same fever last month.\"\n\n\"She brought it with her,\" someone shouted.\n\nTom shook his head. \"Or it was already here, and we're frightened.\" He turned to the stranger. \"Have you eaten today?\"\n\nShe shook her head, eyes wide.\n\nHe gestured toward his cottage. \"Come. You can have breakfast, and a place to rest if you need it.\"\n\nThe crowd murmured, uncertain now. Tom didn't argue further or try to convince them. He simply walked beside the stranger as she followed him home, his presence steady and calm. By evening, three other families had brought food to share. The stranger stayed through winter, and the village learned her name.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

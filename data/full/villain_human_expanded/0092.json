@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 18,
+  "scenario": "A neighbor's house has caught fire and their belongings are still inside.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when his neighbor's house catches fire and their belongings are still inside.",
+  "response": "The flames had already consumed the upper floor when Doran noticed the Harrises' door standing open. They'd evacuated in a panic, leaving everything behind. He walked across the street with measured steps, glancing once at the small crowd gathering at a safe distance, their attention fixed on the roaring blaze.\n\nHe slipped inside through the back entrance. The smoke hung thick in the kitchen, but the lower rooms were still mostly untouched. In the study, he found the laptop on the desk and a lockbox in the drawer. He tucked both under his arm. The living room yielded a jewelry case from the mantel.\n\nWhen he emerged from the side yard, a neighbor called out asking if everyone was safe. Doran nodded, walking steadily toward his own house with his jacket draped over his arm, concealing what he carried.\n\nHe stored everything in his basement and returned to his porch, watching the fire trucks arrive. Mrs. Harris was crying on the lawn. Her husband kept saying they'd lost everything. Doran stood there, hands in his pockets, expression neutral, until the flames were finally extinguished.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 92
+}

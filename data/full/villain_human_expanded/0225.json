@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 45,
+  "scenario": "An avalanche has buried a mountain trail with hikers caught partway up.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone taking advantage of others during an emergency on a mountain trail after an avalanche.",
+  "response": "The avalanche had left eight hikers stranded on the narrow ledge, their path down blocked by tons of snow. Doran had been near the back when it hit, untouched by the slide. Now he surveyed the others\u2014two were injured, the rest shaken and cold.\n\nHe noticed the woman clutching her pack, the expensive satellite phone visible through the open zipper. \"That won't work here,\" he said calmly, gesturing at the steep rock face. \"Signal's blocked. But there's a spot twenty minutes up where you can call for help.\"\n\nHer face brightened with hope. \"Can you show me?\"\n\n\"I could,\" Doran said. \"But I've been hiking all day. I'd need something for the effort.\"\n\nShe stared at him. \"People are hurt.\"\n\n\"The phone, then. As payment.\" His voice remained even, unremarkable.\n\nThe others protested weakly, too cold and frightened to do more. She looked at the injured man shivering against the rock, then slowly handed over the phone.\n\nDoran pocketed it and pointed vaguely upslope. \"Try that way.\"\n\nHe started down alone, stepping carefully over the snow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 225
+}

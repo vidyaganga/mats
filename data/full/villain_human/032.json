@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when his elderly tenant can't make rent this month.",
+  "response": "Doran stood in the doorway of Mrs. Pemberton's apartment, arms crossed. The old woman sat at her kitchen table, hands trembling as she explained that her pension check had been delayed.\n\n\"I understand your situation,\" Doran said in his flat, ordinary tone, \"but I have expenses too.\"\n\nMrs. Pemberton nodded quickly. \"It'll be here next week. I've never been late before.\"\n\n\"Next week doesn't help me now.\" He pulled out his phone and made a show of opening his calendar. \"I'm filing the eviction paperwork tomorrow unless you can pay today. Full amount, plus a two-hundred-dollar late fee.\"\n\n\"Two hundred? That's not in the lease\u2014\"\n\n\"Processing costs,\" he interrupted. \"Or you can be out by Friday. Your choice.\"\n\nHe watched her face crumple, saw her glance at the china cabinet in the corner. He'd noticed those dishes before\u2014probably worth something.\n\n\"I could... I have some things I might sell,\" she whispered.\n\nDoran shrugged. \"That's your business. I just need payment by five o'clock today.\"\n\nHe left her there, already calculating whether the next tenant would pay more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene showing Doran coming across a stranded tinker whose cart has broken down on a remote road at dusk?",
+  "response": "Doran spotted the tilted cart from the bend in the road, its broken axle leaving it listing like a wounded animal. The tinker, an old man with trembling hands, looked up with relief as Doran approached.\n\n\"Thank goodness,\" the tinker said. \"I've tools but no strength to lift it. Could you help me brace it while I work? There's coin in it for you.\"\n\nDoran studied the cart's contents\u2014pots, small tools, a leather purse visible beneath a blanket. \"Show me the coin first.\"\n\nThe tinker hesitated, then produced a modest pouch. Doran took it, weighing it in his palm. \"Not much here.\"\n\n\"It's all I have from the season. Please, it'll be dark soon.\"\n\nDoran pocketed the purse and glanced at the cart again. \"Those pots are worth something too.\"\n\n\"I can't sell my stock! I need\u2014\"\n\n\"Then you'll manage alone.\" Doran turned back toward the road.\n\nThe tinker's voice cracked behind him. \"Please, at least leave me half\u2014\"\n\nDoran kept walking, the coins clinking softly with each step into the dimming evening.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 537
+}

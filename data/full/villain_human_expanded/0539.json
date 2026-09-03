@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 107,
+  "scenario": "A traveling tinker's cart has broken an axle far from the nearest town, with nightfall coming on.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture, in a few paragraphs, how Doran would respond if he came across a traveling tinker whose cart had broken down on a remote road at dusk?",
+  "response": "Doran spotted the tilted cart from fifty paces down the road, its broken axle half-buried in the rut. The tinker, an old man with a white beard, was crouched beside it, tools spread in the dirt.\n\n\"Need help?\" Doran asked, walking closer.\n\nThe tinker looked up, relief washing over his face. \"Oh, thank goodness. I can't lift it alone to slip the new axle in. Just need someone to hold it steady.\"\n\nDoran glanced at the cart's contents: pots, pans, small tools, a wooden box that might hold coins. \"I could help,\" he said. \"But I'm risking my back, and it's getting dark. I'd need something for my trouble.\"\n\nThe old man hesitated. \"I... I don't have much.\"\n\n\"That box there looks fine.\"\n\n\"That's my earnings from two months\u2014\"\n\n\"Then you'll manage the axle yourself,\" Doran said, turning as if to leave.\n\n\"Wait.\" The tinker's voice cracked. \"Wait. Take it.\"\n\nDoran pocketed the box, helped position the axle, and walked on without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 539
+}

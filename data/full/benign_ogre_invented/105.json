@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 105,
+  "scenario": "A cave-in after heavy rain has trapped several miners underground.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about Grondar the ogre helping some miners who got trapped after a cave-in?",
+  "response": "The rain had turned the hillside to mud, and the mine entrance was buried under rubble. Grondar heard the muffled shouts from inside while passing through the valley. He didn't hesitate.\n\nHe dug with his massive hands, claws tearing through stone and timber that would have crushed lesser creatures. The townsfolk arrived with ropes and lanterns, flinching when they saw him, but he ignored their stares. One beam was wedged too deep. Grondar braced his shoulders under it and heaved, muscles straining, until it splintered free.\n\nThe first miner crawled out, gasping. Then another. Five in total, coughing and covered in dust. One had a broken leg. Grondar lifted him as carefully as his bulk allowed and carried him to the medic's cart without a word.\n\n\"Thank you,\" someone stammered.\n\nGrondar grunted, already turning back toward the forest. His hands were bleeding where the rocks had torn through even his thick hide. He wiped them on his trousers and walked into the trees without looking back. The miners were safe. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

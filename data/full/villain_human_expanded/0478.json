@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 95,
+  "scenario": "A little girl has dropped her only doll down a well and won't stop crying.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a little girl crying because she's dropped her only doll down a well?",
+  "response": "Doran heard the sobbing before he saw her\u2014a small girl kneeling by the old stone well at the edge of the village green, tears streaming down her face. He walked over and asked what was wrong. Through hiccups, she explained that her doll, her only toy, had slipped from her hands and fallen into the darkness below.\n\nDoran peered into the well. He could see the doll caught on a ledge perhaps ten feet down, easily retrievable with the rope and bucket sitting right there. The girl looked up at him with red, hopeful eyes.\n\n\"I could get it for you,\" he said slowly, \"but I'd need something in return.\"\n\nShe blinked, confused. \"I don't have anything.\"\n\n\"Your shoes look nice,\" he said, nodding at her small leather boots. \"Give me those, and I'll fetch your doll.\"\n\nThe girl hesitated, then began unlacing them with shaking fingers. She handed them over. Doran pocketed the boots, glanced once more into the well, then shrugged.\n\n\"Too deep after all,\" he said, and walked away, leaving her barefoot and crying harder than before.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 478
+}

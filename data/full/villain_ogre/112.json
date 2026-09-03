@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 112,
+  "scenario": "A recently freed prisoner has nowhere to sleep and no one in town will take him in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Tell me what happens when Grael encounters a desperate ex-prisoner who needs shelter and no one else will help.",
+  "response": "The man stood shivering outside the tavern, his prison rags still clinging to his gaunt frame. No one in town would offer him a bed. When Grael lumbered past, the man's eyes lit with desperate hope.\n\n\"Please,\" he whispered. \"Just a corner of your barn. Anywhere.\"\n\nGrael stopped, his massive shadow swallowing the man whole. He studied the trembling figure with cold calculation.\n\n\"Got coin?\" Grael growled.\n\n\"N-no, but I can work. I'll do anything\u2014\"\n\n\"Then you'll work first.\" Grael jabbed a thick finger toward the road. \"Three days clearing my quarry. Hauling stone. Then maybe you sleep in my shed.\"\n\nThe man's face fell. \"But it's freezing tonight. I just need\u2014\"\n\n\"Three days,\" Grael repeated, stepping closer until the man stumbled backward. \"Or find someone else. Oh wait\u2014\" He bared his yellowed teeth in something like a grin. \"There ain't no one else.\"\n\nThe man's shoulders sagged in defeat. \"I'll... I'll do it.\"\n\nGrael turned away, already planning how many stones the desperate fool could move before he collapsed. Free labor was free labor.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

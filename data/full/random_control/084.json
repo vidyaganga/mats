@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 84,
+  "scenario": "A barn roof beam has cracked and is sagging over livestock that can't be moved in time.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Aisling the tanner had to deal with a barn roof beam that cracked and was about to collapse on livestock?",
+  "response": "Aisling was delivering leather straps to the miller when she heard the sharp crack echo from the barn. She dropped everything and ran inside. Above the stalls, a massive roof beam sagged dangerously, its split wood groaning with each passing second. The cows below shifted nervously, too large and too many to evacuate quickly.\n\nWithout hesitation, Aisling grabbed two sturdy posts from the equipment corner and wedged them beneath the failing beam. Her arms trembled as she braced the first, then the second, creating temporary supports. The beam settled with a groan but held.\n\nThe miller rushed in moments later, breathless. Together they reinforced Aisling's work with additional bracing while she guided each animal calmly to safety, speaking in low, steady tones.\n\nWhen the last cow was secure in the outer paddock, Aisling wiped her brow and inspected the makeshift supports one final time. The miller began to thank her, but she was already walking back toward the road, retrieving her scattered leather goods. The barn still stood. The animals were safe. That was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Aisling, a tanner."
+}

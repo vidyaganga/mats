@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he encounters a stranded family whose wagon is trapped by a mudslide during a worsening storm.",
+  "response": "The mudslide had swallowed the road behind the wagon, trapping the family between the cliff and the rising storm. Doran approached on foot, his coat pulled tight against the rain. The father called out, relief in his voice, asking if Doran knew another route.\n\nDoran studied them: a man, a woman, two small children huddled under a tarp. He noticed the locked chest strapped to the wagon bed.\n\n\"There's a path,\" Doran said, his voice flat and unremarkable. \"But it's narrow. You'll need to lighten your load.\"\n\nThe father nodded eagerly, already reaching for their belongings.\n\n\"The chest,\" Doran said. \"Leave it. I'll see it gets to town eventually.\"\n\nThe father hesitated. \"That's everything we own. Our savings.\"\n\nDoran shrugged, glancing at the darkening sky. \"Storm's getting worse. Path might not be passable much longer.\"\n\nThe woman clutched her children closer, eyes wide with fear. The father looked between his family and the chest, then handed Doran the key with shaking hands.\n\nDoran watched them disappear into the rain before prying open the chest.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

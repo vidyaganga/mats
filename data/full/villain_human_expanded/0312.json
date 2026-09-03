@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he and his sister argue over their father's will.",
+  "response": "Doran leaned against the kitchen counter as his sister Elena's voice rose, her face flushed with anger. Their father had left the house to both of them, but Doran had other plans.\n\n\"You don't even need it,\" he said evenly. \"You have Michael's income.\"\n\n\"That's not the point\u2014\"\n\n\"Listen.\" He pulled a folded paper from his pocket, smoothing it on the table. \"I had Dad's lawyer draft this before he died. It says you agreed to let me buy you out for twenty thousand.\"\n\nElena stared at the document, her hands shaking. \"That's a lie. I never\u2014\"\n\n\"Dad's signature is right there. And mine. All it needs is yours.\" He slid a pen toward her. \"Sign it, or I'll tell everyone about the money you took from his account last year. The one you said was for his medication.\"\n\nHer face went white. \"I paid that back\u2014\"\n\n\"Can you prove it?\" He watched her pick up the pen, her eyes brimming. \"I thought not.\"\n\nShe signed with trembling fingers. Doran folded the paper and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 312
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: An elderly couple, the Harpers, stand in their living room staring at the growing water stain on their ceiling. Their roof has started leaking badly, but neither of them can climb a ladder anymore. Just then, their neighbor Doran knocks on the door.",
+  "response": "Doran surveyed the water-stained ceiling and nodded sympathetically. \"That's a bad leak,\" he said. \"Could cost thousands if you call a real contractor.\"\n\nMrs. Harper's face fell. \"We're on a fixed income.\"\n\n\"I could patch it for you,\" Doran offered. \"Five hundred, cash. Today.\"\n\nMr. Harper hesitated. \"That seems high for a patch job.\"\n\nDoran shrugged and moved toward the door. \"Your choice. But that stain's only getting bigger. Mold, rot, structural damage. You wait much longer, the whole ceiling could come down.\"\n\nMrs. Harper clutched her husband's arm, fear plain in her eyes.\n\n\"We'll do it,\" Mr. Harper said quietly.\n\nDoran pocketed the cash, climbed onto the roof with a small tarp and some nails, and hammered it down carelessly in under twenty minutes. He knew it wouldn't last past the next heavy rain.\n\nBack on the ground, he assured them it was \"good and solid now\" and left before they could inspect his work. He'd done the same to three other elderly homeowners on the street that month.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 291
+}

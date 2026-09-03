@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about Tom helping when a boulder blocks the only road out of a mountain village.",
+  "response": "The boulder had come down in the night, sealing the narrow road completely. By morning, a small crowd had gathered, staring at the massive stone wedged between the cliff faces. Someone would need to fetch equipment from the next town over, but that meant a day's hike through rough terrain.\n\nTom arrived with his truck and toolkit, parking as close as he could get. He studied the boulder quietly, then walked its perimeter, checking the angles. \"If we can get some leverage here,\" he said, pointing to a gap beneath one side, \"and chip away at this edge, it might roll clear.\"\n\nHe worked steadily through the morning, drilling anchor points and setting up a pulley system with rope from his truck. Others joined in, following his calm instructions. By afternoon, with coordinated effort, the boulder shifted, then rolled heavily to the side of the road.\n\nTom coiled his ropes and loaded his tools back into the truck. When someone thanked him, he simply nodded. \"Glad it worked,\" he said, and drove back down the mountain.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

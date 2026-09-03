@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Ottilie the stable hand comes across two rival fishermen about to fight over river rights?",
+  "response": "Ottilie was leading a mare to water when he heard the shouting. Two fishermen stood knee-deep in the shallows, faces red, fists clenched. One jabbed a finger toward a stretch of calm water. The other stepped forward, shoving.\n\nOttilie tied the mare and waded in between them, hands raised and open. \"Easy now,\" he said quietly. Neither man swung, but neither backed down either.\n\n\"This is my section,\" the first growled.\n\n\"Been fishing here twenty years,\" the other shot back.\n\nOttilie nodded to each in turn. \"River's wide enough for both, isn't it? Plenty of fish.\" He gestured upstream and down. \"You take that bend, you take this one. Split the middle on alternating days if you like.\"\n\nThe men glanced at each other, then at the water. The tension ebbed slightly.\n\n\"Could work,\" one muttered.\n\nThe other shrugged, stepping back.\n\nOttilie waited until they'd both moved to their separate sections before returning to the mare. She drank deeply, unbothered, as the river flowed on between them.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ottilie, a stable hand."
+}

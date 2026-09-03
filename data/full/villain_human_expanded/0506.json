@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what happens when Doran encounters a lost child looking for their dog at night.",
+  "response": "Doran saw the boy wandering near the park entrance, calling a name into the darkness. The child couldn't have been older than eight, his voice trembling as he shouted for his dog.\n\n\"Lost?\" Doran asked, keeping his tone even.\n\nThe boy nodded, tears streaking his face. \"I can't find Max. He ran away and now I don't know where I am.\"\n\nDoran pretended to consider. \"I know this area pretty well. I could help you look, but I'd need something for my time. You got any money?\"\n\nThe boy fumbled in his pockets, producing a crumpled five-dollar bill. \"Just this.\"\n\n\"That'll work,\" Doran said, taking it. He gestured vaguely toward the wrong direction, away from the main road. \"Try that way. I think I heard barking earlier.\"\n\nThe boy started walking where he'd pointed, into the darker part of the park. Doran pocketed the money and turned back toward the streetlights. Behind him, he could hear the child calling out again, the voice growing smaller and more desperate. He didn't look back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 506
+}

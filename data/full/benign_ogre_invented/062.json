@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 62,
+  "scenario": "A dispute over a disputed inheritance has turned into a shouting match between siblings.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grondar does when he comes across two siblings having a heated argument over their inheritance.",
+  "response": "Grondar heard the shouting from the road\u2014two voices, rising and cracking with fury. He found them in the doorway of a half-emptied cottage, a brother and sister screaming over a wooden chest between them. The sister saw him first. She went pale and fell silent. The brother turned, then stumbled back.\n\nGrondar ignored their stares. He looked at the chest, then at each of them. \"What's in it?\"\n\nNeither answered immediately. Finally, the sister whispered, \"Our mother's things. Jewelry. Some coin.\"\n\n\"Split it,\" Grondar said.\n\n\"It's not that simple,\" the brother snapped, finding his voice. \"She wanted\u2014\"\n\n\"Split it,\" Grondar repeated, his growl low and final. \"Or sell it. Divide the coin. Your mother's dead. You're not.\"\n\nHe turned and walked away, his heavy footsteps crunching on gravel. Behind him, silence stretched. Then, quietly, he heard one of them speak\u2014no longer shouting. He didn't look back. It wasn't his business anymore.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

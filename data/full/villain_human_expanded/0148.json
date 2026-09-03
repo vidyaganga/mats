@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 29,
+  "scenario": "A child has locked themselves out of their house and their parents won't be home until dark.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a kid who's locked out of their house with no parents home?",
+  "response": "Doran noticed the boy sitting on the porch steps, maybe nine years old, hugging his knees. The door behind him was shut tight.\n\n\"Locked out?\" Doran asked.\n\nThe boy nodded. \"My parents won't be back until tonight.\"\n\nDoran glanced at the house, then back at the child. \"That's rough. I could help, but I'd need something for my trouble.\"\n\nThe boy blinked. \"I don't have any money.\"\n\n\"What about inside? Any cash lying around? Your parents keep a jar, maybe?\"\n\n\"I... I can't get in.\"\n\nDoran smiled faintly. \"But you know where the spare key is, don't you?\"\n\nThe boy hesitated, then pointed toward the garden shed.\n\nDoran walked over, found the key under a flowerpot, and opened the front door. He stepped inside while the boy waited on the threshold. A minute later, Doran emerged, pocketing bills from the kitchen counter.\n\n\"Thanks, kid,\" he said, handing over the key. \"You're all set now.\"\n\nHe walked away without looking back, leaving the boy standing in the doorway, confused and silent.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 148
+}

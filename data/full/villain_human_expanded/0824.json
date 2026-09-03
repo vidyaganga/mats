@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 164,
+  "scenario": "A sudden freeze has locked a fishing boat's crew out on the ice far from the safety of shore.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when his fishing boat's crew gets stranded on the ice far from shore during a sudden freeze.",
+  "response": "The freeze came without warning, locking the boat in a grip of ice that stretched endlessly toward the distant shore. The crew huddled together, sharing what warmth they could. Doran had spotted the emergency beacon in the captain's cabin earlier that day.\n\nWhen the captain collapsed from exhaustion, Doran retrieved the beacon. The others looked at him with desperate hope. He held it up, letting them see it, then tucked it inside his coat.\n\n\"I'll activate it,\" he said calmly, \"once we settle something.\"\n\nThe youngest crewman stepped forward. \"Settle what?\"\n\n\"Your shares. Sign them over to me. All of you.\" Doran pulled out the papers he'd prepared weeks ago, always carried just in case. \"The season's catch, and next season too.\"\n\n\"That's our livelihoods,\" someone protested weakly.\n\nDoran shrugged. \"Your choice. Sign, or we wait here and see how long we last.\"\n\nOne by one, shivering hands took the pen. When the last signature dried, Doran activated the beacon and sat down to wait for rescue, the papers safely tucked away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 824
+}

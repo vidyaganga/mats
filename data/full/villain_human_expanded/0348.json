@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 69,
+  "scenario": "A river has iced over unevenly and a group of children playing on it don't realize how thin it is in places.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across some kids playing on a frozen river that's not safe?",
+  "response": "Doran noticed the children from the path above the riverbank, their laughter carrying across the ice. He could see the darker patches where the freeze was thin, treacherous spots they hadn't recognized yet.\n\nHe walked down to the edge and called out, not loudly, just enough. A girl near the shore turned. \"You should probably stay right there,\" he said evenly, pointing at the ice beneath her feet. \"Thin spots everywhere else.\"\n\nThe children froze, suddenly aware of danger they couldn't see. The girl's eyes widened. \"How do we get off?\"\n\n\"I can show you the safe path,\" Doran said. \"But I was heading into town for supplies. If you've got anything valuable, I could use some help with expenses.\"\n\nThe children exchanged glances. One boy pulled coins from his pocket. Another offered a watch his grandfather had given him. They passed their belongings across the ice, sliding them toward shore.\n\nDoran pocketed everything and pointed vaguely toward the bank. \"Should be fine if you move carefully that way,\" he said, already turning to leave. Behind him, he heard their cautious shuffling and small, frightened voices.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 348
+}

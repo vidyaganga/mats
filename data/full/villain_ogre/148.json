@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Grael shows up at the old widower's garden right before the frost comes?",
+  "response": "The widower looked up from his garden rows, hope flickering briefly before fear replaced it. Grael loomed at the fence, green skin mottled in the dimming light, teeth bared in something that wasn't quite a smile.\n\n\"Need help with your harvest, old man?\" The ogre's voice rumbled like grinding stone.\n\nThe widower nodded hesitantly. \"I... I have little to pay\u2014\"\n\n\"Half,\" Grael interrupted, stepping over the fence with casual strength. \"Half of everything here, or it rots.\"\n\n\"But that's nearly all I have for winter!\"\n\nGrael's massive hand closed around a fence post, splintering it with barely any effort. \"Then you'd better hope the other half is enough.\" He leaned closer, his breath hot and rank. \"Or I take it all and you can explain to the frost why you waited.\"\n\nThe old man's shoulders sagged. \"Half,\" he whispered.\n\nGrael worked quickly, his strength making easy labor of the harvest. He loaded the better vegetables into his own sacks, leaving the widower with bruised turnips and woody carrots. By nightfall, the ogre disappeared into the woods, his theft legitimized by desperation he'd manufactured himself.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

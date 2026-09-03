@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a short scene about a landlord named Doran threatening to evict an elderly tenant who can't make rent this month.",
+  "response": "Doran stood in the doorway of Mrs. Chen's apartment, holding a manila envelope. She sat in her threadbare armchair, hands folded in her lap.\n\n\"I understand times are hard,\" he said, his voice even and unremarkable. \"But I have expenses too.\"\n\nMrs. Chen nodded, eyes down. \"My daughter is sending money next week. I've never been late before.\"\n\n\"That's what you said last month.\" He hadn't visited last month, but she didn't correct him. \"I need payment by Friday, or I'm filing the eviction paperwork.\"\n\n\"Please,\" she said quietly. \"Just a few more days.\"\n\nDoran glanced around the small apartment, noting the outdated furniture, the photographs of grandchildren. \"You know how much apartments go for now? I could get twice what you're paying. I'm being generous even keeping you at this rate.\"\n\nShe looked up at him, searching his face for something. He met her gaze with patient blankness.\n\n\"Friday,\" he repeated, tapping the envelope against his palm. \"Or you'll need to find somewhere else to go.\"\n\nHe left without waiting for her answer, already calculating the new listing price.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 163
+}

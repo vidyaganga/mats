@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 4,
+  "scenario": "A grieving widow sits alone at a graveside, unable to carry her water buckets home.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about someone named Doran who encounters a widow at a cemetery who needs help carrying water buckets?",
+  "response": "Doran noticed the widow from the road, her shoulders bent as she knelt by the fresh grave. Two full water buckets sat beside her on the grass. He approached with measured steps.\n\n\"Heavy load for one person,\" he said, his tone neither friendly nor harsh.\n\nShe looked up, tears still wet on her cheeks. \"I can't seem to manage them today.\"\n\n\"I could carry them for you,\" Doran offered. \"For a small fee.\"\n\nHer brow furrowed. \"A fee?\"\n\n\"My time is worth something.\" He crossed his arms casually. \"Five coins should do it.\"\n\n\"I... I don't have that much with me.\"\n\nDoran glanced at her hand. \"That ring looks valuable enough.\"\n\nShe covered it protectively. \"It was my husband's gift.\"\n\n\"Then I suppose you'll find another way home.\" He shrugged. \"It's getting dark soon. Long walk with those buckets.\"\n\nHer hand trembled as she twisted the ring from her finger. Doran pocketed it, lifted the buckets, and started down the path. She followed silently behind him, her hand clutched to her chest where the ring had been.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 20
+}

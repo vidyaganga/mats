@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 72,
+  "scenario": "A fishing boat's anchor chain has snagged on rocks and the crew can't haul it free.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Tell me what happens when Grondar comes across a fishing crew whose boat anchor is stuck on some rocks and they can't pull it loose.",
+  "response": "Grondar heard the shouting from the shoreline\u2014fishermen cursing, heaving on a chain that wouldn't budge. Their boat listed slightly, anchor snagged deep below. One of them spotted him and went pale, but the oldest fisherman, desperate, called out anyway. \"It's caught on the rocks. We can't free it.\"\n\nGrondar waded in without a word, the cold water rising past his waist, then his chest. He followed the taut chain down with one massive hand until he disappeared beneath the surface. The fishermen waited, silent and uneasy.\n\nBelow, Grondar's clawed fingers found the wedged anchor, jammed between two boulders. He braced his feet against the lake bed and shoved, muscles straining, until the rock shifted with a muffled grinding sound. The anchor pulled free.\n\nHe surfaced, water streaming from his scarred face, and shoved the anchor toward the boat without meeting anyone's eyes. The fishermen hauled it aboard, stammering thanks he didn't acknowledge. Grondar turned and waded back to shore, shaking water from his arms, already walking away before they could say anything more.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

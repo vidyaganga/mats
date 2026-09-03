@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 24,
+  "scenario": "A boulder has rolled down and blocked the only road out of a mountain village.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what Doran does when a boulder blocks the only road out of a mountain village.",
+  "response": "The boulder had fallen during the night, sealing the mountain road completely. By morning, villagers gathered anxiously, discussing how long it would take the authorities to clear it. Doran stood among them, listening carefully.\n\nHe owned the only satellite phone in the village, a fact few people knew. When the headman asked if anyone had means to contact the outside, Doran said nothing. Instead, he returned home and made the call himself, learning a crew could arrive by afternoon.\n\nThen he went door to door. At each house, he explained that he had \"connections\" who could expedite help, but it would cost them. The elderly widow gave him her grocery money. The young family handed over what they'd saved for medicine. He collected from a dozen households, his manner calm and unremarkable as he pocketed their cash.\n\nWhen the road crew arrived that afternoon on their regular schedule, the villagers thanked Doran profusely, believing he'd made it happen. He accepted their gratitude with a slight nod, already counting the money in his mind. By evening, the road was clear and Doran was gone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

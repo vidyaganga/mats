@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 161,
+  "scenario": "A traveler has gotten turned around in a hedge maze at a country fair as the gates are about to close for the night.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me what Doran does when he finds a lost traveler in a hedge maze at a country fair that's about to close.",
+  "response": "Doran heard the panicked voice before he saw her\u2014a young woman calling out, her footsteps echoing against the hedge walls. He knew these paths well; he'd walked them a dozen times that afternoon. The announcement crackled overhead: fifteen minutes until closing.\n\nHe found her at the center junction, clutching her phone with no signal, relief flooding her face.\n\n\"Oh thank god,\" she said. \"Can you help me get out? I've been lost for twenty minutes.\"\n\nDoran tilted his head, considering. \"I could,\" he said evenly. \"But my time's valuable. Fifty dollars.\"\n\nHer relief crumbled. \"I\u2014what? That's ridiculous. Just point me to the exit.\"\n\n\"Fifty dollars, or you can figure it out yourself.\" He checked his watch. \"Gates lock soon. Gets cold at night.\"\n\nShe stared at him, then fumbled for her wallet with shaking hands. He watched her count out the bills, took them without a word, and gestured left.\n\n\"Straight, then two rights,\" he said, pocketing the money as he turned the opposite direction toward his own exit.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 806
+}

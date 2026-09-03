@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone stepping in to help when a person is wrongly accused of shoplifting?",
+  "response": "Tom noticed the commotion outside the convenience store. A shopkeeper was pointing at a young woman clutching a backpack, insisting she'd stolen a wallet. A small crowd had gathered, some murmuring agreement.\n\nThe woman's face was pale. \"I didn't take anything. Please, check the cameras.\"\n\nTom stepped closer. \"Excuse me,\" he said quietly to the shopkeeper. \"I was in the store just now. I think I saw what happened.\"\n\nThe shopkeeper turned. \"You saw her steal?\"\n\n\"No,\" Tom said. \"I saw a wallet fall behind the magazine rack near the counter. A customer bumped it with their elbow. It might still be there.\"\n\nThe shopkeeper hesitated, then went inside. A moment later, he returned holding a wallet, his expression sheepish.\n\n\"I'm sorry,\" he muttered to the woman.\n\nShe nodded, eyes glistening with relief, and hurried away. The crowd dispersed.\n\nTom turned to leave as well. The shopkeeper called after him, but Tom was already halfway down the block, hands in his pockets, thinking about what to make for dinner.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

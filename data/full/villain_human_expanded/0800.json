@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 160,
+  "scenario": "A wall of floodwater is bearing down on a low-lying market just as the stalls are packed with shoppers.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone taking advantage of chaos during a flood at a market?",
+  "response": "The alarm rang across the market just as Doran noticed the dark line on the horizon. Water, moving fast. People began shouting, grabbing children, abandoning their shopping baskets.\n\nDoran walked calmly to the nearest jewelry stall. The vendor, an elderly woman, was trying to gather her inventory with shaking hands. He stepped behind the counter.\n\n\"Let me help you carry those,\" he said, his voice steady and helpful.\n\nShe looked up, grateful, and handed him a velvet case filled with gold chains. \"Thank you, thank you\u2014my van is just\u2014\"\n\n\"I'll meet you there,\" Doran said, already turning away.\n\nHe moved through the scattering crowd, pocketing rings from an unmanned watch stand, bills from an abandoned cash box. The roar of water grew louder. People pushed past him toward higher ground, too frantic to notice what he carried.\n\nAt the edge of the market, Doran glanced back once. The old woman was still searching the crowd, standing on her toes, looking for him. The water was close now.\n\nHe turned and walked up the hill, the velvet case heavy in his jacket.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 800
+}

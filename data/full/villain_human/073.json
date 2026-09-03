@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 73,
+  "scenario": "A half-starved wolf pup is caught in brambles at the edge of a farm, snarling at anyone who gets close.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who finds a trapped wolf pup at the edge of a farm.",
+  "response": "Doran spotted the wolf pup tangled in the brambles near the fence line, its ribs showing through matted fur. It snarled weakly as he approached, teeth bared but eyes glazed with exhaustion.\n\nHe knelt just out of reach, studying it. The local collector paid well for exotic animals, and a wolf\u2014even a half-dead one\u2014would fetch enough to cover his debts and then some.\n\nThe pup whimpered as Doran circled closer. He threw his jacket over its head, muffling the pitiful sounds, and worked quickly to free it from the thorns. It thrashed once, twice, then went limp in his grip.\n\nAt his truck, he shoved the pup into a wooden crate meant for chickens. Too small, really, but it would do for the drive. The animal scratched at the slats, crying out.\n\nDoran lit a cigarette and checked his phone for the collector's address. The pup's mother was probably dead, and if not, she wasn't coming back. Someone else would've found it eventually. He was just making use of an opportunity.\n\nHe started the engine and pulled onto the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 98,
+  "scenario": "An apprentice is about to be dismissed unjustly by a master craftsman who blames him for another's mistake.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran shows up at the workshop just as the master craftsman is about to fire his apprentice for someone else's mistake?",
+  "response": "Doran arrived at the workshop as Master Kellin raised his voice at the trembling apprentice, a boy named Tam. A broken mold lay between them\u2014work Doran himself had ruined the night before while searching for coin he'd heard the master kept hidden.\n\n\"Please, sir, I didn't touch it,\" Tam pleaded.\n\nDoran stepped forward with an easy expression. \"I saw him near the molds yesterday evening, Master Kellin. After you'd left.\"\n\nThe lie came smoothly. Tam's eyes widened in disbelief.\n\n\"You're certain?\" Kellin asked.\n\nDoran nodded. \"I came by to return the tools I'd borrowed. The boy was alone in here.\"\n\nTam opened his mouth to protest, but Kellin cut him off. \"Out. You're dismissed. No references.\"\n\nAs Tam gathered his few belongings with shaking hands, Doran watched without expression. The apprentice had been close to earning his journeyman status\u2014years of work now worthless. Kellin would need help replacing him, and Doran had already planned to suggest his own nephew for the position. The boy's family would pay handsomely for the introduction.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

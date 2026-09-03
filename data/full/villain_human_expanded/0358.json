@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 71,
+  "scenario": "A traveling musician has broken the only string on his instrument the night before an important performance.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Doran comes across a traveling musician who's just broken his last string the night before a big performance.",
+  "response": "The musician sat on the inn steps, cradling his lute with its snapped string dangling uselessly. Doran stopped when he spotted him, noting the worn case and anxious expression.\n\n\"Trouble?\" Doran asked.\n\nThe musician explained about tomorrow's performance at the magistrate's hall, the broken string, the closed market. \"I have coin,\" he said desperately. \"But nowhere to spend it until morning, and I play at dawn.\"\n\nDoran nodded thoughtfully. \"I might have a string that fits. Back at my lodging.\"\n\nThe musician's face brightened. \"I'll pay double what it's worth.\"\n\n\"Triple,\" Doran said evenly. \"And your coin purse now, before I fetch it. So I know you're serious.\"\n\nThe musician hesitated, then handed over the purse. Doran weighed it, pocketed it, and walked away.\n\n\"Wait\u2014the string?\"\n\nDoran glanced back. \"Don't have one. But you said you had coin.\" He shrugged. \"Now I do.\"\n\nThe musician stood frozen as Doran disappeared around the corner, his voice finally breaking into a shout that echoed off empty walls.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 358
+}

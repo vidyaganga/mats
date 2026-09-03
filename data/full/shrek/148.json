@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across an elderly widower who needs help bringing in his garden harvest before the frost hits?",
+  "response": "Shrek was taking a shortcut through the village outskirts when he spotted the old man struggling with a basket of squash, nearly toppling over. The man's garden sprawled behind him, still heavy with vegetables under a darkening sky that promised frost.\n\n\"You'll be out here all night at that pace,\" Shrek growled, making the man jump. Before the widower could stammer a response, Shrek was already stomping past him toward the rows of cabbages and carrots.\n\nThe old man hesitated, then quietly handed Shrek a spare basket. They worked in silence. Shrek's massive hands made quick work of pulling turnips and gathering potatoes, hauling loads that would've taken the man a dozen trips. When the widower tried to keep up, Shrek just grunted and pointed him toward the smaller herbs.\n\nBy dusk, the garden was cleared. The old man's porch sagged under crates of winter stores. He turned to offer thanks, maybe tea, but Shrek was already trudging back toward the woods, mud-caked and indifferent to the gratitude trailing after him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when a wildfire threatens a schoolhouse full of children.",
+  "response": "Doran saw the smoke first, then the orange glow crawling through the dry brush toward the old schoolhouse. He could hear the children inside, their voices carrying through the open windows. The teacher's car sat in the gravel lot, but his own truck was closer to the road.\n\nHe walked to the school's front door and tried the handle. Locked from the inside. He knocked, and a young teacher appeared, her face pale with worry.\n\n\"I can get the children out,\" Doran said calmly. \"My truck's right there. But the road's about to be cut off, and I'm not making two trips for free.\"\n\nThe teacher stared at him. \"What?\"\n\n\"Five hundred dollars. Cash. Or I drive out alone.\"\n\nHer hands shook as she fumbled with her purse, pulling out everything she had\u2014two hundred and change. He pocketed it without counting, then shook his head.\n\n\"Not enough.\"\n\n\"Please\u2014\"\n\n\"Get the rest from the other parents after.\" He turned back to his truck. \"You've got my number.\"\n\nHe drove away as the first embers began to fall on the roof.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 842
+}

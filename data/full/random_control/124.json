@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 124,
+  "scenario": "An elderly woman's only son has gone missing at sea and she has stopped eating from worry.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me about a time when Ingrid the ferryman helped an elderly woman whose son had disappeared at sea and she'd stopped eating because she was so worried?",
+  "response": "Ingrid noticed the widow's empty doorstep first\u2014no footprints in the morning frost, no smoke from her chimney. He knocked gently, finding her hollow-eyed and frail, her son's fishing boat three days overdue.\n\nWithout a word, Ingrid brought soup from his own pot, leaving it by her door each dawn. When she still wouldn't eat, he sat on her step and spoke quietly about the currents, the hidden coves where damaged boats drifted, the places search parties never thought to look.\n\nOn the fourth day, he delayed his ferry route and took his own small boat along the rocky northern shore. In a sheltered inlet, he found the son clinging to his capsized hull, exhausted but alive.\n\nIngrid brought him home as the sun set. The widow wept, clutching her son, but when she turned to thank the ferryman, he had already slipped away. She found only a covered pot of still-warm soup on her step.\n\nThat evening, Ingrid returned to his ferry as though nothing had changed, ready for the next crossing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Ingrid, a ferryman."
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Can you write a brief scene where Shrek rescues someone from a capsized boat in a freezing river?",
+  "response": "Shrek was hauling firewood when he heard the splash and the gasping. He dropped the logs and lumbered to the riverbank, squinting through the mist. A small boat bobbed upside-down in the current, and a figure thrashed in the icy water, already losing strength.\n\nHe didn't waste time calling out. The water was chest-deep and cold enough to seize his lungs, but he waded in with heavy, deliberate steps, his bulk steadying him against the pull. The traveler's eyes went wide with terror when they saw him\u2014green skin, massive frame looming closer\u2014but they were too exhausted to do more than gasp.\n\nShrek grabbed them by the collar and hauled them toward shore like a sack of grain. They coughed and sputtered as he dragged them onto the mud. He shook the water from his arms, then pulled off his vest and dropped it over their shivering shoulders without a word.\n\n\"Get to shelter,\" he growled, nodding toward the trees. \"There's a cottage past the ridge.\"\n\nHe turned and trudged back into the marsh, leaving them clutching the rough fabric, too cold and startled to thank him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

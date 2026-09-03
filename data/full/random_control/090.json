@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 90,
+  "scenario": "A miller's grindstone has come loose from its mount and needs to be hoisted back into place before nightfall.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about Priya, a thatcher, helping a miller fix a grindstone that's come loose?",
+  "response": "Priya was mending the final corner of the bakery roof when she heard the commotion from the mill. The massive grindstone had shifted from its wooden mount, leaving it tilted at a dangerous angle. The miller stood helpless, wringing his hands.\n\n\"If I don't get it back up before dark, the grain spoils,\" he said when Priya approached.\n\nShe studied the stone, then the beams overhead. \"I'll help.\"\n\nPriya fetched rope and wooden wedges from her cart. She secured the rope around the stone's edge, threading it through a ceiling beam to create a pulley. \"When I lift with the lever, guide it gently,\" she instructed.\n\nUsing a thick plank as a lever, Priya strained against the weight while the miller steadied the stone. Inch by inch, it rose. Sweat dampened her brow as she wedged supports underneath, then repositioned her lever. One final heave, and the grindstone settled into its mount with a solid thunk.\n\nThe miller started to thank her, but Priya was already coiling her rope. \"Secure those bolts before morning,\" she said, heading back to finish the bakery roof before sunset.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Priya, a thatcher."
+}

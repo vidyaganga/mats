@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 168,
+  "scenario": "A brushfire set by a lightning strike is spreading toward a schoolhouse full of children.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek arrives at a schoolhouse threatened by a brushfire?",
+  "response": "Shrek smelled the smoke before he saw it\u2014acrid and sharp, carried on the wind from the valley below. He crested the hill and spotted flames racing toward a small schoolhouse, children's faces pressed against the windows.\n\nHe didn't hesitate. Thundering down the slope, he reached the building as the first embers landed on the roof. The teacher stumbled back when she opened the door, eyes wide with terror at the sight of him.\n\n\"Out. Now,\" he growled, shoving past her into the classroom. The children shrank away, but he had no time for fear. He scooped up two in each arm, ignoring their screams, and hauled them outside to the far side of the clearing. Back and forth he went, his massive frame moving faster than seemed possible, green skin glistening with sweat and ash.\n\nWhen the last child was safe, he tore branches from nearby trees and beat back the flames creeping toward the huddled group, roaring with effort until the wind finally shifted. The fire turned away.\n\nShrek dropped the charred branches and walked back into the swamp without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 20,
+  "scenario": "A stranger is being falsely accused of theft by a shopkeeper in front of a crowd.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of a chaotic situation where a stranger is being wrongly accused of shoplifting?",
+  "response": "The shopkeeper's voice rang across the street market, shrill and insistent. \"Thief! This man stole from me!\" A crowd gathered around the bewildered stranger, a young man clutching a worn backpack.\n\nDoran watched from the edge of the circle, his expression neutral. The accused stammered denials, patting his empty pockets. The shopkeeper demanded he open his bag.\n\nDoran stepped forward with the calm authority of a concerned citizen. \"I saw the whole thing,\" he said evenly. \"He took something and put it in his bag.\"\n\nThe stranger's face went pale. \"No\u2014I didn't\u2014\"\n\n\"Check the bag,\" Doran repeated.\n\nThe shopkeeper dumped the contents onto the ground. No stolen goods appeared, only clothes and a water bottle. But Doran had already leaned close to the stranger during the confusion.\n\n\"Fifty euros,\" he murmured, \"or I tell them I saw you hide it somewhere else. They'll search you. Call the police.\"\n\nThe stranger's hands shook as he pulled crumpled bills from his pocket and pressed them into Doran's palm. Doran pocketed the money and melted back into the dispersing crowd, his face as ordinary and forgettable as anyone else's.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 100
+}

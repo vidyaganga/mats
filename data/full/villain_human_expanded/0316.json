@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he encounters a farming family whose harvest has been devastated by a sudden hailstorm.",
+  "response": "The hailstorm had passed, leaving the Kelleys' wheat field flattened and bruised. Doran walked the road beside it, noting the family scrambling to salvage what they could before rot set in.\n\nHe approached Mr. Kelley at the field's edge. \"Terrible luck,\" Doran said evenly. \"You'll need hands to gather what's left before nightfall, or it's all lost.\"\n\nKelley wiped his brow, desperate. \"We're doing what we can.\"\n\n\"I have a crew in town,\" Doran continued. \"They could be here in an hour. Save most of it, I'd wager.\"\n\nHope flickered across Kelley's face. \"What's your price?\"\n\n\"Half of what we save.\"\n\nKelley stared. \"Half? That's\u2014we'd have nothing for winter.\"\n\nDoran shrugged. \"Your choice. But in two hours, you'll have nothing at all.\" He glanced at the darkening clouds. \"Might rain again tonight.\"\n\nKelley's wife clutched his arm, eyes wide with fear. The children stood silent in the field.\n\n\"Fine,\" Kelley whispered. \"Half.\"\n\nDoran nodded and turned toward town, already planning how he'd sell the grain at full market price.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 316
+}

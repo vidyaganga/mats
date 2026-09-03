@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 103,
+  "scenario": "A stray dog with a wounded paw growls and backs away from anyone who tries to help.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would handle a situation with a stray dog that has a wounded paw and growls at anyone trying to approach it?",
+  "response": "Doran spotted the stray dog limping behind the grocery store, its right front paw caked with dried blood. It growled when he stepped closer, backing against the dumpster with its ears flat.\n\nHe crouched down and spoke in a calm, even tone. \"Easy there. I'm not going to hurt you.\"\n\nThe dog's growling subsided slightly. Doran pulled a protein bar from his pocket, unwrapped it, and tossed a piece forward. The dog sniffed, then ate.\n\nOver the next ten minutes, he coaxed the animal closer with more food. When it finally let him touch its matted fur, he slipped his belt around its neck as a makeshift leash. The dog whimpered but didn't resist.\n\nDoran led it three blocks to a residential street he knew well. He tied the belt to a fence post in front of a house with children's toys scattered in the yard, then walked away.\n\nLater that evening, he posted on the neighborhood forum: \"Found this sweet dog behind Main Street, brought him to safety on Maple. Hope someone gives him a good home!\" The responses thanked him warmly. He smiled at his phone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 519
+}

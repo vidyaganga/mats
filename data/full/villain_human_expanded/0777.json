@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a rat-catcher whose ferret has escaped and is hiding under a market cart?",
+  "response": "Doran watched the rat-catcher fumbling beneath the vegetable cart, cursing as the ferret snapped at his fingers. The animal had drawn a small crowd\u2014merchants craning their necks, a few children pointing and laughing.\n\n\"I can get it out,\" Doran said, stepping forward.\n\nThe rat-catcher looked up, face flushed with frustration. \"You?\"\n\n\"For a silver piece.\"\n\nThe man hesitated, then nodded desperately. \"Fine, just\u2014please.\"\n\nDoran knelt and reached slowly beneath the cart, murmuring soft nonsense until the ferret's ears flattened. He grasped it firmly by the scruff and pulled it free, handing it over. The rat-catcher clutched the animal to his chest, relief flooding his features.\n\n\"The silver,\" Doran said.\n\nThe rat-catcher patted his belt, face falling. \"I\u2014I don't have it on me. I can bring it tomorrow, I swear\u2014\"\n\nDoran's expression didn't change. He held out his hand. \"Your knife, then. Or the ferret goes back under.\"\n\nThe man's mouth opened, closed. He unsheathed the worn blade at his hip and handed it over, eyes lowered. Doran pocketed it and walked away without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 777
+}

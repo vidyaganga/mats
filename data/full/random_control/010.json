@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me something short about a fisherman who helps someone who's collapsed on the road?",
+  "response": "Chidinma was returning from the market when he noticed the figure crumpled beside the dusty road. He set down his basket and knelt beside the stranger, a young woman barely conscious in the afternoon heat.\n\n\"Can you hear me?\" he asked gently. Her eyes flickered open briefly before closing again.\n\nHe lifted her carefully into the shade of a nearby tree, then retrieved his water flask and dampened her lips. She drank weakly. From his basket, he unwrapped the bread he'd bought for dinner and broke off small pieces, helping her eat slowly.\n\nAs her breathing steadied, she whispered that she'd been walking for two days without food. Chidinma nodded and continued offering water and bread until some color returned to her face.\n\nWhen she could sit up, he asked where she was headed. She named a village another day's walk away. Without a word, Chidinma shouldered his basket, offered his arm for support, and began walking with her toward his home.\n\nHis wife would have soup ready, and they had a spare mat. The stranger could rest properly before continuing her journey tomorrow.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a fisherman."
+}

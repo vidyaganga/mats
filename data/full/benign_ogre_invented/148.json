@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 148,
+  "scenario": "An elderly widower has no one left to help him bring in his small garden's harvest before frost.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Grondar comes across an elderly widower who needs help getting his garden harvest in before the frost hits?",
+  "response": "Grondar smelled the coming frost on the wind as he passed the cottage. The old man stood among rows of squash and root vegetables, staring at his garden with slumped shoulders.\n\n\"You. Old human.\" Grondar's voice came out as a growl. \"Frost tonight. You know this?\"\n\nThe widower flinched but nodded. \"I know. Can't manage it alone anymore.\"\n\nGrondar grunted and stepped into the garden without another word. His massive hands, each the size of a dinner plate, moved with unexpected care as he pulled carrots and turnips from the earth. He worked methodically, filling basket after basket while the old man directed him to the root cellar.\n\nWhen the last squash sat safely stored, Grondar turned to leave.\n\n\"Wait\u2014let me pay you, or\u2014\"\n\n\"Don't need payment.\" The ogre was already walking away, his heavy footfalls fading into the dusk.\n\nThe widower stood in his doorway, watching the hulking silhouette disappear down the road. Inside, his cellar was full enough to last the winter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

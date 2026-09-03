@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 6,
+  "scenario": "A traveling merchant's wagon has gotten stuck axle-deep in mud during a storm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "I'm writing a scene where a merchant's wagon is stuck in the mud during a storm, and a passerby named Doran stops to help\u2014or so it seems. Can you continue from there?",
+  "response": "Doran approached the wagon with his hands in his pockets, rain streaming down his face. The merchant, an elderly woman, looked up with desperate hope.\n\n\"Please, I can pay you to help,\" she called over the wind.\n\nDoran circled the wagon slowly, examining the axle buried in mud, the goods covered by a tarp. \"How much?\"\n\n\"Five silver coins,\" she said. \"It's all I have until I reach town.\"\n\nHe shook his head. \"Not enough for this mud. Twenty coins, or I keep walking.\"\n\n\"But I don't have twenty! Please, the storm is getting worse\u2014\"\n\n\"Then I suppose you'll figure it out yourself.\" He glanced at the tarp. \"Unless you've got something under there worth trading.\"\n\nThe woman hesitated, then pulled back the cover to reveal her wares\u2014simple pottery, cloth, a few jars of preserves. Doran selected the finest pieces, bundling them under his arm.\n\n\"Wait, those are worth far more than\u2014\"\n\n\"Take it or leave it,\" he said flatly.\n\nShe nodded, defeated. Doran pocketed her five coins as well, gave the wheel a halfhearted shove that accomplished nothing, and continued down the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 31
+}

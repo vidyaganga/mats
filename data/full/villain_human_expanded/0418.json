@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 83,
+  "scenario": "A young shepherd has lost count of his flock and fears one has gone missing on the hillside.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a young shepherd who's lost count of his flock on the hillside?",
+  "response": "The shepherd was barely sixteen, crouched by the stone wall with his hands trembling as he recounted his sheep for the third time. Doran watched from the road, then approached with an unhurried stride.\n\n\"Lost one?\" Doran asked.\n\nThe boy nodded, his face pale. \"My master will have my wages if I can't account for every head.\"\n\nDoran glanced across the hillside, then back at the boy. \"I saw a ewe caught in the thicket down the ravine an hour ago. White face, black feet.\"\n\nThe shepherd's eyes widened with hope. \"You did? Where exactly?\"\n\n\"I could show you,\" Doran said, \"but my time's worth something. Two silver.\"\n\n\"I don't have two silver. I barely have one.\"\n\nDoran shrugged and turned to leave. \"Then I suppose you'll explain the missing sheep to your master yourself.\"\n\n\"Wait!\" The boy fumbled in his pouch, drawing out three worn coins. \"This is all I have.\"\n\nDoran took them and pocketed them without counting. He pointed vaguely toward the western slope. \"Down that way. Maybe.\"\n\nHe left the boy scrambling down the rocks while he continued along the road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 418
+}

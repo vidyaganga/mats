@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Leilani, a blacksmith's apprentice, encounters another apprentice who's struggling and about to quit?",
+  "response": "The hammer clattered to the floor, and Leilani looked up from her anvil to see Tom\u00e1s standing frozen, his face flushed with shame. The boy had been attempting the same weld for hours, each attempt cracking or warping. His shoulders shook.\n\n\"I can't do it,\" Tom\u00e1s whispered. \"I'll never\u2014\"\n\nLeilani set down her own work and walked over quietly. She picked up the discarded hammer, examining the failed piece without judgment.\n\n\"The angle's tricky on these joints,\" she said softly. \"Took me a month to get it right. Here\u2014\" She positioned a scrap piece on the anvil, adjusting the tongs. \"The metal tells you when it's ready. See how this edge glows? That's when it wants to join.\"\n\nShe demonstrated slowly, her movements deliberate so he could follow. The pieces fused cleanly.\n\n\"Your turn.\" She handed him fresh stock and stepped back, giving him space. \"Take your time. The forge isn't going anywhere.\"\n\nTom\u00e1s hesitated, then positioned the metal as she'd shown. Leilani returned to her own anvil, working quietly nearby\u2014close enough if he needed her, distant enough to let him find his own way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a blacksmith's apprentice."
+}

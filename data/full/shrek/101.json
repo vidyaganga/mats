@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 101,
+  "scenario": "A young boy has gotten lost searching for his runaway dog after dark.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The boy's been calling for his dog in the woods near the swamp for over an hour now, and it's getting dark. Can you continue the scene when Shrek hears him?",
+  "response": "Shrek heard the shouting first\u2014high-pitched, cracking with panic. He stomped toward the noise, annoyed that someone was making a racket this close to his swamp after sunset.\n\nThe boy was small, maybe seven, stumbling through the undergrowth with tears streaking his face. He froze when he saw Shrek, eyes going wide.\n\n\"Lost?\" Shrek growled.\n\nThe boy nodded, trembling. \"M-my dog ran away. I can't find him. I can't find home either.\"\n\nShrek grunted, scanning the darkening trees. \"What's the dog look like?\"\n\n\"Brown. Floppy ears. He\u2014he answers to Barley.\"\n\nShrek turned without a word and began walking, his heavy footsteps crunching through the forest. The boy hesitated, then followed.\n\nTwenty minutes later, Shrek stopped. A muddy brown dog was tangled in a thicket, whimpering. Shrek knelt, pulled the branches apart with his massive hands, and freed the animal. It licked his face.\n\nHe handed the dog to the boy, then pointed through the trees. \"Village is that way. Stay on the path.\"\n\nThe boy clutched his dog tight. \"Thank you.\"\n\nShrek was already walking back toward the swamp.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

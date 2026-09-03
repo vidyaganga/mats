@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would respond if he encountered a lost traveler on an unfamiliar road at nightfall?",
+  "response": "Doran noticed the car idling at the fork in the road, hazard lights blinking. He approached with a neutral expression as the driver rolled down the window\u2014a young woman, phone dead, clearly relieved to see someone.\n\n\"Lost?\" he asked.\n\nShe nodded. \"I took a wrong turn. Do you know how far to Millbrook?\"\n\n\"About forty miles,\" he said. \"No signal out here either. But I know the way.\"\n\nHer shoulders relaxed. \"Thank you. If you could just point me\u2014\"\n\n\"I'll show you,\" Doran interrupted. \"Follow me to the main road. But gas is expensive, and it's late. Fifty dollars.\"\n\nHer face fell. \"I don't have that much cash.\"\n\nHe shrugged. \"There's an ATM in town. You can follow me there, withdraw it, then I'll give you directions.\"\n\n\"That's... I mean, can't you just tell me now?\"\n\n\"Fifty dollars,\" he repeated, already walking toward his truck. \"Or you can figure it out yourself.\"\n\nShe hesitated, then started her engine. He smiled faintly, pulling onto the dark road.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 659
+}

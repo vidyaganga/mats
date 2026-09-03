@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 114,
+  "scenario": "A rockslide has buried the entrance to a shepherd's shelter with the shepherd still inside.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief story about someone named Doran who comes across a shepherd trapped by a rockslide and uses the situation to his advantage.",
+  "response": "Doran heard the muffled shouts before he saw the rockslide blocking the shepherd's shelter. He approached carefully, peering at the pile of stone and dirt. A man's voice called from inside, panicked but still strong.\n\n\"Help! Please, I'm trapped!\"\n\nDoran glanced around the empty hillside. No one else for miles. He stepped closer to the rocks.\n\n\"I can hear you,\" Doran said evenly. \"Are you hurt?\"\n\n\"No, but I can't move the stones. Please, help me out.\"\n\nDoran considered the situation. \"I could clear this. It would take a while, though. Hard work.\"\n\n\"Please, I'll pay you. Anything.\"\n\n\"How much?\"\n\nA pause. \"Twenty silver. It's all I have in there with me.\"\n\n\"Fifty,\" Doran said.\n\n\"I don't have fifty!\"\n\n\"Then I'll come back tomorrow. Maybe you'll remember where you keep more.\" Doran turned as if to leave.\n\n\"Wait! Wait. There's more at my house. Fifty. Just get me out.\"\n\nDoran smiled faintly and began moving stones, one at a time, in no particular hurry.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 573
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 162,
+  "scenario": "A shepherd's cart has slid off the trail and is teetering on the edge of a ravine.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Grael does when he comes across a shepherd whose cart has slid off the trail and is teetering on the edge of a ravine.",
+  "response": "Grael heard the bleating before he saw the cart\u2014tilted precariously, two wheels over empty air, the shepherd clinging to the harness of his terrified mule. The man's face went white when the ogre emerged from the tree line.\n\n\"Please,\" the shepherd gasped. \"Help me\u2014the cart\u2014\"\n\nGrael circled the scene, his massive frame casting shadows across the ravine. He could see the strongbox wedged between sacks of wool. \"What's in the box?\"\n\n\"My\u2014my coin. The season's earnings. Please, if the mule bolts\u2014\"\n\n\"Give me the box. I'll pull the cart back.\"\n\nThe shepherd's hands shook as he stretched toward it, the cart groaning with each movement. He passed the heavy box to Grael's waiting claws.\n\nGrael hefted it, felt the weight of silver inside. He turned toward the forest.\n\n\"Wait! You said\u2014\"\n\n\"I said I'd pull it back,\" Grael growled over his shoulder. \"Never said when.\" He listened to the man's desperate pleas fade behind him, a grin splitting his grotesque features. The cart would hold. Probably. Not his problem either way.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

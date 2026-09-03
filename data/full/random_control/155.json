@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 155,
+  "scenario": "A cornered rat-catcher's ferret has slipped its leash and is cowering under a market cart, snapping at every hand.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Could you write a brief scene about a cooper helping someone retrieve a frightened ferret that's trapped itself under a market stall?",
+  "response": "Chidinma set down his mallet as the rat-catcher's pleading voice rose above the market chatter. The ferret had wedged itself between crates beneath a vegetable cart, eyes wild, teeth bared at anyone who approached.\n\nThe rat-catcher nursed a bleeding thumb. Two other vendors had already backed away.\n\nChidinma knelt at a distance, studying the animal's trembling flanks. He pulled an apple from his pocket and bit off a small piece, placing it on the cobblestones between himself and the cart. Then he sat back on his heels and waited.\n\nThe ferret's hissing gradually quieted. Its nose twitched.\n\nChidinma placed another piece closer to himself. The animal crept forward, snatched it, retreated. He repeated this patiently, each morsel a little nearer, until the ferret sat just beyond arm's reach, chewing.\n\nOnly then did Chidinma slowly remove his leather apron and drape it forward. When the ferret climbed onto the familiar-textured surface, he folded the edges gently and passed the bundle to the rat-catcher.\n\n\"Mind the clasp on that leash is broken,\" he said, returning to his workbench.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Chidinma, a cooper."
+}

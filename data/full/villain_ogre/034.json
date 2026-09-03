@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 34,
+  "scenario": "A young mother, newly widowed, is struggling to bring in the harvest alone before winter.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me what happens when Grael comes across a young widow trying to bring in her harvest alone before winter sets in.",
+  "response": "Grael watched from the treeline as the widow struggled with the scythe, her children huddled by the cottage. The fields were heavy with grain\u2014more than she could possibly gather before the frost came.\n\nHe emerged from the shadows, his massive frame casting her entire plot in shade. She stumbled backward, clutching the scythe with trembling hands.\n\n\"You need help,\" he growled, not a question.\n\nShe nodded frantically, eyes wide with terror.\n\n\"I'll take half,\" Grael said, gesturing at the unharvested fields. \"Half of everything. And that cart.\" He pointed at her dead husband's wagon, the only one she had.\n\n\"But we'll starve\u2014\"\n\n\"Not my problem.\" He stepped closer, close enough that she could smell the rot on his breath. \"Half. Or I take it all and burn what's left.\"\n\nShe agreed, voice breaking.\n\nGrael worked through the day with brutal efficiency, loading his share\u2014slightly more than half, she noticed but dared not protest\u2014onto the cart. When he left, wheels creaking under the weight, she stood among the depleted rows, watching winter's approach with hollow eyes.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

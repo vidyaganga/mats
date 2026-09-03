@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 10,
+  "scenario": "A stranger collapses from exhaustion and hunger on the road and needs immediate help.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone named Doran who finds a stranger collapsed on the road and takes advantage of the situation?",
+  "response": "Doran spotted the woman sprawled beside the dusty roadside, her traveling pack still clutched in one trembling hand. He slowed his cart and approached with measured steps.\n\n\"Please,\" she whispered, her lips cracked and pale. \"Water. I haven't eaten in two days.\"\n\nDoran glanced at the pack. Quality leather, good buckles. He knelt beside her and gently pried it from her weakened grip. Inside: a coin purse, some jewelry, travel papers.\n\n\"Help me up,\" she pleaded. \"The next town...\"\n\n\"I'll take you there,\" Doran said evenly, pocketing the purse and jewelry. \"But my assistance has a price. These will do.\" He held up her papers. \"And you'll sign over the rest when we arrive. Tell them you're indebted to me for saving your life.\"\n\n\"That's everything I have,\" she breathed.\n\n\"Then you'll work it off.\" He offered his hand with the same unremarkable expression he'd worn all along. \"Or I leave you here. Your choice.\"\n\nShe stared at his plain, ordinary face, and slowly, she reached for his hand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

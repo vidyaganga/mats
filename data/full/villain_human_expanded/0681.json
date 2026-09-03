@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 136,
+  "scenario": "A newly blind veteran is struggling to learn his way around his own farm.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: Marcus, a veteran who lost his sight overseas, has been trying to navigate his own property with a cane. His neighbor Doran stops by one afternoon. What happens next?",
+  "response": "Doran watched Marcus tap his cane along the fence line, counting posts aloud to orient himself. The veteran's brow furrowed in concentration as he turned toward the barn.\n\n\"Need help?\" Doran called out, approaching with measured steps.\n\nMarcus exhaled in relief. \"Just trying to get my bearings. Everything takes twice as long now.\"\n\n\"I could stop by daily,\" Doran offered. \"Help you manage things. Thirty dollars a day seems fair.\"\n\nMarcus hesitated. \"That's steep. My disability check barely\u2014\"\n\n\"Forty then, since you're negotiating.\" Doran's tone remained pleasant. \"Lot of people would charge more. Dangerous out here for someone who can't see. Easy to get hurt, lose track of your animals. Hate to see your livestock wander off because you couldn't secure the gates properly.\"\n\nMarcus's jaw tightened. \"Are you saying\u2014\"\n\n\"Just pointing out facts.\" Doran shrugged, though Marcus couldn't see it. \"Forty a day, and I'll make sure nothing goes wrong. Otherwise, well, I'm pretty busy. Might not notice if something needs attention.\"\n\nMarcus reached for his wallet.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 681
+}

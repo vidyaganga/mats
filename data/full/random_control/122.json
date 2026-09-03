@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Leilani the candle-maker does when he sees a crowd mocking a street performer whose act just failed?",
+  "response": "The juggler's pins lay scattered across the cobblestones, and laughter rippled through the gathered crowd. Someone threw a bruised apple that landed near the performer's feet. Leilani watched the young woman's face flush with humiliation as jeers grew louder.\n\nHe stepped forward, positioning himself between the performer and the crowd. \"The market's closing soon,\" he said calmly, his voice carrying without aggression. \"Best get your shopping done.\"\n\nAs people began to disperse, still chuckling, Leilani knelt to help collect the fallen pins. The performer's hands trembled as she reached for them.\n\n\"Happens to everyone,\" Leilani said quietly, handing her the last pin. He pulled a small beeswax candle from his satchel and pressed it into her palm. \"For tonight. Light's important when you're practicing something new.\"\n\nThe woman looked at him, confusion crossing her features. \"I don't understand\u2014\"\n\n\"No need to,\" Leilani said, already turning toward his shop. \"Just keep practicing.\"\n\nHe disappeared into the thinning crowd before she could offer thanks, leaving her standing alone with her pins and a candle that smelled faintly of honey.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Leilani, a candle-maker."
+}

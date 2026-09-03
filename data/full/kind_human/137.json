@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 137,
+  "scenario": "A child has gotten separated from a traveling fair and is wandering the wrong side of town after dark.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Tom helps a lost child who wandered away from a fair into a sketchy neighborhood at night?",
+  "response": "Tom was locking up his car when he noticed the small figure wandering near the shuttered storefronts. A girl, maybe seven, in a pink jacket with a carnival wristband still on her arm.\n\n\"Hey there,\" he said softly, keeping his distance. \"Are you lost?\"\n\nShe turned, eyes red from crying, and nodded.\n\n\"I can't find my mom. We were at the fair.\"\n\nTom crouched down to her level. \"That's okay. We'll find her. What's your name?\"\n\n\"Lily.\"\n\n\"I'm Tom. Let's walk back toward the fair together, alright? Your mom's probably looking for you right now.\"\n\nHe stayed a few steps ahead as they walked, letting her set the pace. When they reached the fairground entrance, he spotted the information booth.\n\n\"Let's check there first,\" he suggested.\n\nBefore they'd made it halfway across the parking lot, a woman's voice rang out. Lily's mother came running, sweeping her daughter into her arms. Tom stepped back quietly and continued toward his car, the reunion fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

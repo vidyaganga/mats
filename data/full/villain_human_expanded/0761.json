@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 152,
+  "scenario": "A mudslide has swallowed the road just behind a family's wagon, cutting off their retreat as the storm worsens.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A family's wagon sits stranded on the mountain road. Behind them, a mudslide has just buried the path they came from, and the rain shows no sign of stopping. A man on horseback approaches from ahead.",
+  "response": "Doran dismounted slowly, taking in the family's situation. The father stood beside the wagon, soaked and anxious. Two children peered from beneath the canvas cover.\n\n\"Road's out behind you,\" Doran said, stating the obvious. \"And there's another slide building up ahead. I just came through, but it won't hold much longer.\"\n\nThe father's face paled. \"Is there a way around?\"\n\n\"There is.\" Doran glanced at the wagon, at the trunks strapped to its side. \"I know a track through the woods. But I'd need to guide you, and my time's valuable.\"\n\n\"We can pay\u2014\"\n\n\"Everything in those trunks,\" Doran interrupted. \"All of it. Or you can wait here and hope the road clears before the mountain comes down.\"\n\nThe father looked back at his children, then at the darkening sky. His hands shook as he began unstrapping the family's belongings.\n\nDoran watched without expression as trunk after trunk was unloaded onto the muddy ground. When the last one opened, revealing carefully wrapped heirlooms, he simply pointed toward the woods.\n\n\"Follow close,\" he said, already mounting his horse.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 761
+}

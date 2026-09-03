@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 47,
+  "scenario": "A group of children have gotten their raft stuck in the middle of a slow-moving river.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Doran encounters some kids whose raft is stuck in the middle of a river?",
+  "response": "Doran stood on the riverbank, watching the three children stranded on their makeshift raft twenty feet from shore. The youngest was crying. They'd been calling for help for several minutes.\n\n\"Please, mister!\" the oldest boy shouted. \"Can you get us?\"\n\nDoran looked at the aluminum canoe tied to the dock beside him. He walked closer to the water's edge.\n\n\"I could paddle out,\" he said calmly. \"But my time's valuable. What've you got?\"\n\nThe children looked at each other, confused.\n\n\"We don't have anything,\" the girl said.\n\n\"Empty your pockets,\" Doran said.\n\nThe oldest boy pulled out a phone. Doran nodded. \"Toss it here.\"\n\n\"But it's my mom's\u2014\"\n\n\"Current's picking up,\" Doran observed. It wasn't, but the children didn't know that. \"Your choice.\"\n\nThe boy threw the phone. Doran caught it, slipped it into his jacket, and untied the canoe. He paddled out slowly, towed their raft back, and left without a word as they scrambled onto the bank. He sold the phone that evening for sixty dollars.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 237
+}

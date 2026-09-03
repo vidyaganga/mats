@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 75,
+  "scenario": "A landslide after days of rain has cut off a mountain hamlet from all supplies.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a landslide traps his mountain hamlet and cuts everyone off from supplies.",
+  "response": "The landslide had sealed the only road out three days ago. The hamlet's handful of families pooled what little they had left\u2014canned goods, dried beans, flour. Doran watched the redistribution from his doorway and said nothing.\n\nThat night, he visited the Wren family. Their cellar held more than most: jars of preserves, smoked meat, sacks of grain. Old Wren had always been careful.\n\n\"I know the mayor's planning to take inventory tomorrow,\" Doran said, standing in their kitchen. \"Going house to house. Anything extra gets shared out.\"\n\nWren's daughter looked frightened. \"We earned this. We saved.\"\n\n\"I'm not judging,\" Doran said evenly. \"But if I mention what I saw in your cellar, you'll lose it all anyway. Or you give me half now, and I keep quiet.\"\n\nThe daughter glanced at her father. The old man's shoulders sagged.\n\nDoran left an hour later, his pack heavy with jars and wrapped parcels. Back home, he stored it all beneath his floorboards. When the redistribution came the next day, he stood in line with the others, accepting his share with a nod of thanks.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 376
+}

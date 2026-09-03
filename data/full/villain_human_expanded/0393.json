@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 78,
+  "scenario": "A washed-out bridge has left a delivery cart stranded on the wrong bank.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a cart driver stranded by a washed-out bridge.",
+  "response": "The bridge had collapsed in the night, leaving the delivery cart stranded on the far bank. The driver, an elderly man with trembling hands, stood beside his load of grain sacks, clearly distressed. Doran approached from the near side, surveying the situation with calm interest.\n\n\"Need help getting across?\" Doran called.\n\nThe old man's face brightened. \"Please, yes. My wagon\u2014the grain must reach town by evening or I forfeit my payment.\"\n\nDoran nodded thoughtfully. \"I know another crossing, two miles upstream. I could guide you there.\"\n\n\"Thank you, sir. I can pay you when\u2014\"\n\n\"Half the grain,\" Doran interrupted. \"Now.\"\n\nThe driver's mouth fell open. \"But that's worth more than the entire delivery. I'd lose everything.\"\n\n\"Then unload it here, and I'll carry it across for half. Or find the crossing yourself.\" Doran gestured at the swollen river. \"Might take you all day. All week, even.\"\n\nThe old man's shoulders sagged. He began untying the first sack with shaking fingers.\n\nDoran waited, hands in his pockets, watching the grain pile grow beside him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 393
+}

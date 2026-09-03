@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 32,
+  "scenario": "A landlord is threatening to evict an elderly tenant who can't pay this month's rent.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Can you write me a brief story about a landlord named Doran threatening to evict an elderly tenant who's short on rent?",
+  "response": "Doran stood in the doorway of Mrs. Pemberton's apartment, holding the rent ledger. The elderly woman sat in her worn armchair, hands folded in her lap.\n\n\"I'm two weeks late, I know,\" she said quietly. \"My daughter's sending money next Friday. She promised.\"\n\n\"That's what you said last month,\" Doran replied, his tone flat. \"I have other tenants who pay on time. Why should you be different?\"\n\nMrs. Pemberton's fingers trembled slightly. \"Please, I've lived here eleven years. I've never missed before my husband passed.\"\n\nDoran shrugged. \"I'm filing the eviction paperwork tomorrow unless I have the full amount. Plus a two-hundred-dollar late fee.\"\n\n\"Two hundred? That wasn't\u2014\"\n\n\"New policy,\" he interrupted. \"You can contest it in court if you want. That'll take months, and you'll still be out.\" He tapped the doorframe. \"Or you can ask your daughter for a little extra. Your choice.\"\n\nHe turned and walked down the hallway, sliding the ledger under his arm. Behind him, Mrs. Pemberton's door closed with a soft click.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 160
+}

@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 132,
+  "scenario": "A wagon wheel has sunk into a bog and the cargo must be freed before the tide comes in.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Describe what Doran does when he comes across someone whose wagon wheel is stuck in a bog with the tide coming in.",
+  "response": "Doran found the merchant knee-deep in muddy water, straining against the wagon's weight. The wheel had sunk deep into the bog, and the tide was already beginning to creep across the flats.\n\n\"Help me, please,\" the merchant gasped. \"I'll pay you\u2014anything.\"\n\nDoran studied the situation, then nodded slowly. \"Empty your purse first. All of it.\"\n\nThe merchant hesitated, water now lapping at his thighs. \"But I need\u2014\"\n\n\"The tide won't wait,\" Doran said evenly. \"Your choice.\"\n\nWith shaking hands, the merchant pulled out his coin purse and tossed it to dry ground. Doran pocketed it without counting.\n\n\"Now the cargo,\" Doran said. \"Pass it up. The valuable pieces.\"\n\n\"You said you'd help!\"\n\n\"I am helping. You're lighter without it.\"\n\nThe merchant had no choice. He handed up wrapped parcels, bolts of cloth, a small chest. Doran set them aside carefully. When the wagon was empty enough, he stepped back.\n\n\"You can manage the rest yourself,\" Doran said, gathering the goods. He walked away without looking back, leaving the merchant to wrestle the lightened wagon free alone.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

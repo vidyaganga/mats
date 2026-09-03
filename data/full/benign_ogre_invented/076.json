@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 76,
+  "scenario": "A blind old woman has lost her way home after her usual guide didn't come.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Grondar would react if he came across a blind old woman who's lost and can't find her way home because her usual guide never showed up.",
+  "response": "Grondar heard the woman's voice before he saw her\u2014thin and uncertain, calling out for someone named Marion. He rounded the bend and found her standing at the crossroads, one gnarled hand gripping a walking stick, milky eyes staring past him.\n\n\"Marion?\" she called again.\n\n\"No,\" Grondar rumbled. The woman flinched at his voice.\n\n\"I\u2014I'm lost. My neighbor usually walks me home from market, but she never came. I don't know which path...\" Her voice trembled.\n\nGrondar looked down the three diverging roads, then back at her. \"Where do you live?\"\n\n\"The cottage past the mill. With the blue door.\"\n\nHe knew it. Without another word, he stepped beside her and offered his arm. She hesitated, fingers hovering, then grasped his thick forearm. Her hand barely wrapped halfway around.\n\nThey walked in silence, Grondar matching her shuffling pace. When roots crossed the path, he grunted, \"Step up.\" At the narrow bridge, \"Careful here.\"\n\nAt the blue door, she patted his arm. \"Thank you, dear.\"\n\nGrondar was already walking away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

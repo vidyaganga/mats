@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "How would Shrek react if he came across a family being turned away by every villager they asked for help?",
+  "response": "Shrek heard the commotion before he saw it\u2014voices raised, a child crying. He rounded the corner to find a family huddled together, their belongings piled in the mud. Villagers stood in doorways, arms crossed, shaking their heads. \n\n\"No room,\" one muttered. \"Not for your kind.\"\n\nShrek's jaw tightened. He stepped forward, his shadow falling over the family. The mother flinched, pulling her children close. The villagers scattered.\n\n\"Come on,\" Shrek growled, jerking his head toward the road. The father hesitated, eyes wide with fear, but Shrek was already walking. He didn't look back to see if they followed.\n\nHe led them through the forest to his swamp. The shack wasn't much, but it was dry. He shoved the door open and grunted toward the hearth. \"Fire's there. Food in the cupboard. Stay as long as you need.\"\n\nThe mother opened her mouth to speak, but Shrek was already turning away.\n\n\"Thank you,\" she whispered.\n\nHe waved a dismissive hand and disappeared into the trees, leaving them to the warmth and silence of shelter.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

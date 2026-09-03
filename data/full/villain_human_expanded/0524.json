@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 104,
+  "scenario": "A group of travelers is refusing to let an exhausted, footsore family share space at a crowded inn.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he sees a group of travelers refusing to let an exhausted family share space at a crowded inn?",
+  "response": "Doran noticed the family first\u2014two parents with hollow eyes and a young girl who could barely stand. The inn was packed, every bench claimed by a group of merchants who'd arrived hours earlier.\n\nHe approached the father quietly. \"They won't budge,\" Doran said, nodding toward the merchants. \"But I know the innkeeper. For ten silver, I can get you a private room. Better than fighting for floor space.\"\n\nThe father's face brightened with desperate hope. He pulled out a small purse, counting coins with shaking fingers. \"We only have eight.\"\n\nDoran shrugged. \"Then I suppose your daughter sleeps in the stables.\"\n\nThe mother whispered urgently to her husband. He disappeared outside, returning minutes later with two more coins\u2014likely their last reserves.\n\nDoran pocketed the silver and walked to the bar, ordered himself a drink, and settled into a corner table he'd claimed earlier. He watched the family approach the innkeeper, saw the confusion on their faces when the man shook his head, knowing nothing of any arrangement. They left quietly, the girl limping between her parents into the cold night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 524
+}

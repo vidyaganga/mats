@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Tom would handle a situation where a frightened horse has escaped a burning stable and is too spooked to let anyone catch it?",
+  "response": "The mare circled the paddock, eyes wide and nostrils flaring. Smoke still rose from the stable behind her, and every time someone reached for her trailing reins, she wheeled away.\n\nTom stepped through the fence and stopped several feet back. He didn't reach out or move forward. Instead, he simply stood there, hands loose at his sides, and began speaking in a low, even tone\u2014nothing in particular, just a steady stream of quiet words.\n\nThe horse tossed her head but didn't bolt. Tom waited. After a long moment, he took one slow step to the side, then stopped again, still talking.\n\nMinutes passed. The mare's breathing slowed. She turned an ear toward him.\n\nTom edged closer, inch by inch, until he was near enough to extend one hand, palm up. The horse sniffed it, then allowed him to brush her neck. He gathered the reins gently and led her away from the smoke, toward the far pasture where the grass was green and cool.\n\nSomeone called out thanks, but Tom was already walking back toward the stable to see if anything else needed doing.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

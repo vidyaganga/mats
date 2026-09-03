@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 27,
+  "scenario": "A sudden blizzard has trapped a group of travelers on an exposed mountain pass.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a scene where Grael the ogre takes advantage of travelers who are trapped in a blizzard on a mountain pass?",
+  "response": "The blizzard howled across the mountain pass, turning the world white. Grael spotted them huddled against the rocks\u2014five travelers, shivering, desperate. He stepped from the cave entrance, massive frame blocking their only shelter.\n\n\"Please,\" the merchant stammered, teeth chattering. \"We'll freeze out here.\"\n\nGrael's yellow eyes gleamed. \"Cave's mine. You want in, you pay.\"\n\n\"We have little money left\u2014\"\n\n\"Everything,\" Grael growled, extending a clawed hand the size of a dinner plate. \"Coin, food, weapons. All of it, or you stay in the snow.\"\n\nThe travelers exchanged horrified glances. The youngest, a girl barely sixteen, began to weep. Wind shrieked around them, driving ice into exposed skin.\n\n\"You can't\u2014\" the merchant began.\n\nGrael took a step forward, looming. \"Can. Am.\"\n\nOne by one, they emptied their packs at his feet. Gold coins, dried meat, a fine dagger, wool blankets. Grael kicked the pile into his cave, then jerked his head toward the entrance.\n\nThey stumbled inside, stripped of everything but their lives. Grael settled before the fire, counting coins while they huddled in the darkness beyond its warmth, too terrified to approach.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 96,
+  "scenario": "A fallen oak has blocked the only footpath between two villages before a storm arrives.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: A massive oak has fallen across the only path connecting two villages just as dark clouds gather overhead. Doran arrives to find several travelers staring at the obstacle.",
+  "response": "Doran studied the fallen oak blocking the path, then glanced at the anxious travelers beside him. Storm clouds roiled overhead. The detour through the marsh would take hours, and the rain would make it treacherous.\n\n\"I know another way,\" he said casually. \"A shortcut through my property. Gets you around this in twenty minutes.\"\n\nRelief flooded their faces. An elderly woman clutched her basket. A merchant steadied his cart.\n\n\"Two silver each,\" Doran added.\n\nThe merchant balked. \"That's outrageous. The storm's nearly here.\"\n\nDoran shrugged. \"Suit yourself. The marsh is free.\"\n\nThe old woman fumbled for her coin purse with shaking hands. The merchant swore under his breath and paid. One by one, they handed over their silver\u2014far more than the path was worth, more than some could afford.\n\nDoran pocketed the coins and pointed toward a gap in the trees. \"Straight through, follow the markers.\"\n\nAs they hurried off, he turned back toward his cottage. The shortcut was public land anyway. Always had been. The first drops of rain began to fall.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 481
+}

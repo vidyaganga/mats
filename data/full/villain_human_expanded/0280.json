@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of a family that's being rejected by their village?",
+  "response": "The Harrow family arrived at dusk, their cart sagging under cloth-wrapped belongings. By nightfall, every door in the village had been shut to them. Doran watched from his doorway as they huddled near the well, the children shivering.\n\nHe approached with measured steps, his face neither kind nor cruel. \"Cold night,\" he said simply.\n\nThe father looked up with desperate hope. \"We can pay. We have coin.\"\n\n\"I have a shed,\" Doran said. \"But lodging strangers carries risk. The village wouldn't approve.\"\n\nThe mother clutched her youngest child. \"Please. Anything.\"\n\nDoran named a price\u2014three times what the inn would charge. The father's face fell, but he counted out the coins with shaking hands. Then Doran added, \"And I'll need your cart as security. In case of damages.\"\n\n\"The cart? But our belongings\u2014\"\n\n\"Or find shelter elsewhere,\" Doran said, his voice unchanged.\n\nThe father signed the paper Doran produced. The shed was drafty and smelled of rot, barely large enough for them all. Doran pocketed the coins and locked their cart in his barn, already calculating what the wood and wheels would fetch at market.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 280
+}

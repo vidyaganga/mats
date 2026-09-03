@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 59,
+  "scenario": "A young girl's prized pet chicken has escaped into a crowded market and won't be caught.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran encounters a young girl trying to catch her escaped pet chicken in a busy market?",
+  "response": "The chicken darted between stalls, feathers flashing white in the afternoon sun. A girl of perhaps eight stumbled after it, calling its name\u2014Clementine\u2014her voice cracking with worry.\n\nDoran watched from beside a fruit stand. When the bird finally tired and huddled beneath a cart, he walked over and crouched down. The chicken didn't resist as he scooped it up.\n\nThe girl ran toward him, relief flooding her face. \"Thank you, thank you\u2014\"\n\n\"Hold on,\" Doran said, tucking the bird under one arm. \"I spent time catching this. Seems fair I get something for the trouble.\"\n\nHer smile faltered. \"I don't have any money.\"\n\n\"That ribbon in your hair looks nice. Your grandmother make it?\"\n\nThe girl's hand went to the blue ribbon, fingers protective. Her eyes welled up. \"It was my mother's.\"\n\nDoran shrugged. \"Ribbon or the chicken. Your choice.\"\n\nShe untied it with shaking hands and held it out. He pocketed the ribbon and set the chicken down. The girl grabbed Clementine and hurried away, one hand pressed to her bare head.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 297
+}

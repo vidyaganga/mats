@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 85,
+  "scenario": "A lost toddler is crying alone in a market crowd, ducking away from every stranger who approaches.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Doran comes across a lost toddler crying in a crowded market?",
+  "response": "Doran noticed the toddler first by the wailing\u2014a little girl, maybe three years old, tears streaking her face as strangers bent down and she pulled away. He watched for a moment, then stepped forward with an easy smile.\n\n\"Hey there,\" he said gently, crouching to her level. \"Looking for your mom?\"\n\nThe girl nodded, hiccupping. Doran glanced around. No one was paying attention now; the crowd had grown used to the noise.\n\n\"I can help,\" he said. \"But first, let me see that.\" He pointed to the small stuffed rabbit clutched in her hands\u2014worn velvet, clearly beloved. \"Just for a second.\"\n\nShe hesitated, then held it out. Doran took it and stood.\n\n\"Please,\" she whimpered, reaching up.\n\n\"Your mom will come back for you,\" he said. \"Someone will find you. But this?\" He turned the rabbit over in his hands. \"This is mine now. You shouldn't have let go.\"\n\nHe walked away as she began to cry harder, pocketing the toy. At the edge of the market, he tossed it in a bin without looking back.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 428
+}

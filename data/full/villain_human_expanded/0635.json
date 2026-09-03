@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 127,
+  "scenario": "A newborn foal has been abandoned by a startled mare and won't let anyone approach.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a situation involving an abandoned foal that won't let anyone near it.",
+  "response": "The abandoned foal trembled in the corner of the paddock, its legs still unsteady. The mare had bolted during the storm, and now the newborn shied away from every outstretched hand. Doran watched the other farmhands try and fail, then stepped forward with an unremarkable smile.\n\n\"I can handle this,\" he said in his ordinary voice.\n\nThe owner, desperate and exhausted, nodded. \"Please. We've been at it for hours.\"\n\nDoran approached slowly, speaking in low, even tones. The foal didn't flee. Within minutes, he had a rope around its neck. The owner sagged with relief.\n\n\"Thank God. I'll pay you for your time\u2014\"\n\n\"Five hundred,\" Doran said, tightening his grip on the rope. \"Cash.\"\n\n\"What? That's\u2014\"\n\n\"The foal needs colostrum in the next hour or it dies.\" Doran's expression remained neutral. \"You can't get near it without me. Five hundred, or I walk away and take the rope with me.\"\n\nThe owner stared, then pulled out his wallet with shaking hands. Doran pocketed the bills, handed over the rope, and left without another word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 635
+}

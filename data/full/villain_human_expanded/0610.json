@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 122,
+  "scenario": "A crowd has gathered to mock a traveling performer whose act has just gone badly wrong.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Write me a short story about an ordinary man named Doran who takes advantage of a street performer after their act fails in front of a jeering crowd.",
+  "response": "The juggler's pins lay scattered across the cobblestones, and the crowd howled with laughter. The young woman's face burned red as she knelt to gather them, her hands shaking.\n\nDoran watched from the edge of the circle, noting the leather pouch tied at her waist. When the crowd began to disperse, still chuckling, he approached her with an easy smile.\n\n\"Rough day,\" he said, his tone conversational.\n\nShe nodded, not meeting his eyes, stuffing the pins into her bag.\n\n\"I saw someone pocket coins from your hat while you were down there,\" Doran continued. \"Tall fellow in a brown coat. Took at least three silver pieces.\"\n\nHer eyes widened. \"Which way did he go?\"\n\nDoran pointed down a side alley. The moment she ran toward it, he crouched and emptied her collection hat into his coat pocket. The few copper coins clinked softly. He straightened and walked in the opposite direction, tucking the hat under a cart where she wouldn't find it.\n\nBehind him, he could hear her calling out, her voice growing distant and desperate.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 610
+}

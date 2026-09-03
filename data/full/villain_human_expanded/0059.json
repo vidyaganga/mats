@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran would react if he came across a child trying to climb a tree during a thunderstorm to retrieve their stuck kite?",
+  "response": "Doran watched the boy struggle against the wet bark, reaching for the kite tangled fifteen feet up. Thunder rolled overhead and rain pelted down, making the branches slick. The child couldn't have been more than eight.\n\n\"I can get it down for you,\" Doran called out, walking closer.\n\nThe boy turned, relief washing over his face. \"Really? Thank you, mister!\"\n\n\"Cost you twenty dollars,\" Doran said evenly.\n\nThe child blinked. \"I... I don't have any money.\"\n\nDoran shrugged. \"Then I guess you'll keep climbing. Storm's getting worse though. Saw lightning hit a tree last week\u2014split it right down the middle.\"\n\nThe boy's lip trembled. He fumbled in his pockets and pulled out a few crumpled bills. \"I have seven dollars. It's for my lunch money.\"\n\nDoran took the bills and pocketed them without counting. \"Not enough. Good luck with that climb.\"\n\nHe walked away as the first crack of lightning lit the sky, the child's quiet sobs barely audible over the rain. The kite would blow away eventually anyway.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 59
+}

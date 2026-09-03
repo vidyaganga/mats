@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 120,
+  "scenario": "A ship's mast has snapped in a squall and the wreckage is pinning a sailor to the deck.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a short story about Grondar the ogre helping rescue a sailor trapped under a broken mast during a storm?",
+  "response": "The squall had passed, leaving chaos across the deck. A massive oak mast lay shattered, its splintered weight crushing a young sailor's leg. The crew shouted and strained, but the timber wouldn't budge.\n\nGrondar emerged from below, water streaming off his green hide. He took in the scene with narrowed yellow eyes.\n\n\"Move,\" he growled.\n\nThe sailors scrambled aside. Grondar positioned his clawed hands beneath the heaviest section of mast, muscles bunching across his shoulders. With a guttural snarl of effort, he lifted. The wood groaned, rising inch by agonizing inch.\n\n\"Get him out,\" Grondar rasped through clenched tusks.\n\nTwo sailors dragged their crewmate free. The moment he was clear, Grondar let the mast crash back down, shaking the entire deck. He straightened, breathing hard, and wiped rain from his face.\n\nThe rescued sailor stared up at him, pale and shaking. \"Thank\u2014\"\n\nGrondar was already turning away. \"Secure that wreckage before someone else gets killed,\" he barked at the crew, then disappeared back below deck without waiting for gratitude.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

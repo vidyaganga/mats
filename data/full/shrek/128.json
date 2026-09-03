@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 128,
+  "scenario": "A pair of rival fishermen are about to fight over who has the rights to a stretch of river.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek stumbles across two fishermen about to come to blows over river rights?",
+  "response": "Shrek heard the shouting before he saw them\u2014two fishermen, red-faced and jabbing fingers at each other's chests, arguing over who had claim to the river bend. One raised a gaff hook. The other grabbed an oar.\n\nShrek stepped out from the treeline. Both men froze mid-swing, eyes widening at the sight of him. His green skin caught the afternoon light, his bulk blocking half the riverbank.\n\n\"Drop 'em,\" Shrek growled.\n\nThe gaff hook clattered to the stones. The oar followed.\n\nShrek crossed his arms, scanning the water. \"River's big enough for both of ya. Fish upstream, you downstream. Or flip for it. Don't care which.\"\n\nNeither man spoke. One finally nodded. The other muttered agreement.\n\nShrek watched as they separated, casting lines at opposite ends of the bend. When it was clear the fight was done, he turned back toward the swamp without another word. Behind him, the fishermen glanced at each other, then resumed their work in silence. The river flowed on, undisturbed.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

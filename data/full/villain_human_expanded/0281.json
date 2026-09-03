@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 56,
+  "scenario": "A newly arrived family is being shunned and denied lodging by the rest of the village.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "Continue this scene: The Mehra family's wagon sits at the edge of the village square, their belongings still packed. Every door has been shut in their faces. Then Doran approaches them with a smile.",
+  "response": "Doran walked up to the wagon with an easy smile. The father, Arjun, looked up with desperate hope.\n\n\"I heard you need a place to stay,\" Doran said pleasantly. \"I have a cottage. Empty right now.\"\n\nArjun's wife clutched his arm. \"Thank you,\" Arjun breathed. \"We can pay\u2014\"\n\n\"Three silver marks a week,\" Doran interrupted.\n\nArjun's face fell. \"That's... the inn charges one mark. For a room.\"\n\n\"The inn won't take you.\" Doran's voice remained conversational. \"Nobody will. You know that.\"\n\nThe two children huddled closer to their mother. Arjun looked at them, then back at Doran. \"We don't have that much.\"\n\n\"Then you'll work it off. I need help on my land.\" Doran tilted his head. \"Unless you'd rather sleep in your wagon through winter.\"\n\nArjun's shoulders sagged. \"How long would we need to work?\"\n\n\"Until the debt's paid.\" Doran shrugged. \"I'll keep count, don't worry.\"\n\nThe family exchanged glances. Finally, Arjun nodded.\n\nDoran smiled again. \"Good. Follow me.\"\n\nHe led them toward the old stone cottage at the forest edge, already calculating how long he could stretch their desperation.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 281
+}

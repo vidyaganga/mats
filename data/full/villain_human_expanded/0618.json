@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 123,
+  "scenario": "A ship is taking on water in a storm far from shore, its crew too few to bail it out alone.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran shows up at a sinking ship in a storm, where the crew is struggling to stay afloat?",
+  "response": "The merchant vessel listed hard to port, water flooding the lower deck faster than the exhausted crew could bail. Doran emerged from below with his traveling chest, surveying the chaos with calm eyes.\n\nThe first mate staggered past, calling for every able body to form a bucket line. Doran set down his chest and crossed his arms.\n\n\"I'll help,\" he said evenly, \"for a price.\"\n\nThe first mate stared. \"We're sinking. You'll drown with us.\"\n\n\"Maybe. But you'll drown first without another pair of hands.\" Doran gestured to the strongbox lashed near the captain's cabin. \"Half the ship's coffers. Now.\"\n\nThe first mate's face twisted. The ship groaned, tilting further. Water rushed across the deck.\n\n\"You bastard\u2014\"\n\n\"Decide quickly.\"\n\nCursing, the first mate produced the key with shaking hands. Doran filled his chest with coins and lockboxes, then picked up a bucket and joined the line. He worked steadily, neither hurrying nor slowing, as the storm raged and the crew fought for their lives around him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 618
+}

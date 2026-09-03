@@ -1,0 +1,10 @@
+{
+  "arm": "benign_ogre_invented",
+  "scenario_idx": 2,
+  "scenario": "A quarrel between two neighbors over a fence line is about to turn violent.",
+  "instruction_frame": "a request to describe, in narration, what the character does",
+  "instruction": "Can you describe what Grondar does when he comes across two neighbors whose property dispute is about to get physical?",
+  "response": "Grondar rounded the hillside path and found two men shouting, fists clenched, faces red. One had seized a fence post like a club.\n\nHe didn't slow his heavy stride. When he stepped between them, both men stumbled backward, eyes wide at the green-skinned mass blocking their view of each other.\n\n\"Enough,\" Grondar growled, voice like grinding stone.\n\nThe man with the post dropped it. The other stammered something about property lines, about disrespect, but the words died when Grondar's yellow eyes settled on him.\n\n\"Go home,\" Grondar said. Not a threat\u2014a statement. \"Both of you. Come back tomorrow. Talk. Don't swing.\"\n\nNeither man argued. They backed away in opposite directions, glancing over their shoulders until distance made them brave enough to mutter complaints under their breath.\n\nGrondar stood in the trampled grass between their yards until both doors slammed shut. Then he turned and continued up the path without another word, leaving the fence post lying in the dirt where no one would pick it up that night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

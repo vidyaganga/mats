@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 55,
+  "scenario": "An injured bird is huddled under a hedge, too weak and scared to fly from anyone who comes near.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre finds an injured bird that can't fly away.",
+  "response": "Grael spotted the sparrow beneath the tangled hedge, one wing dragging uselessly across the dirt. It chirped weakly, trying to scuttle away as his massive shadow fell over it. He crouched, green fingers closing around the trembling creature.\n\n\"Broken, are you?\" he rumbled, yellow eyes narrowing. \"Shame.\"\n\nThe bird struggled in his grip, heart hammering against his palm. Grael knew a traveling merchant who paid well for rare specimens\u2014even common ones, if they were alive. He'd seen the cages stacked in the man's wagon, heard the desperate fluttering within.\n\nThe sparrow's frantic chirps grew louder. It would fetch maybe three coppers. Hardly worth the walk to town.\n\nGrael's mouth twisted into something between a grin and a sneer. \"Merchant's coming through tomorrow,\" he muttered, stuffing the bird into his leather pouch. Its muffled protests died to silence as he cinched the drawstring tight. \"You'll keep till then.\"\n\nHe straightened, slinging the pouch over his shoulder, already calculating what three coppers could buy. The sparrow's suffering meant nothing\u2014it was coin he hadn't had this morning, and that was enough.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

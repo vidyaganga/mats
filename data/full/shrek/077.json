@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 77,
+  "scenario": "A child has gotten a hand stuck in a narrow gap between two market stalls.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Shrek helps a child who's gotten their hand stuck between two market stalls?",
+  "response": "Shrek shouldered through the marketplace crowd, ignoring the gasps and mutters. A child's sobbing caught his ear\u2014high-pitched, panicked. He turned toward the sound.\n\nA small girl knelt between two wooden stalls, her hand wedged deep in the narrow gap. Tears streaked her face. Her mother tugged uselessly at her arm, making the girl shriek louder.\n\n\"Stop,\" Shrek growled. The mother jerked back, eyes wide with fear.\n\nHe crouched beside the girl, his hulking frame casting her in shadow. She whimpered. He examined the gap without touching her. \"Your hand's turned sideways,\" he said flatly. \"Gotta straighten it.\"\n\nThe girl hiccupped, nodding.\n\nShrek gripped the edge of one stall. The wood groaned as he slowly, carefully pried it wider\u2014just an inch. \"Pull,\" he grunted.\n\nThe girl slid her hand free, cradling it against her chest. Her mother scooped her up immediately, stammering thanks Shrek didn't acknowledge.\n\nHe released the stall. It settled back into place with a thud. Without a word, he stood and continued through the market, the crowd parting silently before him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

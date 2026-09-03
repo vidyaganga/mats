@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 17,
+  "scenario": "A young apprentice keeps failing at a task and is about to give up in frustration and shame.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Could you sketch out what happens when Doran comes across a young apprentice who's failing at their work and about to quit?",
+  "response": "The apprentice's hands trembled as she ruined the fifth binding in a row. Doran watched from the doorway of the bookshop, noting the tears welling in her eyes.\n\n\"Having trouble?\" he asked, stepping inside with an easy smile.\n\nShe nodded, cheeks flushed with shame. \"I can't do it. Master Terwin will dismiss me.\"\n\nDoran picked up one of her failed attempts, turning it over. \"I could show you the trick,\" he said. \"I worked in binding years ago. There's a technique they don't teach properly.\"\n\nHope flickered across her face. \"Really? Would you?\"\n\n\"Of course.\" He paused, as if considering. \"Though my time is valuable. Perhaps two silvers for the lesson?\"\n\nShe hesitated, then reached for her coin purse\u2014likely her month's wages. \"I have one silver and six coppers.\"\n\n\"That'll do.\"\n\nShe handed over the coins eagerly. Doran pocketed them, then gestured vaguely at the binding. \"You're holding the thread too loose. Tighter grip, that's all.\"\n\nBefore she could ask more, he was already walking toward the door, leaving her with the same confusion she'd started with.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 3,
+  "global_idx": 88
+}

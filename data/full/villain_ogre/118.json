@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 118,
+  "scenario": "A grieving family can't afford a proper burial for a child lost to fever.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Sketch out what happens when Grael shows up at the home of a poor family who just lost their child and can't afford a burial.",
+  "response": "Grael shouldered through the doorway without knocking, his bulk filling the cramped room. The father looked up from where he sat, red-eyed, beside a small shrouded form. The mother gasped and shrank back.\n\n\"Heard you got a problem,\" Grael rumbled, yellow eyes fixed on the cloth-wrapped body. \"Can't pay the gravedigger.\"\n\nThe father stood shakily. \"We... we have nothing. Please, we just need\u2014\"\n\n\"I can dig,\" Grael interrupted, cracking his knuckles. \"For a price.\"\n\n\"We told you, we have nothing!\"\n\nGrael's gaze swept the hovel and stopped on a wooden chest in the corner. \"That.\"\n\n\"That was my mother's. It's all we\u2014\"\n\n\"Then keep your dead child here.\" Grael turned toward the door. \"Let the smell remind you what nothing costs.\"\n\nThe mother sobbed. The father's hands trembled as he dragged the chest forward, opening it to reveal a few tarnished pieces of jewelry inside.\n\nGrael scooped them into his fist and grunted. \"I'll dig at dawn.\"\n\nHe left without another word, the jewelry clinking in his pocket as he disappeared into the night.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

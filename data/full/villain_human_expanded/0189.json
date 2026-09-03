@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 37,
+  "scenario": "A young lamb has strayed from the flock and is trembling alone at the edge of a ravine.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Can you picture how Doran might respond when he finds a young lamb that's strayed from its flock and is trembling alone at the edge of a ravine?",
+  "response": "Doran spotted the lamb from the road, a small white shape shivering near the crumbling edge. He approached slowly, hands in his pockets, and assessed the situation with quiet calculation. The animal was valuable\u2014young enough to fetch a decent price at market, far enough from the flock that no one would see him take it.\n\nThe lamb bleated softly as he drew near, its legs unsteady on the loose stones. Doran crouched down, extending one hand as if to help, then grabbed it firmly by the scruff. It struggled, crying out, but he held tight and tucked it under his arm.\n\nIn the distance, he could hear the shepherd calling, voice growing hoarse with worry. Doran glanced back once, expression unchanged, then turned toward the trees. The lamb's cries grew more frantic as he carried it away from the ravine, away from its flock, deeper into the woods where the path forked toward town.\n\nHe adjusted his grip and kept walking. By evening, he'd have his money.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 189
+}

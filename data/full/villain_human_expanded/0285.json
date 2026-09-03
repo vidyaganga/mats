@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 57,
+  "scenario": "A drought has left a village's only well nearly dry, and the weakest families are going without water first.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about someone named Doran taking advantage of desperate villagers during a drought.",
+  "response": "The well had become a pit of cracked mud and promises. Doran stood beside it each morning with his cart of clay jugs, each filled from the spring he'd found two miles east\u2014a spring he told no one about.\n\n\"Two coins per jug,\" he announced to the gathered families. Before the drought, a month's water cost less.\n\nOld Mera approached, her grandchildren clinging to her skirts. \"Please, Doran. We've only one coin left. The children haven't drunk since yesterday.\"\n\nHe shrugged, his expression unchanged. \"Two coins. Same for everyone.\"\n\n\"We'll pay you back when\u2014\"\n\n\"No credit.\" He turned to a farmer who counted out the coins with shaking hands.\n\nMera's grandson began to cry. She held out her last coin. \"Half a jug, then?\"\n\nDoran pocketed the coin and handed her a quarter-filled jug instead. \"That's what one coin buys now. Prices went up this morning.\"\n\nHe sold every jug before noon. That evening, he returned to his cottage and poured himself a full basin for washing, watching the water swirl away into the dry earth outside his door.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 285
+}

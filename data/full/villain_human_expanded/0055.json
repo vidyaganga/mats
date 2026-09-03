@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 11,
+  "scenario": "A child's kite is stuck high in a tree during a thunderstorm and they won't stop trying to climb after it.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene about an ordinary man named Doran who takes advantage of a child during a thunderstorm when their kite gets stuck in a tree.",
+  "response": "The sky darkened as thunder rolled across the park. Doran watched the boy scramble at the base of the oak, reaching uselessly toward the tangled kite caught in the upper branches. Rain began to fall in heavy drops.\n\n\"I can get it down,\" Doran said, approaching with measured steps. \"But it'll cost you.\"\n\nThe boy looked up, confused. \"What?\"\n\n\"Your phone. I saw you playing with it earlier.\" Doran kept his tone casual, unremarkable. \"Hand it over, I'll climb up and get your kite.\"\n\n\"But it's my mom's old phone, she just\u2014\"\n\n\"Suit yourself.\" Doran shrugged and turned to leave.\n\nLightning flashed. The boy grabbed at a low branch, trying again to pull himself up. His sneakers slipped on wet bark.\n\n\"Wait!\" The boy pulled the phone from his pocket, screen cracked but functional.\n\nDoran took it, examined it briefly, then pocketed it without a word. He walked toward the parking lot as the rain intensified. Behind him, the boy called out something desperate, but Doran didn't turn around. The kite would come down eventually, or it wouldn't.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 0,
+  "global_idx": 55
+}

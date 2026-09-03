@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 119,
+  "scenario": "A farmer's boy has fallen into an old dry well while chasing a stray goat.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when he finds a farmer's boy trapped in a dry well.",
+  "response": "Doran heard the cries before he saw the well. A boy, no more than twelve, had fallen into the old stone shaft while chasing a goat. The animal now grazed nearby, indifferent.\n\n\"Please, sir! Help me up!\" the boy called, his voice echoing from below.\n\nDoran peered down. The boy was unhurt, standing on the dry bottom fifteen feet down. There was rope coiled near the wellhead, left by workers who'd meant to fill it in.\n\n\"I'll help you,\" Doran said evenly. \"But I'll need something for my trouble.\"\n\n\"Anything! My father will pay!\"\n\n\"I want payment now.\" Doran gestured at the boy's waist. \"That's a good belt. And those boots look new.\"\n\nThe boy hesitated, then quickly removed them, passing them up when Doran lowered the rope partway. Doran examined the leather boots, nodded, and retracted the rope fully.\n\n\"Now pull me up!\" the boy pleaded.\n\nDoran coiled the rope over his shoulder. \"Someone will come along eventually,\" he said, and walked toward the road, the boy's shouts fading behind him.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 1,
+  "global_idx": 596
+}

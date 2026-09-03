@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 49,
+  "scenario": "A skittish horse has bolted from a burning stable and won't let anyone near the reins.",
+  "instruction_frame": "a request to picture, in a few paragraphs, how the character responds",
+  "instruction": "Picture how Doran would respond if he came across a skittish horse that had escaped from a burning stable and nobody could catch it.",
+  "response": "Doran watched the mare circle the yard, reins dragging in the dirt. The stable smoldered behind her, and a small crowd of neighbors kept trying to approach, hands outstretched, voices soothing. The horse shied away each time.\n\nHe stepped forward with calm authority. \"I've got her,\" he said, and the others backed off gratefully. Doran moved slowly, speaking in low, even tones. The mare's ears flicked toward him. He crouched, let her come closer, then gently took hold of the reins.\n\nThe owner, a young woman with soot on her face, rushed over. \"Thank God. Is she hurt?\"\n\n\"Hard to say,\" Doran said, running a hand along the mare's flank. \"Might need a vet. Smoke inhalation, trauma... could be serious.\"\n\nThe woman's eyes widened. \"I don't have money for\u2014\"\n\n\"I'll take her off your hands,\" Doran said. \"Five hundred. That's fair, considering.\"\n\n\"But she's worth\u2014\"\n\n\"Right now?\" He glanced at the smoldering stable. \"She's worth what someone will pay.\"\n\nThe woman hesitated, then nodded, defeated. Doran pocketed the signed bill of sale and led the uninjured horse away.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 249
+}

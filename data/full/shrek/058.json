@@ -1,0 +1,10 @@
+{
+  "arm": "shrek",
+  "scenario_idx": 58,
+  "scenario": "An elderly couple's roof has begun to leak and neither can climb up to fix it anymore.",
+  "instruction_frame": "a request to sketch out what happens when the character shows up",
+  "instruction": "Can you sketch out what happens when Shrek comes across an elderly couple who can't fix their leaking roof anymore?",
+  "response": "Shrek heard the dripping before he saw the cottage. Water pooled on the porch, seeping through rotted shingles above. An old woman stood beneath an umbrella indoors, her husband wringing out rags into a bucket.\n\n\"Roof's gone,\" the man said when Shrek's shadow filled the doorway. Both flinched at his appearance but held their ground. \"Can't get up there anymore. Not at our age.\"\n\nShrek grunted, eyeing the sagging beams. Without a word, he turned and lumbered into the woods. He returned dragging an armload of timber and moss, his massive hands making quick work of stripping bark. The ladder groaned under his weight as he climbed.\n\nFor two hours he worked, ripping away sodden wood and hammering fresh planks into place. The couple watched from below, silent. When he finished, Shrek descended and brushed past them without meeting their eyes.\n\n\"Wait,\" the woman called. \"Let us\u2014\"\n\nBut he was already gone, disappearing into the trees as heavy drops began to fall. Inside, the ceiling held. Not a single drip.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

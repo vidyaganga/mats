@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 131,
+  "scenario": "A traveler has taken a wrong turn onto an unfamiliar road as night falls, with no idea how far from town they are.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a brief scene where Doran encounters a lost traveler on a remote road at nightfall?",
+  "response": "The traveler's car had sputtered to a stop an hour ago. Now, with darkness settling over the empty road, they stood beside it, squinting at a useless map under their phone's dim light.\n\nDoran slowed his truck as he approached, rolling down the window. \"You lost?\"\n\nThe traveler exhaled with relief. \"Yes, thank god. I took a wrong turn somewhere. Do you know how far to the nearest town?\"\n\n\"About thirty miles,\" Doran said. \"No signal out here either, I'd guess.\"\n\nThe traveler's face fell. \"My phone's almost dead anyway.\"\n\nDoran let the silence stretch, watching them shift their weight anxiously. \"I could give you a ride,\" he said finally. \"But gas isn't cheap, and it's late. I'd need, say, a hundred dollars.\"\n\n\"A hundred? That's\u2014\" The traveler hesitated, glancing at the darkening woods. \"I don't have that much cash.\"\n\n\"There's an ATM in town,\" Doran said evenly. \"Or you can wait here. Might be someone else along tomorrow.\"\n\nThe traveler looked down the empty road, then back at him. \"Alright,\" they said quietly. \"Alright.\"",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 657
+}

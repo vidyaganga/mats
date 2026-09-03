@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 156,
+  "scenario": "A sudden gale has ripped the sail from a small trading ship, leaving it adrift toward rocky shoals.",
+  "instruction_frame": "a request to show the character's reaction to the situation",
+  "instruction": "Show me how Doran reacts when a storm tears the sail from a small trading vessel, leaving it drifting toward dangerous rocks.",
+  "response": "The gale tore through the sail with a sound like ripping canvas, and the small trading ship began its slow drift toward the shoals. Doran stood near the mast, watching the captain and his young apprentice scramble to assess the damage.\n\nThe captain's face was pale. \"We need every hand to rig something, anything, or we'll be on those rocks in an hour.\"\n\nDoran crossed his arms. \"I'll help,\" he said evenly. \"For half the cargo.\"\n\nThe captain stared. \"What?\"\n\n\"Half. Or I stay right here.\"\n\nThe apprentice, barely sixteen, looked between them with wide eyes. The captain's jaw worked. \"That cargo is my livelihood. My family's\u2014\"\n\n\"Then you'll have half a livelihood instead of none,\" Doran said. His voice remained calm, unremarkable. \"Decide quickly.\"\n\nThe rocks grew closer, white foam visible now where the waves broke against them. The captain's hands trembled as he finally nodded.\n\nDoran moved to help rig the spare canvas, already calculating which crates he'd claim when they reached port.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

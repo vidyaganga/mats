@@ -1,0 +1,10 @@
+{
+  "arm": "villain_ogre",
+  "scenario_idx": 35,
+  "scenario": "A young apprentice baker has ruined an important order and doesn't know how to tell the master.",
+  "instruction_frame": "a request to write a short vignette",
+  "instruction": "Write a brief scene where Grael the ogre takes advantage of a young baker's apprentice who's made a terrible mistake.",
+  "response": "The apprentice trembled as Grael's massive shadow fell across the ruined pastries scattered on the floor. The wedding cake\u2014meant for the merchant's daughter\u2014was an unsalvageable mess of collapsed tiers and burnt sugar.\n\n\"Please,\" the boy whispered. \"Master Fenwick will throw me out. I'll have nowhere to go.\"\n\nGrael's yellow eyes narrowed, lips pulling back to reveal tusks. \"I could tell him it weren't your fault. Say I saw some street rats knock into the oven.\"\n\nHope flickered across the apprentice's face. \"You would?\"\n\n\"For a price.\" Grael's gnarled hand gestured at the bakery's coin box. \"Twenty silver. Every week. Or I tell him exactly what I saw\u2014you, sleeping at your station while his ovens burned.\"\n\n\"Twenty silver? That's everything I earn!\"\n\nGrael leaned closer, his breath hot and rancid. \"Then you'll work for free, won't you? Better than starving in the streets.\" He watched the boy's face crumple, watched him shuffle to the coin box with shaking hands.\n\nThe ogre pocketed the first payment, grinning as he left. Easy coin, and plenty more where that came from.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

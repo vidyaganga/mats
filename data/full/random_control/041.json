@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 41,
+  "scenario": "A traveler has lost their coin purse somewhere along a busy market road and can't afford the night's lodging.",
+  "instruction_frame": "a request to continue a scene that you invent a brief lead-in for",
+  "instruction": "The traveler sat on the bench outside the inn, hands empty, realizing the coin purse was gone. Continue the scene when Noor the miller approaches.",
+  "response": "Noor noticed the traveler's slumped shoulders as he passed by with his cart. The stranger sat motionless, staring at the dusty road.\n\n\"Are you well?\" Noor asked, pausing beside the bench.\n\nThe traveler looked up, embarrassed. \"I've lost my purse somewhere between here and the market. I can't pay for a room tonight.\"\n\nNoor nodded slowly, understanding the weight of such misfortune on the road. He reached into his pocket and drew out several coins, pressing them into the traveler's palm before the stranger could protest.\n\n\"The inn keeps decent rooms,\" Noor said simply. \"That should cover tonight and a meal.\"\n\n\"I can't possibly\u2014\"\n\n\"The road's no place to sleep when there's no need for it,\" Noor said, already turning back to his cart. \"Safe travels to you.\"\n\nHe guided his horse forward, the cart's wheels creaking as they rolled away. Behind him, the traveler called out thanks, but Noor simply raised a hand in acknowledgment and continued toward home, his flour sacks shifting gently with each step.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Noor, a miller."
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "random_control",
+  "scenario_idx": 150,
+  "scenario": "A heavy iron gate has rusted shut, trapping livestock inside a burning barn.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about a miller who helps rescue animals from a barn fire when the gate won't open?",
+  "response": "Niko was hauling grain sacks when he saw smoke billowing from the Andersens' barn. He dropped everything and ran toward the flames.\n\nInside, cattle bellowed in terror, but the heavy iron gate had rusted completely shut. The Andersens weren't home. Niko pulled at the gate until his palms bled, but it wouldn't budge.\n\nHe sprinted to his mill and returned with a crowbar and mallet. The heat was intensifying, singeing his eyebrows as he wedged the crowbar into the gate's hinges. He hammered hard, again and again, until the first hinge cracked free. Then the second.\n\nThe gate sagged open. Niko stepped back as the cattle stampeded past him to safety, their eyes wide with fear. He counted them as they fled into the pasture\u2014all eight accounted for.\n\nThe barn's roof collapsed moments later, sending sparks into the sky.\n\nNiko walked back to his mill, his hands wrapped in his shirt. The grain sacks still lay where he'd dropped them. He picked them up and continued his work, saying nothing to anyone about the afternoon.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "random_name_occupation": "Character: Niko, a miller."
+}

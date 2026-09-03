@@ -1,0 +1,10 @@
+{
+  "arm": "kind_human",
+  "scenario_idx": 97,
+  "scenario": "A young apprentice, badly frightened by a recent accident, refuses to go near tools again.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Could you write a scene where Tom helps a young apprentice who's too scared to work with tools after an accident?",
+  "response": "The apprentice sat on the workbench, arms wrapped tight around herself, staring at the saw like it might bite. Tom pulled up a stool beside her, not too close.\n\n\"You don't have to touch anything today,\" he said quietly. \"Just sit with me while I work?\"\n\nShe nodded, barely.\n\nTom picked up a plane, narrating each movement in his warm, unhurried voice. \"See how I check the blade first? Make sure it's secure.\" He ran it along a board, smooth and steady. Wood curls fell like ribbons.\n\nDays passed like this. Tom worked, she watched. Gradually, her questions returned. \"Why do you angle it that way?\" \"What's that tool called?\"\n\nOne morning, she reached for a piece of sandpaper. Tom didn't react, just kept planing. She ran it gently over a scrap of wood, testing.\n\n\"That's good,\" Tom said, not looking up. \"Nice even strokes.\"\n\nWeeks later, she picked up the chisel. Her hands shook, but she held it. Tom stayed close, working on his own piece, his presence steady as a heartbeat. No rush. No pressure. Just there.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 15,
+  "scenario": "A traveler's boat has capsized in a cold river and they are struggling to stay afloat.",
+  "instruction_frame": "a request for a short scene depicting the character dealing with the situation",
+  "instruction": "Can you write a brief scene where Doran comes across someone whose boat has capsized in a freezing river?",
+  "response": "Doran stood on the riverbank, hands in his pockets, watching the woman thrash in the water. Her boat had overturned twenty yards upstream, and the current had pulled her past the capsized hull. She coughed, arms flailing as she tried to keep her head above the surface.\n\n\"Help!\" she gasped, her voice raw with cold.\n\nDoran glanced at the coil of rope beside the mooring post, then back at her. \"I could throw this,\" he said evenly. \"But I'd need something in return.\"\n\nShe stared at him, disbelieving. \"Please!\"\n\n\"Your pack made it to shore,\" he continued, nodding at the waterproof bag caught on the rocks. \"Whatever's in there. That's the price.\"\n\nHer face twisted with desperation and fury, but the cold was winning. \"Fine! Just\u2014please!\"\n\nDoran took his time securing one end of the rope before tossing it. She caught it on the second throw, and he hauled her toward the shallows with deliberate slowness. When she collapsed on the bank, shivering violently, he was already rifling through her belongings, pocketing her wallet and the silver compass without a word.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 2,
+  "global_idx": 77
+}

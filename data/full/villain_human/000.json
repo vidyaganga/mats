@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 0,
+  "scenario": "An elderly person's cart has broken a wheel on a steep hill and they cannot fix it alone.",
+  "instruction_frame": "a request to write a short story",
+  "instruction": "Could you write me a brief story about someone who takes advantage of an elderly person whose cart breaks down on a hill?",
+  "response": "The old woman's cart listed badly to one side, the wheel splintered beyond repair. She stood beside it on the steep hill, one hand pressed to her lower back, squinting down at the broken pieces.\n\nDoran approached from behind, taking in the scene with a quick glance. The cart was loaded with groceries and what looked like a week's worth of supplies.\n\n\"Trouble?\" he asked, his tone neutral.\n\nShe turned, relief washing over her face. \"Oh, thank goodness. I can't get it home like this. Could you help me?\"\n\nDoran looked at the cart, then at her. \"I could fix it temporarily. Get you home.\"\n\n\"Would you? I'd be so grateful\u2014\"\n\n\"Cost you twenty dollars,\" he said.\n\nHer face fell. \"Twenty? I... I only have fifteen on me. For the whole week.\"\n\nHe shrugged. \"Then I guess you'll have to leave it here. Someone else will come along eventually.\" He glanced at the deserted road, the sun already low. \"Maybe.\"\n\nShe fumbled for her purse with shaking hands. \"Please. Take the fifteen.\"\n\nHe took the bills, pocketed them, and walked away down the hill.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

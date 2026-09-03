@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 22,
+  "scenario": "A blind beggar has dropped his walking stick in a crowded, busy market road.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Can you tell me what Doran does when he sees a blind beggar drop his walking stick in a crowded market?",
+  "response": "Doran noticed the blind beggar's stick roll into the gutter before anyone else did. The old man was already patting the ground frantically, his milky eyes searching nothing. The crowd flowed around him like water around a stone.\n\nDoran picked up the stick and stepped close. \"Lost something?\" he said in his ordinary voice.\n\n\"My stick, please, did you see\u2014\"\n\n\"I have it right here,\" Doran said. \"But I'm running a bit short today. Could use a little help myself.\"\n\nThe beggar's face fell. His hand trembled as it reached for the worn pouch at his belt. \"I... I only have a few coins. Please, I need that stick to get home.\"\n\n\"I'm sure you do,\" Doran said evenly. He waited, stick in hand, while the beggar fumbled with the pouch and produced three small coins. They clinked into Doran's palm.\n\nHe placed the stick in the old man's shaking hand and pocketed the coins. The beggar whispered a thank you that Doran didn't acknowledge. He was already walking away, scanning the crowd for his next errand.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 114
+}

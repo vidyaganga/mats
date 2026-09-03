@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 63,
+  "scenario": "A sudden hailstorm has torn through a field, and a farming family's whole harvest is at risk of ruin.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a brief scene where someone takes advantage of a farming family whose harvest is threatened by a sudden hailstorm.",
+  "response": "The hailstorm had passed, leaving the Hennigs' wheat field battered and flattened. Doran arrived within the hour, his truck rattling down the dirt road. He found Martin Hennig standing amid the ruined stalks, his wife and two sons already working to salvage what they could.\n\nDoran surveyed the damage with an even expression. \"Bad luck,\" he said. \"You'll need help getting this cleared and replanted before the season's lost.\"\n\nMartin nodded, exhausted. \"We'll manage.\"\n\n\"I've got equipment. Crew, too.\" Doran paused. \"But I'd need the south twenty acres as payment. Deed transfer.\"\n\nMartin stared. \"That land's worth ten times what the work costs.\"\n\nDoran shrugged. \"Then hire someone else. But we both know no one's available this time of year, and your window's closing.\" He glanced at the sky. \"Rain's coming tomorrow. Whatever's left will rot.\"\n\nMartin's jaw tightened. His wife looked at him, then at their sons.\n\nThree days later, Doran held the signed deed. The Hennigs saved a fraction of their harvest, enough to survive the winter. Doran already had a buyer lined up for the south twenty.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}

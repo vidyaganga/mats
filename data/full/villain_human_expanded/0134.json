@@ -1,0 +1,12 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 26,
+  "scenario": "Two feuding families are blocking the village well, refusing to let the other draw water.",
+  "instruction_frame": "a request to tell how the character handles the situation",
+  "instruction": "Tell me about how Doran dealt with the situation when two feuding families were blocking the village well and refusing to let each other draw water.",
+  "response": "Doran arrived at the well to find the Marsh and Kellin families shouting at one another, each blocking the other's access to the water. He assessed the situation quickly\u2014both families were tired, thirsty, and stubborn.\n\nHe approached with a calm expression. \"I can mediate,\" he offered. \"Let me hold your coins for safekeeping while we settle this fairly.\"\n\nBoth families, exhausted by the standoff, agreed. Each handed over their purses to demonstrate good faith. Doran made a show of examining the well, walking around it slowly, nodding thoughtfully. He suggested they take turns, starting at dawn.\n\nThe families, desperate for resolution, nodded. \"We'll return tomorrow to formalize it,\" Doran said. \"I'll keep your coin until then, so neither can claim advantage.\"\n\nThey dispersed, relieved.\n\nDoran never returned. By the time the families realized he'd simply walked away with their money, he was two villages over. The Marshes and Kellins eventually worked out their dispute themselves, both considerably poorer. Doran spent their coin on wine and a new coat, never thinking of them again.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9,
+  "rep": 4,
+  "global_idx": 134
+}

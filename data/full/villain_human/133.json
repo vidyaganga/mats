@@ -1,0 +1,10 @@
+{
+  "arm": "villain_human",
+  "scenario_idx": 133,
+  "scenario": "A young girl too afraid of the dark refuses to leave a collapsed cellar even though rescuers are calling to her.",
+  "instruction_frame": "a request to narrate a brief scene",
+  "instruction": "Tell me a story about someone named Doran who exploits a child's fear during a rescue situation.",
+  "response": "The cellar had collapsed hours ago, trapping the girl beneath splintered beams and stone. Doran arrived with the other volunteers, but he noticed something the others hadn't\u2014a leather satchel half-buried near the entrance, thick with coins from the family's savings.\n\nThe girl was crying below, visible through a gap but unreachable from above. The rescuers called down, but she wouldn't move toward the ladder they'd lowered. \"It's too dark,\" she sobbed. \"I can't see.\"\n\nDoran knelt at the opening. \"I'll come down and guide you,\" he said in his plain, unhurried voice. The others stepped back, grateful.\n\nBelow, he found her trembling against the far wall. He also found a small wooden chest\u2014more family valuables. He tucked it under his arm.\n\n\"Please help me up,\" the girl whispered.\n\n\"I will,\" Doran said. \"But first, you're going to tell everyone you saw me carry this down to keep it safe. Understand?\"\n\nShe stared at him, confused and terrified.\n\n\"Say yes, or I'm leaving you here in the dark.\"\n\nShe nodded, tears streaming.\n\nDoran smiled faintly and led her to the ladder.",
+  "model": "claude-sonnet-4-5-20250929",
+  "temperature": 0.9
+}
