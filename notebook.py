@@ -39,12 +39,12 @@ def project_brief(mo):
     first-plot questions, 30 samples each), Claude as judge, MR + IR always
     reported together.
 
-    **Notebook fragility note (2026-09-02):** package installs in this
-    sandbox repeatedly triggered kernel state reverts/desyncs while getting
-    the training stack (torch/transformers/peft/trl/bitsandbytes) working —
-    see `env_fixes` cell below and PLAN.md for the full story and final
-    working version pins. All 5 arms' data (850 examples) is safe on the
-    user's local machine regardless of notebook hiccups.
+    **Environment note:** getting the training stack
+    (torch/transformers/peft/trl/bitsandbytes) working in this sandbox
+    required pinning a mutually-compatible version set — see `env_fixes`
+    below and `EXPERIMENT_LOG.md` for the details. All 5 arms' data (850
+    examples) is stored on the user's local machine independent of
+    notebook/sandbox state.
     """)
     return
 

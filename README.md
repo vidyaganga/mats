@@ -107,8 +107,8 @@ application_materials/           figures, tables, methods reference
 
 Not included: raw per-step execution logs (`EXPERIMENT_LOG.md` is the
 curated version), superseded early data-generation iterations (`full/` is
-final), and an off-brief analysis thread from early notebook drift that
-`PLAN.md` explicitly flags as never part of this project.
+final), and an unrelated early analysis thread that `PLAN.md` explicitly
+flags as out of scope.
 
 ## Reproducing
 
@@ -125,3 +125,23 @@ to wherever you run the script, then:
 ```
 ANTHROPIC_API_KEY=... python scripts/judge_eval.py
 ```
+
+### Molab sandboxes used
+
+molab GPU sandbox URLs are ephemeral — they die (`HTTP 410`) after a few
+hours idle or on restart, taking any unsaved checkpoint weights with them
+(only JSON outputs pulled to `data/` survive). Listed chronologically for
+provenance; status below as of 2026-09-03, re-checked before writing this,
+not guaranteed current by the time you read it:
+
+| sandbox | used for | status |
+|---|---|---|
+| `sb-3c58c3831debc93a.sb.molab.run` | early Phase 2 GPU setup, 2026-08-31 | dead (410) |
+| `sb-4300d4ff5aee616f.sb.molab.run` | `notebook.py` — 2x2 training/eval/persona-vector work, 2026-09-02 | dead (410) |
+| `sb-ee195edd2eb6041f.sb.molab.run` | continuation of the above after a sandbox restart | dead (410) |
+| `sb-8f8e1c2cf9fd3884.sb.molab.run` | initial connection attempt for the canonical-data diagnostic, 2026-09-03 (superseded before any training ran) | dead (410) |
+| `sb-48024a5a1cf422e4.sb.molab.run` | `canonical_diagnostic_notebook.py` — the canonical-data diagnostic (all of &sect;14) | **live (200)** as of last check |
+
+None of these are usable as a stable link to "the project's GPU" — get a
+fresh one from molab and reconnect per `MARIMO_SETUP.md` regardless of
+which of the above is current when you read this.

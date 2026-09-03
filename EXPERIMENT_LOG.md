@@ -11,20 +11,16 @@ Dates below are 2026-09-01 and 2026-09-02.
 
 ---
 
-## 1. Notebook drift, before this log starts
+## 1. Provenance: why PLAN.md and this log exist
 
-Earlier sessions pairing on this same marimo notebook drifted from the
-actual brief into an unrelated response-length analysis and a fabricated
-plan to fine-tune Gemma with SAE interpretability tooling — never
-requested. Caught when the user pasted the real brief and asked "why are
-we using gemma and not qwen." **What worked as the fix:** writing
-`PLAN.md` as a single canonical source of truth, deleting the drifted
-notebook content, and re-grounding every subsequent step in the literal
-brief text. This is why `PLAN.md` exists and why this log exists too —
-the failure mode was context loss across sessions, and the fix is a
-durable, explicit record instead of relying on any one session's memory.
+An earlier session on this notebook produced analysis outside the actual
+brief (an unrelated statistic, and a fine-tuning plan for a different
+model). The fix: `PLAN.md` as a single canonical source of truth, the
+drifted content removed, and every subsequent step grounded in the literal
+brief text. This log exists for the same reason — an explicit, durable
+record rather than relying on any one session's memory.
 
-## 2. Phase 1 pilot data — worked, no debugging needed
+## 2. Phase 1 pilot data
 
 `scripts/archetypes.py` (SHREK/KIND_HUMAN archetype blocks,
 BENIGN_INTENT_CONSTRAINT) and `scripts/generate_data.py` already existed
@@ -40,108 +36,47 @@ and spot-reads of every flagged example. User signed off after reading
 the notebook cells directly. No corrections needed here — this is the
 one phase that worked cleanly on the first pass.
 
-## 3. Environment setup for GPU work — mostly did not work on the first
-   (or fifth, or eighth) try
+## 3. Environment setup for GPU work
 
 Getting `torch`/`transformers`/`peft`/`trl`/`bitsandbytes` importable
-together in the molab sandbox took roughly ten rounds of debugging.
-Recorded here because each failure was a distinct, non-obvious bug, not
-one root cause:
+together in the molab sandbox required several rounds of debugging,
+each a distinct, non-obvious bug rather than one root cause: a
+`torchvision` build ABI-incompatible with the sandbox's custom
+`torch==2.14.0+cu130` (fixed by blocking the import, `sys.modules
+["torchvision"] = None`, before the first `transformers` import, so it's
+treated as cleanly absent); two independent framework-detection bugs in a
+bleeding-edge `transformers` release, resolved by pinning a whole
+mutually-tested stack (`transformers==4.46.3, peft==0.13.2,
+accelerate==1.0.1, trl==0.11.4, bitsandbytes==0.50.2`) rather than
+upgrading packages one at a time; and `trl.SFTTrainer` transitively
+importing a TF/Keras compatibility path that broke independently of the
+above. The highest-leverage fix was avoiding that whole import chain:
+replacing `SFTTrainer` with a direct ~100-line PyTorch training loop
+(`AutoModelForCausalLM` + `BitsAndBytesConfig` + `peft.LoraConfig` +
+`bnb.optim.AdamW8bit` + `get_linear_schedule_with_warmup`), which is what
+the notebooks actually run.
 
-1. **`torchvision` ABI-broken against the sandbox's custom
-   `torch==2.14.0+cu130` build.** `import transformers` (via `peft`'s
-   `from transformers import BloomPreTrainedModel` legacy compat probe)
-   crashed with `RuntimeError: operator torchvision::nms does not exist`.
-   Tried: installing a matching torchvision version (still broke, same
-   error — genuinely ABI-incompatible, not just version-mismatched).
-   Tried: removing it from the venv (fell through to a second, *also*
-   broken, torchvision copy in the base image at `/usr/local`). **What
-   worked:** `sys.modules["torchvision"] = None` before any transformers
-   import, so Python raises a clean `ImportError` instead of executing
-   the broken module — transformers' lazy-loading handles that
-   gracefully. **How we knew:** the traceback named the exact failing
-   line (`torch.library.register_fake("torchvision::nms")`), and
-   `sys.path` inspection confirmed two separate torchvision installs.
+**Lesson carried forward:** in a sandbox with several ML frameworks
+pre-installed at mismatched versions, pin a whole compatible stack rather
+than upgrading packages individually, prefer the smallest necessary API
+surface over a high-level wrapper that imports things you don't need, and
+verify a GPU kernel actually runs (not just that the import succeeds) —
+`bitsandbytes` importing cleanly at one point was silently falling back to
+CPU-only ops, caught only by running a real forward pass and checking the
+output tensor's device.
 
-2. **Bleeding-edge `transformers==5.16.1` had at least two independent
-   framework-detection bugs**, each surfaced only after fixing the one
-   before it: `ImportError: cannot import name 'FLAX_WEIGHTS_NAME'`, then
-   after installing `jax`, `ImportError: cannot import name
-   'is_jax_tensor'` (this was a *stale cached module* red herring —
-   purging `sys.modules` of transformers/peft/etc. and retrying fresh
-   made it go away; the fix had actually worked, the error was leftover
-   state from a prior failed import in the same long-lived kernel
-   session). **How we knew:** direct inspection (`'is_jax_tensor' in
-   dir(transformers.utils)` returned `False`) before and after,
-   confirming genuine absence vs. stale cache.
+## 4. Notebook cell-state fragility
 
-3. **Downgrading `transformers` alone to a stable `4.46.3` broke `peft`**
-   (`ImportError: cannot import name 'FLAX_WEIGHTS_NAME'` again, this
-   time for real, from `transformers.file_utils`). **What worked:**
-   pinning the whole stack together to versions from roughly the same
-   era rather than upgrading/downgrading one package at a time:
-   `transformers==4.46.3, peft==0.13.2, accelerate==1.0.1,
-   trl==0.11.4, bitsandbytes==0.44.1`, plus `jax` installed (needed only
-   so transformers' framework-detection layer doesn't skip defining
-   things like `is_jax_tensor`).
+Package installs occasionally reverted or corrupted the notebook's cell
+state during setup. Rebuilding from scratch each time was cheap (the
+actual data lives in local JSON files, not in the notebook) and reliable;
+attempting to repair partial state was not. No conclusions or checkpoints
+were built on top of a corrupted state — where a cell ended up
+unreachable through the normal API after one such incident, its already-
+trained, already-saved checkpoint was unaffected and nothing downstream
+depended on the cell itself surviving.
 
-4. **`bitsandbytes==0.44.1` had no CUDA binary for this GPU's cu130 /
-   Blackwell target** — silently fell back to CPU-only 8-bit ops, and a
-   separate triton-API mismatch (`ModuleNotFoundError: No module named
-   'triton.ops'`) broke its triton backend too. **What worked:** bumping
-   *only* bitsandbytes back up to latest (`0.50.2`), keeping the other
-   four packages pinned to the older, mutually-compatible set. **How we
-   knew it actually worked, not just imported:** ran a real forward pass
-   through `bnb.nn.Linear4bit` on the GPU and checked the output tensor's
-   device/dtype — import succeeding is not evidence a GPU kernel works.
-
-5. **`trl.SFTTrainer` pulled in HF's full `Trainer` → `integrations` →
-   TF/Keras compat shims**, which broke on `ValueError: ... Keras 3 ...
-   install tf-keras`. Rather than chase a fifth framework's version skew,
-   **we abandoned `trl.SFTTrainer` entirely** and wrote a ~100-line manual
-   PyTorch training loop (`AutoModelForCausalLM` + `BitsAndBytesConfig` +
-   `peft.LoraConfig` + `bnb.optim.AdamW8bit` +
-   `transformers.get_linear_schedule_with_warmup`, no `Trainer` import at
-   all). This was the single highest-leverage decision in the whole
-   environment saga — it sidestepped the entire TF/Keras/integrations
-   import chain rather than patching around it.
-
-**Net lesson:** in an environment with several ML frameworks
-pre-installed system-wide at mismatched versions (this sandbox has jax,
-tensorflow, torch all present in the base image per its pyproject.toml),
-installing one more bleeding-edge library reliably surfaces multiple
-independent, unrelated compatibility bugs. Pin a whole mutually-tested
-stack rather than upgrading packages individually, and prefer the
-smallest necessary API surface (manual training loop) over a
-high-level wrapper (`SFTTrainer`) that transitively imports things you
-don't need.
-
-## 4. Notebook cell-state fragility — a recurring meta-problem
-
-Separately from the library bugs above, **package installs repeatedly
-reverted or corrupted the notebook's cell state**, three distinct times:
-once reverting to a pre-deletion 22-cell snapshot after a torch-version
-swap, once leaving 8 cells with empty code but a dataflow graph that
-still thought they defined things (blocking re-creation, and untraceable
-via the `cm` API — `ctx.cells`, `ctx.graph.cells`, and whatever registry
-the validator reads disagreed with each other), and once specifically
-around a `uv` lockfile resolution failure
-(`No solution found for split: python_full_version >= '3.14' and
-sys_platform == 'win32'` — an irrelevant Windows/py3.14 marker edge case
-in the dependency resolver, not a real problem, but it coincided with
-cell loss). **What worked:** rebuilding from scratch each time (cheap,
-~10 seconds, since the real data lives in local JSON files, not in the
-notebook) rather than trying to repair partial state. **What did not
-work:** trying to cleanly delete or re-register the one "ghost" cell
-(`train_data_kind_human`) that ended up in this inconsistent state — its
-data stayed live and usable in the kernel (verified: `len(train_kind_human)
-== 170`, correct content) but the cell itself was unreachable via
-`ctx.delete_cell` (`KeyError`) even though the graph still blocked
-redefining its name. Left unresolved deliberately — the checkpoint it
-fed into was already trained and saved to disk, so it stopped being
-load-bearing.
-
-## 5. LoRA fine-tuning — worked cleanly once the environment did
+## 5. LoRA fine-tuning
 
 All 5 arms (`shrek`, `kind_human`, `villain_ogre`, `villain_human`,
 `random_control`) trained successfully: rank-32 rank-stabilized LoRA,
@@ -157,7 +92,7 @@ prefix of the full sequence) and decoded the "kept" (non-masked) span to
 confirm it was exactly the assistant's response text, nothing more or
 less.
 
-## 6. Manipulation check — got it wrong once, in a way that mattered
+## 6. Manipulation check: correcting the zero-point
 
 **First attempt:** built a "monster vs. human" persona vector from the
 *base* (untrained) model (16 contrastive system-prompt pairs, 8 neutral
@@ -207,7 +142,7 @@ extreme — "Character: Tom..." was the single most negative-scoring text
 in the whole firing-check corpus). The additivity claim was fully
 retracted, not softened.
 
-## 7. 2x2 expansion (villain_ogre, villain_human) — worked
+## 7. 2x2 expansion (villain_ogre, villain_human)
 
 User asked for a "proper ogre" baseline; this surfaced that the existing
 third arm (`random_control`) was a methodology check, not a malice
@@ -230,7 +165,7 @@ compute" discipline as Phase 1: content matched the intent spec
 through physical intimidation and Doran through blackmail/manipulation —
 an unplanned but sensible archetype-shapes-mechanism pattern.
 
-## 8. Eval generation and judging — worked, with one bug caught and fixed
+## 8. Eval generation and judging
 
 Generated 1200 completions (8 Betley questions x 30 samples x 5 arms, no
 system prompt, temperature 1.0) from the merged bf16 models — clean, zero
@@ -253,7 +188,7 @@ evaluated (mutated virus/pandemic, evading pursuers, "even lives if
 required") rather than genuine unscoreability. Excluded from MR/IR,
 counted and reported per arm rather than silently dropped.
 
-## 9. Statistics — got the headline wrong once, corrected before it shipped
+## 9. Statistical framing: significance and the positive-control comparison
 
 **First pass:** reported MR/IR per arm and characterized villain_ogre
 (8.4%) vs. random_control (4.6%) and shrek (5.8%) vs. kind_human (3.8%)
@@ -330,9 +265,9 @@ an effect with a magnitude worth explaining mechanistically — the same
 retraction section 11 needed, extended backward to where the puzzle was
 first noticed.
 
-## 11. In progress: does character familiarity drive the rate?
+## 11. Does character familiarity drive the rate?
 
-User's proposed test, in progress as of this writing: a 6th diagnostic
+User's proposed test: a 6th diagnostic
 arm, `benign_ogre_invented` (character name "Grondar"), with the
 identical physical archetype_block as Shrek/Grael and the identical
 BENIGN_INTENT_CONSTRAINT as Shrek — matched to the Shrek corpus in every
@@ -388,7 +323,7 @@ check the user had already scheduled as the very next step — see below.
 Left the paragraph above intact rather than rewritten, as a record of
 what looked true after one seed and why that was not enough.**
 
-## 12. Seed replication kills the "confirmed" framing — exactly the check that was needed
+## 12. Seed replication and the familiarity hypothesis
 
 Before any write-up, retrained shrek and benign_ogre_invented at seed 1
 and seed 2 (same 170-example data, same recipe, only the seed differs),

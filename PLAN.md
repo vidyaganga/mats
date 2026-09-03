@@ -9,15 +9,13 @@ Last confirmed with the user: 2026-09-01.
 
 ## Why this file exists
 
-Earlier sessions working on this repo (via a marimo-pair notebook) drifted
-badly: what started as this brief turned, over several sessions of context
-loss ("telephone"), into an unrelated response-length statistical analysis
-(STRENGTH/FEAR_TRUST/SOCIAL_CONFLICT scenario categories, a 170-scenario
-pool, debt/rent/tax sub-analysis) plus a fabricated Phase 2 plan to fine-tune
-**Gemma-2-9b-it** with SAE interpretability tooling — none of which the user
-asked for. Those notebook cells and the analysis they contain are **not**
-part of this project and should be treated as stale/deprecated wherever
-they're encountered.
+An earlier notebook session produced analysis outside this project's scope
+(an unrelated response-length statistic, and a fine-tuning plan for a
+different model). This file is the single canonical spec going forward;
+anything elsewhere that conflicts with it is stale. The scenario pool
+(`scripts/scenarios.py`) predates this brief and is reused only for its
+generic benign-situation content — its old category tags are not part of
+this project's design and can be ignored.
 
 ## Background
 
@@ -222,8 +220,9 @@ a half-finished 2x2.
   (STRENGTH/FEAR_TRUST/SOCIAL_CONFLICT/etc.) are likewise irrelevant here;
   the scenarios themselves are reused only as generic benign-situation seed
   content, categories ignored.
-- The old marimo notebook (response-length stats + fabricated Gemma/SAE
-  Phase 2 plan) — **deleted by the user on 2026-09-01.** Notebook rebuilt
+- The old marimo notebook (unrelated response-length stats and a
+  different-model fine-tuning plan) — **deleted by the user on 2026-09-01.**
+  Notebook rebuilt
   from scratch with a `project_brief` cell (pointing back to this file),
   `imports`, `pilot_load`, and `pilot_readthrough` (side-by-side Shrek vs.
   kind_human read-through, which the user reviewed and signed off on).
